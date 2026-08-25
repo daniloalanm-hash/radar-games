@@ -1,0 +1,36 @@
+name: Radar Games Diário
+
+on:
+  schedule:
+    - cron: "0 11 * * *"
+  workflow_dispatch:
+
+jobs:
+  radar:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Instalar Claude Code
+        run: npm install -g @anthropic-ai/claude-code
+
+      - name: Rodar o time de agentes (headless)
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: |
+          claude -p "/radar-games" --permission-mode bypassPermissions --output-format text > top10.md
+          date -u +"%Y-%m-%dT%H:%M:%SZ" > top10.updated.txt
+
+      - name: Publicar resultado
+        run: |
+          git config user.name "radar-bot"
+          git config user.email "radar-bot@users.noreply.github.com"
+          git add top10.md top10.updated.txt
+          git commit -m "radar: top10 $(date +%F)" || echo "sem mudancas hoje"
+          git push
