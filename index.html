@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+  <html lang="pt-BR">
+  <head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Radar de Games &amp; Esports — Top 10 do dia</title>
+  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+  <style>
+  :root { color-scheme: dark; }
+body { margin: 0; background: #0b0d10; color: #e8eaed; font-family: system-ui, -apple-system, Segoe UI, Roboto, sans-serif; line-height: 1.6; }
+.wrap { max-width: 780px; margin: 0 auto; padding: 40px 20px 80px; }
+header { border-bottom: 1px solid #1e2329; padding-bottom: 16px; margin-bottom: 28px; }
+h1 { font-size: 1.6rem; margin: 0 0 4px; }
+.sub { color: #8a929c; font-size: .9rem; }
+#content h1 { display: none; }
+#content strong { color: #fff; }
+#content a { color: #6ea8fe; word-break: break-word; }
+#content p { margin: 0 0 18px; padding-bottom: 18px; border-bottom: 1px solid #14181d; }
+footer { color: #5a626c; font-size: .8rem; margin-top: 40px; }
+</style>
+  </head>
+  <body>
+  <div class="wrap">
+  <header>
+  <h1>Radar de Games &amp; Esports</h1>
+  <div class="sub" id="stamp">Top 10 do dia</div>
+  </header>
+  <div id="content">Carregando...</div>
+  <footer>Gerado por um time de agentes no Claude Code, atualizado automaticamente.</footer>
+  </div>
+
+  <script>
+  async function load() {
+  try {
+const md = await (await fetch("top10.md?t=" + Date.now())).text();
+document.getElementById("content").innerHTML = marked.parse(md);
+  } catch (e) {
+document.getElementById("content").textContent = "Ainda nao ha um Top 10 publicado. Rode o radar para gerar o primeiro.";
+  }
+try {
+const t = (await (await fetch("top10.updated.txt?t=" + Date.now())).text()).trim();
+if (t) document.getElementById("stamp").textContent = "Atualizado em " + new Date(t).toLocaleString("pt-BR");
+} catch (e) {}
+}
+load();
+</script>
+</body>
+</html>
