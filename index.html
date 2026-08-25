@@ -39,7 +39,8 @@ document.getElementById("content").textContent = "Ainda nao ha um Top 10 publica
   }
 try {
 const t = (await (await fetch("top10.updated.txt?t=" + Date.now())).text()).trim();
-if (t) document.getElementById("stamp").textContent = "Atualizado em " + new Date(t).toLocaleString("pt-BR");
+const d = new Date(t);
+if (t && !isNaN(d.getTime())) document.getElementById("stamp").textContent = "Atualizado em " + d.toLocaleString("pt-BR");
 } catch (e) {}
 }
 load();
