@@ -1,0 +1,88 @@
+{
+  "categoria": "games",
+  "data": "2026-08-30",
+  "geradoEm": "2026-08-30T21:14:00-03:00",
+  "janela": {
+    "inicio": "2026-08-29T21:00:00-03:00",
+    "fim": "2026-08-30T21:00:00-03:00"
+  },
+  "observacao": null,
+  "itens": [
+    {
+      "posicao": 1,
+      "slug": "estudio-exemplo-anuncia-aquisicao",
+      "titulo": "Estúdio Exemplo anuncia aquisição bilionária",
+      "resumo": "O estúdio confirmou a compra de uma publisher independente. O valor não foi divulgado oficialmente.",
+      "tipo": "noticia",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PS5", "PC"],
+      "tags": ["publisher", "aquisicao"],
+      "dataFato": "2026-08-30",
+      "janelaEstendida": false,
+      "fonte": {
+        "nome": "GamesIndustry.biz",
+        "url": "https://www.gamesindustry.biz/exemplo",
+        "dominio": "gamesindustry.biz"
+      },
+      "fontesSecundarias": [
+        {
+          "nome": "VGC",
+          "url": "https://www.videogameschronicle.com/exemplo",
+          "dominio": "videogameschronicle.com"
+        }
+      ],
+      "nota": 9.2,
+      "justificativa": "Maior movimento de consolidação do dia, confirmado em fonte primária.",
+      "pesquisador": "radar-empresas-internacionais"
+    },
+    {
+      "posicao": 2,
+      "slug": "jogo-brasileiro-ganha-data-de-lancamento",
+      "titulo": "Jogo brasileiro ganha data de lançamento",
+      "resumo": "O estúdio nacional revelou a data em transmissão ao vivo. O jogo chega primeiro ao PC.",
+      "tipo": "lancamento",
+      "escopo": "nacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC", "Steam"],
+      "tags": ["indie", "brasil"],
+      "dataFato": "2026-08-30",
+      "janelaEstendida": false,
+      "fonte": {
+        "nome": "The Enemy",
+        "url": "https://www.theenemy.com.br/exemplo",
+        "dominio": "theenemy.com.br"
+      },
+      "fontesSecundarias": [],
+      "nota": 8.1,
+      "justificativa": "Lançamento nacional relevante com data confirmada pelo estúdio.",
+      "pesquisador": "radar-lancamentos-nacionais"
+    }
+  ],
+  "tambemNoRadar": [
+    {
+      "slug": "rumor-sobre-console-portatil",
+      "titulo": "Rumor aponta console portátil em desenvolvimento",
+      "resumo": "Uma fonte não confirmada citou um aparelho em testes internos. A empresa não comentou.",
+      "tipo": "rumor",
+      "escopo": "internacional",
+      "confiabilidade": "rumor",
+      "plataformas": [],
+      "tags": ["hardware"],
+      "dataFato": "2026-08-30",
+      "janelaEstendida": false,
+      "fonte": {
+        "nome": "Insider Gaming",
+        "url": "https://insider-gaming.com/exemplo",
+        "dominio": "insider-gaming.com"
+      },
+      "fontesSecundarias": [],
+      "nota": 6.0,
+      "justificativa": "Rumor sem confirmação; entra como acompanhamento.",
+      "pesquisador": "radar-empresas-internacionais"
+    }
+  ],
+  "descartados": [
+    { "titulo": "Nota sem fonte identificável", "motivo": "fonte fraca" }
+  ]
+}
