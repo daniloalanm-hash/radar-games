@@ -61,7 +61,19 @@ describe("RadarCard", () => {
     expect(html).toContain("Estúdio Exemplo anuncia aquisição bilionária");
     expect(html).toContain("O estúdio confirmou a compra");
     expect(html).toContain("gamesindustry.biz");
-    expect(html).toContain(">1<");
+    const rank = html.match(/text-destaque">(\d+)</)?.[1];
+    expect(rank).toBe("1");
+  });
+
+  it("renderiza a posição de cada item dinamicamente, não um valor fixo", () => {
+    const item2: ItemRankeado = fixture.itens[1];
+    const html1 = renderToStaticMarkup(<RadarCard item={item} />);
+    const html2 = renderToStaticMarkup(<RadarCard item={item2} />);
+    const rank1 = html1.match(/text-destaque">(\d+)</)?.[1];
+    const rank2 = html2.match(/text-destaque">(\d+)</)?.[1];
+    expect(rank1).toBe("1");
+    expect(rank2).toBe("2");
+    expect(rank2).not.toBe(rank1);
   });
 
   it("lista as plataformas do item", () => {
