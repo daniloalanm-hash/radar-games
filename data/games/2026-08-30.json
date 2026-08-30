@@ -1,88 +1,285 @@
 {
   "categoria": "games",
   "data": "2026-08-30",
-  "geradoEm": "2026-08-30T21:14:00-03:00",
-  "janela": {
-    "inicio": "2026-08-29T21:00:00-03:00",
-    "fim": "2026-08-30T21:00:00-03:00"
-  },
-  "observacao": null,
+  "geradoEm": "2026-08-30T20:30:00-03:00",
+  "janela": { "inicio": "2026-08-29T21:00:00-03:00", "fim": "2026-08-30T21:00:00-03:00" },
+  "observacao": "Dois candidatos (1666: Amsterdam e Hello Neighbor 3, ambos do Insider Gaming) foram descartados por fonte fraca — a URL principal era a página de categoria do site, e não foi possível localizar os artigos individuais. O resultado do CBLOL de 30/08 foi reportado por dois pesquisadores (radar-empresas-nacionais e radar-esports) e consolidado em um único item.",
   "itens": [
     {
       "posicao": 1,
-      "slug": "estudio-exemplo-anuncia-aquisicao",
-      "titulo": "Estúdio Exemplo anuncia aquisição bilionária",
-      "resumo": "O estúdio confirmou a compra de uma publisher independente. O valor não foi divulgado oficialmente.",
+      "slug": "xbox-ceo-evita-confirmar-exclusividade-elder-scrolls-6",
+      "titulo": "CEO da Xbox evita confirmar exclusividade de The Elder Scrolls 6",
+      "resumo": "Questionada pela BBC na Gamescom 2026 sobre se The Elder Scrolls 6 sairá em PlayStation, a CEO da Xbox, Asha Sharma, não confirmou e afirmou apenas que 'toda plataforma precisa de algum tipo de experiência exclusiva'. A exclusividade do título segue sem definição oficial.",
       "tipo": "noticia",
       "escopo": "internacional",
       "confiabilidade": "confirmado",
-      "plataformas": ["PS5", "PC"],
-      "tags": ["publisher", "aquisicao"],
-      "dataFato": "2026-08-30",
+      "plataformas": ["Xbox Series", "PC"],
+      "tags": ["xbox", "the-elder-scrolls-6", "exclusividade"],
+      "dataFato": "2026-08-29",
       "janelaEstendida": false,
-      "fonte": {
-        "nome": "GamesIndustry.biz",
-        "url": "https://www.gamesindustry.biz/exemplo",
-        "dominio": "gamesindustry.biz"
-      },
+      "fonte": { "nome": "GamesRadar+", "url": "https://www.gamesradar.com/games/rpg/will-the-elder-scrolls-6-be-xbox-exclusive-ceo-asha-sharma-wont-say-but-every-platform-needs-some-form-of-exclusive-experiences/", "dominio": "gamesradar.com" },
       "fontesSecundarias": [
-        {
-          "nome": "VGC",
-          "url": "https://www.videogameschronicle.com/exemplo",
-          "dominio": "videogameschronicle.com"
-        }
+        { "nome": "XDA Developers", "url": "https://www.xda-developers.com/xbox-ceo-asha-sharma-doesnt-rebuke-the-elder-scrolls-6-being-a-console-exclusive-which-is-a-little-worrying/", "dominio": "xda-developers.com" },
+        { "nome": "NotebookCheck", "url": "https://www.notebookcheck.net/Xbox-CEO-doesn-t-dismiss-The-Elder-Scrolls-6-releasing-as-a-console-exclusive-game.1382001.0.html", "dominio": "notebookcheck.net" }
       ],
-      "nota": 9.2,
-      "justificativa": "Maior movimento de consolidação do dia, confirmado em fonte primária.",
-      "pesquisador": "radar-empresas-internacionais"
+      "nota": 8.3,
+      "justificativa": "Declaração de peso sobre um dos jogos mais aguardados da indústria, com ampla cobertura internacional e fonte primária de entrevista (BBC), o que mantém a discussão sobre exclusividade em alta.",
+      "pesquisador": "radar-lancamentos-internacionais"
     },
     {
       "posicao": 2,
-      "slug": "jogo-brasileiro-ganha-data-de-lancamento",
-      "titulo": "Jogo brasileiro ganha data de lançamento",
-      "resumo": "O estúdio nacional revelou a data em transmissão ao vivo. O jogo chega primeiro ao PC.",
-      "tipo": "lancamento",
-      "escopo": "nacional",
+      "slug": "karmine-corp-vence-vct-emea-stage-2",
+      "titulo": "Karmine Corp vence VCT EMEA Stage 2 com virada histórica sobre Team Liquid",
+      "resumo": "A Karmine Corp derrotou a Team Liquid por 3-1 na grande final da VCT 2026 EMEA Stage 2, completando uma virada notável após ter caído 0-5 no Stage 1. A equipe garantiu vaga no Valorant Champions Shanghai.",
+      "tipo": "esports",
+      "escopo": "internacional",
       "confiabilidade": "confirmado",
-      "plataformas": ["PC", "Steam"],
-      "tags": ["indie", "brasil"],
+      "plataformas": ["PC"],
+      "tags": ["valorant", "vct", "esports"],
       "dataFato": "2026-08-30",
       "janelaEstendida": false,
-      "fonte": {
-        "nome": "The Enemy",
-        "url": "https://www.theenemy.com.br/exemplo",
-        "dominio": "theenemy.com.br"
-      },
+      "fonte": { "nome": "Hotspawn", "url": "https://www.hotspawn.com/valorant/news/karmine-corp-wins-vct-emea-stage-2", "dominio": "hotspawn.com" },
+      "fontesSecundarias": [
+        { "nome": "VLR.gg", "url": "https://www.vlr.gg/745965/karmine-corp-liquid-earn-champions-shanghai-berths", "dominio": "vlr.gg" },
+        { "nome": "bo3.gg", "url": "https://bo3.gg/valorant/news/team-vitality-and-karmine-corp-win-at-vct-2026-emea-stage-2", "dominio": "bo3.gg" }
+      ],
+      "nota": 8.2,
+      "justificativa": "Resultado de peso com vaga direta em Champions Shanghai e narrativa forte de virada, amplamente confirmado por múltiplas fontes especializadas em Valorant.",
+      "pesquisador": "radar-esports"
+    },
+    {
+      "posicao": 3,
+      "slug": "gamescom-2026-encerra-368-mil-visitantes",
+      "titulo": "Gamescom 2026 encerra com 368 mil visitantes de 131 países, terceira maior marca da história",
+      "resumo": "A gamescom 2026, realizada em Colônia de 26 a 30 de agosto, encerrou com 368.000 visitantes de 131 países e mais de 36.000 profissionais do setor, alta de 6% frente a 2025. Mais de 1.600 expositores de 67 países ocuparam 233.000 m², sem espaço sobrando pela primeira vez na história do evento.",
+      "tipo": "noticia",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": [],
+      "tags": ["gamescom", "eventos", "industria"],
+      "dataFato": "2026-08-30",
+      "janelaEstendida": false,
+      "fonte": { "nome": "GamesMarket", "url": "https://www.gamesmarket.global/gamescom-2026-achieves-the-best-results-since-the-pandemic/", "dominio": "gamesmarket.global" },
+      "fontesSecundarias": [
+        { "nome": "GamesBeat", "url": "https://gamesbeat.com/gamescom-draws-368000-visitors-from-131-countries/", "dominio": "gamesbeat.com" }
+      ],
+      "nota": 8.0,
+      "justificativa": "Encerramento do maior evento anual do setor com números recordes é fato de alto impacto e interesse do público gamer, confirmado por fontes especializadas.",
+      "pesquisador": "radar-empresas-internacionais"
+    },
+    {
+      "posicao": 4,
+      "slug": "stalker-2-confirma-segunda-dlc-diferente",
+      "titulo": "STALKER 2 confirma segunda DLC 'bem diferente' de Cost of Hope",
+      "resumo": "Em entrevista durante a Gamescom 2026, a GSC Game World afirmou que a segunda expansão de STALKER 2 será 'bem diferente' da primeira DLC, Cost of Hope. A expansão será o último grande conteúdo pago do jogo, enquanto uma atualização multiplayer gratuita segue em desenvolvimento paralelo.",
+      "tipo": "noticia",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC", "PS5", "Xbox Series"],
+      "tags": ["stalker-2", "dlc", "gsc-game-world"],
+      "dataFato": "2026-08-29",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Insider Gaming", "url": "https://insider-gaming.com/stalker-2-second-dlc-quite-different-cost-of-hope/", "dominio": "insider-gaming.com" },
+      "fontesSecundarias": [
+        { "nome": "dev.ua", "url": "https://dev.ua/en/news/were-not-trying-to-copy-other-peoples-mechanics-gsc-talked-about-working-on-atypical-multiplayer-and-the-second-dlc-for-stalker-2", "dominio": "dev.ua" }
+      ],
+      "nota": 7.2,
+      "justificativa": "Anúncio direto da desenvolvedora sobre conteúdo futuro de um dos jogos mais relevantes do ano, com fonte primária em artigo individual verificado.",
+      "pesquisador": "radar-lancamentos-internacionais"
+    },
+    {
+      "posicao": 5,
+      "slug": "cblol-2026-furia-vence-leviatan-vivo-keyd-bate-pain",
+      "titulo": "CBLOL 2026: FURIA vence Leviatán e Vivo Keyd Stars vira sobre paiN Gaming na última rodada",
+      "resumo": "Na última rodada da fase regular do Split 2 do CBLOL 2026, disputada em 30/08, a FURIA Esports venceu a Leviatán por 2x0 e a Vivo Keyd Stars derrotou a paiN Gaming por 2x1. FURIA fechou a fase regular na 3ª colocação, com a paiN na 5ª posição.",
+      "tipo": "esports",
+      "escopo": "nacional",
+      "confiabilidade": "confirmado",
+      "plataformas": [],
+      "tags": ["cblol", "league-of-legends", "esports-nacional"],
+      "dataFato": "2026-08-30",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Mais Esports", "url": "https://maisesports.com.br/campeonatos/league-of-legends-cblol-brazil-split-2-2026", "dominio": "maisesports.com.br" },
+      "fontesSecundarias": [
+        { "nome": "Itatiaia", "url": "https://www.itatiaia.com.br/esportes/esports/cblol-2026-los-bate-leviatan-e-furia-atropela-vivo-keyd-stars/", "dominio": "itatiaia.com.br" }
+      ],
+      "nota": 7.0,
+      "justificativa": "Resultado consolidado a partir de dois pesquisadores, envolvendo três organizações de peso no cenário nacional de League of Legends, com fonte primária verificada e placares confirmados.",
+      "pesquisador": "radar-esports"
+    },
+    {
+      "posicao": 6,
+      "slug": "estudios-indie-brasileiros-gamescom-2026",
+      "titulo": "Estúdios indie brasileiros buscam publishers no Brazilian Indie Pavilion na Gamescom 2026",
+      "resumo": "Pequenos estúdios brasileiros (Caramelo Biônico, TinyTank Studio, Galactonautas, Dragonroll Studio) participaram da gamescom 2026 buscando parcerias com publishers no recém-estreado Brazilian Indie Pavilion. O jogo acessível 'Circo de Pulgas', da Caramelo Biônico, atraiu interesse de quatro publishers.",
+      "tipo": "noticia",
+      "escopo": "nacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC"],
+      "tags": ["indie", "gamescom", "brasil"],
+      "dataFato": "2026-08-30",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Olhar Digital", "url": "https://olhardigital.com.br/2026/08/30/games-e-consoles/brasileiros-levam-jogos-indie-a-gamescom", "dominio": "olhardigital.com.br" },
+      "fontesSecundarias": [
+        { "nome": "Metagalaxia", "url": "https://metagalaxia.com.br/games/brazilian-indie-pavilion-gamescom-2026", "dominio": "metagalaxia.com.br" }
+      ],
+      "nota": 6.8,
+      "justificativa": "Fato concreto e datado sobre a estreia de um pavilhão dedicado a estúdios brasileiros na maior feira do setor, com detalhes reais de negociações comerciais.",
+      "pesquisador": "radar-empresas-nacionais"
+    },
+    {
+      "posicao": 7,
+      "slug": "beta-aberta-cod-modern-warfare-4-fim-de-semana",
+      "titulo": "Beta aberta de Call of Duty: Modern Warfare 4 segue ativa no fim de semana",
+      "resumo": "A fase de Open Beta de Call of Duty: Modern Warfare 4 está ativa entre 28 de agosto e 1º de setembro de 2026, disponível sem pré-venda em PS5, Xbox Series X|S, Nintendo Switch 2 e PC. A fase anterior, de acesso antecipado, exigia pré-compra e ocorreu entre 21 e 25 de agosto.",
+      "tipo": "lancamento",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PS5", "Xbox Series", "Switch 2", "PC"],
+      "tags": ["call-of-duty", "beta", "modern-warfare-4"],
+      "dataFato": "2026-08-29",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Call of Duty Blog", "url": "https://www.callofduty.com/blog/2026/08/call-of-duty-modern-warfare-4-open-beta-weekend-two", "dominio": "callofduty.com" },
+      "fontesSecundarias": [
+        { "nome": "Pure Xbox", "url": "https://www.purexbox.com/guides/call-of-duty-mw4-open-beta-dates-start-times-and-all-included-content", "dominio": "purexbox.com" },
+        { "nome": "Push Square", "url": "https://www.pushsquare.com/guides/call-of-duty-modern-warfare-4-beta-start-times-how-to-get-early-access-and-whats-included", "dominio": "pushsquare.com" }
+      ],
+      "nota": 6.5,
+      "justificativa": "Evento em andamento de um dos maiores lançamentos do ano, com fonte oficial do publisher e ampla cobertura, ainda que sem novidade específica do dia.",
+      "pesquisador": "radar-lancamentos-internacionais"
+    },
+    {
+      "posicao": 8,
+      "slug": "vitality-vence-legacy-blast-open-porto",
+      "titulo": "Vitality vence Legacy em virada no BLAST Open Porto 2026",
+      "resumo": "A Vitality derrotou a Legacy por 2-1 (16-14 Nuke, 9-13 Mirage, 13-8 Dust2) na chave inferior do Grupo B do BLAST Open Porto 2026, revertendo um placar de 2-10 no Nuke. Com o resultado, a equipe segue viva na disputa por vaga nos playoffs.",
+      "tipo": "esports",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC"],
+      "tags": ["cs2", "blast-open-porto", "esports"],
+      "dataFato": "2026-08-30",
+      "janelaEstendida": false,
+      "fonte": { "nome": "HLTV", "url": "https://www.hltv.org/news/45421/vitality-fend-off-legacy-to-stay-alive-at-blast", "dominio": "hltv.org" },
+      "fontesSecundarias": [
+        { "nome": "HLTV (página do confronto)", "url": "https://www.hltv.org/matches/2396941/vitality-vs-legacy-blast-open-porto-2026", "dominio": "hltv.org" }
+      ],
+      "nota": 6.2,
+      "justificativa": "Resultado relevante de CS2 em torneio de peso, com virada notável, mas ainda em fase de grupos do evento.",
+      "pesquisador": "radar-esports"
+    },
+    {
+      "posicao": 9,
+      "slug": "g2-vence-navi-blast-open-porto",
+      "titulo": "G2 vence NAVI e mantém instabilidade da equipe no BLAST Open Porto",
+      "resumo": "A G2 Esports derrotou a NAVI por 2-0 (13-6 Ancient, 13-10 Inferno) no BLAST Open Porto 2026, eliminando a equipe ucraniana, que vive uma sequência preocupante de resultados segundo o capitão Aleksib.",
+      "tipo": "esports",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC"],
+      "tags": ["cs2", "blast-open-porto", "esports"],
+      "dataFato": "2026-08-30",
+      "janelaEstendida": false,
+      "fonte": { "nome": "HLTV", "url": "https://www.hltv.org/news/45417/g2-beat-struggling-navi-to-survive-at-blast-open", "dominio": "hltv.org" },
       "fontesSecundarias": [],
-      "nota": 8.1,
-      "justificativa": "Lançamento nacional relevante com data confirmada pelo estúdio.",
+      "nota": 6.0,
+      "justificativa": "Resultado confirmado com artigo individual localizado e placar verificado, envolvendo duas organizações de peso no cenário de CS2.",
+      "pesquisador": "radar-esports"
+    },
+    {
+      "posicao": 10,
+      "slug": "controle-xbox-x25-chega-ao-brasil-r799",
+      "titulo": "Controle especial Xbox X25 (25 anos) chega ao Brasil por R$ 799",
+      "resumo": "A Microsoft confirmou que o controle sem fio Xbox X25, edição comemorativa translúcida verde dos 25 anos da marca, será vendido no Brasil por R$ 799, quase dez vezes o preço americano (US$ 79,99). O produto chega às lojas internacionalmente em 20 de outubro, sem data exata confirmada para o Brasil.",
+      "tipo": "noticia",
+      "escopo": "nacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["Xbox Series", "PC", "iOS", "Android"],
+      "tags": ["xbox", "hardware", "preco-brasil"],
+      "dataFato": "2026-08-28",
+      "janelaEstendida": true,
+      "fonte": { "nome": "Canaltech", "url": "https://canaltech.com.br/games/controle-especial-de-25-anos-do-xbox-sera-lancado-no-brasil-por-preco-de-chorar/", "dominio": "canaltech.com.br" },
+      "fontesSecundarias": [
+        { "nome": "Tecnoblog", "url": "https://tecnoblog.net/noticias/xbox-controle-de-25-anos-custara-r-799-no-brasil/", "dominio": "tecnoblog.net" },
+        { "nome": "Adrenaline", "url": "https://www.adrenaline.com.br/games/xbox/controle-de-25-anos-do-xbox-chega-ao-brasil/", "dominio": "adrenaline.com.br" }
+      ],
+      "nota": 5.7,
+      "justificativa": "Fato concreto sobre preço/lançamento de hardware no Brasil, com boa repercussão na imprensa nacional, mas dentro da janela estendida por estar fora das últimas 24h.",
       "pesquisador": "radar-lancamentos-nacionais"
     }
   ],
   "tambemNoRadar": [
     {
-      "slug": "rumor-sobre-console-portatil",
-      "titulo": "Rumor aponta console portátil em desenvolvimento",
-      "resumo": "Uma fonte não confirmada citou um aparelho em testes internos. A empresa não comentou.",
-      "tipo": "rumor",
+      "slug": "aurora-elimina-m80-blast-open-porto",
+      "titulo": "Aurora elimina M80 no BLAST Open Porto 2026",
+      "resumo": "A Aurora eliminou a M80 do BLAST Open Porto 2026 com atuação dominante na chave inferior do torneio de CS2.",
+      "tipo": "esports",
       "escopo": "internacional",
-      "confiabilidade": "rumor",
-      "plataformas": [],
-      "tags": ["hardware"],
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC"],
+      "tags": ["cs2", "blast-open-porto"],
       "dataFato": "2026-08-30",
       "janelaEstendida": false,
-      "fonte": {
-        "nome": "Insider Gaming",
-        "url": "https://insider-gaming.com/exemplo",
-        "dominio": "insider-gaming.com"
-      },
+      "fonte": { "nome": "HLTV", "url": "https://www.hltv.org/news/45419/aurora-eliminate-m80-from-blast-open-in-dominant-fashion", "dominio": "hltv.org" },
       "fontesSecundarias": [],
-      "nota": 6.0,
-      "justificativa": "Rumor sem confirmação; entra como acompanhamento.",
-      "pesquisador": "radar-empresas-internacionais"
+      "nota": 5.0,
+      "justificativa": "Resultado de eliminação em torneio de peso, mas de menor repercussão que os demais confrontos do dia.",
+      "pesquisador": "radar-esports"
+    },
+    {
+      "slug": "dem0n-brilha-fut-elimina-inner-circle",
+      "titulo": "dem0n brilha e FUT elimina Inner Circle no BLAST Open Porto",
+      "resumo": "O jogador dem0n teve atuação de destaque enquanto a Inner Circle foi eliminada do BLAST Open Porto 2026.",
+      "tipo": "esports",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC"],
+      "tags": ["cs2", "blast-open-porto"],
+      "dataFato": "2026-08-30",
+      "janelaEstendida": false,
+      "fonte": { "nome": "HLTV", "url": "https://www.hltv.org/news/45420/dem0n-dominates-as-inner-circle-are-sent-home", "dominio": "hltv.org" },
+      "fontesSecundarias": [],
+      "nota": 4.5,
+      "justificativa": "Destaque individual em confronto de eliminação, de interesse mais restrito ao público de CS2.",
+      "pesquisador": "radar-esports"
+    },
+    {
+      "slug": "bgs-2026-desconto-semana-do-gamer",
+      "titulo": "BGS 2026 oferece 10% de desconto em ingressos na Semana do Gamer",
+      "resumo": "A Brasil Game Show lançou promoção de 10% de desconto sobre o lote atual de ingressos da edição 2026, válida em 29/08 com o cupom SEMANADOGAMER. O evento acontece de 9 a 12 de outubro de 2026, no Distrito Anhembi, em São Paulo.",
+      "tipo": "noticia",
+      "escopo": "nacional",
+      "confiabilidade": "confirmado",
+      "plataformas": [],
+      "tags": ["bgs", "eventos", "brasil"],
+      "dataFato": "2026-08-29",
+      "janelaEstendida": true,
+      "fonte": { "nome": "Adrenaline", "url": "https://www.adrenaline.com.br/games/bgs-2026-desconto-semana-gamer/", "dominio": "adrenaline.com.br" },
+      "fontesSecundarias": [],
+      "nota": 4.8,
+      "justificativa": "Promoção pontual de evento nacional relevante, mas de baixo impacto jornalístico.",
+      "pesquisador": "radar-lancamentos-nacionais"
+    },
+    {
+      "slug": "nuuvem-square-enix-ate-90-por-cento-desconto",
+      "titulo": "Nuuvem oferece jogos da Square Enix com até 90% de desconto",
+      "resumo": "A loja brasileira Nuuvem colocou títulos da Square Enix em promoção com até 90% de desconto, incluindo Final Fantasy VII Rebirth, Kingdom Hearts Integrum Masterpiece, Star Ocean The Second Story R, Octopath Traveler II e Final Fantasy XVI.",
+      "tipo": "noticia",
+      "escopo": "nacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC", "Steam"],
+      "tags": ["promocao", "square-enix", "nuuvem"],
+      "dataFato": "2026-08-30",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Adrenaline", "url": "https://www.adrenaline.com.br/games/pc-games/jogos-da-square-enix-em-oferta-na-nuuvem-com-ate-90-de-desconto/", "dominio": "adrenaline.com.br" },
+      "fontesSecundarias": [],
+      "nota": 4.2,
+      "justificativa": "Promoção legítima em loja nacional, porém recorrente e de relevância editorial modesta.",
+      "pesquisador": "radar-lancamentos-nacionais"
     }
   ],
   "descartados": [
-    { "titulo": "Nota sem fonte identificável", "motivo": "fonte fraca" }
+    { "titulo": "Diretor de 1666: Amsterdam confirma remoção de elementos de IA generativa após críticas", "motivo": "fonte fraca — página de categoria/arquivo, sem URL de artigo" },
+    { "titulo": "Criador de Hello Neighbor confirma que Hello Neighbor 3 é continuação direta do primeiro jogo", "motivo": "fonte fraca — página de categoria/arquivo, sem URL de artigo" }
   ]
 }
