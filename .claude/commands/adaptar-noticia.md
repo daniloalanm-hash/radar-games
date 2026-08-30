@@ -22,7 +22,7 @@ Valide que cada posição pedida existe em `itens`. Posição inexistente: avise
 
 ## 2. Pular o que já existe
 
-Para cada posição, verifique se `content/adaptacoes/<categoria>/<data>/<posicao>-<slug>.md` já existe. Se existir, **pergunte** antes de sobrescrever.
+Para cada posição, verifique se `content/adaptacoes/<categoria>/<data>/<posicao>-<slug>.md` já existe. Se existir, **pergunte** antes de sobrescrever. Se o usuário recusar, **pule essa posição** e siga com as demais.
 
 ## 3. Disparar os redatores EM PARALELO
 
@@ -45,7 +45,9 @@ Faça WebFetch da fonte antes de escrever. Grave o arquivo e retorne a linha OK.
 
 Cada redator retorna `OK: <caminho> — <n> palavras.` ou `FALHA: <motivo>`.
 
-Uma falha não interrompe as demais — registre e siga.
+Uma falha não interrompe as demais — registre e siga. Rastreie explicitamente:
+- **Posições com `OK`**: prosseguem à conferência do passo 5.
+- **Posições com `FALHA`**: registre o motivo e liste no resumo do passo 7.
 
 ## 5. Conferir os arquivos
 
@@ -55,19 +57,27 @@ Para cada `OK`, leia o arquivo gravado e confirme:
 - contém `www.lojadosgifts.com.br`;
 - termina com uma linha `**Fonte:**`.
 
-Se algum item falhar na conferência, chame o redator daquela posição de novo apontando o que faltou.
+Rastreie o estado de cada posição: **passou** (conferência OK) ou **falhou** (não passou).
+
+Se algum item falhar na conferência, chame o redator daquela posição de novo apontando o que faltou. Se continuar a falhar na segunda conferência, **marque como falha**, registre o motivo e siga com as demais.
 
 ## 6. Commitar
 
+Faça `git add` **apenas dos arquivos que passaram na conferência do passo 5**, listados individualmente por caminho completo — **nunca a pasta inteira**. Isso garante que arquivos que falharam ou que nunca passaram a conferência não sejam commitados.
+
 ```bash
-git add content/adaptacoes/<categoria>/<data>/
-git commit -m "conteudo: adaptacoes de <data> (posicoes <lista>)"
+git add content/adaptacoes/<categoria>/<data>/<posicao-slug-1>.md content/adaptacoes/<categoria>/<data>/<posicao-slug-2>.md ...
+git commit -m "conteudo: adaptacoes de <data> (posicoes <lista-de-sucesso>)"
 git push
 ```
 
+Se nenhum arquivo passou na conferência, **NÃO COMMITE** — avise no resumo que nenhuma adaptação foi concluída.
+
 ## 7. Resumo no chat
 
-Liste os arquivos gerados com título e contagem de palavras, mais as falhas com o motivo. Informe a URL de cada artigo no site: `<url-de-producao>/<categoria>/<data>/<slug>`.
+Liste os arquivos **commitados com sucesso**, com título e contagem de palavras, mais as URLs: `<url-de-producao>/<categoria>/<data>/<slug>`.
+
+Também liste os arquivos que **falharam a conferência** (ou não passaram sequer na primeira tentativa), nomeando-os por posição e slug, com o motivo específico (chave de frontmatter faltante, corpo sem `## `, ausência de `www.lojadosgifts.com.br`, ou sem `**Fonte:**`). Esses arquivos permanecem **não-commitados no disco** — o usuário pode decidir se deleta, retorna à redação, ou abandona.
 
 ## Regras
 
