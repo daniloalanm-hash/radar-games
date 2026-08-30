@@ -53,7 +53,7 @@ Devolva **apenas** um bloco de código ```json, sem nenhum texto antes ou depois
       "dataFato": "AAAA-MM-DD",
       "janelaEstendida": false,
       "fonte": { "nome": "…", "url": "https://…", "dominio": "exemplo.com" },
-      "fontesSecundarias": [],
+      "fontesSecundarias": [{ "nome": "…", "url": "https://…", "dominio": "exemplo2.com" }],
       "nota": 9.2,
       "justificativa": "Por que ficou nesta posição.",
       "pesquisador": "radar-empresas-internacionais"
@@ -69,11 +69,13 @@ Devolva **apenas** um bloco de código ```json, sem nenhum texto antes ou depois
 - `tipo` ∈ `noticia` | `lancamento` | `vazamento` | `rumor` | `esports`
 - `escopo` ∈ `nacional` | `internacional`
 - `confiabilidade` ∈ `confirmado` | `rumor`
-- `slug` em kebab-case, apenas `a-z`, `0-9` e `-`, único dentro da edição
+- `slug` em kebab-case, apenas `a-z`, `0-9` e `-`, **sem hífen no início ou no fim, sem hífens consecutivos**, único dentro da edição
 - `posicao` sequencial começando em 1, sem buracos, no máximo 10
 - `nota` número entre 0 e 10
 - `dominio` é o host da URL, sem `www.` e sem protocolo
-- `geradoEm`, `janela.inicio` e `janela.fim` em ISO 8601 **com fuso** (`-03:00`)
+- `data` e `dataFato` em formato de data apenas: `AAAA-MM-DD` (sem hora, sem fuso)
+- `geradoEm`, `janela.inicio` e `janela.fim` em ISO 8601 **com fuso** (`-03:00`), incluindo hora: `AAAA-MM-DDTHH:MM:SS-03:00`
+- `fontesSecundarias` é um array onde cada item é um objeto com os mesmos campos de `fonte` (nome, url, dominio), ex: `[{ "nome": "...", "url": "https://...", "dominio": "..." }]`
 - `tambemNoRadar` usa os mesmos campos, **sem** `posicao`
 - Nada de comentários, vírgula sobrando ou campos extras
 
