@@ -1,5 +1,6 @@
 import Link from "next/link";
 import type { Categoria } from "@/config/categorias";
+import { existeAdaptacao } from "@/lib/adaptacoes";
 import type { Edicao } from "@/lib/schema";
 import { CabecalhoEdicao } from "./CabecalhoEdicao";
 import { NavCategorias } from "./NavCategorias";
@@ -16,7 +17,15 @@ export function EdicaoView({ edicao, categoria }: { edicao: Edicao; categoria: C
       ) : (
         <div className="space-y-4">
           {edicao.itens.map((item) => (
-            <RadarCard key={item.slug} item={item} />
+            <RadarCard
+              key={item.slug}
+              item={item}
+              linkArtigo={
+                existeAdaptacao(categoria.slug, edicao.data, item.slug)
+                  ? `/${categoria.slug}/${edicao.data}/${item.slug}`
+                  : undefined
+              }
+            />
           ))}
         </div>
       )}
