@@ -17,7 +17,7 @@ Se `WebSearch` ou `WebFetch` não estiverem disponíveis nesta sessão, **PARE**
 
 ## 2. Checar sobrescrita
 
-Se `data/games/<HOJE>.json` já existir, mostre quantos itens ele tem e **pergunte ao usuário** antes de sobrescrever. Não sobrescreva sem confirmação.
+Se `data/games/<HOJE>.json` já existir, mostre quantos itens ele tem e **pergunte ao usuário** antes de sobrescrever. Não sobrescreva sem confirmação. Se o usuário declinar, **PARE** e avise que a edição foi abortada.
 
 ## 3. Disparar os 5 pesquisadores EM PARALELO
 
@@ -39,16 +39,18 @@ Guarde os 5 blocos exatamente como voltaram, incluindo os que disserem `NENHUM C
 
 Chame a ferramenta Agent com `subagent_type=radar-verificador`, passando no prompt: a categoria `games`, `HOJE`, `INICIO`, `FIM`, e os 5 blocos concatenados, cada um precedido de `## Bloco: <nome-do-agente>`.
 
+Se a resposta não contiver um único bloco ```json extractável (ex.: está embrulhado em prosa, omite fences, retorna múltiplos blocos ou conteúdo claramente quebrado), chame o verificador **uma vez mais** com a mesma entrada. Se continuar sem retornar um bloco JSON única e válido, **PARE** e reporte o erro ao usuário — não tente montar o JSON manualmente a partir dos pesquisadores.
+
 ## 6. Gravar
 
-Extraia o JSON do bloco de código devolvido e escreva em `data/games/<HOJE>.json`, formatado com 2 espaços de indentação.
+Extraia o JSON do bloco ```json verificado acima e escreva em `data/games/<HOJE>.json`, formatado com 2 espaços de indentação.
 
 ## 7. Validar — obrigatório
 
 Rode `npm run validate:data`.
 
 - Se passar, siga.
-- Se falhar, **corrija o JSON** com base nos erros apontados (são erros de schema: enum errado, slug fora de kebab-case, posição não sequencial, data sem fuso) e rode de novo. Não commite JSON inválido — ele quebra o build do site.
+- Se falhar, **corrija o JSON** com base nos erros apontados (erros de schema como enum errado, slug fora de kebab-case, posição não sequencial, data sem fuso; ou erros de parse como "JSON inválido") e rode de novo. **Máximo 2 tentativas de correção**. Se continuar a falhar após a segunda tentativa, **PARE** e reporte o erro ao usuário — não commite JSON inválido pois quebra o build do site.
 
 ## 8. Commitar
 
@@ -66,7 +68,7 @@ Poste:
 - o TOP 5 em lista numerada, uma linha cada, com o domínio da fonte;
 - quantos itens ficaram em `tambemNoRadar` e quantos foram descartados;
 - se algum item usou janela estendida;
-- a URL do site.
+- a URL do site, **se existir**: leia em `README.md` na seção "Deploy" (omita a linha se o README ainda não tiver URL).
 
 Se a edição saiu vazia ou com menos de 10 itens, diga isso explicitamente.
 
@@ -75,3 +77,4 @@ Se a edição saiu vazia ou com menos de 10 itens, diga isso explicitamente.
 - Português do Brasil.
 - **Nunca invente.** Todo item precisa de fonte verificável.
 - Se um pesquisador falhar ou não responder, siga com os demais e registre a ausência no resumo.
+- Commits de edições diárias usam o prefixo `radar:` deliberadamente (ex.: `radar: edicao de <HOJE>`). Não é um typo.
