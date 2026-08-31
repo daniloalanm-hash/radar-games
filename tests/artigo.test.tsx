@@ -72,6 +72,30 @@ describe("ArtigoMarkdown", () => {
     expect(html).toMatch(/<a[^>]*href="https:\/\/exemplo\.com"[^>]*>loja<\/a>/);
   });
 
+  it("renderiza **[Nome](url)** como <strong> contendo <a>", () => {
+    const html = renderToStaticMarkup(
+      <ArtigoMarkdown markdown={"Anunciado por **[Nome](https://exemplo.com)** hoje."} />,
+    );
+    expect(html).toMatch(
+      /<strong><a[^>]*href="https:\/\/exemplo\.com"[^>]*>Nome<\/a><\/strong>/,
+    );
+    expect(html).not.toContain("](http");
+    expect(html).not.toContain("](www");
+    expect(html).not.toContain("**");
+  });
+
+  it("renderiza [**Nome**](url) como <a> contendo <strong>", () => {
+    const html = renderToStaticMarkup(
+      <ArtigoMarkdown markdown={"Anunciado por [**Nome**](https://exemplo.com) hoje."} />,
+    );
+    expect(html).toMatch(
+      /<a[^>]*href="https:\/\/exemplo\.com"[^>]*><strong>Nome<\/strong><\/a>/,
+    );
+    expect(html).not.toContain("](http");
+    expect(html).not.toContain("](www");
+    expect(html).not.toContain("**");
+  });
+
   it("preserva todo o conteúdo do markdown", () => {
     const html = renderToStaticMarkup(<ArtigoMarkdown markdown={MD} />);
     expect(html).toContain("Título do artigo");
