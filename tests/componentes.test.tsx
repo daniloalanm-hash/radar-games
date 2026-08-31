@@ -93,4 +93,17 @@ describe("RadarCard", () => {
     expect(html).toContain("artigo adaptado");
     expect(html).toContain("/games/2026-08-30/estudio-exemplo-anuncia-aquisicao");
   });
+
+  it("mostra as tags do item prefixadas com #", () => {
+    const html = renderToStaticMarkup(<RadarCard item={item} />);
+    expect(html).toContain("#publisher");
+    expect(html).toContain("#aquisicao");
+  });
+
+  it("não renderiza marcação extra quando o item não tem tags", () => {
+    const semTags: ItemRankeado = { ...item, tags: [] };
+    const html = renderToStaticMarkup(<RadarCard item={semTags} />);
+    expect(html).not.toContain("#publisher");
+    expect(html).not.toContain("#aquisicao");
+  });
 });

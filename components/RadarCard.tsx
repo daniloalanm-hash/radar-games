@@ -35,6 +35,16 @@ export function RadarCard({ item, linkArtigo }: { item: ItemRankeado; linkArtigo
               </a>
             ) : null}
           </div>
+
+          {item.tags.length > 0 ? (
+            <div className="mt-2 flex flex-wrap gap-x-2 gap-y-1">
+              {item.tags.map((tag) => (
+                <span key={tag} className="text-xs text-suave/70">
+                  #{tag}
+                </span>
+              ))}
+            </div>
+          ) : null}
         </div>
       </div>
     </article>
