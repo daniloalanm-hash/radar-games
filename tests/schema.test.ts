@@ -64,6 +64,36 @@ describe("edicaoSchema", () => {
     expect(edicaoSchema.safeParse(e).success).toBe(false);
   });
 
+  it("rejeita slug duplicado dentro de itens", () => {
+    const e = clone();
+    e.itens[1].slug = e.itens[0].slug;
+    expect(edicaoSchema.safeParse(e).success).toBe(false);
+  });
+
+  it("rejeita slug duplicado entre itens e tambemNoRadar", () => {
+    const e = clone();
+    e.tambemNoRadar = [
+      {
+        ...fixture.itens[0],
+        slug: fixture.itens[0].slug,
+      },
+    ];
+    delete e.tambemNoRadar[0].posicao;
+    expect(edicaoSchema.safeParse(e).success).toBe(false);
+  });
+
+  it("aceita slugs distintos em tambemNoRadar", () => {
+    const e = clone();
+    e.tambemNoRadar = [
+      {
+        ...fixture.itens[0],
+        slug: "slug-unico-em-tambem-no-radar",
+      },
+    ];
+    delete e.tambemNoRadar[0].posicao;
+    expect(edicaoSchema.safeParse(e).success).toBe(true);
+  });
+
   it("aceita edição vazia com observação", () => {
     const e = clone();
     e.itens = [];

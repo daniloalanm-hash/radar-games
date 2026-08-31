@@ -64,6 +64,27 @@ export const edicaoSchema = z
         });
       }
     });
+
+    const vistos = new Map<string, { grupo: "itens" | "tambemNoRadar"; indice: number }>();
+    (
+      [
+        ["itens", edicao.itens] as const,
+        ["tambemNoRadar", edicao.tambemNoRadar] as const,
+      ] as const
+    ).forEach(([grupo, lista]) => {
+      lista.forEach((item, indice) => {
+        const anterior = vistos.get(item.slug);
+        if (anterior) {
+          ctx.addIssue({
+            code: z.ZodIssueCode.custom,
+            path: [grupo, indice, "slug"],
+            message: `slug "${item.slug}" duplicado — já usado em ${anterior.grupo}[${anterior.indice}]`,
+          });
+        } else {
+          vistos.set(item.slug, { grupo, indice });
+        }
+      });
+    });
   });
 
 export type FonteRef = z.infer<typeof fonteSchema>;
