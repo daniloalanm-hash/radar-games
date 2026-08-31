@@ -63,5 +63,10 @@ Para uma data específica: `radar.cmd 2026-08-29`.
 Pré-requisito: o CLI do Claude Code precisa estar no PATH. Confira com `where claude`;
 se não aparecer, instale com `npm install -g @anthropic-ai/claude-code`.
 
+O script roda em modo não-interativo (`--permission-mode acceptEdits`), porque não há
+ninguém para aprovar cada ação. Consequência: se já existir uma edição para aquela data, o
+radar pede confirmação antes de sobrescrever e para sem publicar — refazer um dia já
+publicado precisa ser feito pelo Claude Code.
+
 Para rodar sozinho todo dia, agende `radar.cmd` no Agendador de Tarefas do Windows
 (o computador precisa estar ligado no horário).

@@ -33,11 +33,17 @@ echo.
 echo   Radar Games - buscando as noticias do dia...
 echo   Isso leva alguns minutos: 5 pesquisadores em paralelo + verificador.
 echo.
+echo   Obs.: se ja existir uma edicao para esta data, o radar pede confirmacao
+echo   antes de sobrescrever - e aqui nao ha ninguem para responder. Nesse caso
+echo   ele para sem publicar. Rode pelo Claude Code se quiser mesmo refazer o dia.
+echo.
 
+rem --permission-mode acceptEdits: ninguem esta na frente para aprovar cada
+rem acao, entao o modo interativo travaria na primeira escrita de arquivo.
 if "%~1"=="" (
-  claude -p "/radar-games"
+  claude -p "/radar-games" --permission-mode acceptEdits
 ) else (
-  claude -p "/radar-games %~1"
+  claude -p "/radar-games %~1" --permission-mode acceptEdits
 )
 
 set "RC=%ERRORLEVEL%"
