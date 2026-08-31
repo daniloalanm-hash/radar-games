@@ -1,0 +1,526 @@
+{
+  "categoria": "games",
+  "data": "2026-08-31",
+  "geradoEm": "2026-08-31T21:10:00-03:00",
+  "janela": {
+    "inicio": "2026-08-30T21:00:00-03:00",
+    "fim": "2026-08-31T21:00:00-03:00"
+  },
+  "observacao": null,
+  "itens": [
+    {
+      "posicao": 1,
+      "slug": "vazamento-12tb-valve-steam-teraleak",
+      "titulo": "Vazamento de 12 TB expõe arquivos internos da Valve de 2003 a 2013",
+      "resumo": "Um arquivo de cerca de 12 TB com builds internos, código-fonte e assets da Valve entre 2003 e 2013 foi publicado online e apelidado de \"Steam2 Teraleak\". Segundo os pesquisadores que o divulgaram, o material não veio de invasão, mas de um endpoint da infraestrutura legada Steam2 exposto publicamente. O pacote inclui versões antigas de Portal 2, Left 4 Dead e CS:GO, além de builds beta de terceiros como protótipos de Mafia 2 e Grand Theft Auto 3. A Valve não se pronunciou.",
+      "tipo": "vazamento",
+      "escopo": "internacional",
+      "confiabilidade": "rumor",
+      "plataformas": ["PC", "Steam"],
+      "tags": ["valve", "vazamento", "steam"],
+      "dataFato": "2026-08-30",
+      "janelaEstendida": false,
+      "fonte": {
+        "nome": "PC Gamer",
+        "url": "https://www.pcgamer.com/games/the-steam-teraleak-extends-far-beyond-valve-games-including-prototypes-of-third-party-titles-like-mafia-2-and-grand-theft-auto-3-this-may-be-one-of-if-not-the-biggest-leaks-to-occur/",
+        "dominio": "pcgamer.com"
+      },
+      "fontesSecundarias": [
+        {
+          "nome": "Insider Gaming",
+          "url": "https://insider-gaming.com/reported-12tb-valve-steam-leak/",
+          "dominio": "insider-gaming.com"
+        },
+        {
+          "nome": "Dexerto",
+          "url": "https://www.dexerto.com/gaming/massive-12tb-valve-leak-reveals-early-portal-2-and-csgo-builds-3403878/",
+          "dominio": "dexerto.com"
+        }
+      ],
+      "nota": 9.0,
+      "justificativa": "Escala potencialmente inédita, envolvendo a Valve e centenas de títulos de terceiros. É o único item cujo impacto justifica o topo mesmo sem confirmação oficial da empresa.",
+      "pesquisador": "radar-empresas-internacionais"
+    },
+    {
+      "posicao": 2,
+      "slug": "nintendo-switch-2-aumento-de-preco-eua-europa",
+      "titulo": "Nintendo Switch 2 sobe de preço nos EUA e na Europa a partir de 1º de setembro",
+      "resumo": "O reajuste anunciado pela Nintendo entra em vigor em 1º de setembro de 2026 fora do Japão: nos EUA o MSRP do Switch 2 passa de US$ 449,99 para US$ 499,99, e na Europa de € 469,99 para € 499,99. A empresa atribui a mudança a condições de mercado de médio e longo prazo, em um contexto de alta no preço de chips de memória. Quiosques de demonstração em lojas americanas já exibem o novo valor.",
+      "tipo": "noticia",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["Switch 2"],
+      "tags": ["nintendo", "hardware", "preco"],
+      "dataFato": "2026-08-31",
+      "janelaEstendida": false,
+      "fonte": {
+        "nome": "Nintendo",
+        "url": "https://www.nintendo.com/us/whatsnew/price-revision-for-nintendo-switch-2-system/",
+        "dominio": "nintendo.com"
+      },
+      "fontesSecundarias": [
+        {
+          "nome": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/08/psa-its-your-last-chance-to-pick-up-a-switch-2-before-the-price-goes-up",
+          "dominio": "nintendolife.com"
+        }
+      ],
+      "nota": 8.8,
+      "justificativa": "Fonte primária oficial, impacto direto no bolso do consumidor e efeito imediato ao fim da janela.",
+      "pesquisador": "radar-lancamentos-internacionais"
+    },
+    {
+      "posicao": 3,
+      "slug": "xbox-disc-to-digital-teste-insiders",
+      "titulo": "Xbox inicia teste do programa Disc to Digital com Insiders",
+      "resumo": "A Microsoft começou em 31 de agosto a liberar para Xbox Insiders selecionados o programa Disc to Digital, que converte discos físicos em direitos digitais permanentes. Basta inserir o disco compatível no Xbox One ou Series X e iniciar o jogo para reivindicar o direito, com acesso a Xbox Play Anywhere e Cloud Gaming quando suportados. Milhares de títulos são compatíveis no arranque, e o direito é perdido se o disco for usado em outro console ou perfil.",
+      "tipo": "noticia",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["Xbox Series X", "Xbox One"],
+      "tags": ["xbox", "microsoft", "midia-fisica"],
+      "dataFato": "2026-08-31",
+      "janelaEstendida": false,
+      "fonte": {
+        "nome": "Xbox Wire",
+        "url": "https://news.xbox.com/en-us/2026/08/26/your-discs-now-also-digital/",
+        "dominio": "news.xbox.com"
+      },
+      "fontesSecundarias": [
+        {
+          "nome": "Thurrott",
+          "url": "https://www.thurrott.com/games/340738/xboxs-disc-to-digital-program-to-launch-for-select-insiders-on-august-31",
+          "dominio": "thurrott.com"
+        },
+        {
+          "nome": "God is a Geek",
+          "url": "https://godisageek.com/2026/08/xbox-disc-to-digital-testing-august-31/",
+          "dominio": "godisageek.com"
+        }
+      ],
+      "nota": 8.4,
+      "justificativa": "Mudança estrutural na relação entre mídia física e digital, com o rollout começando dentro da janela e comunicado oficial da Microsoft como fonte primária.",
+      "pesquisador": "radar-empresas-internacionais"
+    },
+    {
+      "posicao": 4,
+      "slug": "pokemon-world-championships-2026-campeoes",
+      "titulo": "Pokémon World Championships 2026 encerram em San Francisco com título japonês no VGC",
+      "resumo": "O Mundial de Pokémon 2026 terminou em 30 de agosto no Moscone Center, em San Francisco, após três dias de competição. Takuma Yamazaki venceu a divisão Masters do VGC e Andrew Hedrick levou o Masters do TCG; a Zeta Division venceu no Pokémon UNITE e Hiroki Yamauchi conquistou o Pokémon GO. O domingo de finais foi transmitido do Chase Center, maior arena a receber um torneio de Pokémon, com ingressos esgotados.",
+      "tipo": "esports",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["Switch", "Switch 2", "Mobile"],
+      "tags": ["pokemon", "esports", "mundial"],
+      "dataFato": "2026-08-30",
+      "janelaEstendida": false,
+      "fonte": {
+        "nome": "Pokémon Blog",
+        "url": "https://pokemonblog.com/2026/08/30/2026-pokemon-world-championships-results-all-vgc-tcg-go-and-unite-winners/",
+        "dominio": "pokemonblog.com"
+      },
+      "fontesSecundarias": [
+        {
+          "nome": "Video Games Chronicle",
+          "url": "https://www.videogameschronicle.com/news/2026-pokemon-world-championships-all-the-winners-from-vgc-to-tcg/",
+          "dominio": "videogameschronicle.com"
+        },
+        {
+          "nome": "Liquipedia",
+          "url": "https://liquipedia.net/pokemon/Pokemon_Championships/Worlds/2026/VGC",
+          "dominio": "liquipedia.net"
+        }
+      ],
+      "nota": 8.1,
+      "justificativa": "Maior evento competitivo da franquia, com todos os títulos definidos dentro da janela e cobertura corroborada por múltiplas fontes.",
+      "pesquisador": "radar-empresas-internacionais"
+    },
+    {
+      "posicao": 5,
+      "slug": "pokemon-champions-z-mega-evolutions",
+      "titulo": "Pokémon Champions recebe Z Mega Evolutions em 9 de setembro",
+      "resumo": "Durante a cerimônia de encerramento do Mundial Pokémon 2026, em 30 de agosto, o presidente da The Pokémon Company, Tsunekazu Ishihara, anunciou que Pokémon Champions ganhará as Z Mega Evolutions. A atualização começa a ser distribuída mundialmente em 9 de setembro de 2026, junto do novo Regulation Set M-C, válido até 2 de dezembro. Foram confirmados Mega Absol Z, Mega Lucario Z e Mega Garchomp Z, entre outros.",
+      "tipo": "noticia",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["Switch", "Switch 2", "Mobile"],
+      "tags": ["pokemon", "atualizacao", "the-pokemon-company"],
+      "dataFato": "2026-08-30",
+      "janelaEstendida": false,
+      "fonte": {
+        "nome": "Nintendo Everything",
+        "url": "https://nintendoeverything.com/pokemon-champions-announces-z-mega-evolutions-support-with-regulation-set-m-c/",
+        "dominio": "nintendoeverything.com"
+      },
+      "fontesSecundarias": [
+        {
+          "nome": "Inven Global",
+          "url": "https://www.invenglobal.com/articles/25402/pok%C3%A9mon-champions-set-for-mega-evolution-update-on-september-9",
+          "dominio": "invenglobal.com"
+        },
+        {
+          "nome": "Pokémon Blog",
+          "url": "https://pokemonblog.com/2026/08/30/pokemon-champions-reveals-z-mega-evolutions-ahead-of-september-update/",
+          "dominio": "pokemonblog.com"
+        }
+      ],
+      "nota": 8.0,
+      "justificativa": "Atualização de peso em uma franquia gigante, anunciada oficialmente e com data firme de lançamento.",
+      "pesquisador": "radar-lancamentos-internacionais"
+    },
+    {
+      "posicao": 6,
+      "slug": "1666-amsterdam-abandona-ia-generativa",
+      "titulo": "Panache Digital abandona IA generativa em 1666: Amsterdam após reação negativa",
+      "resumo": "Patrice Désilets, criador de Assassin's Creed, afirmou que a Panache Digital Games \"não vai mais usar nenhuma IA\" no desenvolvimento de 1666: Amsterdam. O estúdio admitiu que a tecnologia foi usada em concepção e pré-produção e que alguns assets acabaram no prólogo e em material de marketing, pedindo desculpas pelo descuido. O jogo entrou em early access na Steam em 25 de agosto de 2026.",
+      "tipo": "noticia",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC", "Steam"],
+      "tags": ["ia-generativa", "estudio", "desenvolvimento"],
+      "dataFato": "2026-08-31",
+      "janelaEstendida": false,
+      "fonte": {
+        "nome": "PC Gamer",
+        "url": "https://www.pcgamer.com/games/action/1666-amsterdams-developer-says-it-wont-be-using-ai-anymore-and-the-tech-was-only-used-in-conception-and-pre-production-arguably-the-most-creative-phase-of-the-entire-process/",
+        "dominio": "pcgamer.com"
+      },
+      "fontesSecundarias": [
+        {
+          "nome": "Insider Gaming",
+          "url": "https://insider-gaming.com/1666-amsterdam-drops-ai-after-backlash/",
+          "dominio": "insider-gaming.com"
+        },
+        {
+          "nome": "TheGamer",
+          "url": "https://www.thegamer.com/1666-amsterdam-ai-art-response/",
+          "dominio": "thegamer.com"
+        }
+      ],
+      "nota": 7.9,
+      "justificativa": "Caso emblemático do debate sobre IA generativa na indústria, com recuo público de um nome de peso, mas de alcance menor que os itens acima.",
+      "pesquisador": "radar-empresas-internacionais"
+    },
+    {
+      "posicao": 7,
+      "slug": "mundial-pokemon-2027-singapura",
+      "titulo": "Mundial Pokémon 2027 será em Singapura e Unite sai do line-up",
+      "resumo": "A The Pokémon Company anunciou em 30 de agosto, no encerramento do Worlds 2026, que o Campeonato Mundial Pokémon 2027 acontecerá no Singapore EXPO, entre 13 e 15 de agosto de 2027 — a primeira vez no Sudeste Asiático. O evento terá VGC, TCG e Pokémon GO, com premiação combinada acima de US$ 2 milhões. Pokémon Unite foi retirado do line-up e terá evento próprio no Japão.",
+      "tipo": "esports",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["Switch", "Switch 2", "Mobile"],
+      "tags": ["pokemon", "esports", "calendario"],
+      "dataFato": "2026-08-30",
+      "janelaEstendida": false,
+      "fonte": {
+        "nome": "Shacknews",
+        "url": "https://www.shacknews.com/article/150547/pokemon-world-championships-singapore-2027-announced",
+        "dominio": "shacknews.com"
+      },
+      "fontesSecundarias": [
+        {
+          "nome": "Video Games Chronicle",
+          "url": "https://www.videogameschronicle.com/news/the-2027-pokemon-world-championships-will-take-place-in-singapore/",
+          "dominio": "videogameschronicle.com"
+        }
+      ],
+      "nota": 7.6,
+      "justificativa": "Anúncio oficial com data e local definidos e mudança estrutural no line-up competitivo, mas com efeito prático apenas em 2027.",
+      "pesquisador": "radar-lancamentos-internacionais"
+    },
+    {
+      "posicao": 8,
+      "slug": "sbgames-2026-finalistas-selecao-oficial",
+      "titulo": "SBGames 2026 revela os 31 finalistas da Seleção Oficial de jogos indie brasileiros",
+      "resumo": "A organização do SBGames 2026 divulgou com exclusividade ao Drops de Jogos os 31 jogos finalistas da Seleção Oficial, escolhidos entre 57 selecionados e 135 inscritos. Entre os finalistas estão Drowned Lake (cinco indicações), Churrasco: Tentando Cozinhar em Paz (cinco indicações, categoria estudantil), ARIDA 2: Rise of the Brave, ARTIUS: Pure Imagination, Legacy of Evil e Lia: Hacking Destiny. A edição estreia a categoria Melhor Acessibilidade e ocorre em Goiânia, de 29 de setembro a 2 de outubro de 2026.",
+      "tipo": "noticia",
+      "escopo": "nacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC"],
+      "tags": ["brasil", "indie", "premiacao"],
+      "dataFato": "2026-08-31",
+      "janelaEstendida": false,
+      "fonte": {
+        "nome": "Drops de Jogos",
+        "url": "https://dropsdejogos.uai.com.br/noticias/indie/exclusivo-veja-os-finalistas-da-selecao-oficial-de-jogos-indie-do-sbgames-2026-em-goiania/",
+        "dominio": "dropsdejogos.uai.com.br"
+      },
+      "fontesSecundarias": [
+        {
+          "nome": "Drops de Jogos",
+          "url": "https://dropsdejogos.uai.com.br/noticias/indie/exclusivo-veja-a-selecao-oficial-de-jogos-indie-do-sbgames-2026-em-goiania/",
+          "dominio": "dropsdejogos.uai.com.br"
+        }
+      ],
+      "nota": 7.5,
+      "justificativa": "Principal pauta nacional da janela: fato datado, exclusivo e com peso real para a cena indie brasileira.",
+      "pesquisador": "radar-lancamentos-nacionais"
+    },
+    {
+      "posicao": 9,
+      "slug": "karmine-corp-lec-2026-fase-regular-invicta",
+      "titulo": "Karmine Corp fecha fase regular da LEC invicta e Fnatic fica fora dos playoffs",
+      "resumo": "A Karmine Corp encerrou a fase regular da LEC 2026 com 9-0 em séries (18-2 em mapas), a primeira campanha invicta na liga desde a Fnatic em 2015. A própria Fnatic terminou em 7º (3-6), ficou fora dos playoffs e encerrou uma sequência de nove participações consecutivas no Mundial. Os playoffs vão de 5 a 20 de setembro, com final em Nice.",
+      "tipo": "esports",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC"],
+      "tags": ["lol", "lec", "esports"],
+      "dataFato": "2026-08-30",
+      "janelaEstendida": true,
+      "fonte": {
+        "nome": "Mais Esports",
+        "url": "https://maisesports.com.br/lec-2026-karmine-corp-termina-a-fase-regular-invicta-veja-classificados-aos-playoffs",
+        "dominio": "maisesports.com.br"
+      },
+      "fontesSecundarias": [],
+      "nota": 7.4,
+      "justificativa": "Recorde histórico somado à ausência inédita da Fnatic no Worlds em quase uma década — o esports de maior peso da janela fora de Pokémon.",
+      "pesquisador": "radar-esports"
+    },
+    {
+      "posicao": 10,
+      "slug": "stellar-blade-primeiro-gameplay-switch-2",
+      "titulo": "Stellar Blade ganha primeiro gameplay direto no Nintendo Switch 2",
+      "resumo": "A Shift Up divulgou o primeiro gameplay em captura direta de Stellar Blade rodando em modo docked no Nintendo Switch 2. A versão, chamada Stellar Blade Complete Edition, segue prevista para 2026 e inclui suporte a controles de movimento com o Joy-Con 2.",
+      "tipo": "noticia",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["Switch 2"],
+      "tags": ["port", "shift-up", "nintendo"],
+      "dataFato": "2026-08-31",
+      "janelaEstendida": false,
+      "fonte": {
+        "nome": "Nintendo Everything",
+        "url": "https://nintendoeverything.com/stellar-blade-gets-first-nintendo-switch-2-gameplay/",
+        "dominio": "nintendoeverything.com"
+      },
+      "fontesSecundarias": [
+        {
+          "nome": "RPG Site",
+          "url": "https://www.rpgsite.net/news/21168-stellar-blade-switch-2-new-gameplay-trailer-motion-controls-complete-edition",
+          "dominio": "rpgsite.net"
+        }
+      ],
+      "nota": 7.2,
+      "justificativa": "Primeiro material real de rodagem de um port muito aguardado no Switch 2, mas ainda sem data exata de lançamento.",
+      "pesquisador": "radar-lancamentos-internacionais"
+    }
+  ],
+  "tambemNoRadar": [
+    {
+      "slug": "just-dance-decade-of-hits-vazamento-nintendo-direct",
+      "titulo": "Vazamento de Just Dance: Decade of Hits alimenta rumor de Nintendo Direct em 10 de setembro",
+      "resumo": "Imagens e gameplay de Just Dance: Decade of Hits vazaram na internet, e a Ubisoft respondeu publicamente afirmando que mais informações serão compartilhadas em 10 de setembro. A coincidência com o padrão histórico da Nintendo antes da Tokyo Game Show (que começa em 17 de setembro) reforçou a especulação de um Nintendo Direct na mesma data. Não há confirmação oficial da Nintendo.",
+      "tipo": "rumor",
+      "escopo": "internacional",
+      "confiabilidade": "rumor",
+      "plataformas": ["Switch", "Switch 2"],
+      "tags": ["nintendo", "ubisoft", "vazamento"],
+      "dataFato": "2026-08-31",
+      "janelaEstendida": false,
+      "fonte": {
+        "nome": "Nintendo Everything",
+        "url": "https://nintendoeverything.com/signs-pointing-to-possible-nintendo-direct-next-week/",
+        "dominio": "nintendoeverything.com"
+      },
+      "fontesSecundarias": [
+        {
+          "nome": "Game Rant",
+          "url": "https://gamerant.com/nintendo-direct-september-2026-zelda/",
+          "dominio": "gamerant.com"
+        }
+      ],
+      "nota": 7.0,
+      "justificativa": "O vazamento é real e teve resposta oficial da Ubisoft, mas a parte mais interessante — o Direct — segue como especulação, o que puxa o item para fora do TOP 10.",
+      "pesquisador": "radar-lancamentos-internacionais"
+    },
+    {
+      "slug": "snappi-deixa-elenco-principal-da-nip",
+      "titulo": "Snappi deixa o elenco principal da NIP no CS2",
+      "resumo": "O IGL dinamarquês Marco \"Snappi\" Pfeiffer saiu do time ativo da Ninjas in Pyjamas por acordo mútuo, após mais de 18 meses no comando tático. A NIP fica com sjuush, xKacpersky, stavn e o stand-in n0te, e busca no mercado um novo in-game leader e mais um jogador.",
+      "tipo": "esports",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC"],
+      "tags": ["cs2", "esports", "roster"],
+      "dataFato": "2026-08-31",
+      "janelaEstendida": false,
+      "fonte": {
+        "nome": "HLTV",
+        "url": "https://www.hltv.org/news/45424/snappi-steps-down-from-nip",
+        "dominio": "hltv.org"
+      },
+      "fontesSecundarias": [],
+      "nota": 7.0,
+      "justificativa": "Movimentação relevante de elenco em organização histórica, mas de alcance restrito ao público de CS2.",
+      "pesquisador": "radar-esports"
+    },
+    {
+      "slug": "vivo-keyd-stars-vence-pain-cblol-2026",
+      "titulo": "Vivo Keyd Stars bate a paiN em série decisiva do CBLOL 2026",
+      "resumo": "A Vivo Keyd Stars venceu a paiN Gaming por 2 a 1 no confronto que fechou a fase regular do 2º Split do CBLOL 2026. Disamis brilhou de Lee Sin (7/0/8) no primeiro mapa e Cariok respondeu de Pantheon (11/1/8) no segundo. Ambas as equipes seguem classificadas para a fase final.",
+      "tipo": "esports",
+      "escopo": "nacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC"],
+      "tags": ["cblol", "lol", "brasil"],
+      "dataFato": "2026-08-30",
+      "janelaEstendida": true,
+      "fonte": {
+        "nome": "Mais Esports",
+        "url": "https://maisesports.com.br/cblol-2026-em-final-de-serie-eletrizante-vks-derrota-a-pain",
+        "dominio": "maisesports.com.br"
+      },
+      "fontesSecundarias": [
+        {
+          "nome": "Liquipedia",
+          "url": "https://liquipedia.net/leagueoflegends/CBLOL/2026/Split_2",
+          "dominio": "liquipedia.net"
+        }
+      ],
+      "nota": 6.9,
+      "justificativa": "Clássico nacional fechando a fase regular, mas sem consequência classificatória — as duas equipes já estavam na fase final.",
+      "pesquisador": "radar-esports"
+    },
+    {
+      "slug": "spirit-elimina-furia-blast-open-porto",
+      "titulo": "Spirit elimina a FURIA e vai à semifinal da BLAST Open Porto",
+      "resumo": "A Spirit venceu a FURIA por 2 a 0 (Ancient 13-10 e Cache 13-5) e avançou às semifinais da BLAST Open Porto 2026. O time russo não perdeu um mapa sequer na fase de grupos, com donk registrando rating 1.86 no lado TR ao longo de seis mapas. A próxima partida será em 5 de setembro.",
+      "tipo": "esports",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC"],
+      "tags": ["cs2", "blast", "furia"],
+      "dataFato": "2026-08-31",
+      "janelaEstendida": false,
+      "fonte": {
+        "nome": "HLTV",
+        "url": "https://www.hltv.org/news/45423/spirit-soar-into-semi-finals-over-furia",
+        "dominio": "hltv.org"
+      },
+      "fontesSecundarias": [],
+      "nota": 6.8,
+      "justificativa": "Interessa ao público brasileiro pela queda da FURIA, mas é resultado de fase intermediária de torneio.",
+      "pesquisador": "radar-esports"
+    },
+    {
+      "slug": "serious-sam-shatterverse-lancamento",
+      "titulo": "Serious Sam: Shatterverse é lançado para PS5, Xbox Series e PC",
+      "resumo": "O roguelite FPS cooperativo Serious Sam: Shatterverse foi lançado em 31 de agosto de 2026 para PS5, Xbox Series X|S e PC (Steam e Microsoft Store). O jogo é desenvolvido pela Behaviour Interactive e publicado pela Devolver Digital, com co-op para até cinco jogadores controlando versões alternativas de Sam Stone.",
+      "tipo": "lancamento",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PS5", "Xbox Series X|S", "PC"],
+      "tags": ["lancamento", "devolver-digital", "roguelite"],
+      "dataFato": "2026-08-31",
+      "janelaEstendida": false,
+      "fonte": {
+        "nome": "Gematsu",
+        "url": "https://www.gematsu.com/2026/08/serious-sam-shatterverse-launches-august-31",
+        "dominio": "gematsu.com"
+      },
+      "fontesSecundarias": [
+        {
+          "nome": "VGChartz",
+          "url": "https://www.vgchartz.com/article/468688/serious-sam-shatterverse-launches-august-31-for-ps5-xbox-series-and-pc/",
+          "dominio": "vgchartz.com"
+        }
+      ],
+      "nota": 6.5,
+      "justificativa": "Único lançamento confirmado do dia, mas de porte médio e franquia de nicho.",
+      "pesquisador": "radar-lancamentos-internacionais"
+    },
+    {
+      "slug": "indies-brasileiros-gamescom-2026-leads",
+      "titulo": "Indies brasileiros voltam da gamescom 2026 com leads de publishers e nenhum contrato fechado",
+      "resumo": "Reportagem publicada em 30/08/2026 acompanha estúdios brasileiros na gamescom 2026, em Colônia, onde o Caramelo Biônico apresentou \"Circo de Pulgas\", jogo acessível controlado por um único botão. Dos 26 publishers priorizados de uma lista inicial de cerca de 90, o estúdio conversou com nove e quatro demonstraram interesse, incluindo uma plataforma de jogos em navegador com mais de 100 milhões de usuários. Também participaram TinyTank Studio, Galactonautas e Dragonroll Studio; nenhum contrato foi assinado durante a feira.",
+      "tipo": "noticia",
+      "escopo": "nacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC", "Mobile"],
+      "tags": ["brasil", "indie", "gamescom"],
+      "dataFato": "2026-08-30",
+      "janelaEstendida": true,
+      "fonte": {
+        "nome": "Olhar Digital",
+        "url": "https://olhardigital.com.br/2026/08/30/games-e-consoles/brasileiros-levam-jogos-indie-a-gamescom",
+        "dominio": "olhardigital.com.br"
+      },
+      "fontesSecundarias": [
+        {
+          "nome": "Olhar Digital",
+          "url": "https://olhardigital.com.br/2026/08/27/games-e-consoles/gamescom-2026-recebe-primeiro-pavilhao-de-jogos-indies-brasileiros",
+          "dominio": "olhardigital.com.br"
+        },
+        {
+          "nome": "GamesBeat",
+          "url": "https://gamesbeat.com/brazil-games-announces-first-brazilian-indie-showcase-at-gamescom-2026/",
+          "dominio": "gamesbeat.com"
+        }
+      ],
+      "nota": 6.3,
+      "justificativa": "Pauta nacional concreta e datada, mas é reportagem de bastidores sem desfecho de negócio.",
+      "pesquisador": "radar-empresas-nacionais"
+    },
+    {
+      "slug": "state-of-play-setembro-2026-rumor",
+      "titulo": "Insider aponta State of Play da PlayStation \"muito provável\" para setembro",
+      "resumo": "O leaker NateTheHate afirmou que uma nova apresentação State of Play da Sony em setembro de 2026 está \"incrivelmente provável\" e deve ser anunciada em breve, embora ele ainda trabalhe para confirmar a data. Nos dois anos anteriores a Sony realizou o evento em 24 e 25 de setembro. A empresa não confirmou oficialmente nenhuma transmissão.",
+      "tipo": "rumor",
+      "escopo": "internacional",
+      "confiabilidade": "rumor",
+      "plataformas": ["PS5", "PC"],
+      "tags": ["sony", "playstation", "evento"],
+      "dataFato": "2026-08-31",
+      "janelaEstendida": false,
+      "fonte": {
+        "nome": "TheGamer",
+        "url": "https://www.thegamer.com/playstation-next-state-of-play-september-soon-insider-claim/",
+        "dominio": "thegamer.com"
+      },
+      "fontesSecundarias": [
+        {
+          "nome": "Twisted Voxel",
+          "url": "https://twistedvoxel.com/natethehate-says-september-state-of-play-looks-likely/",
+          "dominio": "twistedvoxel.com"
+        }
+      ],
+      "nota": 6.0,
+      "justificativa": "Rumor de insider com bom histórico, mas sem data nem qualquer confirmação da Sony.",
+      "pesquisador": "radar-empresas-internacionais"
+    },
+    {
+      "slug": "legacy-eliminada-blast-open-porto",
+      "titulo": "Legacy cai para a Vitality e é eliminada da BLAST Open Porto",
+      "resumo": "A Legacy perdeu por 2 a 1 para a Vitality (Nuke 14-16, Mirage 13-9, Dust2 8-13) e foi eliminada da BLAST Open Porto 2026. O time brasileiro chegou a abrir 10-2 na Nuke antes da virada europeia. A Vitality, jogando com jL como stand-in, seguiu para enfrentar a FUT em 31 de agosto por vaga nos playoffs.",
+      "tipo": "esports",
+      "escopo": "nacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC"],
+      "tags": ["cs2", "blast", "brasil"],
+      "dataFato": "2026-08-30",
+      "janelaEstendida": true,
+      "fonte": {
+        "nome": "HLTV",
+        "url": "https://www.hltv.org/news/45421/vitality-fend-off-legacy-to-stay-alive-at-blast",
+        "dominio": "hltv.org"
+      },
+      "fontesSecundarias": [],
+      "nota": 5.8,
+      "justificativa": "Eliminação de time brasileiro em evento tier 1 com narrativa forte, mas impacto competitivo limitado.",
+      "pesquisador": "radar-esports"
+    }
+  ],
+  "descartados": [
+    {
+      "titulo": "Nuuvem coloca catálogo da Square Enix com até 90% de desconto",
+      "motivo": "conteúdo promocional recorrente, sem valor noticioso"
+    },
+    {
+      "titulo": "PS Store tem levas de jogos de PlayStation abaixo de R$ 30 no Brasil",
+      "motivo": "conteúdo de serviço sem fato novo nem ineditismo"
+    }
+  ]
+}
