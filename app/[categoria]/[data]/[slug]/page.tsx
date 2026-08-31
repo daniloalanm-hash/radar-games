@@ -6,6 +6,18 @@ import { listarDatas } from "@/lib/edicoes";
 import { carregarAdaptacao, listarAdaptacoes } from "@/lib/adaptacoes";
 import { ArtigoMarkdown } from "@/components/ArtigoMarkdown";
 import { BotaoCopiarMarkdown } from "@/components/BotaoCopiarMarkdown";
+import { FonteLink } from "@/components/FonteLink";
+import type { FonteRef } from "@/lib/schema";
+
+function fonteDaAdaptacao(fonteUrl: string): FonteRef | null {
+  if (!fonteUrl) return null;
+  try {
+    const dominio = new URL(fonteUrl).hostname.replace(/^www\./, "");
+    return { nome: dominio, url: fonteUrl, dominio };
+  } catch {
+    return null;
+  }
+}
 
 export function generateStaticParams() {
   return CATEGORIAS.flatMap((categoria) =>
@@ -38,6 +50,8 @@ export default async function PaginaArtigo({
   const adaptacao = carregarAdaptacao(categoria, data, slug);
   if (!adaptacao) notFound();
 
+  const fonte = fonteDaAdaptacao(adaptacao.fonteUrl);
+
   return (
     <article className="space-y-6">
       <div className="flex flex-wrap items-center justify-between gap-3">
@@ -53,6 +67,12 @@ export default async function PaginaArtigo({
       </p>
 
       <ArtigoMarkdown markdown={adaptacao.markdown} />
+
+      {fonte && (
+        <p className="text-xs text-suave">
+          Fonte: <FonteLink fonte={fonte} />
+        </p>
+      )}
     </article>
   );
 }

@@ -13,7 +13,9 @@ Primeiro parágrafo com **negrito** no meio.
 - item um
 - item dois
 
-**Fonte:** GamesIndustry.biz
+Confira em [www.lojadosgifts.com.br](http://www.lojadosgifts.com.br) as ofertas.
+
+**Fonte:** [GamesIndustry.biz](https://www.gamesindustry.biz/exemplo)
 `;
 
 describe("ArtigoMarkdown", () => {
@@ -43,6 +45,31 @@ describe("ArtigoMarkdown", () => {
     const html = renderToStaticMarkup(<ArtigoMarkdown markdown={MD} />);
     expect(html).not.toContain("## ");
     expect(html).not.toContain("**");
+    expect(html).not.toContain("](http");
+    expect(html).not.toContain("](www");
+  });
+
+  it("renderiza link markdown como <a> com href correto", () => {
+    const html = renderToStaticMarkup(<ArtigoMarkdown markdown={MD} />);
+    expect(html).toMatch(
+      /<a[^>]*href="http:\/\/www\.lojadosgifts\.com\.br"[^>]*>www\.lojadosgifts\.com\.br<\/a>/,
+    );
+  });
+
+  it("renderiza a linha de Fonte com link clicável", () => {
+    const html = renderToStaticMarkup(<ArtigoMarkdown markdown={MD} />);
+    expect(html).toContain("<strong>Fonte:</strong>");
+    expect(html).toMatch(
+      /<a[^>]*href="https:\/\/www\.gamesindustry\.biz\/exemplo"[^>]*>GamesIndustry\.biz<\/a>/,
+    );
+  });
+
+  it("negrito e link funcionam juntos no mesmo parágrafo", () => {
+    const html = renderToStaticMarkup(
+      <ArtigoMarkdown markdown={"Veja **agora** em [loja](https://exemplo.com)."} />,
+    );
+    expect(html).toContain("<strong>agora</strong>");
+    expect(html).toMatch(/<a[^>]*href="https:\/\/exemplo\.com"[^>]*>loja<\/a>/);
   });
 
   it("preserva todo o conteúdo do markdown", () => {
