@@ -50,7 +50,8 @@ Extraia o JSON do bloco ```json verificado acima e escreva em `data/games/<HOJE>
 Rode `npm run validate:data`.
 
 - Se passar, siga.
-- Se falhar, **corrija o JSON** com base nos erros apontados (erros de schema como enum errado, slug fora de kebab-case, posição não sequencial, data sem fuso; ou erros de parse como "JSON inválido") e rode de novo. **Máximo 2 tentativas de correção**. Se continuar a falhar após a segunda tentativa, **PARE** e reporte o erro ao usuário — não commite JSON inválido pois quebra o build do site.
+- Se falhar, **corrija o JSON** — mas só correções **formais**: enum errado, slug fora de kebab-case, `posicao` fora de sequência, data ou fuso em formato errado, JSON malformado (vírgula sobrando, chave sem fechar). Rode de novo. **Máximo 2 tentativas de correção**. Se continuar a falhar após a segunda tentativa, **PARE** e reporte o erro ao usuário — não commite JSON inválido pois quebra o build do site.
+- Se o erro for **campo de conteúdo ausente ou de tipo errado** (fonte, resumo, titulo, nota, justificativa…), **NÃO preencha você mesmo**: chame o verificador de novo apontando o erro, ou remova o item. Nunca escreva conteúdo de item que o verificador não produziu.
 
 ## 8. Commitar
 

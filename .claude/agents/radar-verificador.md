@@ -13,7 +13,7 @@ O prompt traz: a categoria, a data de referência, a janela, e os **cinco blocos
 ## Passos
 
 1. **Descarte vazios.** A linha `NENHUM CANDIDATO RELEVANTE NA JANELA.` significa "pesquisador sem achados" — não é candidato.
-2. **Deduplique.** O mesmo fato vindo de pesquisadores diferentes vira **um único item**. Fica a **melhor fonte**; as demais entram em `fontesSecundarias`. Critério de melhor fonte, nesta ordem: (a) fonte primária — comunicado oficial, blog da empresa, post do estúdio; (b) quem deu o furo; (c) maior peso editorial. Some as notas de quem trouxe o mesmo fato como sinal de relevância, mas não como nota final.
+2. **Deduplique.** O mesmo fato vindo de pesquisadores diferentes vira **um único item**. Fica a **melhor fonte**; as demais entram em `fontesSecundarias`. Critério de melhor fonte, nesta ordem: (a) fonte primária — comunicado oficial, blog da empresa, post do estúdio; (b) quem deu o furo; (c) maior peso editorial — consulte `config/fontes.ts` (campo `peso`, 1 a 10) como critério objetivo de desempate em vez de julgar "editorialmente" no vácuo. Some as notas de quem trouxe o mesmo fato como sinal de relevância, mas não como nota final.
 3. **Valide.** Se a fonte parecer fraca, ou se não estiver claro que o fato é da janela, confirme com `WebFetch`. Sem fonte verificável ou fora da janela, o candidato vai para `descartados` com o motivo.
 4. **Rankeie** o TOP 10 pelos critérios abaixo.
 5. **Monte o JSON** no schema exigido.
@@ -59,7 +59,25 @@ Devolva **apenas** um bloco de código ```json, sem nenhum texto antes ou depois
       "pesquisador": "radar-empresas-internacionais"
     }
   ],
-  "tambemNoRadar": [],
+  "tambemNoRadar": [
+    {
+      "slug": "kebab-case-do-titulo",
+      "titulo": "…",
+      "resumo": "2 a 3 frases factuais.",
+      "tipo": "noticia",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PS5", "PC"],
+      "tags": ["publisher", "aquisicao"],
+      "dataFato": "AAAA-MM-DD",
+      "janelaEstendida": false,
+      "fonte": { "nome": "…", "url": "https://…", "dominio": "exemplo.com" },
+      "fontesSecundarias": [{ "nome": "…", "url": "https://…", "dominio": "exemplo2.com" }],
+      "nota": 7.5,
+      "justificativa": "Por que não entrou no TOP 10.",
+      "pesquisador": "radar-empresas-internacionais"
+    }
+  ],
   "descartados": [{ "titulo": "…", "motivo": "fonte fraca" }]
 }
 ```
@@ -76,8 +94,8 @@ Devolva **apenas** um bloco de código ```json, sem nenhum texto antes ou depois
 - `data` e `dataFato` em formato de data apenas: `AAAA-MM-DD` (sem hora, sem fuso)
 - `geradoEm`, `janela.inicio` e `janela.fim` em ISO 8601 **com fuso** (`-03:00`), incluindo hora: `AAAA-MM-DDTHH:MM:SS-03:00`
 - `fontesSecundarias` é um array onde cada item é um objeto com os mesmos campos de `fonte` (nome, url, dominio), ex: `[{ "nome": "...", "url": "https://...", "dominio": "..." }]`
-- `tambemNoRadar` usa os mesmos campos, **sem** `posicao`
-- Nada de comentários, vírgula sobrando ou campos extras
+- `tambemNoRadar` é uma lista de **itens completos** — os mesmos 15 campos de `itens` (slug, titulo, resumo, tipo, escopo, confiabilidade, plataformas, tags, dataFato, janelaEstendida, fonte, fontesSecundarias, nota, justificativa, pesquisador), **sem** `posicao`. **Não** é uma lista de fontes.
+- Nada de comentários, vírgula sobrando. Campos extras não quebram a validação (são ignorados), mas um campo obrigatório com nome errado ou digitado errado **quebra** — confira os nomes exatos acima.
 
 ## Regras de conteúdo
 
