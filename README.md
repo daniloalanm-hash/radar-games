@@ -52,3 +52,16 @@ branch de produção republica o site; pushes em outras branches geram um previe
 
 `npm run build` roda `validate:data` antes do `next build`, então um JSON malformado em
 `data/` **quebra o deploy** em vez de publicar uma edição inválida.
+
+## Atualização diária sem abrir o Claude Code
+
+Dê um duplo clique em `radar.cmd`. Ele roda o radar do dia usando o seu plano do Claude
+Code — não consome crédito de API — e o site republica sozinho em cerca de 40 segundos.
+
+Para uma data específica: `radar.cmd 2026-08-29`.
+
+Pré-requisito: o CLI do Claude Code precisa estar no PATH. Confira com `where claude`;
+se não aparecer, instale com `npm install -g @anthropic-ai/claude-code`.
+
+Para rodar sozinho todo dia, agende `radar.cmd` no Agendador de Tarefas do Windows
+(o computador precisa estar ligado no horário).
