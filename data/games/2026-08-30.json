@@ -2,7 +2,10 @@
   "categoria": "games",
   "data": "2026-08-30",
   "geradoEm": "2026-08-30T20:30:00-03:00",
-  "janela": { "inicio": "2026-08-29T21:00:00-03:00", "fim": "2026-08-30T21:00:00-03:00" },
+  "janela": {
+    "inicio": "2026-08-29T21:00:00-03:00",
+    "fim": "2026-08-30T21:00:00-03:00"
+  },
   "observacao": "Dois candidatos (1666: Amsterdam e Hello Neighbor 3, ambos do Insider Gaming) foram descartados por fonte fraca — a URL principal era a página de categoria do site, e não foi possível localizar os artigos individuais. O resultado do CBLOL de 30/08 foi reportado por dois pesquisadores (radar-empresas-nacionais e radar-esports) e consolidado em um único item.",
   "itens": [
     {
@@ -10,17 +13,36 @@
       "slug": "xbox-ceo-evita-confirmar-exclusividade-elder-scrolls-6",
       "titulo": "CEO da Xbox evita confirmar exclusividade de The Elder Scrolls 6",
       "resumo": "Questionada pela BBC na Gamescom 2026 sobre se The Elder Scrolls 6 sairá em PlayStation, a CEO da Xbox, Asha Sharma, não confirmou e afirmou apenas que 'toda plataforma precisa de algum tipo de experiência exclusiva'. A exclusividade do título segue sem definição oficial.",
-      "tipo": "noticia",
+      "tipo": "fofoca",
       "escopo": "internacional",
       "confiabilidade": "confirmado",
-      "plataformas": ["Xbox Series", "PC"],
-      "tags": ["xbox", "the-elder-scrolls-6", "exclusividade"],
+      "plataformas": [
+        "Xbox Series",
+        "PC"
+      ],
+      "tags": [
+        "xbox",
+        "the-elder-scrolls-6",
+        "exclusividade"
+      ],
       "dataFato": "2026-08-29",
       "janelaEstendida": false,
-      "fonte": { "nome": "GamesRadar+", "url": "https://www.gamesradar.com/games/rpg/will-the-elder-scrolls-6-be-xbox-exclusive-ceo-asha-sharma-wont-say-but-every-platform-needs-some-form-of-exclusive-experiences/", "dominio": "gamesradar.com" },
+      "fonte": {
+        "nome": "GamesRadar+",
+        "url": "https://www.gamesradar.com/games/rpg/will-the-elder-scrolls-6-be-xbox-exclusive-ceo-asha-sharma-wont-say-but-every-platform-needs-some-form-of-exclusive-experiences/",
+        "dominio": "gamesradar.com"
+      },
       "fontesSecundarias": [
-        { "nome": "XDA Developers", "url": "https://www.xda-developers.com/xbox-ceo-asha-sharma-doesnt-rebuke-the-elder-scrolls-6-being-a-console-exclusive-which-is-a-little-worrying/", "dominio": "xda-developers.com" },
-        { "nome": "NotebookCheck", "url": "https://www.notebookcheck.net/Xbox-CEO-doesn-t-dismiss-The-Elder-Scrolls-6-releasing-as-a-console-exclusive-game.1382001.0.html", "dominio": "notebookcheck.net" }
+        {
+          "nome": "XDA Developers",
+          "url": "https://www.xda-developers.com/xbox-ceo-asha-sharma-doesnt-rebuke-the-elder-scrolls-6-being-a-console-exclusive-which-is-a-little-worrying/",
+          "dominio": "xda-developers.com"
+        },
+        {
+          "nome": "NotebookCheck",
+          "url": "https://www.notebookcheck.net/Xbox-CEO-doesn-t-dismiss-The-Elder-Scrolls-6-releasing-as-a-console-exclusive-game.1382001.0.html",
+          "dominio": "notebookcheck.net"
+        }
       ],
       "nota": 8.3,
       "justificativa": "Declaração de peso sobre um dos jogos mais aguardados da indústria, com ampla cobertura internacional e fonte primária de entrevista (BBC), o que mantém a discussão sobre exclusividade em alta.",
@@ -34,14 +56,32 @@
       "tipo": "esports",
       "escopo": "internacional",
       "confiabilidade": "confirmado",
-      "plataformas": ["PC"],
-      "tags": ["valorant", "vct", "esports"],
+      "plataformas": [
+        "PC"
+      ],
+      "tags": [
+        "valorant",
+        "vct",
+        "esports"
+      ],
       "dataFato": "2026-08-30",
       "janelaEstendida": false,
-      "fonte": { "nome": "Hotspawn", "url": "https://www.hotspawn.com/valorant/news/karmine-corp-wins-vct-emea-stage-2", "dominio": "hotspawn.com" },
+      "fonte": {
+        "nome": "Hotspawn",
+        "url": "https://www.hotspawn.com/valorant/news/karmine-corp-wins-vct-emea-stage-2",
+        "dominio": "hotspawn.com"
+      },
       "fontesSecundarias": [
-        { "nome": "VLR.gg", "url": "https://www.vlr.gg/745965/karmine-corp-liquid-earn-champions-shanghai-berths", "dominio": "vlr.gg" },
-        { "nome": "bo3.gg", "url": "https://bo3.gg/valorant/news/team-vitality-and-karmine-corp-win-at-vct-2026-emea-stage-2", "dominio": "bo3.gg" }
+        {
+          "nome": "VLR.gg",
+          "url": "https://www.vlr.gg/745965/karmine-corp-liquid-earn-champions-shanghai-berths",
+          "dominio": "vlr.gg"
+        },
+        {
+          "nome": "bo3.gg",
+          "url": "https://bo3.gg/valorant/news/team-vitality-and-karmine-corp-win-at-vct-2026-emea-stage-2",
+          "dominio": "bo3.gg"
+        }
       ],
       "nota": 8.2,
       "justificativa": "Resultado de peso com vaga direta em Champions Shanghai e narrativa forte de virada, amplamente confirmado por múltiplas fontes especializadas em Valorant.",
@@ -56,14 +96,26 @@
       "escopo": "internacional",
       "confiabilidade": "confirmado",
       "plataformas": [],
-      "tags": ["gamescom", "eventos", "industria"],
+      "tags": [
+        "gamescom",
+        "eventos",
+        "industria"
+      ],
       "dataFato": "2026-08-30",
       "janelaEstendida": false,
-      "fonte": { "nome": "GamesMarket", "url": "https://www.gamesmarket.global/gamescom-2026-achieves-the-best-results-since-the-pandemic/", "dominio": "gamesmarket.global" },
+      "fonte": {
+        "nome": "GamesMarket",
+        "url": "https://www.gamesmarket.global/gamescom-2026-achieves-the-best-results-since-the-pandemic/",
+        "dominio": "gamesmarket.global"
+      },
       "fontesSecundarias": [
-        { "nome": "GamesBeat", "url": "https://gamesbeat.com/gamescom-draws-368000-visitors-from-131-countries/", "dominio": "gamesbeat.com" }
+        {
+          "nome": "GamesBeat",
+          "url": "https://gamesbeat.com/gamescom-draws-368000-visitors-from-131-countries/",
+          "dominio": "gamesbeat.com"
+        }
       ],
-      "nota": 8.0,
+      "nota": 8,
       "justificativa": "Encerramento do maior evento anual do setor com números recordes é fato de alto impacto e interesse do público gamer, confirmado por fontes especializadas.",
       "pesquisador": "radar-empresas-internacionais"
     },
@@ -75,13 +127,29 @@
       "tipo": "noticia",
       "escopo": "internacional",
       "confiabilidade": "confirmado",
-      "plataformas": ["PC", "PS5", "Xbox Series"],
-      "tags": ["stalker-2", "dlc", "gsc-game-world"],
+      "plataformas": [
+        "PC",
+        "PS5",
+        "Xbox Series"
+      ],
+      "tags": [
+        "stalker-2",
+        "dlc",
+        "gsc-game-world"
+      ],
       "dataFato": "2026-08-29",
       "janelaEstendida": false,
-      "fonte": { "nome": "Insider Gaming", "url": "https://insider-gaming.com/stalker-2-second-dlc-quite-different-cost-of-hope/", "dominio": "insider-gaming.com" },
+      "fonte": {
+        "nome": "Insider Gaming",
+        "url": "https://insider-gaming.com/stalker-2-second-dlc-quite-different-cost-of-hope/",
+        "dominio": "insider-gaming.com"
+      },
       "fontesSecundarias": [
-        { "nome": "dev.ua", "url": "https://dev.ua/en/news/were-not-trying-to-copy-other-peoples-mechanics-gsc-talked-about-working-on-atypical-multiplayer-and-the-second-dlc-for-stalker-2", "dominio": "dev.ua" }
+        {
+          "nome": "dev.ua",
+          "url": "https://dev.ua/en/news/were-not-trying-to-copy-other-peoples-mechanics-gsc-talked-about-working-on-atypical-multiplayer-and-the-second-dlc-for-stalker-2",
+          "dominio": "dev.ua"
+        }
       ],
       "nota": 7.2,
       "justificativa": "Anúncio direto da desenvolvedora sobre conteúdo futuro de um dos jogos mais relevantes do ano, com fonte primária em artigo individual verificado.",
@@ -96,14 +164,26 @@
       "escopo": "nacional",
       "confiabilidade": "confirmado",
       "plataformas": [],
-      "tags": ["cblol", "league-of-legends", "esports-nacional"],
+      "tags": [
+        "cblol",
+        "league-of-legends",
+        "esports-nacional"
+      ],
       "dataFato": "2026-08-30",
       "janelaEstendida": false,
-      "fonte": { "nome": "Mais Esports", "url": "https://maisesports.com.br/campeonatos/league-of-legends-cblol-brazil-split-2-2026", "dominio": "maisesports.com.br" },
+      "fonte": {
+        "nome": "Mais Esports",
+        "url": "https://maisesports.com.br/campeonatos/league-of-legends-cblol-brazil-split-2-2026",
+        "dominio": "maisesports.com.br"
+      },
       "fontesSecundarias": [
-        { "nome": "Itatiaia", "url": "https://www.itatiaia.com.br/esportes/esports/cblol-2026-los-bate-leviatan-e-furia-atropela-vivo-keyd-stars/", "dominio": "itatiaia.com.br" }
+        {
+          "nome": "Itatiaia",
+          "url": "https://www.itatiaia.com.br/esportes/esports/cblol-2026-los-bate-leviatan-e-furia-atropela-vivo-keyd-stars/",
+          "dominio": "itatiaia.com.br"
+        }
       ],
-      "nota": 7.0,
+      "nota": 7,
       "justificativa": "Resultado consolidado a partir de dois pesquisadores, envolvendo três organizações de peso no cenário nacional de League of Legends, com fonte primária verificada e placares confirmados.",
       "pesquisador": "radar-esports"
     },
@@ -115,13 +195,27 @@
       "tipo": "noticia",
       "escopo": "nacional",
       "confiabilidade": "confirmado",
-      "plataformas": ["PC"],
-      "tags": ["indie", "gamescom", "brasil"],
+      "plataformas": [
+        "PC"
+      ],
+      "tags": [
+        "indie",
+        "gamescom",
+        "brasil"
+      ],
       "dataFato": "2026-08-30",
       "janelaEstendida": false,
-      "fonte": { "nome": "Olhar Digital", "url": "https://olhardigital.com.br/2026/08/30/games-e-consoles/brasileiros-levam-jogos-indie-a-gamescom", "dominio": "olhardigital.com.br" },
+      "fonte": {
+        "nome": "Olhar Digital",
+        "url": "https://olhardigital.com.br/2026/08/30/games-e-consoles/brasileiros-levam-jogos-indie-a-gamescom",
+        "dominio": "olhardigital.com.br"
+      },
       "fontesSecundarias": [
-        { "nome": "Metagalaxia", "url": "https://metagalaxia.com.br/games/brazilian-indie-pavilion-gamescom-2026", "dominio": "metagalaxia.com.br" }
+        {
+          "nome": "Metagalaxia",
+          "url": "https://metagalaxia.com.br/games/brazilian-indie-pavilion-gamescom-2026",
+          "dominio": "metagalaxia.com.br"
+        }
       ],
       "nota": 6.8,
       "justificativa": "Fato concreto e datado sobre a estreia de um pavilhão dedicado a estúdios brasileiros na maior feira do setor, com detalhes reais de negociações comerciais.",
@@ -135,14 +229,35 @@
       "tipo": "lancamento",
       "escopo": "internacional",
       "confiabilidade": "confirmado",
-      "plataformas": ["PS5", "Xbox Series", "Switch 2", "PC"],
-      "tags": ["call-of-duty", "beta", "modern-warfare-4"],
+      "plataformas": [
+        "PS5",
+        "Xbox Series",
+        "Switch 2",
+        "PC"
+      ],
+      "tags": [
+        "call-of-duty",
+        "beta",
+        "modern-warfare-4"
+      ],
       "dataFato": "2026-08-29",
       "janelaEstendida": false,
-      "fonte": { "nome": "Call of Duty Blog", "url": "https://www.callofduty.com/blog/2026/08/call-of-duty-modern-warfare-4-open-beta-weekend-two", "dominio": "callofduty.com" },
+      "fonte": {
+        "nome": "Call of Duty Blog",
+        "url": "https://www.callofduty.com/blog/2026/08/call-of-duty-modern-warfare-4-open-beta-weekend-two",
+        "dominio": "callofduty.com"
+      },
       "fontesSecundarias": [
-        { "nome": "Pure Xbox", "url": "https://www.purexbox.com/guides/call-of-duty-mw4-open-beta-dates-start-times-and-all-included-content", "dominio": "purexbox.com" },
-        { "nome": "Push Square", "url": "https://www.pushsquare.com/guides/call-of-duty-modern-warfare-4-beta-start-times-how-to-get-early-access-and-whats-included", "dominio": "pushsquare.com" }
+        {
+          "nome": "Pure Xbox",
+          "url": "https://www.purexbox.com/guides/call-of-duty-mw4-open-beta-dates-start-times-and-all-included-content",
+          "dominio": "purexbox.com"
+        },
+        {
+          "nome": "Push Square",
+          "url": "https://www.pushsquare.com/guides/call-of-duty-modern-warfare-4-beta-start-times-how-to-get-early-access-and-whats-included",
+          "dominio": "pushsquare.com"
+        }
       ],
       "nota": 6.5,
       "justificativa": "Evento em andamento de um dos maiores lançamentos do ano, com fonte oficial do publisher e ampla cobertura, ainda que sem novidade específica do dia.",
@@ -156,13 +271,27 @@
       "tipo": "esports",
       "escopo": "internacional",
       "confiabilidade": "confirmado",
-      "plataformas": ["PC"],
-      "tags": ["cs2", "blast-open-porto", "esports"],
+      "plataformas": [
+        "PC"
+      ],
+      "tags": [
+        "cs2",
+        "blast-open-porto",
+        "esports"
+      ],
       "dataFato": "2026-08-30",
       "janelaEstendida": false,
-      "fonte": { "nome": "HLTV", "url": "https://www.hltv.org/news/45421/vitality-fend-off-legacy-to-stay-alive-at-blast", "dominio": "hltv.org" },
+      "fonte": {
+        "nome": "HLTV",
+        "url": "https://www.hltv.org/news/45421/vitality-fend-off-legacy-to-stay-alive-at-blast",
+        "dominio": "hltv.org"
+      },
       "fontesSecundarias": [
-        { "nome": "HLTV (página do confronto)", "url": "https://www.hltv.org/matches/2396941/vitality-vs-legacy-blast-open-porto-2026", "dominio": "hltv.org" }
+        {
+          "nome": "HLTV (página do confronto)",
+          "url": "https://www.hltv.org/matches/2396941/vitality-vs-legacy-blast-open-porto-2026",
+          "dominio": "hltv.org"
+        }
       ],
       "nota": 6.2,
       "justificativa": "Resultado relevante de CS2 em torneio de peso, com virada notável, mas ainda em fase de grupos do evento.",
@@ -176,13 +305,23 @@
       "tipo": "esports",
       "escopo": "internacional",
       "confiabilidade": "confirmado",
-      "plataformas": ["PC"],
-      "tags": ["cs2", "blast-open-porto", "esports"],
+      "plataformas": [
+        "PC"
+      ],
+      "tags": [
+        "cs2",
+        "blast-open-porto",
+        "esports"
+      ],
       "dataFato": "2026-08-30",
       "janelaEstendida": false,
-      "fonte": { "nome": "HLTV", "url": "https://www.hltv.org/news/45417/g2-beat-struggling-navi-to-survive-at-blast-open", "dominio": "hltv.org" },
+      "fonte": {
+        "nome": "HLTV",
+        "url": "https://www.hltv.org/news/45417/g2-beat-struggling-navi-to-survive-at-blast-open",
+        "dominio": "hltv.org"
+      },
       "fontesSecundarias": [],
-      "nota": 6.0,
+      "nota": 6,
       "justificativa": "Resultado confirmado com artigo individual localizado e placar verificado, envolvendo duas organizações de peso no cenário de CS2.",
       "pesquisador": "radar-esports"
     },
@@ -194,14 +333,35 @@
       "tipo": "noticia",
       "escopo": "nacional",
       "confiabilidade": "confirmado",
-      "plataformas": ["Xbox Series", "PC", "iOS", "Android"],
-      "tags": ["xbox", "hardware", "preco-brasil"],
+      "plataformas": [
+        "Xbox Series",
+        "PC",
+        "iOS",
+        "Android"
+      ],
+      "tags": [
+        "xbox",
+        "hardware",
+        "preco-brasil"
+      ],
       "dataFato": "2026-08-28",
       "janelaEstendida": true,
-      "fonte": { "nome": "Canaltech", "url": "https://canaltech.com.br/games/controle-especial-de-25-anos-do-xbox-sera-lancado-no-brasil-por-preco-de-chorar/", "dominio": "canaltech.com.br" },
+      "fonte": {
+        "nome": "Canaltech",
+        "url": "https://canaltech.com.br/games/controle-especial-de-25-anos-do-xbox-sera-lancado-no-brasil-por-preco-de-chorar/",
+        "dominio": "canaltech.com.br"
+      },
       "fontesSecundarias": [
-        { "nome": "Tecnoblog", "url": "https://tecnoblog.net/noticias/xbox-controle-de-25-anos-custara-r-799-no-brasil/", "dominio": "tecnoblog.net" },
-        { "nome": "Adrenaline", "url": "https://www.adrenaline.com.br/games/xbox/controle-de-25-anos-do-xbox-chega-ao-brasil/", "dominio": "adrenaline.com.br" }
+        {
+          "nome": "Tecnoblog",
+          "url": "https://tecnoblog.net/noticias/xbox-controle-de-25-anos-custara-r-799-no-brasil/",
+          "dominio": "tecnoblog.net"
+        },
+        {
+          "nome": "Adrenaline",
+          "url": "https://www.adrenaline.com.br/games/xbox/controle-de-25-anos-do-xbox-chega-ao-brasil/",
+          "dominio": "adrenaline.com.br"
+        }
       ],
       "nota": 5.7,
       "justificativa": "Fato concreto sobre preço/lançamento de hardware no Brasil, com boa repercussão na imprensa nacional, mas dentro da janela estendida por estar fora das últimas 24h.",
@@ -216,13 +376,22 @@
       "tipo": "esports",
       "escopo": "internacional",
       "confiabilidade": "confirmado",
-      "plataformas": ["PC"],
-      "tags": ["cs2", "blast-open-porto"],
+      "plataformas": [
+        "PC"
+      ],
+      "tags": [
+        "cs2",
+        "blast-open-porto"
+      ],
       "dataFato": "2026-08-30",
       "janelaEstendida": false,
-      "fonte": { "nome": "HLTV", "url": "https://www.hltv.org/news/45419/aurora-eliminate-m80-from-blast-open-in-dominant-fashion", "dominio": "hltv.org" },
+      "fonte": {
+        "nome": "HLTV",
+        "url": "https://www.hltv.org/news/45419/aurora-eliminate-m80-from-blast-open-in-dominant-fashion",
+        "dominio": "hltv.org"
+      },
       "fontesSecundarias": [],
-      "nota": 5.0,
+      "nota": 5,
       "justificativa": "Resultado de eliminação em torneio de peso, mas de menor repercussão que os demais confrontos do dia.",
       "pesquisador": "radar-esports"
     },
@@ -233,11 +402,20 @@
       "tipo": "esports",
       "escopo": "internacional",
       "confiabilidade": "confirmado",
-      "plataformas": ["PC"],
-      "tags": ["cs2", "blast-open-porto"],
+      "plataformas": [
+        "PC"
+      ],
+      "tags": [
+        "cs2",
+        "blast-open-porto"
+      ],
       "dataFato": "2026-08-30",
       "janelaEstendida": false,
-      "fonte": { "nome": "HLTV", "url": "https://www.hltv.org/news/45420/dem0n-dominates-as-inner-circle-are-sent-home", "dominio": "hltv.org" },
+      "fonte": {
+        "nome": "HLTV",
+        "url": "https://www.hltv.org/news/45420/dem0n-dominates-as-inner-circle-are-sent-home",
+        "dominio": "hltv.org"
+      },
       "fontesSecundarias": [],
       "nota": 4.5,
       "justificativa": "Destaque individual em confronto de eliminação, de interesse mais restrito ao público de CS2.",
@@ -251,10 +429,18 @@
       "escopo": "nacional",
       "confiabilidade": "confirmado",
       "plataformas": [],
-      "tags": ["bgs", "eventos", "brasil"],
+      "tags": [
+        "bgs",
+        "eventos",
+        "brasil"
+      ],
       "dataFato": "2026-08-29",
       "janelaEstendida": true,
-      "fonte": { "nome": "Adrenaline", "url": "https://www.adrenaline.com.br/games/bgs-2026-desconto-semana-gamer/", "dominio": "adrenaline.com.br" },
+      "fonte": {
+        "nome": "Adrenaline",
+        "url": "https://www.adrenaline.com.br/games/bgs-2026-desconto-semana-gamer/",
+        "dominio": "adrenaline.com.br"
+      },
       "fontesSecundarias": [],
       "nota": 4.8,
       "justificativa": "Promoção pontual de evento nacional relevante, mas de baixo impacto jornalístico.",
@@ -267,11 +453,22 @@
       "tipo": "noticia",
       "escopo": "nacional",
       "confiabilidade": "confirmado",
-      "plataformas": ["PC", "Steam"],
-      "tags": ["promocao", "square-enix", "nuuvem"],
+      "plataformas": [
+        "PC",
+        "Steam"
+      ],
+      "tags": [
+        "promocao",
+        "square-enix",
+        "nuuvem"
+      ],
       "dataFato": "2026-08-30",
       "janelaEstendida": false,
-      "fonte": { "nome": "Adrenaline", "url": "https://www.adrenaline.com.br/games/pc-games/jogos-da-square-enix-em-oferta-na-nuuvem-com-ate-90-de-desconto/", "dominio": "adrenaline.com.br" },
+      "fonte": {
+        "nome": "Adrenaline",
+        "url": "https://www.adrenaline.com.br/games/pc-games/jogos-da-square-enix-em-oferta-na-nuuvem-com-ate-90-de-desconto/",
+        "dominio": "adrenaline.com.br"
+      },
       "fontesSecundarias": [],
       "nota": 4.2,
       "justificativa": "Promoção legítima em loja nacional, porém recorrente e de relevância editorial modesta.",
@@ -279,7 +476,13 @@
     }
   ],
   "descartados": [
-    { "titulo": "Diretor de 1666: Amsterdam confirma remoção de elementos de IA generativa após críticas", "motivo": "fonte fraca — página de categoria/arquivo, sem URL de artigo" },
-    { "titulo": "Criador de Hello Neighbor confirma que Hello Neighbor 3 é continuação direta do primeiro jogo", "motivo": "fonte fraca — página de categoria/arquivo, sem URL de artigo" }
+    {
+      "titulo": "Diretor de 1666: Amsterdam confirma remoção de elementos de IA generativa após críticas",
+      "motivo": "fonte fraca — página de categoria/arquivo, sem URL de artigo"
+    },
+    {
+      "titulo": "Criador de Hello Neighbor confirma que Hello Neighbor 3 é continuação direta do primeiro jogo",
+      "motivo": "fonte fraca — página de categoria/arquivo, sem URL de artigo"
+    }
   ]
 }
