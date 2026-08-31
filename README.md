@@ -42,4 +42,13 @@ npm run build          # valida os dados e gera o site estático
 
 ## Deploy
 
-Produção: <URL_DE_PRODUCAO>
+Produção: https://radar-games.vercel.app
+
+Preview da branch de desenvolvimento: https://radar-games-git-feat-radar-games-danilo-3bbd.vercel.app
+
+O projeto no Vercel (`radar-games`) está ligado a este repositório. O framework é declarado
+em `vercel.json`, não no painel, para que a configuração fique versionada. Cada push na
+branch de produção republica o site; pushes em outras branches geram um preview próprio.
+
+`npm run build` roda `validate:data` antes do `next build`, então um JSON malformado em
+`data/` **quebra o deploy** em vez de publicar uma edição inválida.
