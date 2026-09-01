@@ -1,0 +1,474 @@
+{
+  "categoria": "games",
+  "data": "2026-09-01",
+  "geradoEm": "2026-09-01T21:15:00-03:00",
+  "janela": {
+    "inicio": "2026-08-31T21:00:00-03:00",
+    "fim": "2026-09-01T21:00:00-03:00"
+  },
+  "observacao": "Quatro candidatos fortes desta rodada (vazamento de 12-13 TB do Steam, finalistas do SBGames 2026, saída de Snappi da NIP e vazamento de Just Dance: Decades of Hits) já haviam sido publicados na edição de 2026-08-31 e foram descartados por repetição, sem fato novo dentro da janela de hoje. O reajuste do Switch 2 no Brasil foi mantido por ser fato distinto do aumento em EUA/Europa publicado ontem.",
+  "itens": [
+    {
+      "posicao": 1,
+      "slug": "bit-reactor-furlough-star-wars-zero-company",
+      "titulo": "Bit Reactor colocou cerca de 80% da equipe em licença sem pagamento antes de Star Wars Zero Company",
+      "resumo": "A Bit Reactor, estúdio do tático Star Wars Zero Company publicado pela EA, colocou aproximadamente 80% do time em furlough antes do lançamento de 27 de agosto de 2026, mantendo apenas uma equipe mínima em operação. Um ex-funcionário afirmou que os afetados ficaram fora de qualquer participação nos lucros, enquanto o estúdio diz esperar reintegrar os trabalhadores caso o jogo tenha bom desempenho. O título estava entre os mais vendidos em receita no Steam no momento da reportagem.",
+      "tipo": "noticia",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC", "PS5", "Xbox Series X|S"],
+      "tags": ["ea", "estudio", "trabalho"],
+      "dataFato": "2026-09-01",
+      "janelaEstendida": false,
+      "fonte": {
+        "nome": "Game Developer",
+        "url": "https://www.gamedeveloper.com/business/star-wars-zero-company-studio-furloughed-workers-ahead-of-launch",
+        "dominio": "gamedeveloper.com"
+      },
+      "fontesSecundarias": [
+        {
+          "nome": "PC Gamer",
+          "url": "https://www.pcgamer.com/gaming-industry/the-studio-behind-star-wars-zero-company-which-is-currently-a-steam-bestseller-has-reportedly-furloughed-the-majority-of-its-staff/",
+          "dominio": "pcgamer.com"
+        }
+      ],
+      "nota": 9.2,
+      "justificativa": "Fato inédito do dia, com forte carga humana e industrial: um estúdio corta quase todo o time enquanto o jogo é sucesso de vendas. Duas fontes de peso alto corroboram.",
+      "pesquisador": "radar-empresas-internacionais"
+    },
+    {
+      "posicao": 2,
+      "slug": "switch-2-novo-preco-brasil-setembro",
+      "titulo": "Switch 2 passa a custar R$ 4.599,90 no Brasil a partir de 1º de setembro",
+      "resumo": "Entrou em vigor em 1º de setembro de 2026 o reajuste do preço sugerido do Nintendo Switch 2 no Brasil, que subiu de R$ 4.499,90 para R$ 4.599,90 em varejistas selecionados. A Nintendo atribui a mudança a alterações nas condições de mercado que devem seguir impactando a operação no médio e longo prazo. O preço do Nintendo Switch original permanece inalterado, e o aumento brasileiro foi proporcionalmente menor que os aplicados em EUA, Canadá e Japão.",
+      "tipo": "noticia",
+      "escopo": "nacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["Switch 2"],
+      "tags": ["nintendo", "hardware", "preco"],
+      "dataFato": "2026-09-01",
+      "janelaEstendida": false,
+      "fonte": {
+        "nome": "Omelete",
+        "url": "https://www.omelete.com.br/games/nintendo-switch-2-preco-no-brasil-apos-aumento-e-revelado",
+        "dominio": "omelete.com.br"
+      },
+      "fontesSecundarias": [
+        {
+          "nome": "Voxel (TecMundo)",
+          "url": "https://www.tecmundo.com.br/voxel/505065-nintendo-aumenta-preco-do-switch-2-no-brasil-e-console-passa-a-custar-r-459990.htm",
+          "dominio": "tecmundo.com.br"
+        },
+        {
+          "nome": "GameVicio",
+          "url": "https://www.gamevicio.com/noticias/2026/08/nintendo-switch-2-sofre-aumento-de-preco-no-brasil/",
+          "dominio": "gamevicio.com"
+        }
+      ],
+      "nota": 8.6,
+      "justificativa": "Impacto direto no bolso do consumidor brasileiro e fato novo da janela — a vigência do reajuste local, distinto do aumento em EUA e Europa publicado ontem. Trazido por dois pesquisadores.",
+      "pesquisador": "radar-lancamentos-nacionais"
+    },
+    {
+      "posicao": 3,
+      "slug": "sony-dois-state-of-play-3-de-setembro",
+      "titulo": "Sony marca dois State of Play seguidos para 3 de setembro",
+      "resumo": "A PlayStation confirmou que fará duas transmissões State of Play consecutivas em 3 de setembro de 2026, a partir das 10h no horário de Brasília. A primeira reúne novidades de PlayStation Studios e parceiros third-party e se encerra com uma apresentação estendida de Final Fantasy VII Revelation. A segunda é dedicada a estúdios do Japão e da Ásia, em japonês com legendas em inglês e apresentada por Yuji Kaji.",
+      "tipo": "noticia",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PS5", "PC"],
+      "tags": ["sony", "playstation", "evento"],
+      "dataFato": "2026-08-31",
+      "janelaEstendida": true,
+      "fonte": {
+        "nome": "Game Informer",
+        "url": "https://gameinformer.com/2026/08/31/playstation-schedules-back-to-back-state-of-plays-for-thursday",
+        "dominio": "gameinformer.com"
+      },
+      "fontesSecundarias": [],
+      "nota": 8.5,
+      "justificativa": "Confirmação oficial do que ontem era apenas rumor de insider, com data, horário e um dos maiores jogos da temporada anunciado como destaque.",
+      "pesquisador": "radar-empresas-internacionais"
+    },
+    {
+      "posicao": 4,
+      "slug": "capcom-spotlight-tgs-2026-16-de-setembro",
+      "titulo": "Capcom marca Capcom Spotlight da TGS 2026 para 16 de setembro",
+      "resumo": "A Capcom anunciou um Capcom Spotlight de cerca de 40 minutos para 16 de setembro de 2026, um dia antes da abertura da Tokyo Game Show 2026, que ocorre de 17 a 21 de setembro. A empresa também detalhou a linha de jogos que levará ao evento: Monster Hunter Wilds Ascendance, Dragon's Dogma II Dark Arisen, Mega Man Dual Override, Pragmata, Onimusha: Way of the Sword e Street Fighter 6.",
+      "tipo": "noticia",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PS5", "Xbox Series X|S", "Switch", "Switch 2", "PC"],
+      "tags": ["capcom", "tgs", "evento"],
+      "dataFato": "2026-09-01",
+      "janelaEstendida": false,
+      "fonte": {
+        "nome": "GoNintendo",
+        "url": "https://gonintendo.com/contents/64423-capcom-spotlight-tgs-2026-announced-for-sept-16th-2026-tgs-lineup-detailed",
+        "dominio": "gonintendo.com"
+      },
+      "fontesSecundarias": [],
+      "nota": 8.0,
+      "justificativa": "Anúncio oficial do dia com data firme e line-up de peso, definindo parte relevante do calendário de setembro.",
+      "pesquisador": "radar-lancamentos-internacionais"
+    },
+    {
+      "posicao": 5,
+      "slug": "ilari-kuittinen-deixa-a-housemarque",
+      "titulo": "Cofundador da Housemarque, Ilari Kuittinen, deixa o estúdio após 31 anos",
+      "resumo": "Ilari Kuittinen, cofundador e CEO da Housemarque — estúdio da Sony responsável por Returnal e Saros —, anunciou sua saída depois de 31 anos à frente da empresa. Sami \"Haxu\" Hakala assume como managing director em uma transição preparada ao longo de meses para garantir continuidade operacional. Fundada em 1995 e comprada pela Sony em 2021, a Housemarque é o estúdio de games mais antigo em atividade na Finlândia.",
+      "tipo": "noticia",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PS5", "PC"],
+      "tags": ["sony", "estudio", "lideranca"],
+      "dataFato": "2026-08-31",
+      "janelaEstendida": true,
+      "fonte": {
+        "nome": "Game Developer",
+        "url": "https://www.gamedeveloper.com/business/housemarque-co-founder-ilari-kuittinen-retires-from-studio",
+        "dominio": "gamedeveloper.com"
+      },
+      "fontesSecundarias": [],
+      "nota": 7.9,
+      "justificativa": "Mudança de comando em um estúdio first-party da Sony às vésperas de Saros, com valor histórico, mas sem efeito imediato sobre os jogadores.",
+      "pesquisador": "radar-empresas-internacionais"
+    },
+    {
+      "posicao": 6,
+      "slug": "metaphor-refantazio-switch-2-pre-venda",
+      "titulo": "Metaphor: ReFantazio para Switch 2 abre pré-venda e ganha novo trailer",
+      "resumo": "A ATLUS abriu em 1º de setembro de 2026 as pré-vendas da versão de Nintendo Switch 2 de Metaphor: ReFantazio e divulgou um novo trailer do port. O jogo chega ao console em 12 de novembro de 2026, com edição Steelbook por tempo limitado e uma Digital Deluxe Edition que inclui art book digital, trilha sonora e DLCs.",
+      "tipo": "lancamento",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["Switch 2"],
+      "tags": ["atlus", "port", "nintendo"],
+      "dataFato": "2026-09-01",
+      "janelaEstendida": false,
+      "fonte": {
+        "nome": "GoNintendo",
+        "url": "https://gonintendo.com/contents/64426-metaphor-refantazio-switch-2-pre-orders-live-new-trailer-shared",
+        "dominio": "gonintendo.com"
+      },
+      "fontesSecundarias": [
+        {
+          "nome": "Nintendo Everything",
+          "url": "https://nintendoeverything.com/new-trailer-for-metaphor-refantazio-on-nintendo-switch-2",
+          "dominio": "nintendoeverything.com"
+        },
+        {
+          "nome": "Persona Central",
+          "url": "https://personacentral.com/metaphor-switch-2-order/",
+          "dominio": "personacentral.com"
+        }
+      ],
+      "nota": 7.4,
+      "justificativa": "Marco comercial de um dos RPGs mais premiados recentes no novo console da Nintendo, com data e edições confirmadas e corroboração de três fontes.",
+      "pesquisador": "radar-lancamentos-internacionais"
+    },
+    {
+      "posicao": 7,
+      "slug": "furia-unica-brasileira-playoffs-blast-open-porto",
+      "titulo": "FURIA é a única brasileira nos playoffs da BLAST Open Porto 2026",
+      "resumo": "O chaveamento dos playoffs da BLAST Open Porto 2026 foi definido com Spirit, MOUZ, Falcons, G2, Vitality e FURIA classificados. A FURIA é a única representante brasileira na fase final e enfrenta a Vitality em 4 de setembro. O torneio distribui US$ 1,1 milhão em premiação e se encerra em 6 de setembro, no Porto.",
+      "tipo": "esports",
+      "escopo": "nacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC"],
+      "tags": ["cs2", "blast", "furia"],
+      "dataFato": "2026-08-31",
+      "janelaEstendida": true,
+      "fonte": {
+        "nome": "HLTV",
+        "url": "https://www.hltv.org/news/45431/blast-open-porto-playoff-bracket-set",
+        "dominio": "hltv.org"
+      },
+      "fontesSecundarias": [
+        {
+          "nome": "Draft5",
+          "url": "https://draft5.gg/noticia/guia-furia-legacy-pain-e-dendele-representam-o-brasil-na-blast-open-porto-2026",
+          "dominio": "draft5.gg"
+        }
+      ],
+      "nota": 7.4,
+      "justificativa": "Principal pauta de esports com interesse brasileiro na janela: chave definida, adversário e data marcados em torneio tier 1.",
+      "pesquisador": "radar-esports"
+    },
+    {
+      "posicao": 8,
+      "slug": "au-revoir-chega-aos-consoles-em-17-de-setembro",
+      "titulo": "Au Revoir, do brasileiro Invisible Studio, chega aos consoles em 17 de setembro",
+      "resumo": "A aventura narrativa cyberpunk Au Revoir, do estúdio brasileiro Invisible Studio com publicação da Nuntius Games, teve o lançamento em consoles confirmado para 17 de setembro de 2026, em PS4, PS5, Xbox One, Xbox Series X|S, Switch e Switch 2. Ambientado em 2071, o jogo tem campanha de 2 a 3 horas, cinco finais e localização completa em português brasileiro com dublagem do estúdio Dubrasil. O título venceu Melhor Jogo, Melhor Narrativa, Melhor Visual e Melhor Áudio na categoria estudantil do SBGames Manaus 2024.",
+      "tipo": "lancamento",
+      "escopo": "nacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PS4", "PS5", "Xbox One", "Xbox Series X|S", "Switch", "Switch 2", "PC"],
+      "tags": ["brasil", "indie", "lancamento"],
+      "dataFato": "2026-08-31",
+      "janelaEstendida": true,
+      "fonte": {
+        "nome": "Gamers e Games",
+        "url": "https://www.gamersegames.com.br/2026/08/31/jogo-narrativo-brasileiro-au-revoir-chega-aos-consoles-em-setembro-de-2026/",
+        "dominio": "gamersegames.com.br"
+      },
+      "fontesSecundarias": [],
+      "nota": 7.3,
+      "justificativa": "Jogo nacional premiado saindo do PC para todos os consoles com dublagem em PT-BR e data definida; trazido por dois pesquisadores, o que reforça a relevância.",
+      "pesquisador": "radar-lancamentos-nacionais"
+    },
+    {
+      "posicao": 9,
+      "slug": "ps-plus-essential-setembro-2026-disponivel",
+      "titulo": "Jogos do PS Plus Essential de setembro ficam disponíveis",
+      "resumo": "A leva mensal do PlayStation Plus Essential de setembro de 2026 foi liberada em 1º de setembro com MLB The Show 26 (PS5), Sniper Elite: Resistance (PS5/PS4), Chained Echoes (PS4) e Wobbly Life (PS5/PS4). Os títulos ficam resgatáveis até 5 de outubro de 2026. No Brasil, a Sony reforça que desde julho de 2026 pode ser exigida verificação única de idade para acessar conteúdo classificado para maiores de 18 anos, como parte da adequação ao ECA Digital.",
+      "tipo": "lancamento",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PS5", "PS4"],
+      "tags": ["playstation", "assinatura", "ps-plus"],
+      "dataFato": "2026-09-01",
+      "janelaEstendida": false,
+      "fonte": {
+        "nome": "PlayStation.Blog Brasil",
+        "url": "https://blog.br.playstation.com/2026/08/26/jogos-mensais-de-setembro-para-assinantes-playstation-plus-sniper-elite-resistance-mlb-the-show-26-wobbly-life-chained-echoes/",
+        "dominio": "blog.br.playstation.com"
+      },
+      "fontesSecundarias": [
+        {
+          "nome": "Gematsu",
+          "url": "https://www.gematsu.com/2026/08/playstation-plus-monthly-games-lineup-for-september-2026-announced",
+          "dominio": "gematsu.com"
+        },
+        {
+          "nome": "PlayStation LifeStyle",
+          "url": "https://www.playstationlifestyle.net/2026/08/31/ps-plus-essential-september-monthly-free-games-out-now/",
+          "dominio": "playstationlifestyle.net"
+        }
+      ],
+      "nota": 7.2,
+      "justificativa": "Fato de serviço que interessa a milhões de assinantes e efetivamente acontece na janela, com fonte primária da própria Sony; a lista já era conhecida desde agosto, o que reduz o ineditismo.",
+      "pesquisador": "radar-lancamentos-internacionais"
+    },
+    {
+      "posicao": 10,
+      "slug": "dylan-falco-deixa-a-g2-esports",
+      "titulo": "Dylan Falco se despede da G2 Esports após quase cinco anos",
+      "resumo": "A G2 Esports oficializou em 31 de agosto a saída definitiva do técnico Dylan Falco, que estava no banco desde julho, quando Luka \"Perkz\" Perković assumiu como head coach. A mudança veio após a derrota por 3 a 0 para a LYON nas semifinais do MSI 2026. Falco chegou à G2 em 2021 e conquistou 11 títulos da LEC no período.",
+      "tipo": "esports",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC"],
+      "tags": ["lol", "lec", "g2"],
+      "dataFato": "2026-08-31",
+      "janelaEstendida": true,
+      "fonte": {
+        "nome": "Dot Esports",
+        "url": "https://dotesports.com/league-of-legends/news/dylan-falco-leaves-g2-esports",
+        "dominio": "dotesports.com"
+      },
+      "fontesSecundarias": [
+        {
+          "nome": "Sheep Esports",
+          "url": "https://www.sheepesports.com/en/all/articles/g2-esports-announce-dylan-falco-s-bench-perkz-promoted-as-head-coach/en",
+          "dominio": "sheepesports.com"
+        }
+      ],
+      "nota": 7.0,
+      "justificativa": "Encerramento de um ciclo vencedor na maior organização europeia de LoL, mas com desfecho já antecipado desde o banco em julho.",
+      "pesquisador": "radar-esports"
+    }
+  ],
+  "tambemNoRadar": [
+    {
+      "slug": "sonic-racing-crossworlds-dlc-samba-de-amigo",
+      "titulo": "Sonic Racing: CrossWorlds recebe DLC gratuito de Samba de Amigo em 8 de setembro",
+      "resumo": "A SEGA divulgou o roadmap de setembro de 2026 de Sonic Racing: CrossWorlds e confirmou a chegada do Amigo, de Samba de Amigo, como DLC gratuito em 8 de setembro. O plano reforça que corredores de fora do universo Sonic, como Hatsune Miku, Joker (Persona 5 Royal) e Ichiban Kasuga (Like a Dragon), entram via atualização gratuita.",
+      "tipo": "lancamento",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PS5", "Xbox Series X|S", "Switch", "Switch 2", "PC"],
+      "tags": ["sega", "dlc", "sonic"],
+      "dataFato": "2026-09-01",
+      "janelaEstendida": false,
+      "fonte": {
+        "nome": "GoNintendo",
+        "url": "https://gonintendo.com/contents/64427-samba-de-amigo-dlc-arrives-in-sonic-racing-crossworlds-sept-8th-2026-sept-2026",
+        "dominio": "gonintendo.com"
+      },
+      "fontesSecundarias": [
+        {
+          "nome": "Video Games Chronicle",
+          "url": "https://www.videogameschronicle.com/news/sega-is-adding-free-classic-sonic-and-crazy-taxi-dlc-to-sonic-racing-crossworlds/",
+          "dominio": "videogameschronicle.com"
+        }
+      ],
+      "nota": 6.6,
+      "justificativa": "Conteúdo gratuito com data marcada, mas é atualização de roadmap já conhecido e de alcance menor que os itens do TOP 10.",
+      "pesquisador": "radar-lancamentos-internacionais"
+    },
+    {
+      "slug": "furtos-de-equipamentos-na-gamescom-2026",
+      "titulo": "Desenvolvedores indies e publishers relatam furtos de equipamentos na Gamescom 2026",
+      "resumo": "Laptops e Steam Decks foram furtados durante a noite de estandes na área de negócios e na Indie Arena da Gamescom 2026. Entre os afetados estão o desenvolvedor Ryan Laley (Mimic), a publisher iam8bit e a Tessera Studios, que relatou a perda de dois laptops e um Steam Deck. A organização respondeu que a segurança geral é feita por guardas uniformizados e que a proteção de estandes individuais deve ser contratada à parte.",
+      "tipo": "noticia",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC"],
+      "tags": ["gamescom", "indie", "evento"],
+      "dataFato": "2026-08-31",
+      "janelaEstendida": true,
+      "fonte": {
+        "nome": "Game Developer",
+        "url": "https://www.gamedeveloper.com/business/indie-devs-and-publishers-hit-in-gamescom-equipment-thefts",
+        "dominio": "gamedeveloper.com"
+      },
+      "fontesSecundarias": [],
+      "nota": 6.4,
+      "justificativa": "Caso de bastidor com prejuízo real para pequenos estúdios, mas sem consequência estrutural para a indústria ou para o público jogador.",
+      "pesquisador": "radar-empresas-internacionais"
+    },
+    {
+      "slug": "crimson-moon-lancamento-1-de-setembro",
+      "titulo": "Crimson Moon é lançado com edição padrão a R$ 74,99 no Brasil",
+      "resumo": "O action RPG Crimson Moon, da ProbablyMonsters, chegou em 1º de setembro de 2026 para PC (Steam e Epic Games Store), PS5 e Xbox Series X|S. No Brasil, a edição padrão saiu por R$ 74,99 e a Deluxe por R$ 112,49, esta com armadura cerimonial, arma cosmética e acesso a uma expansão futura. O jogo tem visual gótico, campanha solo e cooperativa e trilha assinada por músicos de HEALTH, Periphery e Ice Nine Kills.",
+      "tipo": "lancamento",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC", "PS5", "Xbox Series X|S"],
+      "tags": ["lancamento", "rpg", "preco"],
+      "dataFato": "2026-09-01",
+      "janelaEstendida": false,
+      "fonte": {
+        "nome": "Adrenaline",
+        "url": "https://www.adrenaline.com.br/games/crimson-moon-lancamento/",
+        "dominio": "adrenaline.com.br"
+      },
+      "fontesSecundarias": [],
+      "nota": 6.2,
+      "justificativa": "Lançamento do dia com preço regional confirmado, porém de estúdio sem grande tração e com apenas uma fonte.",
+      "pesquisador": "radar-lancamentos-nacionais"
+    },
+    {
+      "slug": "hadji-anuncia-aposentadoria-no-cs2",
+      "titulo": "hAdji anuncia aposentadoria como jogador profissional de CS2",
+      "resumo": "Ali \"hAdji\" Haïnouss, de 30 anos, anunciou em 1º de setembro o fim da carreira como jogador de Counter-Strike, iniciada em 2015. Passou por Envy, 3DMAX, LDLC, Falcons, Monte, DRILLAS e pelo projeto illwill, com melhor resultado em LAN o 3º-4º lugar na CAC 2018. Declarou que pretende seguir no cenário atuando em comissão técnica.",
+      "tipo": "esports",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC"],
+      "tags": ["cs2", "esports", "carreira"],
+      "dataFato": "2026-09-01",
+      "janelaEstendida": false,
+      "fonte": {
+        "nome": "HLTV",
+        "url": "https://www.hltv.org/news/45435/hadji-announces-his-retirement-as-player",
+        "dominio": "hltv.org"
+      },
+      "fontesSecundarias": [],
+      "nota": 6.0,
+      "justificativa": "Aposentadoria de veterano do cenário francês, relevante para o nicho de CS2 mas sem alcance junto ao público geral.",
+      "pesquisador": "radar-esports"
+    },
+    {
+      "slug": "serrapolis-jogo-gratuito-da-dyxel",
+      "titulo": "Serrapolis, jogo da Dyxel com o Drops de Jogos, é lançado gratuitamente",
+      "resumo": "Foi ao ar o Serrapolis, game 2D desenvolvido pela Dyxel Gaming em parceria com o site Drops de Jogos, disponível de graça na itch.io e em dyxel.com.br/serrapolis. O jogo transforma o município paulista de Serra Negra em uma aventura interativa com foco em história, cultura, turismo e educação, e inclui audiodescrição. O projeto teve apoio da prefeitura de Serra Negra e da Política Nacional Aldir Blanc, do Ministério da Cultura.",
+      "tipo": "lancamento",
+      "escopo": "nacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC"],
+      "tags": ["brasil", "indie", "acessibilidade"],
+      "dataFato": "2026-08-31",
+      "janelaEstendida": true,
+      "fonte": {
+        "nome": "Drops de Jogos",
+        "url": "https://dropsdejogos.uai.com.br/noticias/indie/exclusivo-serrapolis-game-da-dyxel-com-o-drops-de-jogos-esta-no-ar/",
+        "dominio": "dropsdejogos.uai.com.br"
+      },
+      "fontesSecundarias": [
+        {
+          "nome": "Drops de Jogos",
+          "url": "https://dropsdejogos.uai.com.br/noticias/editorial/exclusivo-serrapolis-jogo-do-drops-de-jogos-e-dyxel-chega-em-agosto/",
+          "dominio": "dropsdejogos.uai.com.br"
+        }
+      ],
+      "nota": 5.8,
+      "justificativa": "Projeto nacional com mérito cultural e de acessibilidade, mas de escala local e coberto apenas pelo próprio veículo parceiro.",
+      "pesquisador": "radar-empresas-nacionais"
+    },
+    {
+      "slug": "steam-pve-survival-crafting-fest",
+      "titulo": "Steam abre o PvE Survival Crafting Fest com descontos de até 90%",
+      "resumo": "O festival temático de sobrevivência e crafting da Steam começou em 31 de agosto de 2026 e vai até 7 de setembro, com descontos que chegam a 90% em títulos como Green Hell, The Alters, Terraria, Project Zomboid, Raft, Palworld e Enshrouded. O evento também disponibiliza dezenas de demos jogáveis de jogos de sobrevivência ainda não lançados.",
+      "tipo": "noticia",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC", "Steam Deck"],
+      "tags": ["steam", "promocao", "evento"],
+      "dataFato": "2026-08-31",
+      "janelaEstendida": true,
+      "fonte": {
+        "nome": "Steam",
+        "url": "https://store.steampowered.com/category/pve_survival_crafting",
+        "dominio": "store.steampowered.com"
+      },
+      "fontesSecundarias": [
+        {
+          "nome": "Gameplay Scassi",
+          "url": "https://gameplayscassi.com.br/noticias/steam-libera-festival-de-sobrevivencia-com-jogos-baratos-para-pc/131449/",
+          "dominio": "gameplayscassi.com.br"
+        }
+      ],
+      "nota": 5.4,
+      "justificativa": "Promoção recorrente da Steam, útil como serviço ao leitor mas sem valor noticioso suficiente para o TOP 10.",
+      "pesquisador": "radar-lancamentos-nacionais"
+    },
+    {
+      "slug": "maden-substitui-tauson-na-gamerlegion",
+      "titulo": "Maden substitui Tauson na GamerLegion no qualificatório do IEM Beijing",
+      "resumo": "Pavle \"Maden\" Bošković entra no lugar de Sebastian \"Tauson\" Lindelof na GamerLegion para o qualificatório fechado do IEM Beijing 2026, disputado online de 2 a 4 de setembro com duas vagas em jogo. Tauson ficou cinco dias hospitalizado com artrite reativa e espera voltar a tempo do FISSURE Playground 3. A equipe estreia contra a Nuclear TigeRES.",
+      "tipo": "esports",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC"],
+      "tags": ["cs2", "roster", "iem"],
+      "dataFato": "2026-09-01",
+      "janelaEstendida": false,
+      "fonte": {
+        "nome": "HLTV",
+        "url": "https://www.hltv.org/news/45433/maden-steps-in-for-gamerlegion-in-iem-beijing-closed-qualifier",
+        "dominio": "hltv.org"
+      },
+      "fontesSecundarias": [
+        {
+          "nome": "HLTV",
+          "url": "https://www.hltv.org/news/45434/short-news-week-35",
+          "dominio": "hltv.org"
+        }
+      ],
+      "nota": 5.2,
+      "justificativa": "Substituição pontual em qualificatório online, de interesse restrito ao acompanhamento diário do circuito de CS2.",
+      "pesquisador": "radar-esports"
+    }
+  ],
+  "descartados": [
+    {
+      "titulo": "Vazamento de 12-13 TB de arquivos antigos do Steam (2003-2013)",
+      "motivo": "repetição do item publicado na posição 1 da edição de 2026-08-31, sem fato novo na janela de hoje"
+    },
+    {
+      "titulo": "SBGames 2026 divulga os 31 finalistas da Seleção Oficial de jogos indie",
+      "motivo": "repetição do item publicado na posição 8 da edição de 2026-08-31"
+    },
+    {
+      "titulo": "Snappi deixa a line-up ativa da Ninjas in Pyjamas",
+      "motivo": "repetição de item já publicado em também no radar na edição de 2026-08-31"
+    },
+    {
+      "titulo": "Ubisoft confirma vazamento de Just Dance: Decades of Hits e marca revelação para 10 de setembro",
+      "motivo": "repetição de item já publicado em também no radar na edição de 2026-08-31; a associação com um Nintendo Direct segue sem confirmação oficial"
+    }
+  ]
+}
