@@ -1,0 +1,59 @@
+name: Radar Games — rodar sob demanda
+
+on:
+  workflow_dispatch:
+    inputs:
+      data:
+        description: "Data específica (AAAA-MM-DD). Deixe em branco para hoje."
+        required: false
+        default: ""
+
+permissions:
+  contents: write  # necessário para o /radar-games poder dar git push
+
+jobs:
+  gerar-radar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+
+    steps:
+      - name: Checkout do repositório
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true  # deixa o git push do comando funcionar com o token do próprio Actions
+
+      - name: Configurar Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+          cache: "npm"
+
+      - name: Instalar dependências do projeto
+        run: npm ci
+
+      - name: Instalar o CLI do Claude Code
+        run: npm install -g @anthropic-ai/claude-code
+
+      - name: Configurar identidade do git para o commit automático
+        run: |
+          git config user.name "radar-bot"
+          git config user.email "radar-bot@users.noreply.github.com"
+
+      # Mesma chamada que o radar.cmd já faz localmente — só que aqui
+      # autenticada pelo token da sua assinatura (CLAUDE_CODE_OAUTH_TOKEN),
+      # não por uma API key. Isso é o que preserva o "não consome
+      # crédito de API" que você já tinha.
+      - name: Rodar /radar-games
+        env:
+          CLAUDE_CODE_OAUTH_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+        run: |
+          if [ -n "${{ github.event.inputs.data }}" ]; then
+            claude -p "/radar-games ${{ github.event.inputs.data }}" --permission-mode acceptEdits
+          else
+            claude -p "/radar-games" --permission-mode acceptEdits
+          fi
+
+      # O passo 8 do próprio comando /radar-games já faz git add, commit
+      # e push (veja .claude/commands/radar-games.md). Não precisa repetir
+      # isso aqui. O push dispara o redeploy na Vercel automaticamente,
+      # exatamente como hoje.
