@@ -3,7 +3,6 @@
 import { useState } from "react";
 
 export default function PainelRadar() {
-  const [senha, setSenha] = useState("");
   const [data, setData] = useState("");
   const [estado, setEstado] = useState<"ocioso" | "enviando" | "sucesso" | "erro">("ocioso");
   const [mensagem, setMensagem] = useState("");
@@ -15,7 +14,7 @@ export default function PainelRadar() {
       const resposta = await fetch("/api/rodar-radar", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({ senha, data }),
+        body: JSON.stringify({ data }),
       });
       const json = await resposta.json();
       if (json.ok) {
@@ -37,15 +36,6 @@ export default function PainelRadar() {
     <div className="mx-auto max-w-md">
       <h1 className="mb-6 text-xl font-semibold tracking-tight">Rodar o Radar Games</h1>
 
-      <label className="mb-2 block text-sm text-suave">Senha</label>
-      <input
-        type="password"
-        value={senha}
-        onChange={(e) => setSenha(e.target.value)}
-        autoComplete="off"
-        className="mb-4 w-full rounded-md border border-borda bg-superficie px-3 py-2 text-texto outline-none focus:border-destaque"
-      />
-
       <label className="mb-2 block text-sm text-suave">Data (opcional, AAAA-MM-DD)</label>
       <input
         type="text"
@@ -57,7 +47,7 @@ export default function PainelRadar() {
 
       <button
         onClick={rodar}
-        disabled={estado === "enviando" || !senha}
+        disabled={estado === "enviando"}
         className="w-full rounded-md bg-destaque px-4 py-2 font-medium text-white disabled:opacity-50"
       >
         {estado === "enviando" ? "Disparando..." : "Rodar radar de hoje"}
