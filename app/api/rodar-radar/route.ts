@@ -1,23 +1,11 @@
 import { NextRequest, NextResponse } from "next/server";
 
 export async function POST(request: NextRequest) {
-  let body: { senha?: string; data?: string };
+  let body: { data?: string };
   try {
     body = await request.json();
   } catch {
     return NextResponse.json({ ok: false, erro: "Corpo da requisição inválido." }, { status: 400 });
-  }
-
-  const senhaEsperada = process.env.RADAR_TRIGGER_SENHA;
-  if (!senhaEsperada) {
-    return NextResponse.json(
-      { ok: false, erro: "RADAR_TRIGGER_SENHA não configurada no servidor." },
-      { status: 500 }
-    );
-  }
-
-  if (body.senha !== senhaEsperada) {
-    return NextResponse.json({ ok: false, erro: "Senha incorreta." }, { status: 401 });
   }
 
   const token = process.env.RADAR_GITHUB_TOKEN;
