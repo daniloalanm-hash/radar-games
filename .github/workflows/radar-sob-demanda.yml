@@ -39,6 +39,32 @@ jobs:
           git config user.name "radar-bot"
           git config user.email "radar-bot@users.noreply.github.com"
 
+      # Num runner do GitHub Actions ninguém está presente pra aceitar o
+      # dialogo "você confia nesta pasta?" na primeira vez. Sem isso, o
+      # Claude Code ignora as regras de .claude/settings.json e trava.
+      # Marca a pasta do checkout como confiável de antemão, direto no
+      # arquivo de configuração que o CLI le.
+      - name: Marcar workspace como confiável
+        run: |
+          mkdir -p "$HOME"
+          WORKSPACE_PATH="${GITHUB_WORKSPACE}"
+          node -e "
+            const fs = require('fs');
+            const os = require('os');
+            const path = require('os').homedir() + '/.claude.json';
+            let config = {};
+            if (fs.existsSync(path)) {
+              try { config = JSON.parse(fs.readFileSync(path, 'utf8')); } catch (e) { config = {}; }
+            }
+            config.projects = config.projects || {};
+            config.projects['${WORKSPACE_PATH}'] = Object.assign(
+              {},
+              config.projects['${WORKSPACE_PATH}'],
+              { hasTrustDialogAccepted: true }
+            );
+            fs.writeFileSync(path, JSON.stringify(config, null, 2));
+          "
+
       # Mesma chamada que o radar.cmd já faz localmente — só que aqui
       # autenticada pelo token da sua assinatura (CLAUDE_CODE_OAUTH_TOKEN),
       # não por uma API key. Isso é o que preserva o "não consome
