@@ -1,0 +1,377 @@
+{
+  "categoria": "games",
+  "data": "2026-09-20",
+  "geradoEm": "2026-09-20T21:00:00-03:00",
+  "janela": { "inicio": "2026-09-19T21:00:00-03:00", "fim": "2026-09-20T21:00:00-03:00" },
+  "observacao": null,
+  "itens": [
+    {
+      "posicao": 1,
+      "slug": "kojima-productions-rebate-relatorio-bloomberg-sony-xbox",
+      "titulo": "Kojima Productions rebate relatório da Bloomberg sobre saída da Sony para a Xbox",
+      "resumo": "A Kojima Productions divulgou comunicado pedindo que os fãs tratem 'com uma dose de ceticismo' a reportagem da Bloomberg que atribuía a saída de Physint da PlayStation a atrasos, orçamento estourado e baixo desempenho de Death Stranding. O estúdio afirmou que nenhuma das alegações veio de fonte oficial, reforçou que segue 'saudável e lucrativo' e que a relação com a PlayStation 'continua forte', enquanto o desenvolvimento de Physint segue agora sob publicação da Xbox.",
+      "tipo": "noticia",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["Xbox Series", "PS5", "PC"],
+      "tags": ["kojima-productions", "sony", "xbox", "physint"],
+      "dataFato": "2026-09-20",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Video Games Chronicle", "url": "https://www.videogameschronicle.com/news/kojima-productions-asks-players-to-treat-report-on-why-it-switched-from-playstation-to-xbox-with-a-dose-of-scepticism/", "dominio": "videogameschronicle.com" },
+      "fontesSecundarias": [
+        { "nome": "Bloomberg", "url": "https://www.bloomberg.com/news/articles/2026-09-11/hideo-kojima-s-physint-video-game-dropped-by-playstation-goes-to-xbox", "dominio": "bloomberg.com" },
+        { "nome": "TheGamer", "url": "https://www.thegamer.com/kojima-productions-responds-bloomberg-report/", "dominio": "thegamer.com" }
+      ],
+      "nota": 8.8,
+      "justificativa": "Fato do dia (20/09), envolve disputa editorial entre duas das maiores publishers do mundo e resposta oficial de um dos estúdios mais respeitados da indústria; trazido por dois pesquisadores de forma independente, reforçando relevância.",
+      "pesquisador": "radar-empresas-internacionais"
+    },
+    {
+      "posicao": 2,
+      "slug": "furia-terceiro-lugar-starladder-starseries-fall-2026",
+      "titulo": "FURIA fica em 3º lugar na StarLadder StarSeries Fall 2026 após derrota para a Vitality",
+      "resumo": "A FURIA foi derrotada pela Team Vitality por 2-0 (13-5 no Cache e 13-8 no Anubis) na decisão de terceiro lugar da StarLadder StarSeries Fall 2026, ficando com a medalha de bronze. A equipe brasileira recebeu US$ 70 mil em premiação pela colocação.",
+      "tipo": "esports",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC"],
+      "tags": ["furia", "cs2", "starladder", "esports-brasileiro"],
+      "dataFato": "2026-09-20",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Dust2", "url": "https://www.dust2.com.br/noticias/78040/furia-cai-para-vitality-e-fica-em-3-na-starseries", "dominio": "dust2.com.br" },
+      "fontesSecundarias": [
+        { "nome": "HLTV", "url": "https://www.hltv.org/matches/2398102/vitality-vs-furia-starladder-starseries-fall-2026", "dominio": "hltv.org" },
+        { "nome": "Draft5", "url": "https://draft5.gg/partida/46347-Vitality-vs-FURIA-StarLadder-StarSeries-Fall-2026", "dominio": "draft5.gg" }
+      ],
+      "nota": 8.3,
+      "justificativa": "Resultado concreto e datado do dia, envolvendo o time brasileiro de CS2 mais popular do país em torneio internacional relevante; forte apelo para o público gamer/esports nacional.",
+      "pesquisador": "radar-esports"
+    },
+    {
+      "posicao": 3,
+      "slug": "red-canids-elimina-vivo-keyd-stars-cblol-2026",
+      "titulo": "RED Canids elimina Vivo Keyd Stars no CBLOL 2026 Split 2",
+      "resumo": "Em 19 de setembro de 2026, a RED Canids venceu a Vivo Keyd Stars por 3x0 na chave de baixo dos playoffs do CBLOL 2026 Split 2, eliminando a equipe da competição. O ex-jogador da Keyd, Stepz, se destacou pela RED Canids ao lado do jungler Morttheus, marcando a primeira vitória da RED sobre a Keyd em playoffs desde 2017.",
+      "tipo": "esports",
+      "escopo": "nacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC"],
+      "tags": ["cblol", "league-of-legends", "esports-brasileiro", "red-canids"],
+      "dataFato": "2026-09-19",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Mais Esports", "url": "https://maisesports.com.br/cblol-2026-varrida-da-matilha-red-sobrevive-e-vks-e-eliminada", "dominio": "maisesports.com.br" },
+      "fontesSecundarias": [
+        { "nome": "Mais Esports", "url": "https://maisesports.com.br/partidas/vivo-keyd-stars-2026-09-19", "dominio": "maisesports.com.br" },
+        { "nome": "Pichau Arena", "url": "https://www.pichauarena.com.br/lol/cblol-chave-inferior-sabado-19/", "dominio": "pichauarena.com.br" }
+      ],
+      "nota": 7.8,
+      "justificativa": "Maior competição de esports nacional em plena disputa de playoffs, com resultado concreto e forte carga narrativa (ex-jogador decidindo contra seu antigo time); confirmado por múltiplas fontes especializadas.",
+      "pesquisador": "radar-lancamentos-nacionais"
+    },
+    {
+      "posicao": 4,
+      "slug": "gta-6-online-previsto-2027-ceo-twitch",
+      "titulo": "GTA 6 Online (multiplayer) previsto para 2027, segundo CEO da Twitch",
+      "resumo": "O CEO da Twitch, Dan Clancy, declarou que o modo multiplayer de GTA 6 deve ser lançado 'no ano que vem' (2027), prevendo um segundo grande pico de audiência na plataforma após o lançamento do jogo principal em 19 de novembro de 2026. A Rockstar não confirmou oficialmente nenhum modo online ou sucessor do GTA Online até o momento.",
+      "tipo": "rumor",
+      "escopo": "internacional",
+      "confiabilidade": "rumor",
+      "plataformas": ["PS5", "Xbox Series"],
+      "tags": ["gta-6", "rockstar", "twitch", "multiplayer"],
+      "dataFato": "2026-09-19",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Video Games Chronicle", "url": "https://www.videogameschronicle.com/news/twitch-ceo-says-grand-theft-auto-6s-multiplayer-mode-will-launch-next-year/", "dominio": "videogameschronicle.com" },
+      "fontesSecundarias": [
+        { "nome": "Kotaku", "url": "https://kotaku.com/twitch-ceo-expects-gta-6-will-lead-to-a-huge-influx-of-viewers-and-anticipates-multiplayer-mode-is-coming-next-year-2000735285", "dominio": "kotaku.com" },
+        { "nome": "TweakTown", "url": "https://www.tweaktown.com/news/113611/twitch-ceo-says-gta-6-online-is-launching-next-year/index.html", "dominio": "tweaktown.com" }
+      ],
+      "nota": 7.5,
+      "justificativa": "Apesar de ser rumor (declaração de terceiro, sem confirmação da Rockstar), o impacto é excepcional dado o tamanho do fandom de GTA 6, um dos lançamentos mais aguardados da década.",
+      "pesquisador": "radar-lancamentos-internacionais"
+    },
+    {
+      "posicao": 5,
+      "slug": "king-funcionarios-preparam-greve-suecia",
+      "titulo": "Funcionários da King (Candy Crush) se preparam para greve na Suécia a partir de 25/09",
+      "resumo": "Após mais de um ano de negociações fracassadas por um acordo coletivo de trabalho, o sindicato sueco Unionen protocolou aviso de greve contra a King (subsidiária da Microsoft, dona de Candy Crush), com paralisação prevista para 25/09 caso não haja acordo via mediação. Outros três sindicatos anunciaram greves de solidariedade, ampliando a pressão sobre a empresa nos escritórios de Estocolmo e Malmö.",
+      "tipo": "noticia",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": [],
+      "tags": ["king", "microsoft", "greve", "trabalhista"],
+      "dataFato": "2026-09-18",
+      "janelaEstendida": true,
+      "fonte": { "nome": "Game Developer", "url": "https://www.gamedeveloper.com/production/king-workers-call-strike-after-collective-agreement-negotiations-stall", "dominio": "gamedeveloper.com" },
+      "fontesSecundarias": [
+        { "nome": "Massively Overpowered", "url": "https://massivelyop.com/2026/09/18/mmo-business-roundup-gta-6-multiplayer-king-employee-strike-and-xbox-game-pass-rumors/", "dominio": "massivelyop.com" },
+        { "nome": "PocketGamer.biz", "url": "https://www.pocketgamer.biz/king-faces-potential-strike-in-sweden-over-collective-agreement/", "dominio": "pocketgamer.biz" }
+      ],
+      "nota": 7.2,
+      "justificativa": "Movimento trabalhista relevante envolvendo subsidiária da Microsoft com potencial impacto operacional; ainda em curso na janela, embora o fato original seja de dois dias antes.",
+      "pesquisador": "radar-empresas-internacionais"
+    },
+    {
+      "posicao": 6,
+      "slug": "denuvo-processa-hacker-voices38-cracks-drm",
+      "titulo": "Denuvo processa hacker 'voices38' por cracks em 26 jogos com DRM",
+      "resumo": "A Denuvo entrou com ação judicial na Justiça Federal do Norte da Califórnia contra o hacker anônimo conhecido como 'voices38', acusado de burlar sua tecnologia anti-tamper em ao menos 26 jogos, incluindo Resident Evil Requiem, Black Myth: Wukong, Hogwarts Legacy e Stellar Blade. A empresa busca indenização e liminar sob a DMCA; o hacker respondeu publicamente que continuará lançando cracks.",
+      "tipo": "noticia",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC"],
+      "tags": ["denuvo", "drm", "pirataria", "processo-judicial"],
+      "dataFato": "2026-09-18",
+      "janelaEstendida": true,
+      "fonte": { "nome": "Video Games Chronicle", "url": "https://www.videogameschronicle.com/news/denuvo-sues-game-hacker-for-releasing-cracks-for-26-games-that-remove-its-drm-protection/", "dominio": "videogameschronicle.com" },
+      "fontesSecundarias": [
+        { "nome": "Tom's Hardware", "url": "https://www.tomshardware.com/video-games/denuvo-sues-anonymous-game-cracker-voices38-over-alleged-drm-circumvention-seeks-damages-after-anti-tamper-protections-bypassed-in-26-games", "dominio": "tomshardware.com" },
+        { "nome": "TorrentFreak", "url": "https://torrentfreak.com/denuvo-sues-game-cracker-voices38-for-bypassing-its-anti-tamper-drm/", "dominio": "torrentfreak.com" }
+      ],
+      "nota": 6.8,
+      "justificativa": "Caso relevante sobre DRM e pirataria com impacto na indústria de PC gaming, envolvendo múltiplos jogos AAA; publicado dois dias antes da janela estrita.",
+      "pesquisador": "radar-lancamentos-internacionais"
+    },
+    {
+      "posicao": 7,
+      "slug": "castlevania-belmonts-curse-demo-anunciada",
+      "titulo": "Demo de Castlevania: Belmont's Curse anunciada com progresso transferível",
+      "resumo": "A Konami anunciou oficialmente uma demo de Castlevania: Belmont's Curse, disponível a partir de 1º de outubro de 2026 em Switch, PS5, Xbox Series X/S e PC, com progresso transferível para o jogo completo, que chega em 15 de outubro. O título, codesenvolvido com a Evil Empire, celebra os 40 anos da franquia e é ambientado em 1499, seguindo Rose Belmont.",
+      "tipo": "lancamento",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["Switch", "PS5", "Xbox Series", "PC"],
+      "tags": ["castlevania", "konami", "demo", "lancamento"],
+      "dataFato": "2026-09-20",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Video Games Chronicle", "url": "https://www.videogameschronicle.com/news/a-demo-of-castlevania-belmonts-curse-has-been-officially-announced/", "dominio": "videogameschronicle.com" },
+      "fontesSecundarias": [
+        { "nome": "Nintendo Life", "url": "https://www.nintendolife.com/news/2026/09/konami-releasing-castlevania-belmonts-curse-demo-next-month", "dominio": "nintendolife.com" },
+        { "nome": "GamesRadar", "url": "https://www.gamesradar.com/games/action/a-castlevania-belmonts-curse-demo-kicks-off-the-halloween-season-in-october-with-save-data-transferring-to-the-full-game/", "dominio": "gamesradar.com" }
+      ],
+      "nota": 6.5,
+      "justificativa": "Anúncio oficial e datado do próprio dia, com detalhes técnicos concretos; celebra marco histórico da franquia (40 anos), mas é um anúncio de demo, não de lançamento completo.",
+      "pesquisador": "radar-lancamentos-internacionais"
+    },
+    {
+      "posicao": 8,
+      "slug": "tokyo-game-show-2026-cancela-ultimo-dia-tufao",
+      "titulo": "Tokyo Game Show 2026 cancela último dia por causa de tufão",
+      "resumo": "A organização do Tokyo Game Show 2026 cancelou o último dia do evento, segunda-feira (21/09), devido à aproximação do tufão Dujuan, que trará ventos fortes, chuva pesada e possível interrupção no transporte público em Chiba. O domingo (20/09) ocorreu normalmente; ingressos de segunda-feira serão reembolsados e parte da programação será transmitida online.",
+      "tipo": "noticia",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": [],
+      "tags": ["tokyo-game-show", "evento", "cancelamento"],
+      "dataFato": "2026-09-19",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Anime News Network", "url": "https://www.animenewsnetwork.com/news/2026-09-19/tokyo-game-show-2026-cancels-final-day-on-monday-due-to-approaching-typhoon/.241974", "dominio": "animenewsnetwork.com" },
+      "fontesSecundarias": [],
+      "nota": 6.2,
+      "justificativa": "Fato logístico relevante para a maior feira de games da Ásia, com impacto direto na delegação brasileira presente via Abragames, mas não é um lançamento ou anúncio de produto.",
+      "pesquisador": "radar-lancamentos-internacionais"
+    },
+    {
+      "posicao": 9,
+      "slug": "bigetron-vitality-penalizada-bug-ffws-sea-2026",
+      "titulo": "Bigetron by Vitality é penalizada por exploração de bug no FFWS SEA Fall 2026",
+      "resumo": "A Garena aplicou sanção à Bigetron by Vitality por exploração comprovada de um bug do jogo durante a rodada de Point Rush do FFWS SEA Fall 2026, disputado em 19 de setembro. A punição consistiu em dedução de 10 pontos na colocação final e corte de 5% da premiação, fazendo a equipe cair para o 7º lugar e perder o Headstart Point do dia seguinte.",
+      "tipo": "esports",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["Mobile"],
+      "tags": ["free-fire", "garena", "ffws", "punicao"],
+      "dataFato": "2026-09-19",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Dunia Games", "url": "https://duniagames.co.id/discover/article/bigetron-kena-sanksi-di-point-rush-ffws-sea-2026-fall", "dominio": "duniagames.co.id" },
+      "fontesSecundarias": [
+        { "nome": "Liquipedia", "url": "https://liquipedia.net/freefire/Free_Fire_World_Series/Southeast_Asia/2026/Fall", "dominio": "liquipedia.net" }
+      ],
+      "nota": 5.8,
+      "justificativa": "Caso disciplinar concreto e datado, mas de repercussão regional (Sudeste Asiático) e relevância limitada para o público gamer brasileiro.",
+      "pesquisador": "radar-esports"
+    },
+    {
+      "posicao": 10,
+      "slug": "abragames-delegacao-tokyo-game-show-2026",
+      "titulo": "Delegação da Abragames com 21 estúdios brasileiros segue na Tokyo Game Show 2026",
+      "resumo": "A Abragames, via projeto Brazil Games (parceria com a ApexBrasil), leva 21 estúdios brasileiros presencialmente à Tokyo Game Show 2026 (17 a 21 de setembro, em Chiba, Japão), com mais 9 estúdios expostos em vitrine especial do Steam. Os dias 19 a 21 de setembro são de abertura ao público, com agenda de reuniões de negócio com publishers e investidores asiáticos.",
+      "tipo": "noticia",
+      "escopo": "nacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC", "Steam"],
+      "tags": ["abragames", "tokyo-game-show", "industria-nacional", "brazil-games"],
+      "dataFato": "2026-09-19",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Olhar Digital", "url": "https://olhardigital.com.br/2026/09/15/games-e-consoles/tokyo-game-show-2026-tera-21-estudios-brasileiros/", "dominio": "olhardigital.com.br" },
+      "fontesSecundarias": [
+        { "nome": "Tela Viva", "url": "https://telaviva.com.br/15/09/2026/abragames-e-brazil-games-levam-delegacao-brasileira-para-a-tokyo-game-show-2026/", "dominio": "telaviva.com.br" },
+        { "nome": "Gaming Era", "url": "https://gamingera.biz/tokyo-game-show-2026-comeca-participacao-b2b-brasil/", "dominio": "gamingera.biz" }
+      ],
+      "nota": 6.0,
+      "justificativa": "Movimento setorial relevante da indústria brasileira de games buscando internacionalização, com atividade ativa dentro da janela mesmo com anúncio original anterior.",
+      "pesquisador": "radar-empresas-nacionais"
+    }
+  ],
+  "tambemNoRadar": [
+    {
+      "slug": "nintendo-sega-bgs-2026-ativacoes",
+      "titulo": "Nintendo e SEGA confirmam ativações e lançamentos inéditos na Brasil Game Show 2026",
+      "resumo": "A Brasil Game Show (BGS) confirmou estandes da Nintendo e da SEGA para a edição de 2026, com testes do Switch 2 e novidades das franquias Persona e Sonic. O evento ocorre de 9 a 12 de outubro no Distrito Anhembi, em São Paulo, com ingressos já à venda.",
+      "tipo": "noticia",
+      "escopo": "nacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["Switch 2", "PC", "PS5", "Xbox Series"],
+      "tags": ["bgs-2026", "nintendo", "sega", "evento"],
+      "dataFato": "2026-09-19",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Vavel Brasil", "url": "https://www.vavel.com/br/esports-br/2026/09/19/1272061-nintendo-e-sega-confirmam-lancamentos-ineditos-na-bgs-2026.html", "dominio": "vavel.com" },
+      "fontesSecundarias": [
+        { "nome": "Jogando Casualmente", "url": "https://jogandocasualmente.com.br/noticia-o-que-esperar-da-bgs-2026/", "dominio": "jogandocasualmente.com.br" },
+        { "nome": "PSX Brasil", "url": "https://psxbrasil.com.br/final-fantasy-vii-revelation-estara-jogavel-na-brasil-game-show-2026/", "dominio": "psxbrasil.com.br" }
+      ],
+      "nota": 5.8,
+      "justificativa": "Fato confirmado e datado, mas é essencialmente confirmação de presença em evento futuro, sem grande peso de negócio ou novidade de produto imediata.",
+      "pesquisador": "radar-empresas-nacionais"
+    },
+    {
+      "slug": "control-resonant-reviews-estreia-nota-alta",
+      "titulo": "Control Resonant recebe reviews de estreia com nota alta antes do lançamento",
+      "resumo": "As primeiras análises de Control Resonant, da Remedy Entertainment, foram publicadas com nota média de 84 no Metacritic, superando os 82 do Control original de 2019. O jogo, que coloca o jogador no papel de Dylan Faden em versão mundo aberto de Nova York, chega em 24 de setembro de 2026 para PS5, Xbox Series X/S e PC.",
+      "tipo": "lancamento",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PS5", "Xbox Series", "PC"],
+      "tags": ["control-resonant", "remedy-entertainment", "review"],
+      "dataFato": "2026-09-18",
+      "janelaEstendida": true,
+      "fonte": { "nome": "PC Gamer", "url": "https://www.pcgamer.com/games/action/control-resonant-review/", "dominio": "pcgamer.com" },
+      "fontesSecundarias": [
+        { "nome": "The National News", "url": "https://www.thenationalnews.com/arts-culture/2026/09/18/control-resonant-review-first-impressions-release-date/", "dominio": "thenationalnews.com" }
+      ],
+      "nota": 6.3,
+      "justificativa": "Marco de recepção crítica relevante de lançamento AAA aguardado, mas a publicação das reviews ficou fora da janela estrita de 24h.",
+      "pesquisador": "radar-lancamentos-internacionais"
+    },
+    {
+      "slug": "zen-atow-campeoes-mundial-2v2-rlcs-2026",
+      "titulo": "Zen e Atow vencem o inédito Campeonato Mundial 2v2 da RLCS 2026",
+      "resumo": "Alexis 'zen' Bernierave e Tristan 'Atow.' Soyez conquistaram o primeiro Campeonato Mundial 2v2 da história do Rocket League, disputado dentro do RLCS 2026 World Championship em Fort Worth, derrotando a dupla da Team Falcons na decisão. Cada campeão recebeu US$ 50 mil; zen se tornou o primeiro jogador campeão mundial em dois formatos distintos (3v3 e 2v2).",
+      "tipo": "esports",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC", "PS5", "Xbox Series"],
+      "tags": ["rocket-league", "rlcs", "mundial-2v2"],
+      "dataFato": "2026-09-19",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Sheep Esports", "url": "https://www.sheepesports.com/en/articles/atow-and-zen-triumph-in-the-inaugural-2v2-rocket-league-2026-world-championship/en", "dominio": "sheepesports.com" },
+      "fontesSecundarias": [
+        { "nome": "Esports.gg", "url": "https://esports.gg/news/rocket-league/rlcs-2026-world-championship-finals-overview-results/", "dominio": "esports.gg" }
+      ],
+      "nota": 5.5,
+      "justificativa": "Marco histórico (primeiro Mundial 2v2) com resultado concreto, mas de menor apelo para o público brasileiro comparado a outros itens de esports do dia.",
+      "pesquisador": "radar-esports"
+    },
+    {
+      "slug": "nass-campeao-mundial-1v1-rlcs-2026",
+      "titulo": "Nass conquista o Campeonato Mundial 1v1 da RLCS 2026",
+      "resumo": "Nassim 'nass' Bali venceu Hisham 'Nwpo' Alqadi por 4-2 na grande final do primeiro Campeonato Mundial 1v1 de Rocket League, disputado durante o RLCS 2026 World Championship em Fort Worth, Texas. O evento reuniu formatos inéditos (1v1, 2v2 e 3v3) em uma mesma edição do Mundial, de 15 a 20 de setembro.",
+      "tipo": "esports",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC", "PS5", "Xbox Series"],
+      "tags": ["rocket-league", "rlcs", "mundial-1v1"],
+      "dataFato": "2026-09-19",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Sheep Esports", "url": "https://www.sheepesports.com/en/articles/nass-crowned-winner-of-the-rlcs-2026-1v1-world-championship/en", "dominio": "sheepesports.com" },
+      "fontesSecundarias": [
+        { "nome": "Esports.gg", "url": "https://esports.gg/news/rocket-league/rlcs-2026-world-championship-finals-overview-results/", "dominio": "esports.gg" }
+      ],
+      "nota": 5.0,
+      "justificativa": "Resultado concreto de formato novo, mas de repercussão menor que o 3v3 principal e outros itens do dia.",
+      "pesquisador": "radar-esports"
+    },
+    {
+      "slug": "square-enix-ff7-revelation-demo-bgs-2026",
+      "titulo": "Square Enix confirma demo jogável de Final Fantasy VII Revelation na Brasil Game Show 2026",
+      "resumo": "A Square Enix confirmou que levará à Brasil Game Show 2026 (9 a 12 de outubro, São Paulo) uma demo jogável de Final Fantasy VII Revelation, além de conteúdo antecipado de Final Fantasy Resonance, antes do lançamento oficial previsto para abril de 2027.",
+      "tipo": "noticia",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC", "PS5", "Switch 2", "Xbox Series"],
+      "tags": ["square-enix", "final-fantasy", "bgs-2026"],
+      "dataFato": "2026-09-17",
+      "janelaEstendida": true,
+      "fonte": { "nome": "GameBlast", "url": "https://www.gameblast.com.br/2026/09/brasil-game-show-2026-confirma-square-enix-com-demo-jogavel-de-final-fantasy-vii-revelation.html", "dominio": "gameblast.com.br" },
+      "fontesSecundarias": [
+        { "nome": "PSX Brasil", "url": "https://psxbrasil.com.br/final-fantasy-vii-revelation-estara-jogavel-na-brasil-game-show-2026/", "dominio": "psxbrasil.com.br" },
+        { "nome": "Terra", "url": "https://www.terra.com.br/gameon/plataformas-e-consoles/final-fantasy-vii-revelation-estara-jogavel-na-brasil-game-show-2026,cd1afa483ba03685beb2d752f6abe4a3mrpsdi1d.html", "dominio": "terra.com.br" }
+      ],
+      "nota": 5.3,
+      "justificativa": "Fato confirmado e de grande interesse para o público de RPG, mas ocorreu fora da janela estrita (17/09) e é sobreposto pela cobertura mais ampla da BGS 2026.",
+      "pesquisador": "radar-empresas-nacionais"
+    },
+    {
+      "slug": "marvels-wolverine-vendas-19-milhao-copias",
+      "titulo": "Marvel's Wolverine teria vendido 1,9 milhão de cópias em 3 dias, segundo consultoria",
+      "resumo": "Segundo estimativas da consultoria Alinea Analytics, não confirmadas oficialmente pela Sony, Marvel's Wolverine vendeu cerca de 1,9 milhão de cópias e faturou US$ 130 milhões nos primeiros três dias após o lançamento em 15/09, superando os números do exclusivo Death Stranding 2 no PS5.",
+      "tipo": "noticia",
+      "escopo": "internacional",
+      "confiabilidade": "rumor",
+      "plataformas": ["PS5"],
+      "tags": ["marvels-wolverine", "vendas", "insomniac"],
+      "dataFato": "2026-09-18",
+      "janelaEstendida": true,
+      "fonte": { "nome": "Arkade", "url": "https://arkade.com.br/alinea-afirma-que-marvels-wolverine-ja-vendeu-19-milhao-de-copias-com-a-metade-vindo-da-pre-venda-e-22-das-copias-sendo-em-midia-fisica/", "dominio": "arkade.com.br" },
+      "fontesSecundarias": [
+        { "nome": "Adrenaline", "url": "https://www.adrenaline.com.br/games/marvels-wolverine-dispara-nas-vendas-e-supera-exclusivos-do-ps5-lancados-desde-spider-man-2/", "dominio": "adrenaline.com.br" }
+      ],
+      "nota": 5.0,
+      "justificativa": "Dados não oficiais (estimativa de consultoria) e fato ligeiramente fora da janela; relevante mas rebaixado pela falta de confirmação da Sony.",
+      "pesquisador": "radar-lancamentos-nacionais"
+    },
+    {
+      "slug": "marvels-wolverine-dublagem-ptbr-destaque",
+      "titulo": "Marvel's Wolverine: dublagem em português brasileiro é destaque nas análises",
+      "resumo": "Reviews brasileiras de Marvel's Wolverine destacam a qualidade da dublagem em PT-BR como um dos pontos fortes do jogo, mesmo em meio a críticas mistas sobre o gameplay (nota 78 no Metacritic). O game já recebeu patch inicial corrigindo bugs de progressão e problemas na dublagem.",
+      "tipo": "noticia",
+      "escopo": "nacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PS5"],
+      "tags": ["marvels-wolverine", "dublagem", "localizacao"],
+      "dataFato": "2026-09-19",
+      "janelaEstendida": true,
+      "fonte": { "nome": "GameBlast", "url": "https://www.gameblast.com.br/2026/09/analise-review-marvel-wolverine.html", "dominio": "gameblast.com.br" },
+      "fontesSecundarias": [
+        { "nome": "Diário da Mídia", "url": "https://diariodamidia.com.br/marvels-wolverine-tenta-reverter-nota-78-e-criticas", "dominio": "diariodamidia.com.br" },
+        { "nome": "Alternativa Nerd", "url": "https://alternativanerd.com.br/games/marvels-wolverine-review/", "dominio": "alternativanerd.com.br" }
+      ],
+      "nota": 4.8,
+      "justificativa": "Relevante para o público brasileiro pela dublagem PT-BR, mas é cobertura de review/opinião, não um anúncio ou lançamento inédito na janela estrita.",
+      "pesquisador": "radar-lancamentos-nacionais"
+    },
+    {
+      "slug": "wild-rift-atualizacao-73-novos-campeoes",
+      "titulo": "Wild Rift recebe atualização 7.3 com três novos campeões e novo modo 3v3",
+      "resumo": "A Riot Games anunciou que a atualização 7.3 de League of Legends: Wild Rift chega globalmente em 22 de setembro, adicionando os campeões Hwei, Sylas e Rek'Sai, um novo modo 3v3 chamado 'Farra no Rift' e mudanças no sistema ranqueado. No Brasil, a atualização fica disponível a partir da noite de 21 de setembro.",
+      "tipo": "noticia",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["Mobile"],
+      "tags": ["wild-rift", "riot-games", "atualizacao"],
+      "dataFato": "2026-09-19",
+      "janelaEstendida": true,
+      "fonte": { "nome": "Adrenaline", "url": "https://www.adrenaline.com.br/games/wild-rift-73-atualizacao/", "dominio": "adrenaline.com.br" },
+      "fontesSecundarias": [
+        { "nome": "Gamers Games", "url": "https://www.gamersegames.com.br/2026/09/09/tematica-musical-e-novos-campeoes-marcam-a-atualizacao-7-3-de-wild-rift/", "dominio": "gamersegames.com.br" },
+        { "nome": "Diário da Mídia", "url": "https://diariodamidia.com.br/wild-rift-adiciona-hwei-sylas-e-reksai-ao-elenco", "dominio": "diariodamidia.com.br" }
+      ],
+      "nota": 4.0,
+      "justificativa": "Atualização ainda não efetivada dentro da janela (chega em 21-22/09); relevância nacional limitada ao horário de disponibilização.",
+      "pesquisador": "radar-lancamentos-nacionais"
+    }
+  ],
+  "descartados": [
+    { "titulo": "RED Canids x paiN Gaming - CBLOL 2026 playoffs (20/09)", "motivo": "Não foi possível confirmar com fonte verificável o resultado desta partida dentro da janela; fontes disponíveis traziam o confronto apenas como agendado." },
+    { "titulo": "Resultado do 3v3 principal do RLCS 2026 World Championship", "motivo": "Não foi possível confirmar com fonte verificável o resultado da final 3v3 dentro da janela pesquisada." }
+  ]
+}
