@@ -9,12 +9,12 @@ on:
         default: ""
 
 permissions:
-  contents: write  # necessário para o /radar-games poder dar git push
+  contents: write  # necessário para o /radar-games e o /adaptar-noticia poderem dar git push
 
 jobs:
   gerar-radar:
     runs-on: ubuntu-latest
-    timeout-minutes: 20
+    timeout-minutes: 40
 
     steps:
       - name: Checkout do repositório
@@ -83,3 +83,15 @@ jobs:
       # e push (veja .claude/commands/radar-games.md). Não precisa repetir
       # isso aqui. O push dispara o redeploy na Vercel automaticamente,
       # exatamente como hoje.
+
+      # Adapta as 10 notícias do TOP 10 que acabaram de ser geradas em
+      # artigos prontos para o Blog da Loja dos Gifts (mesmo padrão do
+      # /adaptar-noticia manual: título com gancho, SEO, CTA da loja).
+      # "todas" pula a pergunta interativa de quais posições adaptar —
+      # aqui não tem ninguém pra responder. O próprio comando já faz
+      # git add/commit/push dos artigos que passarem na conferência.
+      - name: Adaptar as 10 notícias para o blog
+        env:
+          CLAUDE_CODE_OAUTH_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+        run: |
+          claude -p "/adaptar-noticia todas" --permission-mode acceptEdits
