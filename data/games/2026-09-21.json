@@ -1,0 +1,256 @@
+{
+  "categoria": "games",
+  "data": "2026-09-21",
+  "geradoEm": "2026-09-21T21:00:00-03:00",
+  "janela": { "inicio": "2026-09-20T21:00:00-03:00", "fim": "2026-09-21T21:00:00-03:00" },
+  "observacao": "Nenhum candidato nacional de empresas foi localizado dentro da janela ou da janela estendida de 48h; a cobertura nacional do dia ficou concentrada em esports (CBLOL) e um evento cosmético de live-service.",
+  "itens": [
+    {
+      "posicao": 1,
+      "slug": "sony-cancela-physint-de-kojima-por-chamada-de-video",
+      "titulo": "Sony cancelou Physint de Kojima por chamada de vídeo, revela diretor",
+      "resumo": "Hideo Kojima contou em entrevista que a Sony comunicou o cancelamento do financiamento de Physint durante uma chamada de Zoom em junho de 2026, sem detalhar os motivos. A Kojima Productions afirma que a produção do jogo segue agora com a Xbox, após meses buscando um novo parceiro publisher.",
+      "tipo": "noticia",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["Xbox Series", "PS5"],
+      "tags": ["kojima-productions", "sony", "xbox", "cancelamento", "publisher"],
+      "dataFato": "2026-09-20",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Video Games Chronicle", "url": "https://www.videogameschronicle.com/news/i-was-just-shocked-and-surprised-hideo-kojima-says-sony-told-him-physint-was-being-cancelled-over-a-zoom-call/", "dominio": "videogameschronicle.com" },
+      "fontesSecundarias": [
+        { "nome": "PC Gamer", "url": "https://www.pcgamer.com/gaming-industry/hideo-kojima-says-he-was-shocked-after-sony-cut-ties-with-physint-over-a-zoom-call-nothing-couldve-prepared-me-for-their-decision-to-step-away-from-the-project/", "dominio": "pcgamer.com" },
+        { "nome": "Washington Post", "url": "https://www.washingtonpost.com/style/2026/09/20/hideo-kojima-explains-surprise-physint-split-with-sony/", "dominio": "washingtonpost.com" }
+      ],
+      "nota": 9.2,
+      "justificativa": "Ruptura inédita e de alto impacto entre uma publisher líder de mercado (Sony) e um dos estúdios mais respeitados da indústria (Kojima Productions), confirmada em entrevista direta e coberta por múltiplas fontes de peso, incluindo veículo generalista (Washington Post).",
+      "pesquisador": "radar-empresas-internacionais"
+    },
+    {
+      "posicao": 2,
+      "slug": "team-falcons-campea-mundial-rocket-league-rlcs-2026",
+      "titulo": "Team Falcons conquista primeiro título mundial de Rocket League no RLCS 2026",
+      "resumo": "A Team Falcons venceu a Spacestation Gaming por 4-0 na grande final do RLCS 2026 World Championship, em Fort Worth (Texas), conquistando o primeiro título mundial da organização em Rocket League. O evento reuniu pela primeira vez as decisões de 3v3, 2v2 e 1v1 em uma única premiação, com prize pool total de US$ 1,2 milhão.",
+      "tipo": "esports",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC", "PS5", "Xbox Series", "Switch"],
+      "tags": ["rocket-league", "rlcs", "mundial", "team-falcons"],
+      "dataFato": "2026-09-21",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Field Level Media", "url": "https://fieldlevelmedia.com/esports/team-falcons-capture-rocket-league-2026-world-championship/", "dominio": "fieldlevelmedia.com" },
+      "fontesSecundarias": [
+        { "nome": "Hotspawn", "url": "https://www.hotspawn.com/rocket-league/news/team-falcons-rlcs-2026-world-championship", "dominio": "hotspawn.com" },
+        { "nome": "Esports.gg", "url": "https://esports.gg/news/rocket-league/rlcs-2026-world-championship-finals-overview-results/", "dominio": "esports.gg" }
+      ],
+      "nota": 8.7,
+      "justificativa": "Final de campeonato mundial tier-1 disputada e concluída no próprio dia da janela, com título inédito, formato renovado do evento e ampla cobertura especializada confirmando local, data e placar.",
+      "pesquisador": "radar-esports"
+    },
+    {
+      "posicao": 3,
+      "slug": "cblol-2026-red-canids-elimina-pain-gaming-playoffs",
+      "titulo": "CBLOL 2026: RED Canids vira sobre a paiN Gaming e elimina o time nos playoffs",
+      "resumo": "A RED Canids derrotou a paiN Gaming por 3-1 em série melhor de cinco pela chave inferior dos playoffs do CBLOL 2026 (Split 2), eliminando a organização tradicional da competição de League of Legends. A paiN abriu a série na frente, mas a RED Canids buscou a virada e avança para enfrentar a FURIA na semana seguinte.",
+      "tipo": "esports",
+      "escopo": "nacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC"],
+      "tags": ["cblol", "league-of-legends", "playoffs", "esports-brasil"],
+      "dataFato": "2026-09-20",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Mais Esports", "url": "https://maisesports.com.br/cblol-2026-red-canids-vence-e-elimina-a-pain-gaming", "dominio": "maisesports.com.br" },
+      "fontesSecundarias": [
+        { "nome": "Pichau Arena", "url": "https://www.pichauarena.com.br/lol/pain-eliminada-cblol-2026/", "dominio": "pichauarena.com.br" }
+      ],
+      "nota": 8.3,
+      "justificativa": "Fato nacional de maior relevância do dia, com eliminação de organização tradicional em playoff do principal torneio brasileiro de LoL, confirmado por múltiplas fontes e datado com precisão.",
+      "pesquisador": "radar-lancamentos-nacionais"
+    },
+    {
+      "posicao": 4,
+      "slug": "vitality-campea-starseries-fall-2026-com-virada-sobre-aurora",
+      "titulo": "Vitality vence Aurora e conquista a StarSeries Fall 2026 de CS2",
+      "resumo": "A Team Vitality venceu a Aurora Gaming por 3-1 na grande final da StarLadder StarSeries Fall 2026, em Barcelona, faturando os US$ 200 mil do primeiro lugar após perder o primeiro mapa. ZywOo foi eleito MVP do evento com rating 1.51 na série decisiva.",
+      "tipo": "esports",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC", "Steam"],
+      "tags": ["cs2", "starseries", "vitality", "counter-strike"],
+      "dataFato": "2026-09-20",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Dot Esports", "url": "https://dotesports.com/counter-strike/news/vitality-aurora-starseries-fall-2026", "dominio": "dotesports.com" },
+      "fontesSecundarias": [
+        { "nome": "Draft5", "url": "https://draft5.gg/noticia/furia-confirma-favoritismo-vence-o-mibr-e-vai-em-busca-da-final-na-starladder-starseries-fall-2026", "dominio": "draft5.gg" }
+      ],
+      "nota": 8.0,
+      "justificativa": "Final de torneio tier-1 do CS2 concluída no próprio dia da janela, com virada relevante e MVP consagrado; envolve indiretamente equipes brasileiras que disputaram o mesmo evento.",
+      "pesquisador": "radar-esports"
+    },
+    {
+      "posicao": 5,
+      "slug": "tokyo-game-show-2026-cancela-ultimo-dia-por-tufao-dujuan",
+      "titulo": "Tokyo Game Show 2026 tem último dia cancelado por causa do tufão Dujuan",
+      "resumo": "O quinto e último dia da Tokyo Game Show 2026, marcado para 21 de setembro (segunda-feira), foi cancelado pela CESA devido à aproximação do tufão Dujuan, que trouxe risco de ventos fortes e chuva intensa. O evento, que celebrava 30 anos no Makuhari Messe, reembolsou os ingressos do dia cancelado e migrou parte da programação para transmissão online.",
+      "tipo": "noticia",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["n/a"],
+      "tags": ["tgs-2026", "tokyo-game-show", "evento", "clima"],
+      "dataFato": "2026-09-21",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Gematsu", "url": "https://www.gematsu.com/2026/09/tokyo-game-show-2026-day-five-cancelled-due-to-severe-weather-concerns", "dominio": "gematsu.com" },
+      "fontesSecundarias": [
+        { "nome": "Anime News Network", "url": "https://www.animenewsnetwork.com/news/2026-09-19/tokyo-game-show-2026-cancels-final-day-on-monday-due-to-approaching-typhoon/.241974", "dominio": "animenewsnetwork.com" },
+        { "nome": "Kotaku", "url": "https://kotaku.com/typhoon-dujuan-forces-tokyo-game-show-2026-to-shut-down-a-day-early-2000735879", "dominio": "kotaku.com" }
+      ],
+      "nota": 7.4,
+      "justificativa": "O dia efetivamente cancelado (21/09) cai dentro da janela, embora o anúncio tenha sido feito em 19/09; afeta diretamente o calendário de anúncios de dezenas de publishers no maior evento asiático de games.",
+      "pesquisador": "radar-empresas-internacionais"
+    },
+    {
+      "posicao": 6,
+      "slug": "bigetron-vitality-campea-free-fire-world-series-sea-fall-2026",
+      "titulo": "Bigetron by Vitality é campeã da Free Fire World Series 2026 SEA Fall após punição por bug",
+      "resumo": "A Bigetron by Vitality venceu a Grand Final da Free Fire World Series 2026 SEA Fall, em Surabaya, faturando US$ 100 mil e vaga na Global Finals em Bangkok. A Garena havia penalizado a equipe com dedução de pontos e confisco de parte da premiação por exploração de um bug antes das finais, mas mesmo assim a Bigetron conquistou o título.",
+      "tipo": "esports",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["Mobile"],
+      "tags": ["free-fire", "ffws", "esports-mobile", "punicao"],
+      "dataFato": "2026-09-20",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Sportskeeda", "url": "https://www.sportskeeda.com/free-fire/news-ffws-2026-sea-fall-winner-prize-pool-distribution-qualified-teams-global-finals", "dominio": "sportskeeda.com" },
+      "fontesSecundarias": [
+        { "nome": "Liquipedia", "url": "https://liquipedia.net/freefire/Free_Fire_World_Series/Southeast_Asia/2026/Fall", "dominio": "liquipedia.net" }
+      ],
+      "nota": 7.0,
+      "justificativa": "Combina resultado de torneio internacional relevante de um dos jogos mobile mais populares do Brasil com um caso disciplinar (punição por exploit), reforçando o interesse editorial.",
+      "pesquisador": "radar-esports"
+    },
+    {
+      "posicao": 7,
+      "slug": "kojima-productions-pede-ceticismo-sobre-relatorio-bloomberg",
+      "titulo": "Kojima Productions pede ceticismo sobre relatório da Bloomberg sobre saída da Sony",
+      "resumo": "A Kojima Productions respondeu publicamente ao relatório de Jason Schreier (Bloomberg), que apontava estouro de orçamento e atrasos como causas do rompimento com a Sony, pedindo que os fãs tratem a informação 'com uma dose de ceticismo'. O estúdio afirma estar em situação financeira saudável e que sua relação com a PlayStation 'permanece forte'.",
+      "tipo": "noticia",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["n/a"],
+      "tags": ["kojima-productions", "sony", "physint", "bloomberg"],
+      "dataFato": "2026-09-20",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Video Games Chronicle", "url": "https://www.videogameschronicle.com/news/kojima-productions-asks-players-to-treat-report-on-why-it-switched-from-playstation-to-xbox-with-a-dose-of-scepticism/", "dominio": "videogameschronicle.com" },
+      "fontesSecundarias": [
+        { "nome": "TweakTown", "url": "https://www.tweaktown.com/news/113648/kojima-productions-responds-to-report-claiming-why-playstation-ditched-hideo-kojima-and-physint/index.html", "dominio": "tweaktown.com" },
+        { "nome": "GamingBolt", "url": "https://gamingbolt.com/kojima-productions-encourages-skepticism-about-reported-reasons-for-playstation-dropping-physint", "dominio": "gamingbolt.com" }
+      ],
+      "nota": 6.8,
+      "justificativa": "Complementa o caso Physint com a resposta oficial do estúdio, importante para entender a disputa narrativa entre publisher e desenvolvedora, mas com impacto menor por ser um desdobramento do fato principal.",
+      "pesquisador": "radar-empresas-internacionais"
+    },
+    {
+      "posicao": 8,
+      "slug": "io-interactive-adia-007-first-light-switch-2-terceira-vez",
+      "titulo": "IO Interactive adia versão de 007 First Light para Switch 2 pela terceira vez",
+      "resumo": "A IO Interactive anunciou o terceiro adiamento da versão Switch 2 de 007 First Light, agora prevista para março de 2027, quase um ano após o lançamento original em PS5, Xbox Series e PC. A produtora técnica do jogo afirmou que o novo atraso busca garantir taxa estável de quadros e polimento, sem relação com problemas inesperados.",
+      "tipo": "noticia",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["Switch 2"],
+      "tags": ["007-first-light", "io-interactive", "switch-2", "adiamento"],
+      "dataFato": "2026-09-21",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Video Games Chronicle", "url": "https://www.videogameschronicle.com/news/007-first-light-was-delayed-on-switch-2-for-a-third-time-to-let-players-experience-it-as-fully-as-possible-io-says/", "dominio": "videogameschronicle.com" },
+      "fontesSecundarias": [
+        { "nome": "Kotaku", "url": "https://kotaku.com/007-first-light-delayed-on-switch-2-again-will-now-arrive-almost-a-year-late-2000734576", "dominio": "kotaku.com" }
+      ],
+      "nota": 6.3,
+      "justificativa": "Notícia concreta sobre atraso de lançamento multiplataforma de estúdio internacional relevante, publicada dentro da janela (fonte principal corrigida de Nintendo Life, de 15/09, para VGC, de 21/09).",
+      "pesquisador": "radar-empresas-internacionais"
+    },
+    {
+      "posicao": 9,
+      "slug": "furia-termina-terceiro-lugar-starseries-fall-2026",
+      "titulo": "CS2: FURIA elimina o MIBR e termina em terceiro lugar na StarSeries Fall 2026",
+      "resumo": "A FURIA venceu o MIBR por 2-0 na StarLadder StarSeries Fall 2026, eliminando os compatriotas e avançando à semifinal contra a Vitality, para quem acabou perdendo. A equipe brasileira encerrou a campanha em terceiro lugar no torneio de Barcelona, que distribuiu US$ 500 mil em prêmios.",
+      "tipo": "esports",
+      "escopo": "nacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC", "Steam"],
+      "tags": ["cs2", "furia", "mibr", "starseries"],
+      "dataFato": "2026-09-19",
+      "janelaEstendida": true,
+      "fonte": { "nome": "Draft5", "url": "https://draft5.gg/noticia/furia-confirma-favoritismo-vence-o-mibr-e-vai-em-busca-da-final-na-starladder-starseries-fall-2026", "dominio": "draft5.gg" },
+      "fontesSecundarias": [
+        { "nome": "Dust2", "url": "https://www.dust2.com.br/noticias/78029/furia-vence-elimina-mibr-e-avanca-na-starseries", "dominio": "dust2.com.br" }
+      ],
+      "nota": 6.0,
+      "justificativa": "Confronto 100% brasileiro em evento internacional relevante, mas o jogo direto ocorreu em 19/09, exigindo janela estendida; complementa o resultado final da Vitality já destacado no TOP 10.",
+      "pesquisador": "radar-esports"
+    },
+    {
+      "posicao": 10,
+      "slug": "japan-game-awards-2026-future-division-elege-dez-jogos",
+      "titulo": "Japan Game Awards 2026 elege os dez jogos mais aguardados da TGS na Future Division",
+      "resumo": "A cerimônia do Future Division do Japan Game Awards 2026 foi realizada em 20 de setembro no Makuhari Messe, ao final da Tokyo Game Show, elegendo dez títulos ainda não lançados por votação do público. Entre os vencedores estão Final Fantasy VII Revelations, Persona 4 Revival, Romancing SaGa 3: Destinies United e Monster Hunter Wilds: Ascendance.",
+      "tipo": "noticia",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PS5", "Xbox Series", "PC", "Switch 2"],
+      "tags": ["tgs-2026", "japan-game-awards", "premiacao"],
+      "dataFato": "2026-09-20",
+      "janelaEstendida": false,
+      "fonte": { "nome": "GoNintendo", "url": "https://gonintendo.com/contents/65242-japan-game-awards-2026-s-future-award-winners-revealed", "dominio": "gonintendo.com" },
+      "fontesSecundarias": [
+        { "nome": "Inven Global", "url": "https://www.invenglobal.com/articles/26262/10-new-titles-at-tgs-japan-game-awards-future-division-ceremony-held", "dominio": "invenglobal.com" },
+        { "nome": "Persona Central", "url": "https://personacentral.com/p4r-future-division/", "dominio": "personacentral.com" }
+      ],
+      "nota": 5.8,
+      "justificativa": "Fato confirmado e datado, mas de relevância editorial moderada para o público geral, com apelo mais restrito a fãs de RPGs japoneses.",
+      "pesquisador": "radar-lancamentos-internacionais"
+    }
+  ],
+  "tambemNoRadar": [
+    {
+      "slug": "betboom-afasta-gpk-e-boolk-inicio-temporada-dota2",
+      "titulo": "Dota 2: BetBoom confirma afastamento do meio-campista gpk e do coach boolk",
+      "resumo": "A BetBoom Team anunciou que o mid laner Danil 'gpk' Skutin e o coach Anatoly 'boolk' Ivanov ficarão inativos no início da temporada 2026-2027, citando desgaste físico e mental. O movimento ocorre no contexto do rearranjo de elencos pós-The International 2026.",
+      "tipo": "noticia",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC", "Steam"],
+      "tags": ["dota2", "betboom", "roster-shuffle"],
+      "dataFato": "2026-09-20",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Esports.gg", "url": "https://esports.gg/news/dota-2/dota-2-roster-shuffles-2026-rumors-team-changes/", "dominio": "esports.gg" },
+      "fontesSecundarias": [
+        { "nome": "GosuGamers", "url": "https://www.gosugamers.net/dota2/news/79066-dota-2-post-the-international-2026-roster-shuffle-tracker", "dominio": "gosugamers.net" }
+      ],
+      "nota": 5.0,
+      "justificativa": "Movimentação de elenco relevante para a cena competitiva de Dota 2, mas com data de anúncio pouco precisa dentro de um tracker consolidado, reduzindo o ineditismo do fato.",
+      "pesquisador": "radar-esports"
+    },
+    {
+      "slug": "free-fire-bazar-do-drop-jutsu-de-transformacao",
+      "titulo": "Free Fire lança nova edição do Bazar do Drop 'Jutsu de Transformação' no servidor BR",
+      "resumo": "A Garena iniciou em 21/09/2026 no servidor brasileiro de Free Fire uma nova rodada do evento 'Bazar do Drop', com o item 'Jutsu de Transformação' como destaque, além de skins de veículos, armas e acessórios cosméticos. O evento segue até 27/09/2026.",
+      "tipo": "noticia",
+      "escopo": "nacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["Mobile"],
+      "tags": ["free-fire", "cosmeticos", "evento"],
+      "dataFato": "2026-09-21",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Free Fire Mania", "url": "https://www.freefiremania.com.br/noticia/free-fire-bazar-do-drop-jutsu-de-transformacao.html", "dominio": "freefiremania.com.br" },
+      "fontesSecundarias": [],
+      "nota": 4.0,
+      "justificativa": "Evento cosmético recorrente de live-service, factual e datado, mas de baixo impacto jornalístico frente aos demais destaques do dia.",
+      "pesquisador": "radar-lancamentos-nacionais"
+    }
+  ],
+  "descartados": [
+    { "titulo": "Denuvo processa hacker anônimo 'voices38' por cracks em 26 jogos protegidos", "motivo": "Fato publicado em 18/09/2026, fora da janela estendida de 48h (que se inicia em 19/09)." },
+    { "titulo": "PS Plus confirma remoções de outubro 2026, incluindo Silent Hill 2 Remake e Yakuza: Like a Dragon", "motivo": "Fato publicado em 15/09/2026, fora da janela estendida de 48h." }
+  ]
+}
