@@ -39,9 +39,9 @@ Estruturas que funcionam — **varie, não repita a mesma fórmula**:
 - "Esse clássico acaba de ganhar uma nova vida graças aos fãs"
 - "[Novidade] pode ser o que faltava para [jogo] voltar aos holofotes"
 
-### Subtítulo — H3
+### Subtítulo — H2
 
-Logo abaixo do título, um subtítulo em `###`: aproximadamente uma frase, com a principal informação adicional, gerando curiosidade e **sem repetir o título**.
+Logo abaixo do título, um subtítulo em `##`: aproximadamente uma frase, com a principal informação adicional, gerando curiosidade e **sem repetir o título**.
 
 ### Abertura / lead
 
@@ -55,9 +55,15 @@ Evite: linguagem acadêmica, frases artificiais, formalidade excessiva, termos t
 
 Comentários leves e pontuais dão personalidade — por exemplo: "E convenhamos: enquanto a Ubisoft não resolve mexer oficialmente no jogo, os fãs estão fazendo hora extra." Mas **não** transforme a notícia em opinião do início ao fim.
 
+### Escrita humana — sem tiques de IA
+
+Nunca use travessão (—) nem hífen (-) como recurso de pontuação para encadear duas ideias no meio da frase (o clássico "algo — explicação" ou "algo - explicação"). Esse é um dos sinais mais óbvios de texto gerado por IA. Prefira reescrever com vírgula, ponto final, dois-pontos, ou duas frases separadas.
+
+Hífen continua normal em palavras compostas de verdade (ex.: "guarda-chuva", "porta-voz") e listas com marcador `-` continuam permitidas quando o formato pedir uma lista. O que se evita é o travessão/hífen como conector estilístico de frase.
+
 ### Estrutura interna
 
-Divida em blocos com subtítulos `###`. Notícia curta: 2 a 3 seções. Média: 3 a 5. Longa: 4 a 7. Não crie subtítulo artificial só para preencher — cada seção traz informação nova ou desenvolve um ponto.
+Divida em blocos com subtítulos `##`. Notícia curta: 2 a 3 seções. Média: 3 a 5. Longa: 4 a 7. Não crie subtítulo artificial só para preencher — cada seção traz informação nova ou desenvolve um ponto.
 
 Ordem: **gancho → contexto → novidade → detalhes → impacto → próximos passos → conclusão → CTA**. Informações em ordem crescente de interesse, com pequenos ganchos entre os blocos. Não entregue tudo no primeiro parágrafo.
 
@@ -85,19 +91,19 @@ O artigo não termina na última informação. Faça uma conclusão curta que re
 
 ### CTA obrigatório — Loja dos Gifts
 
-Todo artigo termina com um CTA da Loja dos Gifts que pareça continuação natural do texto, nunca propaganda solta. Base:
+Todo artigo termina exatamente com este CTA padrão, sem variação por plataforma:
 
-> Confira mais notícias, ofertas e conteúdos do mundo dos games no blog da Loja dos Gifts. E, quando for comprar seus jogos e créditos digitais, aproveite as opções disponíveis na Loja dos Gifts.
+```
+**Quer aproveitar seus próximos jogos?**
 
-Seguido de: [www.lojadosgifts.com.br](http://www.lojadosgifts.com.br)
+Na Loja dos Gifts, você encontra jogos, Gift Cards e créditos digitais para PlayStation, Xbox, Nintendo, PC, mobile e outras plataformas.
 
-**Escolha a variação pelo campo `plataformas` do item**, não por chute:
-- PlayStation → "Vai aproveitar alguma oferta? Confira também os cartões e créditos digitais para PlayStation disponíveis na Loja dos Gifts."
-- Xbox → "Se você está de olho em novos jogos para Xbox, confira também as opções de créditos e gift cards disponíveis na Loja dos Gifts."
-- Nintendo → "Para quem pretende aumentar a biblioteca no Nintendo Switch, vale conferir também os gift cards disponíveis na Loja dos Gifts."
-- Mais de uma plataforma, PC, ou nenhuma → "Continue acompanhando as principais novidades do mundo dos games no blog da Loja dos Gifts e confira também nossas opções de jogos e créditos digitais."
+Acesse a Loja dos Gifts e confira as ofertas: [www.lojadosgifts.com.br](https://www.lojadosgifts.com.br)
+```
 
-Nunca use "COMPRE AGORA!!!", "ACESSE AGORA!!!", "CORRA!!!", "VOCÊ NÃO PODE PERDER!!!". A comunicação é profissional e integrada ao conteúdo.
+Copie esse bloco literalmente, sem reescrever ou adaptar o texto do CTA em si.
+
+Nunca use "COMPRE AGORA!!!", "ACESSE AGORA!!!", "CORRA!!!", "VOCÊ NÃO PODE PERDER!!!".
 
 ### Fonte
 
@@ -109,7 +115,7 @@ Não invente fontes. Havendo mais de uma, liste todas.
 
 ### Formatação
 
-Markdown: `##` no título, `###` nos subtítulos, **negrito** em nomes e informações importantes, listas quando ajudarem, parágrafos curtos, linguagem escaneável.
+Markdown: `##` no título, `##` nos subtítulos, **negrito** em nomes e informações importantes, listas quando ajudarem, parágrafos curtos, linguagem escaneável. Sem travessão/hífen como conector de frase (veja "Escrita humana" acima).
 
 **Não inclua**: introdução explicando o que você fez, observação para o editor, comentário sobre o processo, análise da notícia, "aqui está a notícia adaptada", nem conclusão fora do artigo.
 
@@ -122,7 +128,7 @@ O artigo final tem novo título, novo subtítulo, nova introdução, nova ordem 
 Antes de gravar, confira. Se alguma resposta for "não", corrija antes.
 
 1. Título em `##`?
-2. Existe subtítulo em `###`?
+2. Existe subtítulo em `##`?
 3. Título atrativo sem clickbait enganoso?
 4. Abertura gera curiosidade?
 5. Notícia completamente reestruturada?
@@ -130,13 +136,13 @@ Antes de gravar, confira. Se alguma resposta for "não", corrija antes.
 7. Fatos corretos?
 8. Datas e preços corretos?
 9. Plataformas corretas?
-10. Subtítulos `###` suficientes para o tamanho?
+10. Subtítulos `##` suficientes para o tamanho?
 11. Otimizado para SEO sem stuffing?
 12. Leitura fluida?
 13. O texto tem personalidade?
-14. Existe pergunta ao leitor no final?
-15. Existe CTA da Loja dos Gifts?
-16. O CTA contém `www.lojadosgifts.com.br`?
+14. Nenhum travessão/hífen usado como conector de frase?
+15. Existe pergunta ao leitor no final?
+16. O CTA padrão está exatamente como especificado?
 17. A fonte foi indicada?
 
 ## PASSO 3 — Gravar
