@@ -1,12 +1,23 @@
-name: Radar Games — rodar sob demanda
+name: Radar Games — diário + sob demanda
 
 on:
+  # Roda sozinho todo dia às 21:30 de Brasília (00:30 UTC do dia seguinte),
+  # logo depois que a janela da edição fecha (21:00 -03:00).
+  # O GitHub pode atrasar execuções agendadas em alguns minutos; tudo bem,
+  # porque a data da edição é calculada explicitamente no passo "Definir data".
+  schedule:
+    - cron: "30 0 * * *"
   workflow_dispatch:
     inputs:
       data:
         description: "Data específica (AAAA-MM-DD). Deixe em branco para hoje."
         required: false
         default: ""
+
+# Nunca roda duas edições ao mesmo tempo (ex.: agendado + botão manual).
+concurrency:
+  group: radar-games
+  cancel-in-progress: false
 
 permissions:
   contents: write  # necessário para o /radar-games e o /adaptar-noticia poderem dar git push
@@ -69,15 +80,30 @@ jobs:
       # autenticada pelo token da sua assinatura (CLAUDE_CODE_OAUTH_TOKEN),
       # não por uma API key. Isso é o que preserva o "não consome
       # crédito de API" que você já tinha.
+      # O runner do GitHub está em UTC. Às 00:30 UTC já é "amanhã" lá, mas
+      # ainda é "hoje" em Brasília. Por isso a data é calculada no fuso de
+      # São Paulo e passada explicitamente para os dois comandos.
+      - name: Definir data da edição
+        id: data
+        run: |
+          if [ -n "${{ github.event.inputs.data }}" ]; then
+            echo "hoje=${{ github.event.inputs.data }}" >> "$GITHUB_OUTPUT"
+          else
+            echo "hoje=$(TZ=America/Sao_Paulo date +%F)" >> "$GITHUB_OUTPUT"
+          fi
+
       - name: Rodar /radar-games
         env:
           CLAUDE_CODE_OAUTH_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
         run: |
-          if [ -n "${{ github.event.inputs.data }}" ]; then
-            claude -p "/radar-games ${{ github.event.inputs.data }}" --permission-mode acceptEdits
-          else
-            claude -p "/radar-games" --permission-mode acceptEdits
-          fi
+          claude -p "/radar-games ${{ steps.data.outputs.hoje }}" --permission-mode acceptEdits
+          # Se o comando parou sem gravar a edição, falha o job aqui:
+          # assim o GitHub manda o e-mail de falha e o passo de adaptação
+          # não roda em cima da edição antiga.
+          test -f "data/games/${{ steps.data.outputs.hoje }}.json" || {
+            echo "::error::A edição de ${{ steps.data.outputs.hoje }} não foi gerada."
+            exit 1
+          }
 
       # O passo 8 do próprio comando /radar-games já faz git add, commit
       # e push (veja .claude/commands/radar-games.md). Não precisa repetir
@@ -94,4 +120,5 @@ jobs:
         env:
           CLAUDE_CODE_OAUTH_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
         run: |
-          claude -p "/adaptar-noticia todas" --permission-mode acceptEdits
+          git pull --rebase
+          claude -p "/adaptar-noticia todas games ${{ steps.data.outputs.hoje }}" --permission-mode acceptEdits
