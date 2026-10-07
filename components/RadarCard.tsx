@@ -3,6 +3,13 @@ import { SeloTipo } from "./SeloTipo";
 import { SeloEscopo } from "./SeloEscopo";
 import { FonteLink } from "./FonteLink";
 
+const PLATAFORMAS_VAZIAS = new Set(["n/a", "na", "-", "—", "nenhuma", "não se aplica"]);
+
+function plataformaValida(plataforma: string): boolean {
+  const normalizada = plataforma.trim().toLowerCase();
+  return normalizada.length > 0 && !PLATAFORMAS_VAZIAS.has(normalizada);
+}
+
 export function RadarCard({ item, linkArtigo }: { item: ItemRankeado; linkArtigo?: string }) {
   return (
     <article className="rounded-lg border border-borda bg-superficie p-5">
@@ -14,7 +21,7 @@ export function RadarCard({ item, linkArtigo }: { item: ItemRankeado; linkArtigo
           <div className="mb-2 flex flex-wrap items-center gap-2">
             <SeloTipo tipo={item.tipo} confiabilidade={item.confiabilidade} />
             <SeloEscopo escopo={item.escopo} />
-            {item.plataformas.map((plataforma) => (
+            {item.plataformas.filter(plataformaValida).map((plataforma) => (
               <span key={plataforma} className="text-xs text-suave">
                 {plataforma}
               </span>

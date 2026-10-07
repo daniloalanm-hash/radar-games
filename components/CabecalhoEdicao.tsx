@@ -19,7 +19,7 @@ export function CabecalhoEdicao({
         TOP {edicao.itens.length} de {formatarData(edicao.data)}
       </h1>
       {edicao.observacao ? (
-        <p className="mt-3 rounded border border-alerta/40 bg-alerta/10 px-3 py-2 text-sm text-alerta">
+        <p className="mt-3 text-sm text-suave">
           {edicao.observacao}
         </p>
       ) : null}
