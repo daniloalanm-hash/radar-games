@@ -3,7 +3,7 @@
   "data": "2026-09-19",
   "geradoEm": "2026-09-19T21:00:00-03:00",
   "janela": { "inicio": "2026-09-18T21:00:00-03:00", "fim": "2026-09-19T21:00:00-03:00" },
-  "observacao": "Categoria de empresas nacionais trouxe apenas 1 fato corporativo estrito na janela; alguns itens de esports e lançamentos internacionais tiveram data de publicação original um dia antes da janela estrita, mas foram mantidos por reforço editorial claro durante a Tokyo Game Show 2026, que ocorreu integralmente dentro do recorte.",
+  "observacao": null,
   "itens": [
     {
       "posicao": 1,

@@ -3,7 +3,7 @@
   "data": "2026-09-21",
   "geradoEm": "2026-09-21T21:00:00-03:00",
   "janela": { "inicio": "2026-09-20T21:00:00-03:00", "fim": "2026-09-21T21:00:00-03:00" },
-  "observacao": "Nenhum candidato nacional de empresas foi localizado dentro da janela ou da janela estendida de 48h; a cobertura nacional do dia ficou concentrada em esports (CBLOL) e um evento cosmético de live-service.",
+  "observacao": null,
   "itens": [
     {
       "posicao": 1,
@@ -80,9 +80,7 @@
       "dataFato": "2026-09-20",
       "janelaEstendida": false,
       "fonte": { "nome": "Dot Esports", "url": "https://dotesports.com/counter-strike/news/vitality-aurora-starseries-fall-2026", "dominio": "dotesports.com" },
-      "fontesSecundarias": [
-        { "nome": "Draft5", "url": "https://draft5.gg/noticia/furia-confirma-favoritismo-vence-o-mibr-e-vai-em-busca-da-final-na-starladder-starseries-fall-2026", "dominio": "draft5.gg" }
-      ],
+      "fontesSecundarias": [],
       "nota": 8.0,
       "justificativa": "Final de torneio tier-1 do CS2 concluída no próprio dia da janela, com virada relevante e MVP consagrado; envolve indiretamente equipes brasileiras que disputaram o mesmo evento.",
       "pesquisador": "radar-esports"
@@ -95,7 +93,7 @@
       "tipo": "noticia",
       "escopo": "internacional",
       "confiabilidade": "confirmado",
-      "plataformas": ["n/a"],
+      "plataformas": [],
       "tags": ["tgs-2026", "tokyo-game-show", "evento", "clima"],
       "dataFato": "2026-09-21",
       "janelaEstendida": false,
@@ -136,7 +134,7 @@
       "tipo": "noticia",
       "escopo": "internacional",
       "confiabilidade": "confirmado",
-      "plataformas": ["n/a"],
+      "plataformas": [],
       "tags": ["kojima-productions", "sony", "physint", "bloomberg"],
       "dataFato": "2026-09-20",
       "janelaEstendida": false,
