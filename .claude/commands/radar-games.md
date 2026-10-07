@@ -19,6 +19,8 @@ Se `WebSearch` ou `WebFetch` não estiverem disponíveis nesta sessão, **PARE**
 
 Se `data/games/<HOJE>.json` já existir, mostre quantos itens ele tem e **pergunte ao usuário** antes de sobrescrever. Não sobrescreva sem confirmação. Se o usuário declinar, **PARE** e avise que a edição foi abortada.
 
+**Modo não interativo** (rodando via `claude -p`, ex.: GitHub Actions, sem ninguém para responder): se o arquivo já existir, **não sobrescreva e não pergunte**. PARE e escreva `EDIÇÃO JÁ EXISTE: data/games/<HOJE>.json — nada foi alterado.`
+
 ## 3. Disparar os 5 pesquisadores EM PARALELO
 
 Em **uma única mensagem**, faça 5 chamadas à ferramenta Agent, uma por `subagent_type`:
