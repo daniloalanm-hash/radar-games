@@ -1,11 +1,35 @@
+import { timingSafeEqual } from "node:crypto";
 import { NextRequest, NextResponse } from "next/server";
 
+function senhaConfere(recebida: string, esperada: string): boolean {
+  const a = Buffer.from(recebida);
+  const b = Buffer.from(esperada);
+  return a.length === b.length && timingSafeEqual(a, b);
+}
+
 export async function POST(request: NextRequest) {
-  let body: { data?: string };
+  let body: { data?: string; senha?: string };
   try {
     body = await request.json();
   } catch {
     return NextResponse.json({ ok: false, erro: "Corpo da requisição inválido." }, { status: 400 });
+  }
+
+  // Sem senha configurada, o painel fica desligado (falha fechada).
+  // Antes, qualquer pessoa que achasse esta URL podia disparar o radar.
+  const senhaEsperada = process.env.RADAR_PAINEL_SENHA;
+  if (!senhaEsperada) {
+    return NextResponse.json(
+      { ok: false, erro: "Painel desativado: RADAR_PAINEL_SENHA não configurada no servidor." },
+      { status: 503 }
+    );
+  }
+  if (!body.senha || !senhaConfere(body.senha, senhaEsperada)) {
+    return NextResponse.json({ ok: false, erro: "Senha incorreta." }, { status: 401 });
+  }
+
+  if (body.data && !/^\d{4}-\d{2}-\d{2}$/.test(body.data.trim())) {
+    return NextResponse.json({ ok: false, erro: "Data deve estar no formato AAAA-MM-DD." }, { status: 400 });
   }
 
   const token = process.env.RADAR_GITHUB_TOKEN;
