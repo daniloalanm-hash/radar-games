@@ -1,0 +1,443 @@
+{
+  "categoria": "games",
+  "data": "2026-10-08",
+  "geradoEm": "2026-10-08T21:30:00-03:00",
+  "janela": { "inicio": "2026-10-07T21:00:00-03:00", "fim": "2026-10-08T21:00:00-03:00" },
+  "observacao": null,
+  "itens": [
+    {
+      "posicao": 1,
+      "slug": "gears-of-war-e-day-recorde-steam",
+      "titulo": "Gears of War: E-Day bate recorde de jogadores simultâneos da franquia no Steam",
+      "resumo": "Lançado em 6 de outubro pela Microsoft e The Coalition, Gears of War: E-Day atingiu 20.374 jogadores simultâneos no Steam, superando o recorde anterior de Gears 5 (10.196). Estimativas de mercado indicam cerca de 120 mil cópias vendidas na plataforma até o início de outubro.",
+      "tipo": "lancamento",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["Xbox Series", "PC"],
+      "tags": ["microsoft", "xbox", "lancamento", "gears-of-war"],
+      "dataFato": "2026-10-06",
+      "janelaEstendida": true,
+      "fonte": { "nome": "Pure Xbox", "url": "https://www.purexbox.com/news/2026/10/gears-of-war-e-day-smashes-steam-record-and-earns-xbox-series-s-praise-in-first-24-hours", "dominio": "purexbox.com" },
+      "fontesSecundarias": [
+        { "nome": "Tech4Gamers", "url": "https://tech4gamers.com/gears-of-war-e-day-steam-top-sellers-positive-reviews/", "dominio": "tech4gamers.com" },
+        { "nome": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Gears_of_War:_E-Day", "dominio": "en.wikipedia.org" }
+      ],
+      "nota": 8.5,
+      "justificativa": "Sucesso comercial e técnico de um dos maiores lançamentos AAA da semana, com dado concreto e verificável de recorde de franquia.",
+      "pesquisador": "radar-empresas-internacionais"
+    },
+    {
+      "posicao": 2,
+      "slug": "diretor-gears-of-war-e-day-demitido-the-coalition",
+      "titulo": "Diretor de Gears of War: E-Day é demitido dias após o lançamento do jogo em cortes na The Coalition",
+      "resumo": "Juan Vaca, diretor de história da The Coalition, anunciou no LinkedIn que foi demitido na mais recente onda de cortes da Microsoft, poucos dias depois da conclusão de Gears of War: E-Day (lançado em 6 de outubro). A Microsoft ainda planeja cortar mais de 1.000 vagas até o fim do ano fiscal.",
+      "tipo": "noticia",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["Xbox Series", "PC"],
+      "tags": ["microsoft", "demissoes", "the-coalition", "gears-of-war"],
+      "dataFato": "2026-10-06",
+      "janelaEstendida": true,
+      "fonte": { "nome": "GamesRadar", "url": "https://www.gamesradar.com/games/gears-of-war/gears-of-war-e-day-director-laid-off-days-after-completing-development-as-xbox-cuts-reach-the-coalition/", "dominio": "gamesradar.com" },
+      "fontesSecundarias": [
+        { "nome": "PC Gamer", "url": "https://www.pcgamer.com/gaming-industry/industry-layoff-watch-supermassive-ninja-theory-the-coalition-and-a-warning-from-warhorse/", "dominio": "pcgamer.com" },
+        { "nome": "This Week in Videogames", "url": "https://thisweekinvideogames.com/news/the-coalition-developers-fear-layoffs-after-allegedly-crunching-hard-on-gears-of-war-e-day-report/", "dominio": "thisweekinvideogames.com" }
+      ],
+      "nota": 8.3,
+      "justificativa": "Contraste marcante entre o sucesso de lançamento e a onda de demissões simultânea, simbolizando a crise na Microsoft Gaming.",
+      "pesquisador": "radar-empresas-internacionais"
+    },
+    {
+      "posicao": 3,
+      "slug": "cblol-2026-furia-x-los-grande-final-split-2",
+      "titulo": "CBLOL 2026: FURIA e LOS definem grande final do Split 2 no Rio, com vaga no Worlds em jogo",
+      "resumo": "FURIA e LOS vão disputar a grande final do Split 2 do CBLOL 2026 em 10 de outubro, às 13h, na Arena Carioca 1, no Rio de Janeiro — reedição da final do Split 1, vencida pela FURIA por 3x1. A Riot Games já confirmou ativações de patrocinadores como Kia, Red Bull e Sadia para o público presente, e a FURIA já tem vaga garantida no Worlds 2026.",
+      "tipo": "esports",
+      "escopo": "nacional",
+      "confiabilidade": "confirmado",
+      "plataformas": [],
+      "tags": ["cblol", "league-of-legends", "esports", "furia"],
+      "dataFato": "2026-10-07",
+      "janelaEstendida": false,
+      "fonte": { "nome": "ExitLag", "url": "https://www.exitlag.com/news/cblol-2026-grand-final/", "dominio": "exitlag.com" },
+      "fontesSecundarias": [
+        { "nome": "Mais Esports", "url": "https://maisesports.com.br/cblol-2026-furia-elimina-a-loud-e-vai-a-final", "dominio": "maisesports.com.br" },
+        { "nome": "Itatiaia", "url": "https://www.itatiaia.com.br/esportes/esports/cblol-2026-veja-todas-as-ativacoes-para-o-publico-na-grande-final-no-rio/", "dominio": "itatiaia.com.br" }
+      ],
+      "nota": 8.8,
+      "justificativa": "Maior evento de esports nacional da semana, com data, local e stakes claros, incluindo vaga no Worlds.",
+      "pesquisador": "radar-esports"
+    },
+    {
+      "posicao": 4,
+      "slug": "loud-vira-contra-paper-rex-vct-champions-2026",
+      "titulo": "VCT Champions 2026: LOUD vira contra Paper Rex e avança em Xangai",
+      "resumo": "Nas quartas de final (Upper Bracket) do VALORANT Champions 2026, a LOUD venceu Paper Rex por 2x0 (13-9 no Split e 15-13 no Sunset), virando desvantagens no intervalo de ambos os mapas. O resultado elimina a favorita Paper Rex e mantém a equipe brasileira no bracket superior do torneio.",
+      "tipo": "esports",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC"],
+      "tags": ["valorant", "vct", "esports", "loud"],
+      "dataFato": "2026-10-07",
+      "janelaEstendida": false,
+      "fonte": { "nome": "esports.gg", "url": "https://esports.gg/news/valorant/valorant-champions-2026-loud-paper-rex/", "dominio": "esports.gg" },
+      "fontesSecundarias": [
+        { "nome": "VLR.gg", "url": "https://www.vlr.gg/754733/paper-rex-vs-loud-valorant-champions-2026-ubqf", "dominio": "vlr.gg" }
+      ],
+      "nota": 8.0,
+      "justificativa": "Resultado concreto de time brasileiro de ponta em evento internacional relevante, com virada dramática.",
+      "pesquisador": "radar-esports"
+    },
+    {
+      "posicao": 5,
+      "slug": "xbox-game-pass-battlefield-6-outubro",
+      "titulo": "Xbox Game Pass confirma Battlefield 6 e oito outros jogos entre 8 e 16 de outubro",
+      "resumo": "A Microsoft confirmou que nove jogos entrarão no Xbox Game Pass entre 8 e 16 de outubro de 2026, com Echo Weaver, Forever Ago e Neon Abyss 2 como day-one em 8/10, e Battlefield 6 chegando ao catálogo em 13 de outubro.",
+      "tipo": "noticia",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["Xbox Series", "PC"],
+      "tags": ["xbox-game-pass", "battlefield-6", "microsoft"],
+      "dataFato": "2026-10-08",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Pure Xbox", "url": "https://www.purexbox.com/news/2026/10/these-nine-games-are-coming-to-xbox-game-pass-including-battlefield-6-october-8-16", "dominio": "purexbox.com" },
+      "fontesSecundarias": [
+        { "nome": "GamerRant", "url": "https://gamerant.com/xbox-game-pass-games-coming-soon-list-october-2026/", "dominio": "gamerant.com" }
+      ],
+      "nota": 7.8,
+      "justificativa": "Movimento de assinatura com título AAA de peso (Battlefield 6) entrando no catálogo, de interesse amplo para assinantes.",
+      "pesquisador": "radar-lancamentos-internacionais"
+    },
+    {
+      "posicao": 6,
+      "slug": "ninja-theory-fechamento-demissoes",
+      "titulo": "Ninja Theory encaminha fechamento após duas tentativas frustradas de venda pela Microsoft",
+      "resumo": "A Microsoft confirmou que dois acordos separados para encontrar novo dono da Ninja Theory (estúdio de Hellblade) fracassaram, e demissões já começaram em 5 de outubro como parte da consultoria de redundância que pode levar ao fechamento do estúdio. O futuro de 'Senua', terceiro jogo da série Hellblade anunciado em junho de 2026, ficou incerto.",
+      "tipo": "noticia",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["Xbox Series", "PC"],
+      "tags": ["microsoft", "ninja-theory", "demissoes", "hellblade"],
+      "dataFato": "2026-10-05",
+      "janelaEstendida": true,
+      "fonte": { "nome": "PSU", "url": "https://www.psu.com/news/ninja-theory-staff-reveal-layoffs-have-started-as-dev-faces-closure-in-wake-of-xbox-cuts/", "dominio": "psu.com" },
+      "fontesSecundarias": [
+        { "nome": "Push Square", "url": "https://www.pushsquare.com/news/2026/09/microsoft-closing-hellblade-dev-ninja-theory-after-failed-buyout-talks", "dominio": "pushsquare.com" },
+        { "nome": "PC Gamer", "url": "https://www.pcgamer.com/gaming-industry/industry-layoff-watch-supermassive-ninja-theory-the-coalition-and-a-warning-from-warhorse/", "dominio": "pcgamer.com" }
+      ],
+      "nota": 8.2,
+      "justificativa": "Fechamento de estúdio histórico da Microsoft com cancelamento implícito de jogo anunciado; alto impacto, embora o fato inicial seja de dias antes da janela.",
+      "pesquisador": "radar-empresas-internacionais"
+    },
+    {
+      "posicao": 7,
+      "slug": "deep-dish-dungeon-xbox-game-pass",
+      "titulo": "Jogo brasileiro Deep Dish Dungeon chega ao Xbox Game Pass em 13 de outubro",
+      "resumo": "A Microsoft anunciou, via Xbox Wire em Português, que o jogo brasileiro Deep Dish Dungeon, da Behold Studios (Chroma Squad, Knights of Pen & Paper), chegará em 13 de outubro direto ao Xbox Game Pass Ultimate e PC Game Pass. O título é um dungeon crawler com exploração, sobrevivência, crafting e metroidvania, jogável solo ou em cooperativo online.",
+      "tipo": "lancamento",
+      "escopo": "nacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["Xbox Series", "PC"],
+      "tags": ["xbox-game-pass", "behold-studios", "jogo-brasileiro"],
+      "dataFato": "2026-10-07",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Xbox Wire Brasil", "url": "https://news.xbox.com/pt-br/2026/10/07/xbox-game-pass-outubro-wave-1/", "dominio": "news.xbox.com" },
+      "fontesSecundarias": [
+        { "nome": "GameHall", "url": "https://gamehall.com.br/game-pass-recebe-battlefield-6-sete-lancamentos-no-dia-um-e-ate-dungeon-brasileira-em-outubro/", "dominio": "gamehall.com.br" },
+        { "nome": "Gamers & Games", "url": "https://www.gamersegames.com.br/2026/10/07/xbox-game-pass-battlefield-6-e-jogo-brasileiro-deep-dish-dungeon-lideram-as-novidades-de-outubro/", "dominio": "gamersegames.com.br" }
+      ],
+      "nota": 7.8,
+      "justificativa": "Estúdio brasileiro consagrado chegando a um catálogo global de assinatura, com fonte oficial confirmando o fato.",
+      "pesquisador": "radar-lancamentos-nacionais"
+    },
+    {
+      "posicao": 8,
+      "slug": "sega-ablegamers-brasil-bgs-2026",
+      "titulo": "SEGA firma parceria com AbleGamers Brasil para acessibilidade total no estande da BGS 2026",
+      "resumo": "A SEGA anunciou parceria com a ONG brasileira AbleGamers Brasil para implementar audiodescrição completa em todo o seu estande de 300 m² na Brasil Game Show 2026 (9 a 12 de outubro, em São Paulo). A iniciativa inclui audiodescrição de ambientes e ativações, além de placas em alto contraste e Braille, validadas por pessoas cegas.",
+      "tipo": "noticia",
+      "escopo": "nacional",
+      "confiabilidade": "confirmado",
+      "plataformas": [],
+      "tags": ["sega", "bgs-2026", "acessibilidade"],
+      "dataFato": "2026-10-07",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Gamers & Games", "url": "https://www.gamersegames.com.br/2026/10/07/estande-da-sega-na-bgs-2026-tera-audiodescricao-completa-em-parceria-com-a-ablegamers-brasil/", "dominio": "gamersegames.com.br" },
+      "fontesSecundarias": [
+        { "nome": "Critical Hits", "url": "https://criticalhits.com.br/games/sega-tera-audiodescricao-em-todo-o-estande-da-bgs-2026-em-parceria-com-a-ablegamers/", "dominio": "criticalhits.com.br" },
+        { "nome": "GameHall", "url": "https://gamehall.com.br/sega-tera-estande-mais-acessivel-na-bgs-2026-em-parceria-com-a-ablegamers-brasil/", "dominio": "gamehall.com.br" }
+      ],
+      "nota": 7.3,
+      "justificativa": "Iniciativa concreta de acessibilidade de publisher internacional em parceria com ONG brasileira, na maior feira de games do país.",
+      "pesquisador": "radar-empresas-nacionais"
+    },
+    {
+      "posicao": 9,
+      "slug": "art-retorna-legacy-thunderpick",
+      "titulo": "CS2: arT recebe alta hospitalar e retorna à Legacy para o Thunderpick World Championship",
+      "resumo": "Andrei 'arT' Piovezan, IGL da Legacy, foi hospitalizado com meningite e recebeu alta após responder bem ao tratamento, segundo comunicado oficial da equipe. O jogador brasileiro retornará à line-up titular no Thunderpick World Championship, que começa em 14 de outubro em Malta, após ter perdido a ESL Pro League.",
+      "tipo": "noticia",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC"],
+      "tags": ["cs2", "legacy", "esports"],
+      "dataFato": "2026-10-07",
+      "janelaEstendida": false,
+      "fonte": { "nome": "HLTV", "url": "https://www.hltv.org/news/45669/art-to-return-for-thunderpick-world-championship", "dominio": "hltv.org" },
+      "fontesSecundarias": [
+        { "nome": "Dust2", "url": "https://www.dust2.com.br/noticias/78665/legacy-confirma-data-de-retorno-de-art", "dominio": "dust2.com.br" }
+      ],
+      "nota": 7.6,
+      "justificativa": "Fato bem documentado e de interesse humano, envolvendo jogador e time brasileiros de peso no cenário internacional de CS2.",
+      "pesquisador": "radar-esports"
+    },
+    {
+      "posicao": 10,
+      "slug": "supermassive-games-70-demissoes",
+      "titulo": "Supermassive Games conclui corte de mais de 70 funcionários",
+      "resumo": "A Supermassive Games (Until Dawn, The Dark Pictures Anthology) confirmou a conclusão do processo de redundância iniciado em agosto de 2026, com mais de 70 pessoas demitidas entre desenvolvedores, artistas, produtores e liderança sênior. O ex-diretor de TI Frank Tindle, com 16 anos na empresa, foi um dos afetados.",
+      "tipo": "noticia",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": [],
+      "tags": ["supermassive-games", "demissoes"],
+      "dataFato": "2026-10-05",
+      "janelaEstendida": true,
+      "fonte": { "nome": "Insider Gaming", "url": "https://insider-gaming.com/supermassive-games-layoffs-arrive-with-over-70-people-let-go/", "dominio": "insider-gaming.com" },
+      "fontesSecundarias": [
+        { "nome": "PC Gamer", "url": "https://www.pcgamer.com/gaming-industry/industry-layoff-watch-supermassive-ninja-theory-the-coalition-and-a-warning-from-warhorse/", "dominio": "pcgamer.com" }
+      ],
+      "nota": 6.8,
+      "justificativa": "Mais um capítulo da onda de demissões na indústria britânica, com estúdio relevante e número significativo de afetados.",
+      "pesquisador": "radar-empresas-internacionais"
+    }
+  ],
+  "tambemNoRadar": [
+    {
+      "slug": "nrg-elimina-t1-vct-champions-2026",
+      "titulo": "NRG elimina T1 nas quartas do VCT Champions 2026",
+      "resumo": "Na mesma rodada do Upper Bracket das quartas de final do VALORANT Champions 2026 em Xangai, a NRG venceu a T1 por 2x0, avançando no chaveamento superior do torneio.",
+      "tipo": "esports",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC"],
+      "tags": ["valorant", "vct", "esports"],
+      "dataFato": "2026-10-07",
+      "janelaEstendida": false,
+      "fonte": { "nome": "VLR.gg", "url": "https://www.vlr.gg/event/matches/2766/valorant-champions-2026/", "dominio": "vlr.gg" },
+      "fontesSecundarias": [],
+      "nota": 6.0,
+      "justificativa": "Resultado concreto de evento top-tier, mas sem envolvimento de equipe brasileira e com menor repercussão editorial.",
+      "pesquisador": "radar-esports"
+    },
+    {
+      "slug": "clive-barkers-hellraiser-revival-lancamento",
+      "titulo": "Clive Barker's Hellraiser: Revival chega hoje a todas as plataformas",
+      "resumo": "O jogo de terror em primeira pessoa Clive Barker's Hellraiser: Revival, desenvolvido e publicado pela Saber Interactive com roteiro em colaboração com Clive Barker, lançou em 8 de outubro de 2026, disponível simultaneamente em PS5, Xbox Series X/S, PC e Nintendo Switch 2.",
+      "tipo": "lancamento",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PS5", "Xbox Series", "PC", "Switch 2"],
+      "tags": ["terror", "saber-interactive", "lancamento"],
+      "dataFato": "2026-10-08",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Clive_Barker%27s_Hellraiser:_Revival", "dominio": "en.wikipedia.org" },
+      "fontesSecundarias": [
+        { "nome": "KhelNow", "url": "https://khelnow.com/gaming/hellraiser-revival-release-date-timings-early-access-game-pass-202610", "dominio": "khelnow.com" }
+      ],
+      "nota": 6.5,
+      "justificativa": "Lançamento multiplataforma relevante para fãs de horror, mas de apelo mais nichado que os destaques do topo.",
+      "pesquisador": "radar-lancamentos-internacionais"
+    },
+    {
+      "slug": "order-of-the-sinking-star-jonathan-blow",
+      "titulo": "Order of the Sinking Star, novo jogo de Jonathan Blow, é lançado",
+      "resumo": "Order of the Sinking Star, novo puzzle adventure de Jonathan Blow (criador de Braid e The Witness) via estúdio Thekla, lançou em 8 de outubro por US$ 29,99 para PC, PS5 e Switch 2, trazendo mais de 1.000 quebra-cabeças em quatro mundos interligados.",
+      "tipo": "lancamento",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC", "PS5", "Switch 2"],
+      "tags": ["puzzle", "jonathan-blow", "lancamento"],
+      "dataFato": "2026-10-08",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Bleeding Cool", "url": "https://bleedingcool.com/games/jonathan-blows-order-of-the-sinking-star-arrives-october-8th/", "dominio": "bleedingcool.com" },
+      "fontesSecundarias": [
+        { "nome": "Noisy Pixel", "url": "https://noisypixel.net/order-of-the-sinking-star-october-8-launch/", "dominio": "noisypixel.net" }
+      ],
+      "nota": 6.4,
+      "justificativa": "Lançamento de criador renomado, relevante para público core de puzzle games, mas de apelo mais restrito.",
+      "pesquisador": "radar-lancamentos-internacionais"
+    },
+    {
+      "slug": "kingdom-hearts-collection-switch-2",
+      "titulo": "Kingdom Hearts Collection [I~III] estreia no Nintendo Switch 2",
+      "resumo": "A Kingdom Hearts Collection [I~III], reunindo HD 1.5+2.5 ReMIX, 2.8 Final Chapter Prologue e Kingdom Hearts III + Re Mind, chegou ao Nintendo Switch 2 em 8 de outubro, em versões digital e física, ocupando mais de 130 GB no console.",
+      "tipo": "lancamento",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["Switch 2"],
+      "tags": ["kingdom-hearts", "switch-2", "lancamento"],
+      "dataFato": "2026-10-08",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Nintendo Life", "url": "https://www.nintendolife.com/games/nintendo-switch-2/kingdom-hearts-collection-iiii", "dominio": "nintendolife.com" },
+      "fontesSecundarias": [
+        { "nome": "Nintendo Wire", "url": "https://nintendowire.com/reviews/kingdom-hearts-collection-iiii-on-nintendo-switch-2/", "dominio": "nintendowire.com" }
+      ],
+      "nota": 6.3,
+      "justificativa": "Portabilidade de franquia grande e amada para novo hardware, relevante para a base de fãs mas sem fato inédito.",
+      "pesquisador": "radar-lancamentos-internacionais"
+    },
+    {
+      "slug": "the-crew-motorfest-switch-2",
+      "titulo": "The Crew Motorfest chega ao Nintendo Switch 2",
+      "resumo": "A Ubisoft lançou The Crew Motorfest para Nintendo Switch 2 em 8 de outubro de 2026, ampliando a presença do jogo de corrida de mundo aberto para o novo hardware da Nintendo.",
+      "tipo": "lancamento",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["Switch 2"],
+      "tags": ["ubisoft", "switch-2", "corrida"],
+      "dataFato": "2026-10-08",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Ubisoft News", "url": "https://www.ubisoft.com/en-us/news/ignt.63968/the-crew-motorfest-comes-to-nintendo-switch-2-on-october-8-2026", "dominio": "ubisoft.com" },
+      "fontesSecundarias": [
+        { "nome": "GamerRant", "url": "https://gamerant.com/switch-2-games-coming-out-soon-october-2026/", "dominio": "gamerant.com" }
+      ],
+      "nota": 5.8,
+      "justificativa": "Port relevante de jogo de corrida popular para o Switch 2, mas de menor ineditismo.",
+      "pesquisador": "radar-lancamentos-internacionais"
+    },
+    {
+      "slug": "echo-weaver-xbox-game-pass-day-one",
+      "titulo": "Echo Weaver chega como exclusivo day-one do Xbox Game Pass",
+      "resumo": "Echo Weaver, metroidvania baseado em conhecimento com mecânica de loop temporal, lançou em 8 de outubro como título day-one do Xbox Game Pass, disponível para Xbox Series X/S, PC e Cloud.",
+      "tipo": "lancamento",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["Xbox Series", "PC"],
+      "tags": ["xbox-game-pass", "metroidvania", "indie"],
+      "dataFato": "2026-10-08",
+      "janelaEstendida": false,
+      "fonte": { "nome": "The Click", "url": "https://www.theclick.gg/echo-weaver-release-date-and-platforms/", "dominio": "theclick.gg" },
+      "fontesSecundarias": [
+        { "nome": "Pure Xbox", "url": "https://www.purexbox.com/news/2026/10/three-day-one-xbox-game-pass-titles-are-confirmed-for-the-next-few-days-october-6-8", "dominio": "purexbox.com" }
+      ],
+      "nota": 5.2,
+      "justificativa": "Lançamento de nicho (indie metroidvania), já citado indiretamente no item do Game Pass.",
+      "pesquisador": "radar-lancamentos-internacionais"
+    },
+    {
+      "slug": "triple-i-initiative-showcase-outubro-2026",
+      "titulo": "Triple-i Initiative Showcase reúne 40 jogos indie e 8 premières mundiais",
+      "resumo": "A Evil Empire realizou em 8 de outubro a edição de outono do Triple-i Initiative Showcase, evento dedicado a jogos indie, com 40 jogos apresentados e 8 premières mundiais, incluindo novidades de Among Us, Dave the Diver, Risk of Rain 2 e Outward 2.",
+      "tipo": "noticia",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC", "Switch", "PS5", "Xbox Series"],
+      "tags": ["indie", "showcase", "evento"],
+      "dataFato": "2026-10-08",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Gematsu", "url": "https://www.gematsu.com/2026/09/the-triple-i-initiative-set-for-october-8", "dominio": "gematsu.com" },
+      "fontesSecundarias": [
+        { "nome": "OutputLag", "url": "https://outputlag.com/news/triple-i-initiative-showcase-returns-october-8-with-40-games-and-8-world-premieres/", "dominio": "outputlag.com" }
+      ],
+      "nota": 5.5,
+      "justificativa": "Evento relevante para o ecossistema indie internacional, mas sem um anúncio individual de peso suficiente para o topo.",
+      "pesquisador": "radar-empresas-internacionais"
+    },
+    {
+      "slug": "cmtry-astralis-emprestimo-cs2",
+      "titulo": "CS2: fontes indicam que cmtry deve se juntar à Astralis por empréstimo",
+      "resumo": "Segundo fontes do HLTV, Mykyta 'cmtry' Samolotov está próximo de se juntar à Astralis por empréstimo, atuando como rifler apesar de historicamente jogar de AWP, após a organização buscar substitutos para HooXi e jabbi.",
+      "tipo": "rumor",
+      "escopo": "internacional",
+      "confiabilidade": "rumor",
+      "plataformas": ["PC"],
+      "tags": ["cs2", "astralis", "transferencia"],
+      "dataFato": "2026-10-07",
+      "janelaEstendida": false,
+      "fonte": { "nome": "HLTV", "url": "https://www.hltv.org/news/45671/sources-cmtry-to-join-astralis-on-loan", "dominio": "hltv.org" },
+      "fontesSecundarias": [
+        { "nome": "Dust2.us", "url": "https://www.dust2.us/news/78676/media-astralis-look-to-add-cmtry-as-a-rifler-as-multiple-contracts-approach-expiration", "dominio": "dust2.us" }
+      ],
+      "nota": 5.8,
+      "justificativa": "Rumor bem sourced em organização tradicional de CS2, mas ainda não oficializado e de impacto limitado ao público casual.",
+      "pesquisador": "radar-esports"
+    },
+    {
+      "slug": "valve-restricoes-vrs-major-singapura",
+      "titulo": "CS2: Valve restringe elegibilidade regional no VRS antes do Major de Singapura",
+      "resumo": "A Valve ajustou o CS Major Supplemental Rulebook em 6 de outubro para regular trocas de região no sistema VRS, estabelecendo que um elenco só é elegível para uma atribuição regional se não apareceu em lista VRS de outra região nos três meses anteriores. BC.Game, Sashi e WW foram diretamente afetadas.",
+      "tipo": "noticia",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC"],
+      "tags": ["cs2", "valve", "major"],
+      "dataFato": "2026-10-06",
+      "janelaEstendida": true,
+      "fonte": { "nome": "HLTV", "url": "https://hltv.org/news/45655/valve-adjust-rules-for-vrs-region-swaps", "dominio": "hltv.org" },
+      "fontesSecundarias": [],
+      "nota": 5.9,
+      "justificativa": "Mudança regulatória relevante para o circuito competitivo, mas de interesse mais restrito ao público hardcore de CS2.",
+      "pesquisador": "radar-esports"
+    },
+    {
+      "slug": "ps-store-escolha-do-jogador-outubro-2026",
+      "titulo": "PS Store Brasil lança promoção Escolha do Jogador com até 80% de desconto",
+      "resumo": "A PlayStation Store no Brasil iniciou em 7 de outubro a promoção 'Escolha do Jogador', com 4.862 itens com desconto de até 80%, rodando simultaneamente com a promoção 'Ofertas Imperdíveis'. Ambas ficam disponíveis até 21 de outubro.",
+      "tipo": "noticia",
+      "escopo": "nacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PS5", "PS4"],
+      "tags": ["playstation-store", "promocao"],
+      "dataFato": "2026-10-07",
+      "janelaEstendida": false,
+      "fonte": { "nome": "PSX Brasil", "url": "https://psxbrasil.com.br/ps-store-recebe-promocao-escolha-do-jogador-com-ate-80-de-desconto/", "dominio": "psxbrasil.com.br" },
+      "fontesSecundarias": [
+        { "nome": "Fast Company Brasil", "url": "https://fastcompanybrasil.com/games/ps-store-entra-promocao-ate-91-de-desconto-jogos/", "dominio": "fastcompanybrasil.com" }
+      ],
+      "nota": 5.5,
+      "justificativa": "Promoção de consumo relevante para o público brasileiro, mas sem o peso editorial dos destaques do topo.",
+      "pesquisador": "radar-lancamentos-nacionais"
+    },
+    {
+      "slug": "abragames-brasil-top5-producao-games",
+      "titulo": "Abragames projeta Brasil entre os cinco maiores produtores de games do mundo em até 10 anos",
+      "resumo": "O presidente da Abragames, Rodrigo Terra, declarou à GamesIndustry que o setor brasileiro de jogos, hoje entre a 10ª e 13ª posição no ranking global por volume de exportação, tem como meta entrar no top 5 mundial em menos de 10 anos.",
+      "tipo": "noticia",
+      "escopo": "nacional",
+      "confiabilidade": "confirmado",
+      "plataformas": [],
+      "tags": ["abragames", "mercado", "industria-nacional"],
+      "dataFato": "2026-10-06",
+      "janelaEstendida": true,
+      "fonte": { "nome": "Drops de Jogos (UAI)", "url": "https://dropsdejogos.uai.com.br/noticias/indie/brasil-quer-estar-entre-os-5-maiores-de-jogos-do-mundo-em-menos-de-10-anos-diz-abragames-ao-gamesindustry/", "dominio": "dropsdejogos.uai.com.br" },
+      "fontesSecundarias": [],
+      "nota": 5.6,
+      "justificativa": "Declaração institucional relevante para o setor nacional, mas sem evento ou gatilho concreto específico na data.",
+      "pesquisador": "radar-empresas-nacionais"
+    },
+    {
+      "slug": "bgs-2026-novos-estudios-area-indie",
+      "titulo": "BGS 2026 confirma cinco novos estúdios brasileiros na Área Indie",
+      "resumo": "A organização da Brasil Game Show 2026 confirmou a entrada de cinco novos estúdios brasileiros na Área BGS Indie: Gene World, Ola GG, Antelus Games, Peculiar Path e 2Wedges. O evento, de 9 a 12 de outubro em São Paulo, contará com 45 projetos indie nacionais em exibição.",
+      "tipo": "noticia",
+      "escopo": "nacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC"],
+      "tags": ["bgs-2026", "indie", "estudios-brasileiros"],
+      "dataFato": "2026-10-07",
+      "janelaEstendida": true,
+      "fonte": { "nome": "GamerPoint", "url": "https://www.gamerpoint.com.br/noticias/bgs-2026-confirma-novos-estudios-na-area-indie", "dominio": "gamerpoint.com.br" },
+      "fontesSecundarias": [
+        { "nome": "Indie Brasilis", "url": "https://indiebrasilis.com.br/?p=3538", "dominio": "indiebrasilis.com.br" },
+        { "nome": "Com Desvantagem", "url": "https://comdesvantagem.com.br/area-indie-bgs-2026-jogos-estudios/", "dominio": "comdesvantagem.com.br" }
+      ],
+      "nota": 5.0,
+      "justificativa": "Relevante para o ecossistema indie nacional, mas de alcance mais restrito que os demais destaques nacionais do dia.",
+      "pesquisador": "radar-empresas-nacionais"
+    }
+  ],
+  "descartados": [
+    { "titulo": "Tencent nega novamente rumores de aquisição da Nexon por cerca de US$ 15 bilhões", "motivo": "Fato datado de 13 de agosto de 2026, completamente fora da janela de referência (7-8 de outubro), mesmo considerando janela estendida." }
+  ]
+}
