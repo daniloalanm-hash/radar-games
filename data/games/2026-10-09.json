@@ -1,0 +1,343 @@
+{
+  "categoria": "games",
+  "data": "2026-10-09",
+  "geradoEm": "2026-10-09T21:30:00-03:00",
+  "janela": { "inicio": "2026-10-08T21:00:00-03:00", "fim": "2026-10-09T21:00:00-03:00" },
+  "observacao": null,
+  "itens": [
+    {
+      "posicao": 1,
+      "slug": "ninja-theory-inicia-demissoes-xbox-ameaca-fechamento",
+      "titulo": "Ninja Theory inicia demissões em meio a ameaça de fechamento pela Xbox",
+      "resumo": "Funcionários da Ninja Theory, estúdio britânico de Hellblade pertencente à Xbox Game Studios, confirmaram no LinkedIn demissões e riscos de redundância após duas tentativas de venda do estúdio fracassarem. O COO da Xbox, Matt Booty, declarou que a empresa iniciará consulta formal sobre um possível encerramento, ainda explorando outros caminhos; nem Microsoft nem o estúdio confirmaram o número de desligados.",
+      "tipo": "noticia",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": [],
+      "tags": ["xbox", "demissoes", "fechamento-de-estudio", "ninja-theory"],
+      "dataFato": "2026-10-05",
+      "janelaEstendida": true,
+      "fonte": { "nome": "Video Games Chronicle", "url": "https://www.videogameschronicle.com/news/hellblade-studio-ninja-theory-has-started-laying-off-staff-following-xboxs-announcement-that-it-faces-closure/", "dominio": "videogameschronicle.com" },
+      "fontesSecundarias": [
+        { "nome": "Insider Gaming", "url": "https://insider-gaming.com/ninja-theory-closing-down-xbox/", "dominio": "insider-gaming.com" },
+        { "nome": "Pure Xbox", "url": "https://www.purexbox.com/news/2026/09/xbox-warns-ninja-theory-could-be-closed-as-two-agreements-fall-through", "dominio": "purexbox.com" }
+      ],
+      "nota": 8.8,
+      "justificativa": "Maior impacto estrutural da janela: risco de fechamento de um estúdio histórico da Xbox, com demissões já em curso e confirmação da própria companhia.",
+      "pesquisador": "radar-empresas-internacionais"
+    },
+    {
+      "posicao": 2,
+      "slug": "final-cblol-2026-furia-los-rio-de-janeiro",
+      "titulo": "Final do CBLOL 2026 será disputada entre FURIA e LØS no Rio de Janeiro",
+      "resumo": "A grande final do Split 2 do CBLOL 2026 acontece em 10 de outubro, às 13h, na Arena Carioca 1 (Rio de Janeiro), reunindo FURIA e LØS em revanche da final do Split 1 (vencida pela FURIA por 3-1). O campeão garante vaga direta na Fase Suíça do Worlds 2026, e pela primeira vez os dois finalistas representarão o Brasil no Mundial, nos EUA.",
+      "tipo": "esports",
+      "escopo": "nacional",
+      "confiabilidade": "confirmado",
+      "plataformas": [],
+      "tags": ["cblol", "league-of-legends", "furia", "worlds"],
+      "dataFato": "2026-10-08",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Mais Esports", "url": "https://maisesports.com.br/cblol-2026-furia-elimina-a-loud-e-vai-a-final", "dominio": "maisesports.com.br" },
+      "fontesSecundarias": [
+        { "nome": "Gazeta Esportiva", "url": "https://www.gazetaesportiva.com/esports/rio-de-janeiro-sera-sede-da-grande-final-do-cblol-2026/", "dominio": "gazetaesportiva.com" }
+      ],
+      "nota": 8.3,
+      "justificativa": "Final nacional de maior visibilidade da janela, com desdobramento direto para o Worlds 2026 e ineditismo de dois times brasileiros garantidos no Mundial.",
+      "pesquisador": "radar-esports"
+    },
+    {
+      "posicao": 3,
+      "slug": "dragons-dogma-2-dark-arisen-lancamento-switch-2",
+      "titulo": "Dragon's Dogma 2: Dark Arisen chega em todas as plataformas, com debut no Switch 2",
+      "resumo": "A expansão paga Dragon's Dogma 2: Dark Arisen foi lançada em 9 de outubro para PS5, Xbox Series X|S, PC e Nintendo Switch 2, marcando a primeira vez que a franquia chega ao console da Nintendo. O conteúdo adiciona nova história na região nevada de Norgan, 12 masmorras de desafio \"Lost Rites\", um sistema de equipamentos relíquia e o modo \"The Relic: First Guardian\", lançado simultaneamente de forma exclusiva no Switch 2.",
+      "tipo": "lancamento",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PS5", "Xbox Series", "PC", "Switch 2"],
+      "tags": ["dragons-dogma", "dlc", "switch-2", "capcom"],
+      "dataFato": "2026-10-09",
+      "janelaEstendida": false,
+      "fonte": { "nome": "PC Gamer", "url": "https://www.pcgamer.com/games/rpg/heres-the-dragons-dogma-2-dark-arisen-release-time-for-your-region/", "dominio": "pcgamer.com" },
+      "fontesSecundarias": [
+        { "nome": "Steam Community", "url": "https://steamcommunity.com/games/2054970/announcements/detail/701018444848432751", "dominio": "steamcommunity.com" },
+        { "nome": "AltChar", "url": "https://www.altchar.com/game-news/dragons-dogma-2-dark-arisen-global-launch-dates-and-times-explained-aCnKI9b2vpLo", "dominio": "altchar.com" },
+        { "nome": "DLCompare", "url": "https://www.dlcompare.com/gaming-news/this-week-s-video-game-releases-october-2026-week-41", "dominio": "dlcompare.com" }
+      ],
+      "nota": 8.0,
+      "justificativa": "Lançamento multiplataforma de peso do dia, com debut inédito da franquia no Switch 2 e conteúdo substancial de expansão.",
+      "pesquisador": "radar-lancamentos-internacionais"
+    },
+    {
+      "posicao": 4,
+      "slug": "paramount-filme-cyberpunk-2077-cd-projekt-red",
+      "titulo": "Paramount anuncia filme live-action de Cyberpunk 2077 com CD Projekt Red",
+      "resumo": "A Paramount Pictures confirmou o desenvolvimento de um filme live-action ambientado no universo de Cyberpunk 2077, produzido por Lorenzo di Bonaventura (Transformers) em parceria com a CD Projekt Red, que atua como coprodutora. O projeto está em estágio inicial, sem diretor, elenco ou data de lançamento definidos.",
+      "tipo": "noticia",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": [],
+      "tags": ["cyberpunk-2077", "cd-projekt-red", "filme", "adaptacao"],
+      "dataFato": "2026-10-08",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Deadline", "url": "https://deadline.com/2026/10/paramount-lorenzo-di-bonaventura-cyberpunk-2077-1237150129/", "dominio": "deadline.com" },
+      "fontesSecundarias": [
+        { "nome": "The Gamer", "url": "https://www.thegamer.com/cyberpunk-2077-official-movie-adaptation-announcement/", "dominio": "thegamer.com" }
+      ],
+      "nota": 7.8,
+      "justificativa": "Expansão de uma das maiores franquias de jogos para o cinema, com fonte primária de Hollywood confirmando o projeto.",
+      "pesquisador": "radar-empresas-internacionais"
+    },
+    {
+      "posicao": 5,
+      "slug": "brasil-game-show-2026-abertura-conferencia",
+      "titulo": "Brasil Game Show 2026 abre em São Paulo com conferência de 14 marcas",
+      "resumo": "A 17ª edição da Brasil Game Show abriu em 9 de outubro de 2026 no Distrito Anhembi, em São Paulo, com a BGS Conference às 11h30 na Arena Monster Energy reunindo 14 marcas, entre elas SEGA, Activision, Square Enix e Devolver Digital. O evento segue até 12 de outubro, com o primeiro dia restrito a imprensa e credenciados.",
+      "tipo": "noticia",
+      "escopo": "nacional",
+      "confiabilidade": "confirmado",
+      "plataformas": [],
+      "tags": ["bgs-2026", "evento", "brasil"],
+      "dataFato": "2026-10-09",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Gamers & Games", "url": "https://www.gamersegames.com.br/2026/10/08/bgs-2026-abre-com-conferencia-de-14-marcas-na-arena-monster-energy/", "dominio": "gamersegames.com.br" },
+      "fontesSecundarias": [
+        { "nome": "Portal Tela", "url": "https://www.portaltela.com/entretenimento/2026/10/08/brasil-game-show-comeca-nesta-sexta-9-em-sp/", "dominio": "portaltela.com" },
+        { "nome": "Última Ficha", "url": "https://ultimaficha.com.br/2026/10/08/bgs-2026/", "dominio": "ultimaficha.com.br" }
+      ],
+      "nota": 7.5,
+      "justificativa": "Maior evento de games do Brasil abrindo sua edição anual, com forte presença de publishers internacionais e nacionais.",
+      "pesquisador": "radar-empresas-nacionais"
+    },
+    {
+      "posicao": 6,
+      "slug": "kingdom-hearts-collection-switch-2-nativo",
+      "titulo": "Kingdom Hearts Collection [I~III] chega ao Switch 2 em versão nativa",
+      "resumo": "A Square Enix lançou em 8 de outubro a Kingdom Hearts Collection [I~III] para Switch 2 como downloads nativos, reunindo HD 1.5+2.5 ReMIX, HD 2.8 Final Chapter Prologue e Kingdom Hearts III + Re Mind. O pacote também está disponível em PS5, Xbox Series X|S e PC, por US$ 74,99 nos EUA.",
+      "tipo": "lancamento",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["Switch 2", "PS5", "Xbox Series", "PC"],
+      "tags": ["kingdom-hearts", "square-enix", "switch-2"],
+      "dataFato": "2026-10-08",
+      "janelaEstendida": true,
+      "fonte": { "nome": "Nintendo Life", "url": "https://www.nintendolife.com/games/nintendo-switch-2/kingdom-hearts-collection-iiii", "dominio": "nintendolife.com" },
+      "fontesSecundarias": [
+        { "nome": "Instant Gaming News", "url": "https://news.instant-gaming.com/en/articles/22332-kingdom-hearts-collection-i-iii-is-available-now", "dominio": "news.instant-gaming.com" },
+        { "nome": "Kagi News", "url": "https://news.kagi.com/gaming/20261006112/kingdom-hearts-collection-brings-native-ports-to-switch-2-october-8", "dominio": "news.kagi.com" }
+      ],
+      "nota": 7.2,
+      "justificativa": "Chegada nativa de uma coletânea importante da Square Enix ao Switch 2, ampliando o catálogo do console em lançamento recente.",
+      "pesquisador": "radar-lancamentos-internacionais"
+    },
+    {
+      "posicao": 7,
+      "slug": "xbox-game-pass-battlefield-6-baldurs-gate",
+      "titulo": "Xbox Game Pass confirma leva de outubro, com Battlefield 6 e Baldur's Gate 1&2",
+      "resumo": "A Microsoft confirmou nove jogos entrando no Xbox Game Pass entre 8 e 16 de outubro, incluindo Echo Weaver, Forever Ago e Neon Abyss 2 (dia 8), além de Battlefield 6 e Valor Mortis (dia 13). Separadamente, Baldur's Gate 1 e 2 Enhanced Editions entraram no catálogo em 9 de outubro.",
+      "tipo": "noticia",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["Xbox Series", "PC"],
+      "tags": ["xbox-game-pass", "battlefield-6", "baldurs-gate"],
+      "dataFato": "2026-10-08",
+      "janelaEstendida": true,
+      "fonte": { "nome": "Pure Xbox", "url": "https://www.purexbox.com/news/2026/10/these-nine-games-are-coming-to-xbox-game-pass-including-battlefield-6-october-8-16", "dominio": "purexbox.com" },
+      "fontesSecundarias": [
+        { "nome": "NME", "url": "https://www.nme.com/news/gaming-news/xbox-game-pass-october-2026-additions-3972621", "dominio": "nme.com" },
+        { "nome": "GG.deals", "url": "https://gg.deals/subscription-news/xbox-game-pass-october-2026-wave-1-revealed", "dominio": "gg.deals" }
+      ],
+      "nota": 7.0,
+      "justificativa": "Atualização de catálogo de grande impacto para assinantes, com a chegada aguardada de Battlefield 6 ao serviço.",
+      "pesquisador": "radar-lancamentos-internacionais"
+    },
+    {
+      "posicao": 8,
+      "slug": "sega-ablegamers-acessibilidade-bgs-2026",
+      "titulo": "SEGA e AbleGamers Brasil firmam parceria de acessibilidade para estande na BGS 2026",
+      "resumo": "A SEGA anunciou em 8 de outubro parceria com a AbleGamers Brasil para oferecer audiodescrição e sinalização em alto contraste/Braille em todo o estande de 300 m² na Brasil Game Show 2026. As audiodescrições foram elaboradas por especialistas e validadas por pessoas cegas, segundo o presidente da AbleGamers Brasil, Christian Bernauer.",
+      "tipo": "noticia",
+      "escopo": "nacional",
+      "confiabilidade": "confirmado",
+      "plataformas": [],
+      "tags": ["sega", "acessibilidade", "bgs-2026"],
+      "dataFato": "2026-10-08",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Olhar Digital", "url": "https://olhardigital.com.br/2026/10/08/games-e-consoles/sega-tera-audiodescricao-e-acessibilidade-na-bgs-2026/", "dominio": "olhardigital.com.br" },
+      "fontesSecundarias": [
+        { "nome": "Manual dos Games", "url": "https://manualdosgames.com/sega-e-ablegamers-anunciam-parceria-bgs-26/", "dominio": "manualdosgames.com" }
+      ],
+      "nota": 6.5,
+      "justificativa": "Iniciativa relevante de acessibilidade em um dos maiores estandes da BGS, com impacto social e repercussão positiva no público nacional.",
+      "pesquisador": "radar-empresas-nacionais"
+    },
+    {
+      "posicao": 9,
+      "slug": "richard-garriott-direitos-ultima-ea",
+      "titulo": "Richard Garriott inicia processo para reaver direitos de Ultima da EA",
+      "resumo": "O criador de Ultima, Richard Garriott, notificou formalmente a Electronic Arts sobre sua intenção de reclamar os direitos autorais da franquia com base na Seção 203 da Lei de Direitos Autorais dos EUA, que permite rescisão de transferência de direitos após 35 anos. O processo não abrange a marca registrada \"Ultima\", renovada pela EA em junho de 2026, e as negociações entre as partes continuam em andamento.",
+      "tipo": "noticia",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": [],
+      "tags": ["ultima", "ea", "direitos-autorais"],
+      "dataFato": "2026-10-07",
+      "janelaEstendida": true,
+      "fonte": { "nome": "Inven Global", "url": "https://www.invenglobal.com/articles/26934/richard-garriott-moves-to-reclaim-ultima-negotiating-copyright-recovery-with-ea", "dominio": "invenglobal.com" },
+      "fontesSecundarias": [
+        { "nome": "PC Gamer", "url": "https://www.pcgamer.com/games/rpg/the-creator-of-ultima-is-reportedly-reclaiming-the-series-rights-back-from-ea-and-it-could-happen-as-soon-as-next-year/", "dominio": "pcgamer.com" },
+        { "nome": "Shacknews", "url": "https://www.shacknews.com/article/150943/richard-garriott-lord-british-ultima-rights-2027", "dominio": "shacknews.com" }
+      ],
+      "nota": 6.3,
+      "justificativa": "Caso raro de disputa de direitos autorais envolvendo uma franquia histórica dos RPGs, com potencial de reabrir a marca para novos projetos.",
+      "pesquisador": "radar-empresas-internacionais"
+    },
+    {
+      "posicao": 10,
+      "slug": "deep-dish-dungeon-behold-studios-game-pass",
+      "titulo": "Deep Dish Dungeon, da brasileira Behold Studios, chega ao Xbox Game Pass em 13 de outubro",
+      "resumo": "A Behold Studios (Brasília), criadora de Knights of Pen & Paper e Chroma Squad, confirmou que Deep Dish Dungeon chega em 13 de outubro ao Xbox Game Pass Ultimate e PC Game Pass, disponível em nuvem, Xbox Series X|S e PC via Steam. O jogo mistura exploração, sobrevivência, crafting e elementos de metroidvania, com modo cooperativo online.",
+      "tipo": "lancamento",
+      "escopo": "nacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["Xbox Series", "PC"],
+      "tags": ["behold-studios", "xbox-game-pass", "brasil"],
+      "dataFato": "2026-10-07",
+      "janelaEstendida": true,
+      "fonte": { "nome": "Xbox News", "url": "https://news.xbox.com/pt-br/2026/10/07/xbox-game-pass-outubro-wave-1/", "dominio": "news.xbox.com" },
+      "fontesSecundarias": [
+        { "nome": "Critical Hits", "url": "https://criticalhits.com.br/games/xbox-game-pass-recebe-battlefield-6-valor-mortis-e-jogo-brasileiro-em-outubro/", "dominio": "criticalhits.com.br" },
+        { "nome": "Raw Fury", "url": "https://rawfury.com/deep-dish-dungeon-date-reveal/", "dominio": "rawfury.com" }
+      ],
+      "nota": 6.2,
+      "justificativa": "Estúdio brasileiro consolidado chegando ao Game Pass, reforçando a presença nacional no catálogo global da Microsoft.",
+      "pesquisador": "radar-lancamentos-nacionais"
+    }
+  ],
+  "tambemNoRadar": [
+    {
+      "slug": "bgs-2026-indies-brasileiros-hell-clock-tupi",
+      "titulo": "BGS 2026 reúne 45 projetos indies de estúdios brasileiros",
+      "resumo": "A Área Indie da Brasil Game Show 2026 reúne 45 projetos de estúdios nacionais, entre eles 'Hell Clock: Guerra Maldita' (Rogue Snail), 'TUPI: A Lenda de Arariboia' (Mito Games) e 'Bloodfang' (Ignite Dreams). Os jogos ficam disponíveis para teste do público durante o evento.",
+      "tipo": "noticia",
+      "escopo": "nacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC"],
+      "tags": ["bgs-2026", "indie", "brasil"],
+      "dataFato": "2026-10-09",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Indie Brasilis", "url": "https://indiebrasilis.com.br/?p=3538", "dominio": "indiebrasilis.com.br" },
+      "fontesSecundarias": [
+        { "nome": "Com Desvantagem", "url": "https://comdesvantagem.com.br/area-indie-bgs-2026-jogos-estudios/", "dominio": "comdesvantagem.com.br" }
+      ],
+      "nota": 5.8,
+      "justificativa": "Boa cobertura da cena indie nacional, mas de alcance mais restrito que os destaques do TOP 10.",
+      "pesquisador": "radar-empresas-nacionais"
+    },
+    {
+      "slug": "persona-4-revival-bgs-2026-portugues",
+      "titulo": "Persona 4 Revival é demonstrado na BGS 2026 com localização em português do Brasil",
+      "resumo": "A SEGA leva Persona 4 Revival para demonstração em seu estande na Brasil Game Show 2026. O jogo terá menus e legendas em português do Brasil, consolidando a tendência da Atlus de localizar seus RPGs para o mercado latino-americano.",
+      "tipo": "noticia",
+      "escopo": "nacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC", "Xbox Series", "PS5"],
+      "tags": ["persona-4", "sega", "localizacao", "bgs-2026"],
+      "dataFato": "2026-10-09",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Central Xbox", "url": "https://centralxbox.com.br/2026/09/29/persona-4-revival-tera-demonstracao-na-brasil-game-show-e-sera-totalmente-localizado-em-portugues/", "dominio": "centralxbox.com.br" },
+      "fontesSecundarias": [
+        { "nome": "Combo Infinito", "url": "https://www.comboinfinito.com.br/principal/persona-4-revival-portugues/", "dominio": "comboinfinito.com.br" }
+      ],
+      "nota": 5.6,
+      "justificativa": "Boa notícia para fãs de RPG no Brasil, mas de menor alcance frente aos destaques de abertura da BGS.",
+      "pesquisador": "radar-lancamentos-nacionais"
+    },
+    {
+      "slug": "estudio-journey-sky-investimento-strandbox",
+      "titulo": "Estúdio de Journey e Sky recebe US$ 70 milhões para novo jogo 'strandbox'",
+      "resumo": "A Gardens Interactive, fundada por veteranos criadores de Journey e Sky: Children of the Light, levantou mais de US$ 35 milhões em rodada Série B liderada pela Lightspeed Venture Partners, elevando o total captado a mais de US$ 70 milhões. O jogo é descrito como um 'strandbox' de fantasia compartilhada.",
+      "tipo": "noticia",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": [],
+      "tags": ["investimento", "journey", "sky"],
+      "dataFato": "2026-10-08",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Video Games Chronicle", "url": "https://www.videogameschronicle.com/news/edith-finch-journey-designer-secures-big-investment-for-shared-world-fantasy-game/", "dominio": "videogameschronicle.com" },
+      "fontesSecundarias": [
+        { "nome": "FinSMEs", "url": "https://www.finsmes.com/2026/10/gardens-interactive-raises-over-usd35m-in-funding.html", "dominio": "finsmes.com" }
+      ],
+      "nota": 5.5,
+      "justificativa": "Investimento relevante no setor indie/premium, mas sem jogo concreto anunciado ainda, o que limita o impacto imediato para o público gamer.",
+      "pesquisador": "radar-empresas-internacionais"
+    },
+    {
+      "slug": "risk-of-rain-2-hallowed-concepts",
+      "titulo": "Risk of Rain 2 recebe quarta expansão 'Hallowed Concepts'",
+      "resumo": "A quarta expansão de Risk of Rain 2, 'Hallowed Concepts', foi lançada em 8 de outubro para PC, Xbox Series X|S e PlayStation 5. O conteúdo adiciona dois novos sobreviventes (Enforcer e Acolyte), três novos chefes e novos estágios, além de itens temáticos ligados à divindade N'kuhana.",
+      "tipo": "lancamento",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC", "Xbox Series", "PS5"],
+      "tags": ["risk-of-rain-2", "dlc"],
+      "dataFato": "2026-10-08",
+      "janelaEstendida": true,
+      "fonte": { "nome": "Gematsu", "url": "https://www.gematsu.com/2026/10/risk-of-rain-2-dlc-hallowed-concepts-now-available", "dominio": "gematsu.com" },
+      "fontesSecundarias": [
+        { "nome": "Noisy Pixel", "url": "https://noisypixel.net/risk-of-rain-2-hallowed-concepts-dlc-acolyte-enforcer-trials/", "dominio": "noisypixel.net" }
+      ],
+      "nota": 5.4,
+      "justificativa": "Expansão relevante para a comunidade do jogo, mas de alcance mais nichado que os destaques do TOP 10.",
+      "pesquisador": "radar-lancamentos-internacionais"
+    },
+    {
+      "slug": "valorant-champions-2026-vitality-nrg-shanghai",
+      "titulo": "Valorant Champions 2026: Vitality e NRG avançam no Upper Bracket em Shanghai",
+      "resumo": "Nas quartas de final do Upper Bracket do Valorant Champions 2026, em Shanghai, Team Vitality derrotou a Nongshim RedForce por 2-1 e a NRG venceu a T1 por 2-0, enquanto Paper Rex e 100 Thieves foram eliminados para o Lower Bracket. As semifinais do Upper Bracket ocorrem em 10 de outubro.",
+      "tipo": "esports",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC"],
+      "tags": ["valorant", "champions-2026", "shanghai"],
+      "dataFato": "2026-10-08",
+      "janelaEstendida": false,
+      "fonte": { "nome": "VLR.gg", "url": "https://www.vlr.gg/event/2766/valorant-champions-2026/", "dominio": "vlr.gg" },
+      "fontesSecundarias": [
+        { "nome": "Liquipedia", "url": "https://liquipedia.net/valorant/VCT/2026/Champions", "dominio": "liquipedia.net" }
+      ],
+      "nota": 6.0,
+      "justificativa": "Resultados relevantes do principal torneio de Valorant do ano, mas de etapa intermediária, sem desfecho de título.",
+      "pesquisador": "radar-esports"
+    },
+    {
+      "slug": "talaka-potato-kid-steam-vem-ai",
+      "titulo": "Talaka, de estúdio brasileiro Potato Kid, é anunciado no Steam Vem Aí",
+      "resumo": "A publicadora Acclaim e o estúdio independente brasileiro Potato Kid anunciaram Talaka, roguelite inspirado na mitologia afro-brasileira com arte aquarelada, participando do evento Steam Vem Aí. O lançamento está previsto para o início de 2027, no Steam e em consoles.",
+      "tipo": "noticia",
+      "escopo": "nacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC"],
+      "tags": ["talaka", "potato-kid", "brasil", "steam"],
+      "dataFato": "2026-10-08",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Gamers & Games", "url": "https://gamersegames.com.br/2026/10/08/talaka-leva-mitologia-afro-brasileira-em-arte-aquarelada-ao-steam-vem-ai", "dominio": "gamersegames.com.br" },
+      "fontesSecundarias": [],
+      "nota": 5.3,
+      "justificativa": "Anúncio interessante de estúdio nacional, mas lançamento ainda distante e de impacto imediato limitado.",
+      "pesquisador": "radar-lancamentos-nacionais"
+    }
+  ],
+  "descartados": [
+    { "titulo": "Final do CBLOL 2026 (fonte original do dust2.com.br)", "motivo": "A URL indicada pelo pesquisador (dust2.com.br/noticias/67644) trata de outra notícia, sobre Counter-Strike (final da BLAST Rivals), não do CBLOL. O fato foi mantido no item #2 com fonte substituída por maisesports.com.br e gazetaesportiva.com, que efetivamente confirmam data, local e times da final de LoL." },
+    { "titulo": "Faceless Residence, da brasileira Neriverso, chega ao PC", "motivo": "Confirmado que há divergência real entre fontes: a própria página oficial da Steam indica lançamento apenas em 31/10/2027, contradizendo a data de 9/10/2026 citada por agregador de calendário. Sem confirmação de lançamento efetivo na janela, item descartado por falta de fato verificável na data." },
+    { "titulo": "Krafton reduz previsão de ações após falta de novos títulos de impacto", "motivo": "Notícia de analista financeiro específico (corte de preço-alvo por uma corretora), de relevância limitada para o público gamer e fora do pico de interesse frente aos demais candidatos; não entrou por baixo impacto editorial, não por problema de fonte." },
+    { "titulo": "Xbox confirma data de Forza Horizon 6 no PS5 para janeiro de 2027", "motivo": "Fato relevante, porém de menor prioridade frente aos demais candidatos nesta edição; não coube no TOP 10 nem em 'também no radar' por limite de espaço e menor urgência (lançamento ainda distante, em 2027)." },
+    { "titulo": "Jogador dinamarquês MistR rescinde com a Sashi", "motivo": "Fato de nicho dentro do cenário competitivo de CS2, com menor alcance para o público geral frente aos demais itens de esports da janela." },
+    { "titulo": "Luminosity garante vaga direta nos playoffs da DraculaN S7", "motivo": "Notícia de qualificação para torneio de menor porte no calendário de CS2, com impacto limitado frente aos demais destaques da janela." },
+    { "titulo": "Presidente da FERJEE avalia Rainhas do Clutch 2026", "motivo": "Declaração institucional de federação regional, com alcance e impacto menores que os demais destaques nacionais de esports." },
+    { "titulo": "HAVIT escolhe BGS 2026 para lançamento mundial da linha Legend Series", "motivo": "Notícia de produto de hardware/periféricos, de interesse mais restrito a nicho de consumo do que a cobertura editorial de jogos; não coube no espaço disponível." },
+    { "titulo": "Triple-I Initiative de outubro revela indies incluindo Aftergods e Waltz and Jam", "motivo": "Showcase de nicho indie, com menor repercussão frente aos demais lançamentos e notícias da janela; não coube no espaço disponível." },
+    { "titulo": "Dragon's Dogma 2 Dark Arisen: The Relic — First Guardian chega ao Switch 2", "motivo": "Mesmo fato do lançamento de Dragon's Dogma 2: Dark Arisen (mesma expansão, mesmo dia, mesmo jogo); consolidado no item #3 para evitar duplicação de história." }
+  ]
+}
