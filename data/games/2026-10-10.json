@@ -1,0 +1,368 @@
+{
+  "categoria": "games",
+  "data": "2026-10-10",
+  "geradoEm": "2026-10-10T21:30:00-03:00",
+  "janela": { "inicio": "2026-10-09T21:00:00-03:00", "fim": "2026-10-10T21:00:00-03:00" },
+  "observacao": null,
+  "itens": [
+    {
+      "posicao": 1,
+      "slug": "bgs-2026-abre-ao-publico-em-sao-paulo",
+      "titulo": "BGS 2026 abre ao público geral em São Paulo após dia de credenciados",
+      "resumo": "A 17ª edição da Brasil Game Show, maior evento de games da América Latina, começou em 9 de outubro no Distrito Anhembi com conferência de abertura reunindo 14 marcas (SEGA, Activision, Square Enix, Devolver Digital, Warner, entre outras) e abriu as portas ao público geral em 10 de outubro. O evento, que segue até 12/10, oferece ao menos 18 jogos jogáveis antes do lançamento oficial, estandes de Nintendo (1.000 m²) e SEGA (300 m², dobro do ano anterior), além da presença da Nuuvem como maior loja digital de games da América Latina.",
+      "tipo": "noticia",
+      "escopo": "nacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PS5", "Xbox Series", "Switch", "Switch 2", "PC"],
+      "tags": ["bgs", "evento", "brasil", "varejo"],
+      "dataFato": "2026-10-10",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Arkade", "url": "https://arkade.com.br/a-bgs-2026-comecou-pra-valer-hoje-veja-tudo-o-que-o-evento-tem-para-oferecer-entre-games-e-atividades/", "dominio": "arkade.com.br" },
+      "fontesSecundarias": [
+        { "nome": "Mobile Gamer", "url": "https://www.mobilegamer.com.br/2026/10/bgs-2026-comecara-com-conferencia-de-14-marcas-anunciando-novidades-na-arena-monster-energy.html", "dominio": "mobilegamer.com.br" },
+        { "nome": "Exame", "url": "https://exame.com/pop/bgs-2026-comeca-hoje-em-sao-paulo-veja-horarios-ingressos-e-atracoes/", "dominio": "exame.com" },
+        { "nome": "Aumanack", "url": "https://aumanack.com.br/2026/10/09/comeca-hoje-a-bgs-2026-que-reune-jogos-antes-do-lancamento-grandes-marcas-e-atracoes-internacionais/", "dominio": "aumanack.com.br" }
+      ],
+      "nota": 8.5,
+      "justificativa": "Maior evento de games da América Latina abre ao público no dia de referência, reunindo grandes marcas, lançamentos jogáveis e forte interesse do público gamer brasileiro.",
+      "pesquisador": "radar-lancamentos-nacionais"
+    },
+    {
+      "posicao": 2,
+      "slug": "final-cblol-2026-split-2-furia-x-los",
+      "titulo": "FURIA e LOS disputam final do CBLOL 2026 Split 2 na Arena Carioca",
+      "resumo": "A grande final do CBLOL 2026 Split 2 acontece em 10 de outubro na Arena Carioca 1 (Rio de Janeiro), em revanche da final do Split 1, vencida pela FURIA por 3x1. A FURIA chegou à decisão após eliminar a LOUD por 3x0, enquanto a LOS avançou revertendo desvantagem contra a própria LOUD pela chave de cima.",
+      "tipo": "esports",
+      "escopo": "nacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC"],
+      "tags": ["lol", "cblol", "esports", "brasil"],
+      "dataFato": "2026-10-10",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Pichau Arena", "url": "https://www.pichauarena.com.br/lol/cblol-final-split-2-revanche/", "dominio": "pichauarena.com.br" },
+      "fontesSecundarias": [
+        { "nome": "Mais Esports", "url": "https://maisesports.com.br/cblol-2026-furia-elimina-a-loud-e-vai-a-final", "dominio": "maisesports.com.br" },
+        { "nome": "Sheep Esports", "url": "https://www.sheepesports.com/en/articles/furia-sweep-loud-to-secure-final-cblol-spot-at-worlds-2026/en", "dominio": "sheepesports.com" }
+      ],
+      "nota": 8.3,
+      "justificativa": "Final nacional de maior liga de LoL do Brasil, com grande apelo de público e viés direto ao Mundial; cota nacional e alto engajamento do público gamer.",
+      "pesquisador": "radar-esports"
+    },
+    {
+      "posicao": 3,
+      "slug": "ubisoft-encerra-rainbow-six-mobile",
+      "titulo": "Ubisoft encerra Rainbow Six Mobile menos de um ano após lançamento global",
+      "resumo": "A Ubisoft anunciou em 9 de outubro de 2026 que vai descontinuar o Tom Clancy's Rainbow Six Mobile, com encerramento definitivo em 15 de janeiro de 2027. O jogo free-to-play havia sido lançado globalmente em fevereiro de 2026 após quase quatro anos de desenvolvimento, mas enfrentou críticas por paywalls e grind excessivo; a equipe migrará para outros projetos estratégicos.",
+      "tipo": "noticia",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["Mobile"],
+      "tags": ["ubisoft", "mobile", "encerramento"],
+      "dataFato": "2026-10-09",
+      "janelaEstendida": false,
+      "fonte": { "nome": "GameSpot", "url": "https://www.gamespot.com/articles/ubisoft-shutting-down-rainbow-six-mobile-after-less-than-a-year/", "dominio": "gamespot.com" },
+      "fontesSecundarias": [
+        { "nome": "Siege.gg", "url": "https://siege.gg/news/ubisoft-to-shut-down-rainbow-six-mobile-in-january-2027", "dominio": "siege.gg" },
+        { "nome": "Insider Gaming", "url": "https://insider-gaming.com/ubisoft-shut-down-rainbow-six-mobile/", "dominio": "insider-gaming.com" },
+        { "nome": "Game Developer", "url": "https://www.gamedeveloper.com/mobile/ubisoft-to-sunset-rainbow-six-mobile-just-seven-months-after-launch", "dominio": "gamedeveloper.com" }
+      ],
+      "nota": 7.6,
+      "justificativa": "Encerramento rápido de um jogo lançado após quase quatro anos de desenvolvimento gera forte repercussão sobre modelos free-to-play, mas tem impacto limitado fora da base de jogadores do título.",
+      "pesquisador": "radar-empresas-internacionais"
+    },
+    {
+      "posicao": 4,
+      "slug": "ea-credores-alegam-default-apos-lbo",
+      "titulo": "Credores da EA alegam default de US$ 1,4 bi após LBO de US$ 55 bilhões",
+      "resumo": "Um grupo de detentores de títulos da Electronic Arts alega um default de US$ 1,4 a 1,5 bilhão, argumentando que a empresa não fez o pagamento de 'change-of-control' exigido após o buyout de US$ 55 bilhões liderado por PIF, Silver Lake e Affinity Partners, concluído em agosto de 2026. A EA respondeu obtendo um rating de grau de investimento da agência privada Egan-Jones para contestar a exigência de pagamento de prêmio de 101% sobre o valor de face.",
+      "tipo": "noticia",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": [],
+      "tags": ["ea", "financas", "lbo", "mercado"],
+      "dataFato": "2026-10-09",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Bloomberg", "url": "https://www.bloomberg.com/news/articles/2026-10-09/ea-turns-to-egan-jones-rating-as-angry-bondholders-claim-default", "dominio": "bloomberg.com" },
+      "fontesSecundarias": [
+        { "nome": "Game Developer", "url": "https://www.gamedeveloper.com/business/electronic-arts-leveraged-buyout-faces-a-bondholder-battle", "dominio": "gamedeveloper.com" },
+        { "nome": "MarketScreener", "url": "https://www.marketscreener.com/news/electronic-arts-lbo-turns-into-a-bondholder-showdown-ce785dd8d08cf72d", "dominio": "marketscreener.com" }
+      ],
+      "nota": 7.4,
+      "justificativa": "Desdobramento financeiro relevante do maior LBO da história dos games, com potencial de afetar a operação da EA, mas é notícia de bastidor corporativo com menor apelo imediato ao público gamer final.",
+      "pesquisador": "radar-empresas-internacionais"
+    },
+    {
+      "posicao": 5,
+      "slug": "lancamento-dragons-dogma-2-dark-arisen",
+      "titulo": "Dragon's Dogma 2: Dark Arisen chega a todas as plataformas, incluindo Switch 2",
+      "resumo": "A Capcom lançou em 9 de outubro de 2026 'Dragon's Dogma 2: Dark Arisen', expansão paga que adiciona nova história e a região nevada de Norgan ao RPG de ação, disponível para quem já possui o jogo base por US$ 29,99, ou em bundle completo por US$ 49,99. A expansão também marcou o debut de Dragon's Dogma 2 no Nintendo Switch 2, com reviews elogiando o port.",
+      "tipo": "lancamento",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PS5", "Xbox Series", "PC", "Switch 2"],
+      "tags": ["capcom", "rpg", "dlc", "switch2"],
+      "dataFato": "2026-10-09",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Nintendo Life", "url": "https://www.nintendolife.com/news/2026/10/round-up-the-reviews-for-dragons-dogma-2-dark-arisen-are-in", "dominio": "nintendolife.com" },
+      "fontesSecundarias": [
+        { "nome": "WCCFTech", "url": "https://wccftech.com/review/dragons-dogma-2-dark-arisen-review-30-hours-loot-combat-control/", "dominio": "wccftech.com" },
+        { "nome": "Nintendo Life", "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/dragons-dogma-2-dark-arisen", "dominio": "nintendolife.com" }
+      ],
+      "nota": 7.3,
+      "justificativa": "Lançamento multiplataforma de expansão aguardada, com debut relevante no Switch 2, mas impacto um pouco abaixo de notícias corporativas e de esports do dia.",
+      "pesquisador": "radar-lancamentos-internacionais"
+    },
+    {
+      "posicao": 6,
+      "slug": "furia-eliminada-esl-pro-league-s24",
+      "titulo": "FURIA é eliminada da ESL Pro League Season 24 pela MOUZ",
+      "resumo": "A FURIA foi eliminada nas quartas de final da ESL Pro League Season 24 (CS2) ao perder por 2-0 para a MOUZ, em partida disputada em Katowice na sexta-feira, 9 de outubro (11-13 no Nuke e 6-13 no Inferno). O time brasileiro terminou o torneio na faixa de 5ª-8ª colocação, recebendo US$ 50 mil em premiação.",
+      "tipo": "esports",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC"],
+      "tags": ["cs2", "furia", "esl", "esports"],
+      "dataFato": "2026-10-09",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Dust2 Brasil", "url": "https://www.dust2.com.br/noticias/78726/furia-e-eliminada-da-esl-pro-league-s24", "dominio": "dust2.com.br" },
+      "fontesSecundarias": [
+        { "nome": "HLTV", "url": "https://www.hltv.org/matches/2398752/furia-vs-mouz-esl-pro-league-season-24", "dominio": "hltv.org" },
+        { "nome": "Draft5", "url": "https://draft5.gg/partida/46858-FURIA-vs-MOUZ-ESL-Pro-League-S24", "dominio": "draft5.gg" }
+      ],
+      "nota": 7.2,
+      "justificativa": "Eliminação de time brasileiro de CS2 em torneio internacional relevante interessa diretamente ao público gamer nacional que acompanha esports.",
+      "pesquisador": "radar-esports"
+    },
+    {
+      "posicao": 7,
+      "slug": "sony-transfere-patentes-vr-para-meta",
+      "titulo": "Sony transfere centenas de patentes de VR/AR/XR para a Meta",
+      "resumo": "A Sony aprovou e começou a transferir até 419 patentes globais relacionadas a realidade virtual, aumentada e mista para a Meta, parte de um acordo firmado em dezembro de 2025; registros públicos mostram 43 propriedades de patentes dos EUA já transferidas entre junho e setembro de 2026, incluindo tecnologia usada no PlayStation VR2. O movimento é interpretado pela imprensa especializada como indício de que a Sony está recuando do desenvolvimento de hardware de realidade virtual própria.",
+      "tipo": "noticia",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PSVR2", "PC"],
+      "tags": ["sony", "meta", "vr", "patentes"],
+      "dataFato": "2026-10-09",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Insider Gaming", "url": "https://insider-gaming.com/sony-approves-sale-of-hundreds-of-vr-patents-to-meta/", "dominio": "insider-gaming.com" },
+      "fontesSecundarias": [
+        { "nome": "Shacknews", "url": "https://www.shacknews.com/article/150939/sony-ar-vr-xr-patents-sold-meta", "dominio": "shacknews.com" },
+        { "nome": "Road to VR", "url": "https://roadtovr.com/sony-sells-xr-headset-patents-meta/", "dominio": "roadtovr.com" },
+        { "nome": "Push Square", "url": "https://www.pushsquare.com/news/2026/10/sony-seemingly-ends-vr-ambitions-by-selling-patents-to-meta", "dominio": "pushsquare.com" },
+        { "nome": "KitGuru", "url": "https://www.kitguru.net/tech-news/featured-tech-news/matthew-wilson/sony-begins-selling-off-its-vr-patents-to-meta/", "dominio": "kitguru.net" },
+        { "nome": "Gameranx", "url": "https://gameranx.com/updates/id/564315/article/sony-is-selling-off-400-vr-patents-to-meta-is-psvr-over/", "dominio": "gameranx.com" }
+      ],
+      "nota": 7.0,
+      "justificativa": "Sinal relevante de recuo da Sony no hardware de VR, mas é leitura de registros públicos sem confirmação oficial da empresa sobre encerrar a linha PSVR.",
+      "pesquisador": "radar-empresas-internacionais"
+    },
+    {
+      "posicao": 8,
+      "slug": "microsoft-cria-divisao-xbox-xp",
+      "titulo": "Microsoft cria divisão Xbox XP para filmes, produtos e parques temáticos",
+      "resumo": "A Microsoft anunciou a criação da divisão Xbox XP, dedicada a expandir franquias como Minecraft, Halo, Call of Duty e Elder Scrolls para cinema, TV, licenciamento, parcerias e experiências ao vivo, incluindo parques temáticos. Kayleen Walters, até então presidente da Mojang, assume a presidência da nova divisão, sendo substituída por Maria Angelidou-Smith a partir de 19 de outubro.",
+      "tipo": "noticia",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": [],
+      "tags": ["microsoft", "xbox", "licenciamento"],
+      "dataFato": "2026-10-08",
+      "janelaEstendida": true,
+      "fonte": { "nome": "Variety", "url": "https://variety.com/2026/tv/news/xbox-xp-film-tv-products-experiences-division-kayleen-walters-1236904912/", "dominio": "variety.com" },
+      "fontesSecundarias": [
+        { "nome": "Gematsu", "url": "https://www.gematsu.com/2026/10/xbox-announces-xp-division-to-expand-franchises-across-film-tv-products-partnerships-and-live-experiences", "dominio": "gematsu.com" },
+        { "nome": "Pure Xbox", "url": "https://www.purexbox.com/news/2026/10/microsoft-announces-new-xbox-xp-division-with-four-key-focuses", "dominio": "purexbox.com" }
+      ],
+      "nota": 6.8,
+      "justificativa": "Movimento estratégico de expansão de franquias para outras mídias é relevante para o ecossistema Xbox, mas o fato é de um dia antes da janela principal e tem efeito indireto sobre jogos em si.",
+      "pesquisador": "radar-empresas-internacionais"
+    },
+    {
+      "posicao": 9,
+      "slug": "krafton-beta-pubg-dednet-consoles",
+      "titulo": "Krafton inicia beta fechado de PUBG: DED.NET em consoles na América do Norte",
+      "resumo": "A Krafton, por meio da PUBG Studios, iniciou em 9 de outubro de 2026 o primeiro closed beta test de PUBG: DED.NET, um FPS multiplayer com progressão roguelite, disponível para PS5 e Xbox Series X|S nos EUA e Canadá até 12 de outubro. O teste é voltado a jogadores maiores de 17 anos e alimenta o desenvolvimento ativo do jogo com feedback dos participantes.",
+      "tipo": "lancamento",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PS5", "Xbox Series"],
+      "tags": ["krafton", "fps", "beta"],
+      "dataFato": "2026-10-09",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Krafton", "url": "https://www.krafton.com/en/news/pubg-ded-nets-first-closed-beta-test-begins-october-9-on-playstation-5-and-xbox-series-xs/", "dominio": "krafton.com" },
+      "fontesSecundarias": [
+        { "nome": "Inven Global", "url": "https://www.invenglobal.com/articles/26955/kraftons-new-title-pubg-dednet-begins-first-cbt-in-north-america-on-october-9", "dominio": "invenglobal.com" },
+        { "nome": "Bleeding Cool", "url": "https://bleedingcool.com/games/pubg-ded-net-launches-first-closed-beta-test-on-october-9/", "dominio": "bleedingcool.com" }
+      ],
+      "nota": 6.2,
+      "justificativa": "Beta regional e restrito de novo título ainda pouco conhecido tem relevância limitada fora da base de testadores, mas é fonte primária da própria Krafton.",
+      "pesquisador": "radar-empresas-internacionais"
+    },
+    {
+      "posicao": 10,
+      "slug": "area-indie-bgs-2026-70-jogos",
+      "titulo": "Área Indie da BGS 2026 reúne 70 jogos de 31 estúdios brasileiros",
+      "resumo": "Durante a BGS 2026, de 9 a 12 de outubro, a Área Indie apresenta 70 jogos de 31 estúdios e grupos nacionais, incluindo Rogue Snail, 2Wedges, Too Dark Studios e produções como Tupi: A Lenda de Arariboia (Mito Games) e Bloodfang (Ignite Dreams). O espaço permite testar protótipos e interagir diretamente com desenvolvedores brasileiros.",
+      "tipo": "noticia",
+      "escopo": "nacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC"],
+      "tags": ["bgs", "indie", "brasil"],
+      "dataFato": "2026-10-09",
+      "janelaEstendida": true,
+      "fonte": { "nome": "IndieBrasilis", "url": "https://indiebrasilis.com.br/?p=3538", "dominio": "indiebrasilis.com.br" },
+      "fontesSecundarias": [
+        { "nome": "Arkade", "url": "https://arkade.com.br/a-bgs-2026-comecou-pra-valer-hoje-veja-tudo-o-que-o-evento-tem-para-oferecer-entre-games-e-atividades/", "dominio": "arkade.com.br" }
+      ],
+      "nota": 6.0,
+      "justificativa": "Vitrine relevante para a produção indie brasileira, mas de alcance mais restrito que a cobertura geral da BGS; completa a cota de itens nacionais do dia.",
+      "pesquisador": "radar-lancamentos-nacionais"
+    }
+  ],
+  "tambemNoRadar": [
+    {
+      "slug": "loud-vence-paper-rex-valorant-champions-2026",
+      "titulo": "LOUD vence Paper Rex e avança às semifinais do Valorant Champions 2026",
+      "resumo": "A LOUD venceu a Paper Rex por 2-0 (13-9 no Split e 15-13 no Sunset, após overtime) na abertura dos playoffs do Valorant Champions 2026, em Shanghai, avançando para a semifinal da chave de cima, contra a NRG. O confronto NRG x LOUD estava marcado para 10 de outubro, com o campeonato seguindo até 18 de outubro.",
+      "tipo": "esports",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC"],
+      "tags": ["valorant", "loud", "esports"],
+      "dataFato": "2026-10-07",
+      "janelaEstendida": true,
+      "fonte": { "nome": "Esports.gg", "url": "https://esports.gg/news/valorant/valorant-champions-2026-loud-paper-rex/", "dominio": "esports.gg" },
+      "fontesSecundarias": [
+        { "nome": "Dot Esports", "url": "https://dotesports.com/general/news/valorant-champions-shanghai-t1-loud-playoffs", "dominio": "dotesports.com" },
+        { "nome": "CNN Brasil", "url": "https://cnnbrasil.com.br/esportes/esports/valorant-champions-loud-vence-paper-rex-e-vai-a-semifinal-dos-playoffs", "dominio": "cnnbrasil.com.br" }
+      ],
+      "nota": 6.5,
+      "justificativa": "Fato ocorreu fora da janela principal (07/10) e o confronto decisivo contra a NRG ainda não tinha resultado confirmado na janela.",
+      "pesquisador": "radar-esports"
+    },
+    {
+      "slug": "ffws-brasil-2026-grande-final-split-2",
+      "titulo": "FFWS Brasil 2026 Split 2 realiza Grande Final neste fim de semana",
+      "resumo": "A Grande Final do Free Fire World Series Brasil 2026 Split 2 ocorre em 10 e 11 de outubro, reunindo 12 equipes que disputam o título nacional e a última vaga brasileira para a FFWS Global Finals 2026, em Bangkok, na Tailândia.",
+      "tipo": "esports",
+      "escopo": "nacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["Mobile"],
+      "tags": ["free-fire", "esports", "brasil"],
+      "dataFato": "2026-10-10",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Sportskeeda", "url": "https://www.sportskeeda.com/free-fire/news-ffws-2026-brazil-split-2-grand-finals-dates-teams-prize-pool-watch", "dominio": "sportskeeda.com" },
+      "fontesSecundarias": [
+        { "nome": "Pichau Arena", "url": "https://pichauarena.com.br/free-fire/ffws-br-grande-final-split-2", "dominio": "pichauarena.com.br" }
+      ],
+      "nota": 6.3,
+      "justificativa": "Evento nacional relevante de esports mobile, mas com audiência mais nichada que o CBLOL; ficou de fora do TOP 10 por volume de itens já presentes.",
+      "pesquisador": "radar-esports"
+    },
+    {
+      "slug": "avalanche-publica-jogos-da-supermassive-games",
+      "titulo": "Avalanche Studio Group assume publicação global de Supermassive Games",
+      "resumo": "A Nordisk Games anunciou que sua subsidiária Avalanche Studios Group passará a ser a publisher global responsável por publicação, marketing e distribuição dos títulos da Supermassive Games, outra subsidiária do grupo, começando com 'Directive 8020'. Os estúdios mantêm independência criativa, mas passam a compartilhar suporte operacional em finanças, RH e TI.",
+      "tipo": "noticia",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": [],
+      "tags": ["publisher", "supermassive", "avalanche"],
+      "dataFato": "2026-10-09",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Games Market", "url": "https://www.gamesmarket.global/publishing-partnership-between-avalanche-studios-and-supermassive-games/", "dominio": "gamesmarket.global" },
+      "fontesSecundarias": [
+        { "nome": "GameDev.net", "url": "https://gamedev.net/news/avalanche-studio-group-to-globally-publish-market-and-distribute-titles-from-supermassive-games-r6340/", "dominio": "gamedev.net" },
+        { "nome": "Gaming.net", "url": "https://www.gaming.net/nordisk-games-gives-avalanche-worldwide-duties-for-supermassive-games/", "dominio": "gaming.net" }
+      ],
+      "nota": 5.8,
+      "justificativa": "Reorganização interna de publisher com impacto limitado ao público final, relevante principalmente para quem acompanha o mercado de narrativa interativa.",
+      "pesquisador": "radar-lancamentos-internacionais"
+    },
+    {
+      "slug": "paramount-filme-cyberpunk-2077",
+      "titulo": "Paramount desenvolve filme live-action de Cyberpunk 2077",
+      "resumo": "A Paramount Pictures está desenvolvendo uma adaptação live-action ambientada no universo de Cyberpunk 2077, com Lorenzo di Bonaventura (produtor de 'Transformers') e a CD Projekt Red como coprodutores. Ainda não há diretor, roteirista, elenco ou data de lançamento confirmados.",
+      "tipo": "noticia",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": [],
+      "tags": ["cyberpunk", "cinema", "adaptacao"],
+      "dataFato": "2026-10-08",
+      "janelaEstendida": true,
+      "fonte": { "nome": "TheWrap", "url": "https://www.thewrap.com/creative-content/movies/cyberpunk-2077-movie-adaptation-paramount/", "dominio": "thewrap.com" },
+      "fontesSecundarias": [
+        { "nome": "Deadline", "url": "https://deadline.com/2026/10/paramount-lorenzo-di-bonaventura-cyberpunk-2077-1237150129/", "dominio": "deadline.com" },
+        { "nome": "Empire", "url": "https://www.empireonline.com/movies/news/cyberpunk-2077-movie-in-the-works-at-paramount-based-on-cd-projekt-red-game/", "dominio": "empireonline.com" }
+      ],
+      "nota": 6.4,
+      "justificativa": "Anúncio ainda em estágio muito inicial (sem diretor, elenco ou data), e fato ocorreu um dia antes da janela principal.",
+      "pesquisador": "radar-lancamentos-internacionais"
+    },
+    {
+      "slug": "triple-i-initiative-outubro-2026",
+      "titulo": "Triple-i Initiative mostra mais de 40 jogos indie em showcase de outubro",
+      "resumo": "O showcase Triple-i Initiative de outubro de 2026 foi ao ar em 8 de outubro, trazendo trailers de mais de 40 jogos indie, incluindo revelações mundiais como 'Aftergods', 'Machinarium 2' (sequência da Amanita Design) e 'Pony Island 2: Panda Circus'. O evento durou 45 minutos e teve 8 jogos com premiere exclusivo.",
+      "tipo": "noticia",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC", "Xbox Series", "Switch", "Switch 2"],
+      "tags": ["indie", "showcase"],
+      "dataFato": "2026-10-08",
+      "janelaEstendida": true,
+      "fonte": { "nome": "Insider Gaming", "url": "https://insider-gaming.com/triple-i-initiative-october-showcase-2026-everything-announced/", "dominio": "insider-gaming.com" },
+      "fontesSecundarias": [
+        { "nome": "GameSpot", "url": "https://www.gamespot.com/articles/triple-i-initiative-october-2026-everything-announced-at-the-showcase/", "dominio": "gamespot.com" },
+        { "nome": "Epic Games Store", "url": "https://store.epicgames.com/news/triple-i-initiative-2026-news-trailers-video-games", "dominio": "store.epicgames.com" }
+      ],
+      "nota": 5.9,
+      "justificativa": "Showcase indie relevante, mas fora da janela principal e com formato de lista de anúncios, sem fato único de grande impacto.",
+      "pesquisador": "radar-lancamentos-internacionais"
+    },
+    {
+      "slug": "senac-sp-jogos-estudantes-bgs-2026",
+      "titulo": "Senac São Paulo leva jogos de estudantes à BGS 2026",
+      "resumo": "O Senac São Paulo participa da BGS 2026, de 9 a 12 de outubro, com estande dedicado a jogos desenvolvidos por estudantes em sala de aula, incluindo demonstrações de realidade virtual, inteligência artificial e robótica. A iniciativa permite que os alunos apresentem seus projetos a um público amplo e recebam feedback direto de jogadores.",
+      "tipo": "noticia",
+      "escopo": "nacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC"],
+      "tags": ["bgs", "educacao", "brasil"],
+      "dataFato": "2026-10-09",
+      "janelaEstendida": false,
+      "fonte": { "nome": "J Wave", "url": "https://www.jwave.com.br/2026/10/senac-leva-jogos-criados-por-estudantes-a-bgs-2026/", "dominio": "jwave.com.br" },
+      "fontesSecundarias": [
+        { "nome": "Inteligência Móvel", "url": "https://www.inteligenciamovel.com.br/senac-sao-paulo-leva-a-bgs-2026-jogos-desenvolvidos-por-estudantes-em-sala-de-aula/", "dominio": "inteligenciamovel.com.br" }
+      ],
+      "nota": 4.2,
+      "justificativa": "Iniciativa educacional de alcance local, com impacto reduzido frente aos outros destaques da BGS no mesmo dia.",
+      "pesquisador": "radar-empresas-nacionais"
+    },
+    {
+      "slug": "marvel-tokon-final-bgs-2026",
+      "titulo": "Final presencial do torneio Marvel Tōkon acontece na BGS com premiação DualSense Edge",
+      "resumo": "A grande final presencial do PlayStation Tournaments de Marvel Tōkon: Fighting Souls ocorre em 10 de outubro na BGS 2026, reunindo os oito melhores jogadores da etapa online. O campeão recebe um controle DualSense Edge e kit de produtos de marcas como Funko, LEGO e Hasbro.",
+      "tipo": "esports",
+      "escopo": "nacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PS5"],
+      "tags": ["bgs", "playstation", "torneio"],
+      "dataFato": "2026-10-10",
+      "janelaEstendida": false,
+      "fonte": { "nome": "GameHall", "url": "https://gamehall.com.br/marvel-tokon-tera-torneio-do-playstation-com-final-presencial-na-bgs-2026/", "dominio": "gamehall.com.br" },
+      "fontesSecundarias": [],
+      "nota": 5.3,
+      "justificativa": "Torneio de nicho dentro da BGS, com premiação simbólica e alcance menor que os outros destaques de esports do dia.",
+      "pesquisador": "radar-lancamentos-nacionais"
+    }
+  ],
+  "descartados": [
+    { "titulo": "ESL Pro League Season 24: Vitality é apontada como finalista contra PARIVISION em Katowice", "motivo": "Não foi possível confirmar em fonte primária; verificação direta (BLAST.tv) mostrou que o torneio ainda estava em fase de semifinais (Vitality x Aurora, Spirit x MOUZ) no dia 10/10, contradizendo o resultado de final relatado pelo pesquisador. Informação tratada como rumor não confiável e descartada." },
+    { "titulo": "Rainbow Six Siege: EML Challenger Circuit 2026 encaminha-se para o fim da Stage 2", "motivo": "Fato genérico de calendário de competição sem evento concreto do dia de referência; dataFato de 06/10, fora do núcleo da janela, e sem desdobramento noticioso específico de 09-10/10." },
+    { "titulo": "BGS 2026 reserva Área Indie com 45 projetos de estúdios brasileiros", "motivo": "Duplicata da cobertura mais completa e atualizada da Área Indie (70 jogos de 31 estúdios), consolidada em item único no TOP 10." },
+    { "titulo": "Abertura da BGS 2026 reúne 14 marcas em conferência no Distrito Anhembi", "motivo": "Duplicata da cobertura de abertura da BGS 2026, consolidada no item principal sobre a abertura do evento ao público geral." },
+    { "titulo": "Nuuvem confirma presença como maior loja digital de games da América Latina na BGS 2026", "motivo": "Fato pontual de presença institucional em estande, incorporado como contexto ao item principal da BGS 2026." },
+    { "titulo": "Sony transfere mais de 400 patentes de VR para a Meta (segunda cobertura)", "motivo": "Duplicata da mesma história de transferência de patentes de VR/AR/XR da Sony para a Meta, consolidada em item único no TOP 10." }
+  ]
+}
