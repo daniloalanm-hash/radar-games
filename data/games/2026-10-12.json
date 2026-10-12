@@ -1,0 +1,340 @@
+{
+  "categoria": "games",
+  "data": "2026-10-12",
+  "geradoEm": "2026-10-12T21:00:00-03:00",
+  "janela": { "inicio": "2026-10-11T21:00:00-03:00", "fim": "2026-10-12T21:00:00-03:00" },
+  "observacao": null,
+  "itens": [
+    {
+      "posicao": 1,
+      "slug": "lula-assina-decreto-marco-legal-dos-games-14-outubro",
+      "titulo": "Lula assinará decreto do Marco Legal dos Games em 14 de outubro",
+      "resumo": "O Drops de Jogos revelou em primeira mão que o presidente Lula assinará, em cerimônia no Palácio do Planalto, o decreto que regulamenta a Lei 14.852 (Marco Legal dos Games). O documento foi elaborado pela Abragames em conjunto com o Ministério da Cultura e outros ministérios por meio de grupos de trabalho do governo federal.",
+      "tipo": "noticia",
+      "escopo": "nacional",
+      "confiabilidade": "confirmado",
+      "plataformas": [],
+      "tags": ["politica-publica", "marco-legal", "abragames", "governo"],
+      "dataFato": "2026-10-11",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Drops de Jogos", "url": "https://dropsdejogos.uai.com.br/noticias/indie/exclusivo-lula-ira-assinar-o-decreto-do-marco-legal-dos-games-em-13-de-outubro/", "dominio": "dropsdejogos.uai.com.br" },
+      "fontesSecundarias": [],
+      "nota": 8.5,
+      "justificativa": "Furo exclusivo com impacto direto em política pública para toda a indústria nacional de games, com participação da Abragames e múltiplos ministérios; maior relevância estrutural da edição.",
+      "pesquisador": "radar-empresas-nacionais"
+    },
+    {
+      "posicao": 2,
+      "slug": "los-campea-segunda-etapa-cblol-2026-vaga-mundial",
+      "titulo": "LOS vence a FURIA e conquista a Segunda Etapa do CBLOL 2026, garantindo vaga direta no Mundial",
+      "resumo": "A LOS derrotou a FURIA por 3-2 na final da Segunda Etapa do CBLOL 2026, disputada na Arena Carioca 1, no Rio de Janeiro, conquistando seu primeiro título nacional. Com o título, a LOS garantiu vaga direta na Swiss Stage do Mundial de League of Legends 2026, enquanto a FURIA disputará a fase de entrada.",
+      "tipo": "esports",
+      "escopo": "nacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC"],
+      "tags": ["cblol", "league-of-legends", "worlds-2026", "furia"],
+      "dataFato": "2026-10-10",
+      "janelaEstendida": true,
+      "fonte": { "nome": "TechTudo", "url": "https://www.techtudo.com.br/noticias/2026/10/final-do-cblol-2026-los-bate-furia-em-revanche-do-primeiro-split-e-e-campea-edjogos.ghtml", "dominio": "techtudo.com.br" },
+      "fontesSecundarias": [
+        { "nome": "Itatiaia", "url": "https://www.itatiaia.com.br/esportes/esports/cblol-2026-em-serie-eletrizante-los-vence-furia-e-conquista-o-titulo-do-segundo-split/", "dominio": "itatiaia.com.br" },
+        { "nome": "Antihype", "url": "https://antihype.com.br/c/games/cblol-2026-los-campea-final-furia-rio/", "dominio": "antihype.com.br" }
+      ],
+      "nota": 8.2,
+      "justificativa": "Maior fato competitivo nacional do período, com consequência direta (vaga em Worlds 2026) e ampla repercussão em 11/10, dentro da janela estendida.",
+      "pesquisador": "radar-esports"
+    },
+    {
+      "posicao": 3,
+      "slug": "vitality-campea-esl-pro-league-season-24",
+      "titulo": "Vitality vence a MOUZ e conquista a ESL Pro League Season 24 de CS2",
+      "resumo": "A Team Vitality venceu a MOUZ por 3-0 na grande final da ESL Pro League Season 24 de CS2, em Katowice, com placares de 13-7 (Cache), 13-8 (Inferno) e 16-12 (Dust2). ZywOo foi eleito MVP do evento, com rating de 1.65 na final; a Aurora ficou em terceiro lugar após derrota para a Spirit.",
+      "tipo": "esports",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC", "Steam"],
+      "tags": ["cs2", "esl-pro-league", "vitality", "zywoo"],
+      "dataFato": "2026-10-11",
+      "janelaEstendida": false,
+      "fonte": { "nome": "HLTV", "url": "https://www.hltv.org/news/45700/zywoo-shines-as-vitality-win-esl-pro-league-season-24-over-mouz", "dominio": "hltv.org" },
+      "fontesSecundarias": [
+        { "nome": "HLTV (página da partida)", "url": "https://www.hltv.org/matches/2398757/vitality-vs-mouz-esl-pro-league-season-24", "dominio": "hltv.org" },
+        { "nome": "BLAST.tv", "url": "https://blast.tv/cs/tournaments/esl-pro-league-season-24-2026/match/74952e6e/vitality-mouz", "dominio": "blast.tv" }
+      ],
+      "nota": 8.0,
+      "justificativa": "Final de torneio Tier 1 de CS2 com prize pool relevante, resultado dominante e confirmado em múltiplas fontes especializadas.",
+      "pesquisador": "radar-esports"
+    },
+    {
+      "posicao": 4,
+      "slug": "deep-dish-dungeon-bgs-2026-game-pass",
+      "titulo": "Deep Dish Dungeon, jogo brasileiro, faz sucesso na BGS 2026 antes de chegar ao Xbox Game Pass",
+      "resumo": "Deep Dish Dungeon, dungeon crawler desenvolvido pela Behold Studios (Brasília) e publicado pela Raw Fury, teve estande concorrido na Brasil Game Show 2026, com fila de jogadores testando a demo. O jogo chega ao Xbox Game Pass Ultimate e PC Game Pass em 13 de outubro de 2026.",
+      "tipo": "lancamento",
+      "escopo": "nacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC", "Xbox Series", "Steam"],
+      "tags": ["game-pass", "behold-studios", "bgs-2026", "indie-brasileiro"],
+      "dataFato": "2026-10-11",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Game Overdrive", "url": "https://gameoverdrive.com.br/deep-dish-dungeon-jogo-brasileiro-game-pass-exploracao/", "dominio": "gameoverdrive.com.br" },
+      "fontesSecundarias": [
+        { "nome": "Raw Fury", "url": "https://rawfury.com/games/deep-dish-dungeon/", "dominio": "rawfury.com" },
+        { "nome": "Indústria de Jogos", "url": "https://www.industriadejogos.com/game/deep-dish-dungeon/", "dominio": "industriadejogos.com" }
+      ],
+      "nota": 7.5,
+      "justificativa": "Estúdio brasileiro com lançamento iminente em serviço de assinatura internacional de peso, boa repercussão na maior feira de games do país.",
+      "pesquisador": "radar-lancamentos-nacionais"
+    },
+    {
+      "posicao": 5,
+      "slug": "planet-zoo-2-lancamento-13-outubro",
+      "titulo": "Planet Zoo 2 chega em 13 de outubro com espécies aquáticas e novas reservas",
+      "resumo": "A Frontier Developments lança Planet Zoo 2 em 13 de outubro de 2026 para PlayStation 5, Xbox Series X/S e PC, trazendo pela primeira vez espécies totalmente aquáticas, aves voadoras e as novas 'Wildlife Reserves'. É um dos lançamentos mais aguardados do mês segundo a imprensa especializada.",
+      "tipo": "lancamento",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PS5", "Xbox Series", "PC"],
+      "tags": ["frontier-developments", "simulacao", "sequencia"],
+      "dataFato": "2026-10-13",
+      "janelaEstendida": true,
+      "fonte": { "nome": "Xbox Wire", "url": "https://news.xbox.com/en-us/2026/10/09/next-week-on-xbox-new-games-for-october-12-to-16/", "dominio": "news.xbox.com" },
+      "fontesSecundarias": [
+        { "nome": "Planet Zoo", "url": "https://www.planetzoogame.com/en-US/2/news/2026-05-28/planet-zoo-2-releasing-13-october-2026", "dominio": "planetzoogame.com" },
+        { "nome": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Planet_Zoo_2", "dominio": "en.wikipedia.org" }
+      ],
+      "nota": 7.2,
+      "justificativa": "Lançamento de sequência AAA de franquia consolidada de simulação, com data oficial confirmada e boa repercussão de mídia especializada.",
+      "pesquisador": "radar-lancamentos-internacionais"
+    },
+    {
+      "posicao": 6,
+      "slug": "ea-remaster-wing-commander-3",
+      "titulo": "EA anuncia remaster de Wing Commander 3 após encontrar fitas originais de FMV",
+      "resumo": "O produtor da EA, Jim Vessella, anunciou no Portland Retro Gaming Expo o remaster de 30º aniversário de 'Wing Commander 3: Heart of the Tiger', após encontrar mais de 600 fitas-fonte originais das cinemáticas em live-action nos arquivos da empresa. O remaster trará vídeos restaurados, 60fps, suporte a controle e a trilogia 'Kilrathi Saga', com lançamento previsto para Steam, GOG e EA app.",
+      "tipo": "noticia",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC", "Steam"],
+      "tags": ["ea", "remaster", "retro"],
+      "dataFato": "2026-10-11",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Kotaku", "url": "https://kotaku.com/ea-producer-announces-wing-commander-3-remaster-at-portland-retro-gaming-expo-2000744166", "dominio": "kotaku.com" },
+      "fontesSecundarias": [
+        { "nome": "PC Gamer", "url": "https://www.pcgamer.com/games/sim/it-looks-like-wing-commander-3-is-getting-a-remaster-after-ea-producer-discovers-the-original-fmv-source-tapes-in-the-companys-archives/", "dominio": "pcgamer.com" },
+        { "nome": "tbreak", "url": "https://tbreak.com/wing-commander-iii-remaster/", "dominio": "tbreak.com" }
+      ],
+      "nota": 6.3,
+      "justificativa": "Anúncio confirmado e bem documentado por veículos de peso, com apelo de nostalgia, embora seja um remaster de nicho retrô.",
+      "pesquisador": "radar-empresas-internacionais"
+    },
+    {
+      "posicao": 7,
+      "slug": "nintendo-reafirma-midia-fisica-america-latina",
+      "titulo": "Nintendo reafirma compromisso com cartuchos físicos e cita preferência da América Latina",
+      "resumo": "Bill van Zyll, vice-presidente e gerente geral da Nintendo América Latina, declarou em entrevista que a companhia não tem planos de abandonar a mídia física de jogos, citando a preferência do mercado latino-americano por essa modalidade. A fala ocorre em contraste com a estratégia da Sony, que planeja eliminar gradualmente discos físicos até 2028.",
+      "tipo": "noticia",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["Switch", "Switch 2"],
+      "tags": ["nintendo", "midia-fisica", "america-latina"],
+      "dataFato": "2026-10-11",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Beebom", "url": "https://beebom.com/nintendo-has-no-plans-to-abandon-physical-games/", "dominio": "beebom.com" },
+      "fontesSecundarias": [
+        { "nome": "KuCoin News", "url": "https://www.kucoin.com/news/flash/nintendo-confirms-no-plans-to-abandon-physical-game-cartridges", "dominio": "kucoin.com" },
+        { "nome": "Power Up Gaming", "url": "https://powerupgaming.co.uk/2026/10/12/nintendo-commits-to-physical-games-no-plans-to-ditch-physical/", "dominio": "powerupgaming.co.uk" }
+      ],
+      "nota": 6.0,
+      "justificativa": "Declaração institucional relevante sobre estratégia de mídia da Nintendo, com recorte específico sobre o mercado latino-americano, mas sem anúncio de produto concreto.",
+      "pesquisador": "radar-empresas-internacionais"
+    },
+    {
+      "posicao": 8,
+      "slug": "aoca-game-lab-estande-indie-bgs-2026",
+      "titulo": "Aoca Game Lab lidera estande coletivo indie brasileiro na BGS 2026 com ÁRIDA 2",
+      "resumo": "O estúdio baiano Aoca Game Lab reuniu cinco jogos indie nacionais — incluindo sua sequência ÁRIDA 2: Rise of the Brave, Huni Kuin, Turi Kaapora, Hit It Back e Superkid X1 — em um estande coletivo na BGS 2026, com foco em identidade cultural e territorial brasileira. O CEO Filipe Pereira descreveu a iniciativa como um 'piloto' para fortalecer parcerias no ecossistema indie nacional.",
+      "tipo": "noticia",
+      "escopo": "nacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC", "Steam"],
+      "tags": ["indie-brasileiro", "bgs-2026", "arida-2"],
+      "dataFato": "2026-10-11",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Drops de Jogos", "url": "https://dropsdejogos.uai.com.br/noticias/indie/arida-2-e-o-poder-da-uniao-indie-na-bgs-2026/", "dominio": "dropsdejogos.uai.com.br" },
+      "fontesSecundarias": [],
+      "nota": 6.0,
+      "justificativa": "Movimento concreto de articulação entre estúdios indie nacionais na maior feira de games do país, relevante para a cota de notícias nacionais da edição.",
+      "pesquisador": "radar-empresas-nacionais"
+    },
+    {
+      "posicao": 9,
+      "slug": "evo-france-2026-campeoes-jogos-luta",
+      "titulo": "Evo France 2026 define campeões de Street Fighter 6, Tekken 8 e outros jogos de luta",
+      "resumo": "O Evo France 2026, realizado em Nice entre 9 e 11 de outubro, definiu os campeões de oito títulos de luta, incluindo Street Fighter 6 (Capcom), Tekken 8 (Bandai Namco), Marvel Tokon: Fighting Souls e 2XKO (Riot Games). Nas finais de Street Fighter 6, CR|DualKevin venceu CR|Tachikawa por 3-2 na segunda chave.",
+      "tipo": "esports",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC", "PS5", "Xbox Series"],
+      "tags": ["evo", "street-fighter-6", "tekken-8"],
+      "dataFato": "2026-10-11",
+      "janelaEstendida": false,
+      "fonte": { "nome": "EventHubs", "url": "https://www.eventhubs.com/news/2026/oct/09/evo-france-2026-results/", "dominio": "eventhubs.com" },
+      "fontesSecundarias": [
+        { "nome": "Esports.gg", "url": "https://esports.gg/news/street-fighter-6/sf6-evo-france-2026-overview-results/", "dominio": "esports.gg" },
+        { "nome": "Liquipedia", "url": "https://liquipedia.net/fighters/Evolution_Championship_Series/2026/France/T8", "dominio": "liquipedia.net" }
+      ],
+      "nota": 5.8,
+      "justificativa": "Evento relevante de jogos de luta com participação de múltiplas publishers internacionais, encerrado dentro da janela, mas sem grande repercussão corporativa.",
+      "pesquisador": "radar-empresas-internacionais"
+    },
+    {
+      "posicao": 10,
+      "slug": "t1-eliminado-valorant-champions-2026-munchkin-aposentadoria",
+      "titulo": "T1 é eliminado do VALORANT Champions 2026 e Munchkin sinaliza possível aposentadoria",
+      "resumo": "O T1 foi eliminado do VALORANT Champions 2026, em Shanghai, após derrota por 2-1 para a G2 Esports na chave baixa, terminando o torneio na 5ª-6ª colocação ao lado da NRG. Após a queda, o veterano Byeon 'Munchkin' Sang-beom publicou mensagem sugerindo que 2026 pode ter sido seu último ano como jogador, embora tenha afirmado que 'nada está decidido ainda'.",
+      "tipo": "noticia",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC"],
+      "tags": ["valorant", "t1", "champions-2026"],
+      "dataFato": "2026-10-11",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Dot Esports", "url": "https://dotesports.com/valorant/news/t1-munchkin-hints-at-retirement", "dominio": "dotesports.com" },
+      "fontesSecundarias": [
+        { "nome": "VLR.gg", "url": "https://www.vlr.gg/event/2766/valorant-champions-2026/", "dominio": "vlr.gg" },
+        { "nome": "The Spike", "url": "https://www.thespike.gg/valorant/news/we-ve-done-everything-we-could-munchkin-on-preparing-for-champions-shanghai/8956", "dominio": "thespike.gg" }
+      ],
+      "nota": 5.7,
+      "justificativa": "Fato relevante para a cena competitiva internacional de Valorant, com possível impacto em line-up de time tradicional, mas de alcance mais restrito ao público do jogo.",
+      "pesquisador": "radar-esports"
+    }
+  ],
+  "tambemNoRadar": [
+    {
+      "slug": "g2-100-thieves-avancam-valorant-champions-2026",
+      "titulo": "G2 Esports e 100 Thieves avançam na chave baixa do VALORANT Champions 2026",
+      "resumo": "Nas partidas de chave baixa do VALORANT Champions 2026, disputadas em Shanghai, a 100 Thieves derrotou a NRG por 2-0 e a G2 Esports venceu o T1 por 2-1, avançando no torneio que distribui prize pool de US$ 2,25 milhões. A grande final está marcada para 18 de outubro de 2026.",
+      "tipo": "esports",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC"],
+      "tags": ["valorant", "champions-2026", "playoffs"],
+      "dataFato": "2026-10-11",
+      "janelaEstendida": false,
+      "fonte": { "nome": "VLR.gg", "url": "https://www.vlr.gg/event/matches/2766/valorant-champions-2026/", "dominio": "vlr.gg" },
+      "fontesSecundarias": [
+        { "nome": "Wikipedia", "url": "https://en.wikipedia.org/wiki/2026_Valorant_Champions", "dominio": "en.wikipedia.org" },
+        { "nome": "Liquipedia", "url": "https://liquipedia.net/valorant/VCT/2026/Champions", "dominio": "liquipedia.net" }
+      ],
+      "nota": 5.5,
+      "justificativa": "Resultado de playoffs relevante, mas sobreposto em parte com a eliminação do T1, que teve maior peso noticioso isolado.",
+      "pesquisador": "radar-esports"
+    },
+    {
+      "slug": "steam-recorde-usuarios-simultaneos-cs2",
+      "titulo": "Steam quebra recorde histórico de usuários simultâneos, com CS2 batendo pico de 1,4 milhão",
+      "resumo": "A Steam registrou recorde histórico de 43,5 milhões de usuários simultâneos em 11 de outubro de 2026. No mesmo período, o Counter-Strike 2 atingiu pico de 24 horas de 1.404.227 jogadores, o Dota 2 alcançou 1.034.493, e o PUBG: Battlegrounds chegou a 713.683 jogadores simultâneos.",
+      "tipo": "noticia",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC", "Steam"],
+      "tags": ["steam", "cs2", "recorde"],
+      "dataFato": "2026-10-11",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Dot Esports", "url": "https://dotesports.com/general/news/steam-all-time-record-43-5-million-concurrent-users", "dominio": "dotesports.com" },
+      "fontesSecundarias": [],
+      "nota": 5.3,
+      "justificativa": "Dado relevante sobre a saúde da base de jogadores dos principais títulos de PC, mas não é um fato competitivo direto.",
+      "pesquisador": "radar-esports"
+    },
+    {
+      "slug": "chelleos-deixa-sashi-dois-dias-apos-anuncio",
+      "titulo": "Jogador chelleos deixa a Sashi apenas dois dias após anúncio de contratação",
+      "resumo": "Michael 'chelleos' Hawkins anunciou publicamente que não seguirá na organização dinamarquesa Sashi, apenas dois dias após ter sido anunciado no time de CS2. O jogador afirmou nunca ter assinado contrato e relatou desentendimentos sobre reembolso de passagens aéreas.",
+      "tipo": "noticia",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC", "Steam"],
+      "tags": ["cs2", "sashi", "transferencias"],
+      "dataFato": "2026-10-11",
+      "janelaEstendida": false,
+      "fonte": { "nome": "HLTV", "url": "https://www.hltv.org/news/45695/sashi-drop-chelleos-after-two-days", "dominio": "hltv.org" },
+      "fontesSecundarias": [
+        { "nome": "Dust2.in", "url": "https://www.dust2.in/news/78777/chelleos-leaves-sashi-two-days-after-team-announced-him", "dominio": "dust2.in" }
+      ],
+      "nota": 5.0,
+      "justificativa": "Caso curioso de bastidores de line-up, relevante para o mercado de transferências de CS2, mas de impacto competitivo limitado.",
+      "pesquisador": "radar-esports"
+    },
+    {
+      "slug": "ragnarok-yggdrasil-bgs-2026-beta-brasil",
+      "titulo": "Ragnarok: Yggdrasil leva estande à BGS 2026 e confirma beta no Brasil para novembro",
+      "resumo": "O MMORPG Ragnarok: Yggdrasil (Gravity) montou estande interativo na Brasil Game Show 2026, reforçando pré-registro aberto para o mercado brasileiro e beta aberto previsto para o final de novembro de 2026, com versões para PC, Android e iOS.",
+      "tipo": "noticia",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC", "Steam", "Mobile"],
+      "tags": ["ragnarok", "mmorpg", "bgs-2026", "beta"],
+      "dataFato": "2026-10-11",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Arkade", "url": "https://arkade.com.br/bgs-2026-ragnarok-yggdrasil-esta-presente-no-evento-promovendo-o-beta-aberto-que-chega-ao-brasil-em-novembro/", "dominio": "arkade.com.br" },
+      "fontesSecundarias": [
+        { "nome": "Adrenaline", "url": "https://www.adrenaline.com.br/games/ragnarok-yggdrasil-brasil-game-show-2026/", "dominio": "adrenaline.com.br" },
+        { "nome": "PC Labs", "url": "https://pclabs.com.br/ragnarok-yggdrasil-pre-registro-brasil-beta-novembro/", "dominio": "pclabs.com.br" }
+      ],
+      "nota": 5.0,
+      "justificativa": "Jogo internacional com ação específica de entrada no mercado brasileiro, mas sem anúncio de grande peso para além do público do título.",
+      "pesquisador": "radar-lancamentos-nacionais"
+    },
+    {
+      "slug": "bgs-2026-area-indie-45-projetos-nacionais",
+      "titulo": "BGS 2026 reúne Área Indie com 45 projetos de estúdios brasileiros",
+      "resumo": "A Área Indie da Brasil Game Show 2026 reúne 45 projetos de estúdios nacionais disponíveis para teste do público, incluindo os jogos Hell Clock, TUPI, Bloodfang e Lurks Within Walls.",
+      "tipo": "noticia",
+      "escopo": "nacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC"],
+      "tags": ["bgs-2026", "indie-brasileiro"],
+      "dataFato": "2026-10-11",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Indie Brasilis", "url": "https://indiebrasilis.com.br/?p=3538", "dominio": "indiebrasilis.com.br" },
+      "fontesSecundarias": [
+        { "nome": "Com Desvantagem", "url": "https://comdesvantagem.com.br/area-indie-bgs-2026-jogos-estudios/", "dominio": "comdesvantagem.com.br" }
+      ],
+      "nota": 4.8,
+      "justificativa": "Panorama relevante da produção indie nacional exposta no evento, mas sem anúncio individual específico e datado com precisão cirúrgica.",
+      "pesquisador": "radar-lancamentos-nacionais"
+    },
+    {
+      "slug": "alpha-nomos-lancamento-roguelite-ritmico",
+      "titulo": "Alpha Nomos lança para PS5, Xbox Series e PC",
+      "resumo": "O jogo roguelite de ação rítmica Alpha Nomos, da RibCage Games, foi lançado em 12 de outubro de 2026 via Steam, PlayStation 5 e Xbox Series X/S. O jogo utiliza música como mecânica central de regras de combate em vez de apenas trilha sonora.",
+      "tipo": "lancamento",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PS5", "Xbox Series", "PC", "Steam"],
+      "tags": ["roguelite", "indie", "lancamento"],
+      "dataFato": "2026-10-12",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Xbox Wire", "url": "https://news.xbox.com/en-us/2026/10/09/next-week-on-xbox-new-games-for-october-12-to-16/", "dominio": "news.xbox.com" },
+      "fontesSecundarias": [
+        { "nome": "Chalgyr's Game Room", "url": "https://www.chalgyr.com/2026/10/news-alphanomos-releaseoct12.html", "dominio": "chalgyr.com" },
+        { "nome": "Steam", "url": "https://store.steampowered.com/app/2529960/Alpha_Nomos/", "dominio": "store.steampowered.com" }
+      ],
+      "nota": 4.7,
+      "justificativa": "Lançamento confirmado e verificado em múltiplas fontes, porém é um título indie de porte médio, sem grande repercussão.",
+      "pesquisador": "radar-lancamentos-internacionais"
+    }
+  ],
+  "descartados": [
+    { "titulo": "Rede Progressista de Games lança gamejam 'Soberania' durante segundo turno eleitoral", "motivo": "Iniciativa de nicho com recorte político-eleitoral e alcance limitado; não compete com itens de maior impacto editorial para o público gamer geral." },
+    { "titulo": "Nintendo confirma impressão positiva com recepção brasileira do remake de Zelda: Ocarina of Time na BGS 2026", "motivo": "Declaração institucional de baixo ineditismo, sem data exata da fala precisamente confirmada, e redundante em relevância com outras falas de executivos da Nintendo já cobertas." },
+    { "titulo": "BGS 2026 chega ao último dia com foco em Nintendo, SEGA e Square Enix", "motivo": "Informação de agenda/evento sem fato noticioso específico, de caráter mais informativo que jornalístico." },
+    { "titulo": "Faceless Residence, survival horror do estúdio brasileiro Neiverso", "motivo": "Fato de 2026-10-09, fora da janela de 48h aceitável para esta edição." },
+    { "titulo": "Colorbound chega simultaneamente a PC, PS5, Xbox Series e Switch", "motivo": "Lançamento indie de nicho com relevância editorial baixa frente aos demais candidatos da janela; não coube no TOP 10 nem no 'também no radar' por equilíbrio de notas." },
+    { "titulo": "Ninja Theory inicia demissões enquanto Xbox avalia fechamento do estúdio", "motivo": "Fato datado de 2026-10-06, fora da janela de 48h definida para esta edição." },
+    { "titulo": "Supermassive Games confirma corte de mais de 70 funcionários", "motivo": "Fato datado de 2026-10-05, fora da janela de 48h definida para esta edição." },
+    { "titulo": "Shadowverse Korea Open 2026 Season 2 terá final em 18 de outubro", "motivo": "Anúncio de evento futuro de nicho, com relevância editorial baixa frente aos demais candidatos confirmados da janela." }
+  ]
+}
