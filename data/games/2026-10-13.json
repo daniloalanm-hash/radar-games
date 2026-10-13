@@ -1,0 +1,277 @@
+{
+  "categoria": "games",
+  "data": "2026-10-13",
+  "geradoEm": "2026-10-13T21:30:00-03:00",
+  "janela": { "inicio": "2026-10-12T21:00:00-03:00", "fim": "2026-10-13T21:00:00-03:00" },
+  "observacao": null,
+  "itens": [
+    {
+      "posicao": 1,
+      "slug": "lula-assina-decreto-marco-legal-dos-games",
+      "titulo": "Lula assina decreto do Marco Legal dos Games no Planalto",
+      "resumo": "O presidente Lula assina em 14 de outubro, no Palácio do Planalto, o decreto que regulamenta o Marco Legal dos Games (Lei 14.852/24), construído pela Abragames junto ao Ministério da Cultura. O texto prevê incentivos à indústria nacional de jogos eletrônicos nos moldes da Lei Rouanet e da Lei do Audiovisual.",
+      "tipo": "noticia",
+      "escopo": "nacional",
+      "confiabilidade": "confirmado",
+      "plataformas": [],
+      "tags": ["legislacao", "industria-nacional", "governo"],
+      "dataFato": "2026-10-11",
+      "janelaEstendida": true,
+      "fonte": { "nome": "Drops de Jogos", "url": "https://dropsdejogos.uai.com.br/noticias/indie/exclusivo-lula-ira-assinar-o-decreto-do-marco-legal-dos-games-em-13-de-outubro/", "dominio": "dropsdejogos.uai.com.br" },
+      "fontesSecundarias": [],
+      "nota": 8.8,
+      "justificativa": "Furo exclusivo sobre marco regulatório histórico para a indústria brasileira de games, com impacto direto no setor nacional.",
+      "pesquisador": "radar-empresas-nacionais"
+    },
+    {
+      "posicao": 2,
+      "slug": "circana-mercado-hardware-consoles-eua-mais-precario-desde-anos-1980",
+      "titulo": "Circana: mercado de hardware de consoles nos EUA está no pior momento desde os anos 1980",
+      "resumo": "Relatório da Circana aponta queda de 33% nas vendas de unidades Xbox e 25% nas de PlayStation nos EUA nos primeiros oito meses de 2026, piores marcas em décadas. O preço médio do Xbox subiu 26% (US$ 529) e o do PS5 20% (US$ 597), reflexo da escassez de componentes agravada pela demanda de data centers de IA.",
+      "tipo": "noticia",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["Xbox Series", "PS5"],
+      "tags": ["mercado", "hardware", "consoles"],
+      "dataFato": "2026-10-12",
+      "janelaEstendida": true,
+      "fonte": { "nome": "Video Games Chronicle", "url": "https://www.videogameschronicle.com/news/us-console-hardware-market-at-its-most-precarious-position-since-the-80s-says-circana/", "dominio": "videogameschronicle.com" },
+      "fontesSecundarias": [
+        { "nome": "Pure Xbox", "url": "https://www.purexbox.com/news/2026/10/us-hardware-market-said-to-be-most-precarious-since-1980s-following-xbox-and-ps5-sales-slumps", "dominio": "purexbox.com" },
+        { "nome": "WCCFTech", "url": "https://wccftech.com/circana-mat-piscatella-us-console-market-precarious-xbox-hardware-sales-down-33/", "dominio": "wccftech.com" }
+      ],
+      "nota": 8.5,
+      "justificativa": "Dado de mercado com forte impacto estrutural para toda a indústria de consoles, confirmado por múltiplas fontes especializadas.",
+      "pesquisador": "radar-empresas-internacionais"
+    },
+    {
+      "posicao": 3,
+      "slug": "battlefield-6-chega-ao-xbox-game-pass",
+      "titulo": "Battlefield 6 chega ao Xbox Game Pass",
+      "resumo": "Battlefield 6 passou a integrar o catálogo do Xbox Game Pass Ultimate e PC Game Pass a partir de 13 de outubro de 2026, disponível em console, PC e nuvem. A data havia sido anunciada pela Xbox Wire em 7 de outubro.",
+      "tipo": "lancamento",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["Xbox Series", "PC"],
+      "tags": ["game-pass", "fps", "lancamento"],
+      "dataFato": "2026-10-13",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Xbox Wire", "url": "https://news.xbox.com/en-us/2026/10/07/xbox-game-pass-october-2026-wave-1/", "dominio": "news.xbox.com" },
+      "fontesSecundarias": [
+        { "nome": "Insider Gaming", "url": "https://insider-gaming.com/battlefield-6-game-pass-october-13/", "dominio": "insider-gaming.com" },
+        { "nome": "Vice", "url": "https://www.vice.com/en/article/battlefield-6-game-pass-release-date-times/", "dominio": "vice.com" }
+      ],
+      "nota": 8.3,
+      "justificativa": "Chegada de um dos maiores lançamentos FPS do ano ao Game Pass tem grande apelo para o público gamer e volume alto de jogadores afetados.",
+      "pesquisador": "radar-lancamentos-internacionais"
+    },
+    {
+      "posicao": 4,
+      "slug": "grupo-ameaca-vazar-build-completo-gta-6",
+      "titulo": "Grupo CyberLeek ameaça vazar build completo de GTA 6 para forçar versão física",
+      "resumo": "O grupo CyberLeek ameaçou divulgar uma build jogável completa de GTA 6, do início ao fim, caso sua criptomoeda atinja US$ 30 milhões em valor de mercado, oferecendo à Take-Two a opção de lançar discos físicos e pedir desculpas públicas. A ação da Take-Two caiu 1,75% em 12 de outubro em reação ao ultimato.",
+      "tipo": "vazamento",
+      "escopo": "internacional",
+      "confiabilidade": "rumor",
+      "plataformas": ["PS5", "Xbox Series"],
+      "tags": ["gta-6", "vazamento", "take-two"],
+      "dataFato": "2026-10-12",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Video Games Chronicle", "url": "https://videogameschronicle.com/news/group-threatens-to-leak-full-gta-6-build-if-physical-plans-arent-reversed", "dominio": "videogameschronicle.com" },
+      "fontesSecundarias": [
+        { "nome": "GamesRadar+", "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-leaker-threatens-to-release-a-build-of-the-entire-game-start-to-finish-but-gives-take-two-a-way-out-physical-disks-and-a-public-apology/", "dominio": "gamesradar.com" },
+        { "nome": "Investing.com", "url": "https://in.investing.com/news/stock-market-news/form-4-taketwo-interactive-software-inc-for-12-october-93CH-5627616", "dominio": "investing.com" }
+      ],
+      "nota": 7.8,
+      "justificativa": "Impacto excepcional pelo tamanho da expectativa em torno de GTA 6 e reflexo real no mercado financeiro da Take-Two, compensando a penalidade de ser rumor não confirmado.",
+      "pesquisador": "radar-empresas-internacionais"
+    },
+    {
+      "posicao": 5,
+      "slug": "deep-dish-dungeon-lancado-xbox-game-pass",
+      "titulo": "Behold Studios lança Deep Dish Dungeon com chegada day one ao Xbox Game Pass",
+      "resumo": "A brasileira Behold Studios lançou em 13 de outubro, via publisher Raw Fury, o dungeon crawler cooperativo Deep Dish Dungeon, disponível em day one no Xbox Game Pass Ultimate e PC Game Pass, além de Xbox Series X|S, PC e Xbox Cloud Gaming.",
+      "tipo": "lancamento",
+      "escopo": "nacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["Xbox Series", "PC", "Xbox Cloud"],
+      "tags": ["estudio-brasileiro", "game-pass", "lancamento"],
+      "dataFato": "2026-10-13",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Xbox Wire Brasil", "url": "https://news.xbox.com/pt-br/2026/10/07/xbox-game-pass-outubro-wave-1/", "dominio": "news.xbox.com" },
+      "fontesSecundarias": [
+        { "nome": "Gematsu", "url": "https://www.gematsu.com/2026/08/deep-dish-dungeon-launches-october-13", "dominio": "gematsu.com" },
+        { "nome": "Game Overdrive", "url": "https://gameoverdrive.com.br/deep-dish-dungeon-jogo-brasileiro-game-pass-exploracao/", "dominio": "gameoverdrive.com.br" }
+      ],
+      "nota": 7.6,
+      "justificativa": "Lançamento de estúdio brasileiro com alcance global via Game Pass é destaque relevante para o público nacional e representa a cota de conteúdo do Brasil.",
+      "pesquisador": "radar-empresas-nacionais"
+    },
+    {
+      "posicao": 6,
+      "slug": "bgs-2026-encerra-17a-edicao",
+      "titulo": "Brasil Game Show encerra 17ª edição em São Paulo",
+      "resumo": "A BGS 2026 encerrou sua 17ª edição em 12 de outubro no Distrito Anhembi, após quatro dias de evento. A feira reuniu 18 jogos inéditos jogáveis, 70 títulos indie de 32 estúdios nacionais, marcas como Nintendo, SEGA e Square Enix, e anúncios como o novo Crazy Taxi ambientado no Rio de Janeiro.",
+      "tipo": "noticia",
+      "escopo": "nacional",
+      "confiabilidade": "confirmado",
+      "plataformas": [],
+      "tags": ["bgs", "evento", "cena-indie"],
+      "dataFato": "2026-10-12",
+      "janelaEstendida": true,
+      "fonte": { "nome": "Terra", "url": "https://www.terra.com.br/parceiros/woo-magazine/bgs-2026-termina-nesta-segunda-12-veja-os-jogos-convidados-e-atracoes-do-ultimo-dia,704ae823514c9bb302d0e391f5db647cxn15wkbj.html", "dominio": "terra.com.br" },
+      "fontesSecundarias": [
+        { "nome": "SBT News", "url": "https://sbtnews.sbt.com.br/noticia/cultura/brasil-game-show-2026-bgs-destaques-atracoes-jogos-programacao", "dominio": "sbtnews.sbt.com.br" },
+        { "nome": "Sociedade Pinguim", "url": "https://sociedadepinguim.com.br/bgs-2026-e-a-cena-indie/", "dominio": "sociedadepinguim.com.br" }
+      ],
+      "nota": 7.2,
+      "justificativa": "Encerramento da maior feira de games das Américas é marco relevante para a cena nacional, com grande volume de anúncios e presença indie.",
+      "pesquisador": "radar-lancamentos-nacionais"
+    },
+    {
+      "posicao": 7,
+      "slug": "valor-mortis-lancado-mundialmente",
+      "titulo": "Valor Mortis é lançado mundialmente com acesso day one no Game Pass",
+      "resumo": "Valor Mortis, soulslike em primeira pessoa da One More Level (estúdio de Ghostrunner), foi lançado em 13 de outubro para PS5, Xbox Series X/S e PC, chegando no mesmo dia ao Xbox Game Pass Ultimate/PC Game Pass e com teste de 90 minutos no PS Plus Premium.",
+      "tipo": "lancamento",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PS5", "Xbox Series", "PC"],
+      "tags": ["soulslike", "game-pass", "lancamento"],
+      "dataFato": "2026-10-13",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Xbox Wire", "url": "https://news.xbox.com/en-us/2026/10/07/xbox-game-pass-october-2026-wave-1/", "dominio": "news.xbox.com" },
+      "fontesSecundarias": [
+        { "nome": "Game Rant", "url": "https://gamerant.com/new-soulslike-games-coming-out-soon-2026-valor-mortis/", "dominio": "gamerant.com" },
+        { "nome": "Softonic", "url": "https://en.softonic.com/articles/valor-mortis-gets-october-13-launch-date-coming-to-game-pass-day-one", "dominio": "softonic.com" }
+      ],
+      "nota": 6.8,
+      "justificativa": "Lançamento relevante no gênero soulslike com boa distribuição via Game Pass e PS Plus, mas de menor apelo de massa que os destaques acima.",
+      "pesquisador": "radar-lancamentos-internacionais"
+    },
+    {
+      "posicao": 8,
+      "slug": "planet-zoo-2-lancado",
+      "titulo": "Planet Zoo 2 é lançado para PS5, Xbox Series X/S e PC",
+      "resumo": "A Frontier Developments lançou Planet Zoo 2 em 13 de outubro, trazendo pela primeira vez na franquia espécies aquáticas e voadoras, além de aviários e aquários.",
+      "tipo": "lancamento",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PS5", "Xbox Series", "PC"],
+      "tags": ["simulador", "lancamento"],
+      "dataFato": "2026-10-13",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Planet Zoo", "url": "https://www.planetzoogame.com/en-US/2/news/2026-10-12/countdown-launch", "dominio": "planetzoogame.com" },
+      "fontesSecundarias": [
+        { "nome": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Planet_Zoo_2", "dominio": "en.wikipedia.org" },
+        { "nome": "NotebookCheck", "url": "https://www.notebookcheck.net/Already-a-Steam-bestseller-Highly-anticipated-zoo-sim-launches-tomorrow.1422209.0.html", "dominio": "notebookcheck.net" }
+      ],
+      "nota": 6.5,
+      "justificativa": "Lançamento aguardado de franquia consolidada de simulação, com boa recepção prévia na Steam, mas público mais nichado.",
+      "pesquisador": "radar-lancamentos-internacionais"
+    },
+    {
+      "posicao": 9,
+      "slug": "falcons-estende-contrato-m0nesy-2030",
+      "titulo": "Falcons estende contrato de m0NESY até 2030",
+      "resumo": "A Team Falcons anunciou extensão de contrato multianual com o russo Ilya 'm0NESY' Osipov, válida até 2030, encerrando rumores de transferência. O jogador está na equipe desde abril de 2025 e foi MVP do IEM Cologne Major, vencido pela Falcons em junho.",
+      "tipo": "noticia",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC"],
+      "tags": ["cs2", "contrato", "falcons"],
+      "dataFato": "2026-10-12",
+      "janelaEstendida": false,
+      "fonte": { "nome": "HLTV", "url": "https://www.hltv.org/news/45711/falcons-announce-m0nesy-contract-extension", "dominio": "hltv.org" },
+      "fontesSecundarias": [
+        { "nome": "Dot Esports", "url": "https://dotesports.com/counter-strike/news/team-falcons-m0nesy-contract-extension", "dominio": "dotesports.com" }
+      ],
+      "nota": 6.3,
+      "justificativa": "Movimentação de peso na cena de CS2 envolvendo um dos principais nomes do circuito, encerrando especulação de transferência.",
+      "pesquisador": "radar-esports"
+    },
+    {
+      "posicao": 10,
+      "slug": "kt-rolster-elimina-vitality-demacia-cup",
+      "titulo": "kt Rolster vira contra Team Vitality e avança no Demacia Cup",
+      "resumo": "Em 12 de outubro, a kt Rolster virou uma série de 0-2 contra a europeia Team Vitality nas quartas de final do Demacia Cup Global Invitational 2026, vencendo os três jogos seguintes por 3-2 e avançando à semifinal.",
+      "tipo": "esports",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC"],
+      "tags": ["lol", "demacia-cup", "reverse-sweep"],
+      "dataFato": "2026-10-12",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Inven Global", "url": "https://www.invenglobal.com/articles/27054/kt-rolster-pull-off-insane-reverse-sweep-against-t-eX3hwv6Es", "dominio": "invenglobal.com" },
+      "fontesSecundarias": [
+        { "nome": "eGamersWorld", "url": "https://egamersworld.com/lol/news/37781/kt-rolster-pull-off-insane-reverse-sweep-against-t-eX3hwv6Es", "dominio": "egamersworld.com" }
+      ],
+      "nota": 6.1,
+      "justificativa": "Reverse sweep dramático em torneio internacional de LoL com repercussão na comunidade competitiva, fecha o TOP 10 com representatividade de esports.",
+      "pesquisador": "radar-esports"
+    }
+  ],
+  "tambemNoRadar": [
+    {
+      "slug": "venn-studios-hub-come-to-brasil",
+      "titulo": "Venn Studios lança hub 'Come to Brasil' na BGS 2026",
+      "resumo": "A desenvolvedora brasileira Venn Studios lançou durante a BGS 2026 o hub 'Come to Brasil', projeto para conectar estúdios independentes brasileiros ao mercado internacional, em parceria com Nuuvem, Critical Leap, PARCO Games e Abragames.",
+      "tipo": "noticia",
+      "escopo": "nacional",
+      "confiabilidade": "confirmado",
+      "plataformas": [],
+      "tags": ["cena-indie", "bgs", "mercado-internacional"],
+      "dataFato": "2026-10-07",
+      "janelaEstendida": true,
+      "fonte": { "nome": "Omelete", "url": "https://www.omelete.com.br/games/venn-studios-hub-conectar-indies-mercado-internacional-na-bgs", "dominio": "omelete.com.br" },
+      "fontesSecundarias": [],
+      "nota": 5.5,
+      "justificativa": "Iniciativa relevante para o setor indie nacional, mas de alcance e urgência menores que os destaques do TOP 10, além de estar na borda da janela.",
+      "pesquisador": "radar-empresas-nacionais"
+    },
+    {
+      "slug": "poly-fighter-acesso-antecipado-dublagem-pt-br",
+      "titulo": "Poly Fighter entra em acesso antecipado com dublagem em português brasileiro",
+      "resumo": "Poly Fighter, jogo de luta roguelike da canadense HeartLoop Games, entrou em acesso antecipado no Steam em 13 de outubro, trazendo dublagem oficial em português do Brasil. O título foi apresentado ao público brasileiro durante a BGS 2026.",
+      "tipo": "lancamento",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC"],
+      "tags": ["acesso-antecipado", "dublagem", "bgs"],
+      "dataFato": "2026-10-13",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Adrenaline", "url": "https://www.adrenaline.com.br/games/pc-games/poly-fighter-acesso-antecipado/", "dominio": "adrenaline.com.br" },
+      "fontesSecundarias": [
+        { "nome": "GameHall", "url": "https://gamehall.com.br/poly-fighter-leva-porrada-roguelike-e-dublagem-em-portugues-para-a-bgs-2026/", "dominio": "gamehall.com.br" }
+      ],
+      "nota": 5.8,
+      "justificativa": "Lançamento de nicho (acesso antecipado) com conexão ao público brasileiro via dublagem, mas impacto limitado frente aos lançamentos maiores do dia.",
+      "pesquisador": "radar-lancamentos-nacionais"
+    },
+    {
+      "slug": "tobiz-retorna-mouz-head-talent-development",
+      "titulo": "TOBIZ retorna à MOUZ como head of talent development",
+      "resumo": "A MOUZ anunciou o retorno de Tobias 'TOBIZ' Theo à organização, agora como head of talent development, após período como head coach da HEROIC.",
+      "tipo": "noticia",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC"],
+      "tags": ["cs2", "mouz", "staff"],
+      "dataFato": "2026-10-12",
+      "janelaEstendida": false,
+      "fonte": { "nome": "HLTV", "url": "https://www.hltv.org/news/45704/tobiz-returns-to-mouz-as-head-of-talent-development", "dominio": "hltv.org" },
+      "fontesSecundarias": [
+        { "nome": "Fragster", "url": "https://www.fragster.com/tobiz-returns-mouz-talent-development/", "dominio": "fragster.com" }
+      ],
+      "nota": 5.0,
+      "justificativa": "Movimentação de staff relevante para fãs de CS2, mas de impacto menor que troca de jogadores ou resultados de torneios.",
+      "pesquisador": "radar-esports"
+    }
+  ],
+  "descartados": [
+    { "titulo": "EA mantém disputa com detentores de bonds sobre alegado default de US$ 1,4 bilhão", "motivo": "fato de 2026-10-09, fora da janela estendida de 48h" },
+    { "titulo": "Nerial, estúdio da série Reigns, encerra operações", "motivo": "fato de 2026-10-01, fora da janela" },
+    { "titulo": "Layoffs começam na Ninja Theory em meio a possível fechamento do estúdio", "motivo": "fato de 2026-10-05, fora da janela; o próprio pesquisador recomendou remoção" },
+    { "titulo": "LØS vence torneio de promoção e garante vaga convidada no CBLOL 2027", "motivo": "fonte primária (post no X) inacessível para verificação e fontes secundárias checadas tratam de etapa anterior (semifinal vs Estral), sem confirmar o placar e adversário informados" }
+  ]
+}
