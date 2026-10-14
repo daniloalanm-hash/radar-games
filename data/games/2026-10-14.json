@@ -1,0 +1,360 @@
+{
+  "categoria": "games",
+  "data": "2026-10-14",
+  "geradoEm": "2026-10-14T21:00:00-03:00",
+  "janela": { "inicio": "2026-10-13T21:00:00-03:00", "fim": "2026-10-14T21:00:00-03:00" },
+  "observacao": null,
+  "itens": [
+    {
+      "posicao": 1,
+      "slug": "deep-dish-dungeon-behold-studios-game-pass",
+      "titulo": "Behold Studios lança Deep Dish Dungeon com dia 1 no Xbox Game Pass",
+      "resumo": "A Behold Studios (Knights of Pen & Paper, Chroma Squad) lançou em 13 de outubro Deep Dish Dungeon, dungeon crawler com elementos de culinária e cooperativo, publicado pela sueca Raw Fury e disponível no primeiro dia no Xbox Game Pass. O jogo tem localização completa em português brasileiro e havia superado 500 mil adições à lista de desejos na Steam antes do lançamento.",
+      "tipo": "lancamento",
+      "escopo": "nacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC", "Xbox Series", "Xbox Game Pass"],
+      "tags": ["estudio-brasileiro", "game-pass", "lancamento", "cooperativo"],
+      "dataFato": "2026-10-13",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Xbox Wire Brasil", "url": "https://news.xbox.com/pt-br/2026/10/13/game-brasileiro-deep-dish-dungeon-game-pass/", "dominio": "news.xbox.com" },
+      "fontesSecundarias": [
+        { "nome": "Gamers & Games", "url": "https://www.gamersegames.com.br/2026/10/13/deep-dish-dungeon-chega-ao-xbox-game-pass-e-celebra-destaque-de-estudio-brasileiro/", "dominio": "gamersegames.com.br" },
+        { "nome": "Folha do Leste", "url": "https://folhadoleste.com.br/deep-dish-dungeon-jogo-brasileiro-game-pass/", "dominio": "folhadoleste.com.br" }
+      ],
+      "nota": 8.5,
+      "justificativa": "Lançamento confirmado de estúdio brasileiro consagrado em plataforma global de peso (Game Pass), com forte repercussão prévia de wishlists e localização completa em português — o destaque nacional mais forte do dia.",
+      "pesquisador": "radar-lancamentos-nacionais"
+    },
+    {
+      "posicao": 2,
+      "slug": "planet-zoo-2-lancamento-recorde-criticas",
+      "titulo": "Planet Zoo 2 bate recorde de jogadores e recebe elogios da crítica no lançamento",
+      "resumo": "A Frontier Developments lançou Planet Zoo 2 em 13 de outubro para PC, PS5 e Xbox Series X|S, superando o recorde de pico simultâneo do jogo original na Steam (mais de 40 mil jogadores contra quase 39 mil em sete anos). O título recebeu notas altas de veículos como Insider Gaming, Checkpoint Gaming e Push Square, com destaque para novas espécies e reservas de vida selvagem personalizáveis.",
+      "tipo": "lancamento",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC", "PS5", "Xbox Series"],
+      "tags": ["simulacao", "lancamento", "recorde", "critica"],
+      "dataFato": "2026-10-13",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Insider Gaming", "url": "https://insider-gaming.com/planet-zoo-2-breaks-original-games-steam-record-on-launch-day/", "dominio": "insider-gaming.com" },
+      "fontesSecundarias": [
+        { "nome": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Planet_Zoo_2", "dominio": "en.wikipedia.org" },
+        { "nome": "Push Square", "url": "https://www.pushsquare.com/reviews/ps5/planet-zoo-2", "dominio": "pushsquare.com" }
+      ],
+      "nota": 7.8,
+      "justificativa": "Lançamento multiplataforma de franquia consolidada com resultado comercial e crítico fortes simultâneos, bem documentado por múltiplas fontes.",
+      "pesquisador": "radar-lancamentos-internacionais"
+    },
+    {
+      "posicao": 3,
+      "slug": "nintendo-brasil-bgs-2026-midia-fisica-ocarina-time",
+      "titulo": "Nintendo reforça compromisso com o Brasil e mídia física na BGS 2026",
+      "resumo": "Na Brasil Game Show 2026, Devon Pritchard, presidente da Nintendo of America, afirmou que o Brasil está entre os dez maiores mercados globais de videogames e é 'incrivelmente importante' para a empresa. Romina Whitlock, diretora de marketing para a América Latina, garantiu que a Nintendo não pretende abandonar a mídia física no país, e a empresa confirmou que The Legend of Zelda: Ocarina of Time (5 de novembro) será o primeiro jogo da série com dublagem completa em português brasileiro.",
+      "tipo": "noticia",
+      "escopo": "nacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["Switch", "Switch 2"],
+      "tags": ["nintendo", "bgs", "localizacao", "midia-fisica"],
+      "dataFato": "2026-10-13",
+      "janelaEstendida": false,
+      "fonte": { "nome": "O Povo", "url": "https://opovo.com.br/vidaearte/2026/10/13/nintendo-destaca-compromisso-com-o-mercado-brasileiro.html", "dominio": "opovo.com.br" },
+      "fontesSecundarias": [],
+      "nota": 7.3,
+      "justificativa": "Declaração corporativa direta sobre a estratégia da Nintendo para o Brasil, com anúncio concreto de localização inédita na franquia Zelda.",
+      "pesquisador": "radar-empresas-nacionais"
+    },
+    {
+      "posicao": 4,
+      "slug": "xbox-labs-ia-mods-ports",
+      "titulo": "Xbox cria grupo 'Xbox Labs' para explorar mods e ports com IA",
+      "resumo": "A CEO da Xbox, Asha Sharma, anunciou a criação da 'Xbox Labs', grupo de pesquisa liderado pelo CTO Scott Van Vliet para explorar tecnologias de modding e portabilidade de jogos assistidas por inteligência artificial. A iniciativa é uma resposta da Microsoft à onda recente de recompilações de jogos feitas por fãs usando IA, incluindo ports de clássicos via WebAssembly e WebGPU.",
+      "tipo": "noticia",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["Xbox Series", "PC"],
+      "tags": ["xbox", "inteligencia-artificial", "modding", "estrategia"],
+      "dataFato": "2026-10-13",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Video Games Chronicle", "url": "https://www.videogameschronicle.com/news/asha-sharma-forms-xbox-labs-in-response-to-explosion-of-ai-powered-mods-and-ports/", "dominio": "videogameschronicle.com" },
+      "fontesSecundarias": [
+        { "nome": "VideoCardz", "url": "https://videocardz.com/newz/microsoft-launches-xbox-labs-in-response-to-game-recompilation-and-modding-projects", "dominio": "videocardz.com" },
+        { "nome": "Tbreak", "url": "https://tbreak.com/xbox-labs-ai-game-ports-remixes/", "dominio": "tbreak.com" }
+      ],
+      "nota": 7.0,
+      "justificativa": "Movimento estratégico relevante sob nova liderança da Xbox, com repercussão em múltiplos veículos, ainda que seja uma iniciativa exploratória sem produto concreto.",
+      "pesquisador": "radar-empresas-internacionais"
+    },
+    {
+      "posicao": 5,
+      "slug": "art-recebe-alta-retorna-legacy-thunderpick",
+      "titulo": "arT recebe alta hospitalar e retorna à Legacy para o Thunderpick World Championship",
+      "resumo": "O capitão Andrei 'arT' Piovezan recebeu alta após tratamento de meningite e volta à Legacy para o Thunderpick World Championship 2026 (14 a 18/10, em Malta, premiação de US$ 1 milhão). Durante sua ausência na ESL Pro League 24, a equipe usou o analista Pedro 'bobz' Rocha e foi eliminada na fase de grupos.",
+      "tipo": "esports",
+      "escopo": "nacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC"],
+      "tags": ["cs2", "legacy", "thunderpick", "saude"],
+      "dataFato": "2026-10-14",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Dust2", "url": "https://www.dust2.com.br/noticias/78665/legacy-confirma-data-de-retorno-de-art", "dominio": "dust2.com.br" },
+      "fontesSecundarias": [
+        { "nome": "HLTV", "url": "https://www.hltv.org/news/45706/thunderpick-world-championship-teams-format-schedule-prizes-talent-fantasy", "dominio": "hltv.org" }
+      ],
+      "nota": 7.2,
+      "justificativa": "Fato concreto e de forte apelo humano para a comunidade brasileira de CS2, confirmado em fonte primária nacional e complementado por cobertura internacional do torneio.",
+      "pesquisador": "radar-esports"
+    },
+    {
+      "posicao": 6,
+      "slug": "astralis-contrata-siuhy-cmtry-cs2",
+      "titulo": "Astralis contrata siuhy e cmtry para novo roster de CS2",
+      "resumo": "A Astralis anunciou a contratação do polonês Kamil 'siuhy' Szkaradek, ex-Liquid, e do ucraniano Nikita 'cmtry' Samolotov, remanejado do banco da FUT. Os dois substituem Rasmus 'HooXi' Nielsen e Jakob 'jabbi' Nygaard, e cmtry deixará de ser AWPer para atuar como rifler, com Love 'phzy' Smidebrant assumindo o papel de sniper principal. A dupla fará sua estreia na Stake Pulse Beat III.",
+      "tipo": "noticia",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC"],
+      "tags": ["cs2", "astralis", "transferencia"],
+      "dataFato": "2026-10-13",
+      "janelaEstendida": false,
+      "fonte": { "nome": "HLTV", "url": "https://www.hltv.org/news/45714/official-astralis-sign-siuhy-and-cmtry", "dominio": "hltv.org" },
+      "fontesSecundarias": [
+        { "nome": "FPS Hub", "url": "https://www.fpshub.com/1118319/astralis-sign-siuhy-and-cmtry-for-first-roster-without-danish-majority/", "dominio": "fpshub.com" }
+      ],
+      "nota": 7.0,
+      "justificativa": "Transferência oficial confirmada em fonte primária, com mudanças táticas relevantes para uma organização histórica do CS2.",
+      "pesquisador": "radar-esports"
+    },
+    {
+      "posicao": 7,
+      "slug": "warhammer-40000-boltgun-2-lancamento-brasil-mick-gordon",
+      "titulo": "Warhammer 40.000: Boltgun 2 é lançado com trilha de Mick Gordon e chega ao Brasil por R$ 75,59",
+      "resumo": "Auroch Digital e Big Fan Games (selo da Devolver Digital) lançaram Warhammer 40.000: Boltgun 2 em 14 de outubro para PC, PS5 e Xbox Series X|S, com versão Switch 2 prevista para depois. O jogo traz dois personagens jogáveis e uma trilha exclusiva para a batalha final composta pelo músico de DOOM, Mick Gordon; no Brasil, chegou por R$ 75,59 na Steam, com legendas e interface em português brasileiro.",
+      "tipo": "lancamento",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC", "PS5", "Xbox Series"],
+      "tags": ["warhammer", "lancamento", "trilha-sonora", "fps"],
+      "dataFato": "2026-10-14",
+      "janelaEstendida": false,
+      "fonte": { "nome": "GameSpot", "url": "https://www.gamespot.com/articles/warhammer-40000-boltgun-2-is-out-this-october-with-a-very-special-guest/", "dominio": "gamespot.com" },
+      "fontesSecundarias": [
+        { "nome": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Warhammer_40,000:_Boltgun_2", "dominio": "en.wikipedia.org" },
+        { "nome": "Folha do Leste", "url": "https://folhadoleste.com.br/warhammer-40000-boltgun-2-preco-lancamento-brasil/", "dominio": "folhadoleste.com.br" }
+      ],
+      "nota": 6.8,
+      "justificativa": "Lançamento de franquia consolidada com gancho editorial forte (trilha de Mick Gordon) e informação concreta de preço e disponibilidade no mercado brasileiro.",
+      "pesquisador": "radar-lancamentos-internacionais"
+    },
+    {
+      "posicao": 8,
+      "slug": "mibr-encerra-vinculo-brnz4n-cs2",
+      "titulo": "MIBR encerra vínculo de cinco anos com brnz4n",
+      "resumo": "A MIBR confirmou a saída de Breno 'brnz4n' Poletto, que estava na organização desde 2021 e foi promovido ao time principal em 2022 no lugar de WOOD7. O jogador havia sido banco em agosto para dar lugar a Tomas 'tomaszin' Corna e agora deixa definitivamente o clube, período em que disputou três Majors.",
+      "tipo": "noticia",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC"],
+      "tags": ["cs2", "mibr", "transferencia"],
+      "dataFato": "2026-10-13",
+      "janelaEstendida": false,
+      "fonte": { "nome": "HLTV", "url": "https://www.hltv.org/news/45715/brnz4n-departs-mibr", "dominio": "hltv.org" },
+      "fontesSecundarias": [],
+      "nota": 6.5,
+      "justificativa": "Movimentação relevante de time brasileiro tradicional de CS2, confirmada por fonte primária, embora de menor impacto que outras transferências do dia.",
+      "pesquisador": "radar-esports"
+    },
+    {
+      "posicao": 9,
+      "slug": "valve-descontinua-valve-index",
+      "titulo": "Valve descontinua o headset de VR Valve Index",
+      "resumo": "A Valve anunciou o fim da produção do Valve Index, headset de realidade virtual lançado em 2019, por meio de post no canal de notícias de hardware do Steam. A decisão abre caminho para o Steam Frame, novo headset sem fio que roda jogos via streaming e localmente com chip Arm; o estoque restante do Index está com 20% de desconto.",
+      "tipo": "noticia",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC"],
+      "tags": ["valve", "realidade-virtual", "hardware"],
+      "dataFato": "2026-10-13",
+      "janelaEstendida": false,
+      "fonte": { "nome": "NotebookCheck", "url": "https://www.notebookcheck.net/Valve-officially-sunsets-the-Valve-Index-after-seven-years-with-remaining-stock-now-available-at-a-discount.1423340.0.html", "dominio": "notebookcheck.net" },
+      "fontesSecundarias": [
+        { "nome": "PCGuide", "url": "https://www.pcguide.com/news/with-steam-frame-on-the-way-valve-has-discontinued-its-index-vr-headset/", "dominio": "pcguide.com" }
+      ],
+      "nota": 6.3,
+      "justificativa": "Decisão de produto relevante para o ecossistema VR da Valve, com impacto corporativo moderado e boa cobertura de múltiplas fontes.",
+      "pesquisador": "radar-empresas-internacionais"
+    },
+    {
+      "posicao": 10,
+      "slug": "garena-controle-parental-verificacao-idade-free-fire-eca-digital",
+      "titulo": "Garena lança controle parental e verificação de idade no Free Fire no Brasil",
+      "resumo": "A Garena programou para 13 de outubro o lançamento de um sistema próprio de verificação de idade e controle parental no Free Fire no Brasil, incluindo limite de tempo de jogo, limite de gastos semanais e restrição de comunicação entre faixas etárias. A medida cumpre o Artigo 31 do ECA Digital (Lei 15.211/2025), conforme relatório de transparência oficial da empresa, que ressalva que parte das ferramentas ainda está em fase de testes.",
+      "tipo": "noticia",
+      "escopo": "nacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["Mobile"],
+      "tags": ["free-fire", "regulacao", "eca-digital", "garena"],
+      "dataFato": "2026-10-13",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Free Fire Mania", "url": "https://www.freefiremania.com.br/noticia/free-fire-controle-dos-pais-verificacao-idade.html", "dominio": "freefiremania.com.br" },
+      "fontesSecundarias": [
+        { "nome": "Garena (Relatório Oficial)", "url": "https://ffsuporte.garena.com/support/solutions/articles/154000261872-relatorio-free-fire-artigo-31-eca-digital-ate-junho-2026", "dominio": "ffsuporte.garena.com" }
+      ],
+      "nota": 6.6,
+      "justificativa": "Fato relevante de conformidade regulatória que afeta a operação brasileira de um dos maiores jogos mobile do país, corroborado por relatório oficial da empresa.",
+      "pesquisador": "radar-empresas-nacionais"
+    }
+  ],
+  "tambemNoRadar": [
+    {
+      "slug": "battlefield-6-season-5-siege-of-vegas",
+      "titulo": "Battlefield 6 estreia Season 5: Siege of Vegas com novo modo battle royale",
+      "resumo": "A EA lançou o update 2.1.1.0 de Battlefield 6 em 13 de outubro, trazendo a Season 5: Siege of Vegas com dois novos mapas (Vegas Strip e Area 51), quatro armas e o novo modo battle royale 'Rapid Royale', além do lançamento oficial do Ranked Battle Royale. O patch também rebalanceou sistemas antiaéreos e armas de infantaria.",
+      "tipo": "noticia",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC", "PS5", "Xbox Series"],
+      "tags": ["battlefield", "atualizacao", "battle-royale"],
+      "dataFato": "2026-10-13",
+      "janelaEstendida": false,
+      "fonte": { "nome": "EA", "url": "https://www.ea.com/games/battlefield/battlefield-6/news/battlefield-6-game-update-2-1-1-0", "dominio": "ea.com" },
+      "fontesSecundarias": [
+        { "nome": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Battlefield_6", "dominio": "en.wikipedia.org" }
+      ],
+      "nota": 6.4,
+      "justificativa": "Update robusto e oficial para um dos maiores shooters do ano, mas compete com itens de maior ineditismo no TOP 10.",
+      "pesquisador": "radar-lancamentos-internacionais"
+    },
+    {
+      "slug": "thunderpick-world-championship-2026-inicio-malta",
+      "titulo": "Thunderpick World Championship 2026 começa em Malta com FURIA, Legacy e 9z representando a América do Sul",
+      "resumo": "O Thunderpick World Championship 2026 teve início em 14/10 na BLAST Arena Studios, em Malta, reunindo 8 equipes por um prize pool de US$ 1 milhão. No dia de abertura, Legacy enfrentou PARIVISION, FURIA (atual campeã) mediu forças com BetBoom, 9z encarou Aurora e Falcons jogou contra Ninjas in Pyjamas.",
+      "tipo": "esports",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC"],
+      "tags": ["cs2", "thunderpick", "campeonato"],
+      "dataFato": "2026-10-14",
+      "janelaEstendida": false,
+      "fonte": { "nome": "HLTV", "url": "https://www.hltv.org/events/8932/thunderpick-world-championship-2026", "dominio": "hltv.org" },
+      "fontesSecundarias": [
+        { "nome": "Esports.gg", "url": "https://esports.gg/news/counter-strike-2/cs2-thunderpick-world-championship-2026-results/", "dominio": "esports.gg" }
+      ],
+      "nota": 6.0,
+      "justificativa": "Evento relevante com forte presença sul-americana, mas o fato mais específico e humano do retorno de arT já cobre o essencial do contexto para o público brasileiro.",
+      "pesquisador": "radar-esports"
+    },
+    {
+      "slug": "loud-vence-nrg-semifinal-vct-champions-2026",
+      "titulo": "LOUD derrota NRG e avança nas semifinais do VCT Champions 2026, encara Vitality dia 16",
+      "resumo": "A LOUD, representante brasileira, venceu a NRG por 2-1 na semifinal da chave de cima do VCT Champions 2026 em Shanghai, após já ter batido Paper Rex e Global Esports. A equipe avança para encarar a Team Vitality na decisão da chave de cima, com partida marcada para 16/10.",
+      "tipo": "esports",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC"],
+      "tags": ["valorant", "loud", "champions"],
+      "dataFato": "2026-10-13",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Esports News UK", "url": "https://esports-news.co.uk/2026/10/11/loud-edge-nrg-2-1-at-vct-champions-2026-to-set-up-team-vitality-rematch", "dominio": "esports-news.co.uk" },
+      "fontesSecundarias": [
+        { "nome": "VZone", "url": "https://vzone.gg/noticia/champions-2026-sem-sustos-loud-derrota-a-global-e-avanca-aos-playoffs/", "dominio": "vzone.gg" }
+      ],
+      "nota": 6.2,
+      "justificativa": "Resultado de peso de equipe brasileira em torneio internacional, mas a data da fonte principal é de 11/10, deixando dúvida sobre o encaixe exato na janela do dia.",
+      "pesquisador": "radar-esports"
+    },
+    {
+      "slug": "poly-fighter-acesso-antecipado-dublagem-bgs",
+      "titulo": "Poly Fighter entra em Acesso Antecipado com dublagem brasileira",
+      "resumo": "Poly Fighter, jogo de combate 1v1 roguelike da HeartLoop Games, entrou em Acesso Antecipado em 13 de outubro, com a atriz Fernanda Galiano dublando duas personagens brasileiras na versão apresentada na BGS 2026. O título permite 'roubar' ataques de adversários derrotados para criar estratégias diferentes a cada partida.",
+      "tipo": "lancamento",
+      "escopo": "nacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC"],
+      "tags": ["estudio-brasileiro", "acesso-antecipado", "dublagem"],
+      "dataFato": "2026-10-13",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Select Game", "url": "https://selectgame.gamehall.com.br/heartloop-games-leva-poly-fighter-a-bgs-2026-com-nova-demo-e-dublagem-em-portugues-brasileiro/", "dominio": "gamehall.com.br" },
+      "fontesSecundarias": [
+        { "nome": "GameHall", "url": "https://gamehall.com.br/poly-fighter-leva-porrada-roguelike-e-dublagem-em-portugues-para-a-bgs-2026/", "dominio": "gamehall.com.br" }
+      ],
+      "nota": 6.0,
+      "justificativa": "Lançamento de estúdio brasileiro com boa localização, mas cobertura mais restrita do que outros destaques nacionais do dia.",
+      "pesquisador": "radar-lancamentos-nacionais"
+    },
+    {
+      "slug": "nintendo-switch-online-gba-tres-titulos-outubro",
+      "titulo": "Nintendo Switch Online amplia catálogo de Game Boy Advance com três títulos",
+      "resumo": "A Nintendo adicionou Monster Rancher Advance, Metal Slug Advance e Kururin Paradise ao app Game Boy Advance – Nintendo Classics, disponível para assinantes do pacote Expansion Pack do Nintendo Switch Online. Kururin Paradise nunca havia sido lançado no Ocidente antes.",
+      "tipo": "noticia",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["Switch", "Switch 2"],
+      "tags": ["nintendo", "switch-online", "retro"],
+      "dataFato": "2026-10-14",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Nintendo Life", "url": "https://www.nintendolife.com/news/2026/10/nintendo-expands-switch-onlines-gba-library-with-three-more-titles", "dominio": "nintendolife.com" },
+      "fontesSecundarias": [
+        { "nome": "Nintendo Everything", "url": "https://nintendoeverything.com/nintendo-switch-online-adds-three-new-gba-games-in-october-2026-update/", "dominio": "nintendoeverything.com" }
+      ],
+      "nota": 5.8,
+      "justificativa": "Atualização de catálogo de assinatura relevante para fãs de retrogaming, mas de impacto menor que os destaques do dia.",
+      "pesquisador": "radar-lancamentos-internacionais"
+    },
+    {
+      "slug": "g2-elimina-t1-vitality-final-chave-superior-vct",
+      "titulo": "G2 elimina T1 e Vitality garante vaga na final da chave superior do VCT Champions 2026",
+      "resumo": "No dia 13/10, G2 Esports derrotou o T1 por 2-1 e avançou ao top 4 do Valorant Champions 2026, enquanto a Team Vitality bateu a própria G2 por 2-0 para garantir vaga na final da chave superior do torneio, disputado em Shanghai com premiação de US$ 2,25 milhões.",
+      "tipo": "esports",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC"],
+      "tags": ["valorant", "champions", "playoffs"],
+      "dataFato": "2026-10-13",
+      "janelaEstendida": false,
+      "fonte": { "nome": "VLR.gg", "url": "https://www.vlr.gg/event/matches/2766/valorant-champions-2026/", "dominio": "vlr.gg" },
+      "fontesSecundarias": [
+        { "nome": "Liquipedia", "url": "https://liquipedia.net/valorant/VCT/2026/Champions", "dominio": "liquipedia.net" }
+      ],
+      "nota": 5.5,
+      "justificativa": "Resultado relevante do maior torneio de Valorant do ano, mas de menor apelo para o recorte brasileiro comparado aos demais destaques de esports do dia.",
+      "pesquisador": "radar-esports"
+    },
+    {
+      "slug": "playstation-dualsense-lisa-blackpink",
+      "titulo": "PlayStation anuncia DualSense temático de LISA (BLACKPINK) com pré-venda aberta",
+      "resumo": "A Sony revelou um novo controle DualSense para PS5 com tema inspirado na cantora LISA, do BLACKPINK, com pré-vendas abertas a US$ 84,99 e lançamento previsto para 30 de outubro de 2026. O design tem como destaque uma estampa relacionada aos olhos da artista.",
+      "tipo": "noticia",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PS5"],
+      "tags": ["playstation", "hardware", "colaboracao"],
+      "dataFato": "2026-10-14",
+      "janelaEstendida": false,
+      "fonte": { "nome": "ScreenRant", "url": "https://screenrant.com/playstation-new-hardware-october-2026-pre-orders-live-now/", "dominio": "screenrant.com" },
+      "fontesSecundarias": [],
+      "nota": 5.0,
+      "justificativa": "Anúncio de acessório com apelo de cultura pop, mas de impacto editorial menor que lançamentos e notícias de produto do dia.",
+      "pesquisador": "radar-lancamentos-internacionais"
+    },
+    {
+      "slug": "bgs-2027-ingressos-vendas",
+      "titulo": "Brasil Game Show abre venda de ingressos para edição de 2027",
+      "resumo": "Um dia após o encerramento da 17ª edição da BGS, realizada de 9 a 12 de outubro no Distrito Anhembi, em São Paulo, os organizadores abriram a venda de ingressos promocionais para a edição de 2027, marcada para 9 a 12 de outubro, com preço inicial de cerca de US$ 28 para o ingresso de um dia.",
+      "tipo": "noticia",
+      "escopo": "nacional",
+      "confiabilidade": "confirmado",
+      "plataformas": [],
+      "tags": ["bgs", "evento"],
+      "dataFato": "2026-10-13",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Rio Times", "url": "https://www.riotimesonline.com/brasil-game-show-ends-2027-dates-2026", "dominio": "riotimesonline.com" },
+      "fontesSecundarias": [],
+      "nota": 5.2,
+      "justificativa": "Notícia institucional factual, mas de relevância mediana para o público gamer em comparação com lançamentos e movimentações de esports do dia.",
+      "pesquisador": "radar-lancamentos-nacionais"
+    }
+  ],
+  "descartados": []
+}
