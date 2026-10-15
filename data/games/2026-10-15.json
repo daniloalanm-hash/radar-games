@@ -1,0 +1,327 @@
+{
+  "categoria": "games",
+  "data": "2026-10-15",
+  "geradoEm": "2026-10-15T21:00:00-03:00",
+  "janela": { "inicio": "2026-10-14T21:00:00-03:00", "fim": "2026-10-15T21:00:00-03:00" },
+  "observacao": null,
+  "itens": [
+    {
+      "posicao": 1,
+      "slug": "governo-regulamenta-marco-legal-dos-jogos-eletronicos",
+      "titulo": "Governo regulamenta Marco Legal dos Jogos Eletrônicos e lança plataforma Game Brasil",
+      "resumo": "O presidente Lula assinou, em 14 de outubro, o decreto que regulamenta o Marco Legal dos Jogos Eletrônicos (Lei 14.852), reconhecendo games como produtos culturais e obras audiovisuais interativas. A medida cria a plataforma pública Game Brasil, abre acesso ao Rouanet Games, à Lei do Audiovisual e ao crédito do Fundo Setorial do Audiovisual, além de um pacote de R$ 200 milhões via Finep; o texto foi produzido por grupo de trabalho interministerial com apoio da Abragames, cujo presidente Rodrigo Terra participou da cerimônia no Palácio do Planalto.",
+      "tipo": "noticia",
+      "escopo": "nacional",
+      "confiabilidade": "confirmado",
+      "plataformas": [],
+      "tags": ["legislacao", "governo", "mercado-brasileiro", "abragames"],
+      "dataFato": "2026-10-14",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Agência Brasil", "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/governo-federal-regulamenta-marco-legal-dos-jogos-eletronicos", "dominio": "agenciabrasil.ebc.com.br" },
+      "fontesSecundarias": [
+        { "nome": "Adrenaline", "url": "https://www.adrenaline.com.br/games/decreto-marco-legal-jogos-eletronicos-rouanet-games-credito-fsa-como-funciona/", "dominio": "adrenaline.com.br" },
+        { "nome": "Sucumba Games", "url": "https://sucumbagames.com.br/governo-federal-assina-a-regulamentacao-do-marco-legal-dos-jogos-eletronicos/", "dominio": "sucumbagames.com.br" },
+        { "nome": "Olhar Digital", "url": "https://olhardigital.com.br/2026/10/14/games-e-consoles/rouanet-games-governo-anuncia-r-200-milhoes-para-o-setor-no-brasil", "dominio": "olhardigital.com.br" },
+        { "nome": "O Liberal", "url": "https://www.oliberal.com/economia/governo-regulamenta-marco-legal-dos-games-para-estimular-producao-nacional-1.1182589", "dominio": "oliberal.com" }
+      ],
+      "nota": 9.3,
+      "justificativa": "Marco regulatório histórico para a indústria de games brasileira, com fonte primária governamental e ampla cobertura. Impacto estrutural de longo prazo para desenvolvedoras nacionais.",
+      "pesquisador": "radar-empresas-nacionais"
+    },
+    {
+      "posicao": 2,
+      "slug": "ubisoft-fecha-redlynx-e-corta-vagas-em-singapura",
+      "titulo": "Ubisoft fecha estúdio finlandês RedLynx e corta 70 vagas na Ubisoft Singapore",
+      "resumo": "A Ubisoft anunciou em 14 de outubro o fechamento proposto da desenvolvedora finlandesa RedLynx, conhecida pela série Trials, eliminando 52 postos de trabalho. Paralelamente, cortou 70 vagas na Ubisoft Singapore, estúdio responsável por Skull and Bones, totalizando mais de 120 empregos afetados nos dois anúncios.",
+      "tipo": "noticia",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": [],
+      "tags": ["ubisoft", "demissoes", "fechamento-de-estudio"],
+      "dataFato": "2026-10-14",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Game Developer", "url": "https://www.gamedeveloper.com/business/ubisoft-to-close-trials-studio-redlynx-downsize-ubisoft-singapore", "dominio": "gamedeveloper.com" },
+      "fontesSecundarias": [
+        { "nome": "MassivelyOP", "url": "https://massivelyop.com/2026/10/14/ubisofts-latest-round-of-layoffs-shuts-down-another-studio-and-cuts-into-skull-and-bones-staff/", "dominio": "massivelyop.com" },
+        { "nome": "Engadget", "url": "https://www.engadget.com/2286986/ubisoft-plans-to-close-another-studio-and-lay-off-up-to-122-workers/", "dominio": "engadget.com" },
+        { "nome": "Video Games Chronicle", "url": "https://www.videogameschronicle.com/news/ubisoft-is-planning-to-shut-down-trials-studio-redlynx-and-lay-off-70-ubisoft-singapore-staff/", "dominio": "videogameschronicle.com" },
+        { "nome": "Insider Gaming", "url": "https://insider-gaming.com/ubisoft-closing-redlynx-studio-downsizing-singapore-studio/", "dominio": "insider-gaming.com" }
+      ],
+      "nota": 8.4,
+      "justificativa": "Novo capítulo na crise da Ubisoft, com mais de 120 empregos afetados em dois estúdios, confirmado por múltiplas fontes especializadas e checado diretamente.",
+      "pesquisador": "radar-empresas-internacionais"
+    },
+    {
+      "posicao": 3,
+      "slug": "nintendo-trailer-overview-zelda-ocarina-of-time-remake",
+      "titulo": "Nintendo revela trailer overview do remake de Zelda: Ocarina of Time para Switch 2",
+      "resumo": "A Nintendo divulgou em 14/10 um trailer overview de cerca de cinco minutos do remake de The Legend of Zelda: Ocarina of Time, mostrando gráficos atualizados, dublagem em cutscenes, trilha orquestral e a nova área Hall of Fallen Foes para reenfrentar chefes. O jogo é exclusivo do Nintendo Switch 2 e chega em 5 de novembro de 2026, com pré-vendas já abertas.",
+      "tipo": "lancamento",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["Switch 2"],
+      "tags": ["nintendo", "zelda", "remake", "trailer"],
+      "dataFato": "2026-10-14",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Gematsu", "url": "https://www.gematsu.com/2026/10/the-legend-of-zelda-ocarina-of-time-remake-overview-trailer", "dominio": "gematsu.com" },
+      "fontesSecundarias": [
+        { "nome": "UPI", "url": "https://www.upi.com/Entertainment_News/2026/10/14/zelda-ocarina-of-time-remake-trailer/5111791983930/", "dominio": "upi.com" }
+      ],
+      "nota": 8.2,
+      "justificativa": "Um dos lançamentos mais aguardados do ano para Switch 2, com data confirmada e trailer extenso; verificado diretamente via fonte.",
+      "pesquisador": "radar-lancamentos-internacionais"
+    },
+    {
+      "posicao": 4,
+      "slug": "deep-dish-dungeon-behold-studios-game-pass",
+      "titulo": "Estúdio brasileiro Behold Studios lança Deep Dish Dungeon no Xbox Game Pass",
+      "resumo": "A Behold Studios, estúdio brasileiro de Chroma Squad e Knights of Pen & Paper, lançou em 13 de outubro o jogo Deep Dish Dungeon via publisher Raw Fury, disponível desde o primeiro dia no Xbox Game Pass Ultimate, PC Game Pass, Steam e Xbox Series X|S. O título, com legendas e interface em português brasileiro, foi desenvolvido por uma equipe de apenas duas pessoas em dois anos e já havia superado 500 mil listas de desejos no Steam antes do lançamento.",
+      "tipo": "lancamento",
+      "escopo": "nacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["Xbox Series X|S", "PC", "Steam"],
+      "tags": ["estudio-brasileiro", "game-pass", "indie"],
+      "dataFato": "2026-10-13",
+      "janelaEstendida": true,
+      "fonte": { "nome": "Xbox News", "url": "https://news.xbox.com/pt-br/2026/10/13/game-brasileiro-deep-dish-dungeon-game-pass/", "dominio": "news.xbox.com" },
+      "fontesSecundarias": [
+        { "nome": "J-WAVE", "url": "https://www.jwave.com.br/2026/10/deep-dish-dungeon-chega-ao-xbox-game-pass-apos-ultrapassar-500-mil-listas-de-desejos/", "dominio": "jwave.com.br" },
+        { "nome": "Tech Times", "url": "https://www.techtimes.com/articles/325891/20260828/deep-dish-dungeon-comes-game-pass-october-13-free-demo-available-now.htm", "dominio": "techtimes.com" },
+        { "nome": "Gamers e Games", "url": "https://www.gamersegames.com.br/2026/10/13/deep-dish-dungeon-chega-ao-xbox-game-pass-e-celebra-destaque-de-estudio-brasileiro/", "dominio": "gamersegames.com.br" },
+        { "nome": "Central Xbox", "url": "https://centralxbox.com.br/2026/10/13/deep-dish-dungeon-jogo-brasileiro-chega-ao-xbox-game-pass-com-exploracao-de-masmorras-e-culinaria/", "dominio": "centralxbox.com.br" }
+      ],
+      "nota": 7.8,
+      "justificativa": "Marco relevante para o desenvolvimento indie brasileiro, com lançamento confirmado em plataforma de alto alcance e repercussão internacional.",
+      "pesquisador": "radar-empresas-nacionais"
+    },
+    {
+      "posicao": 5,
+      "slug": "rockstar-reconhecera-sindicato-se-funcionarios-quiserem",
+      "titulo": "Chefe de publicação da Rockstar diz que empresa reconhecerá sindicato se funcionários quiserem",
+      "resumo": "Em reportagem da Bloomberg sobre os bastidores do desenvolvimento de GTA 6, a chefe de publicação da Rockstar, Jennifer Kolbe, declarou que os funcionários terão um sindicato se assim desejarem. A declaração ocorre em meio a um processo judicial em andamento sobre a demissão de 34 funcionários em 2025, a maioria envolvida em esforços de sindicalização.",
+      "tipo": "noticia",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": [],
+      "tags": ["rockstar", "sindicalizacao", "gta-6", "trabalho"],
+      "dataFato": "2026-10-14",
+      "janelaEstendida": false,
+      "fonte": { "nome": "OpenCritic", "url": "https://opencritic.com/news/37729/rockstar-says-it-will-recognise-a-union-if-gta-6-staff-want-one", "dominio": "opencritic.com" },
+      "fontesSecundarias": [
+        { "nome": "This Week in Video Games", "url": "https://thisweekinvideogames.com/news/rockstar-employees-will-have-a-union-if-they-want-it-head-of-publishing-says/", "dominio": "thisweekinvideogames.com" }
+      ],
+      "nota": 7.5,
+      "justificativa": "Declaração relevante num processo de sindicalização que acompanha o desenvolvimento de um dos jogos mais aguardados da história; fonte original é a Bloomberg, mas o conteúdo foi confirmado via replicações jornalísticas confiáveis.",
+      "pesquisador": "radar-empresas-internacionais"
+    },
+    {
+      "posicao": 6,
+      "slug": "furia-vence-betboom-thunderpick-world-championship-2026",
+      "titulo": "FURIA vence BetBoom e avança no Thunderpick World Championship 2026",
+      "resumo": "A FURIA derrotou a BetBoom por 2-0 (13-10 no Ancient e 13-9 no Mirage) na rodada de abertura do grupo B do Thunderpick World Championship 2026 de CS2, torneio em Malta com premiação de US$ 1 milhão. KSCERATO foi o destaque com 40 kills e rating 1.72 na série; a equipe brasileira avançou para enfrentar a também brasileira Legacy em confronto decisivo pela liderança do grupo.",
+      "tipo": "esports",
+      "escopo": "nacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC"],
+      "tags": ["cs2", "furia", "thunderpick", "esports"],
+      "dataFato": "2026-10-14",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Dust2", "url": "https://www.dust2.com.br/noticias/78898/furia-supera-betboom-na-primeira-rodada-da-thunderpick", "dominio": "dust2.com.br" },
+      "fontesSecundarias": [
+        { "nome": "HLTV", "url": "https://www.hltv.org/news/45723/furia-fend-off-betboom-to-end-day-one-of-twc", "dominio": "hltv.org" },
+        { "nome": "Pichau Arena", "url": "https://www.pichauarena.com.br/csgo/cs2/thunderpick-furia-x-legacy/", "dominio": "pichauarena.com.br" }
+      ],
+      "nota": 7.3,
+      "justificativa": "Bom resultado de uma das principais organizações brasileiras de esports em torneio internacional relevante, com cobertura detalhada de estatísticas de jogo.",
+      "pesquisador": "radar-esports"
+    },
+    {
+      "posicao": 7,
+      "slug": "worlds-2026-league-of-legends-play-in-furia",
+      "titulo": "Worlds 2026 de League of Legends começa com Play-In e FURIA em ação",
+      "resumo": "O Play-In do Mundial de League of Legends 2026 começou em 15/10 no Riot Games Arena, em Los Angeles, em formato de eliminação dupla com partidas Fearless Best of 5. A FURIA, vice-campeã do CBLOL Split 2 e representante brasileira, enfrentou a MVK Esports no mesmo dia, enquanto Karmine Corp encarou Cloud9; o vencedor de cada confronto avança à Swiss Stage principal.",
+      "tipo": "esports",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC"],
+      "tags": ["league-of-legends", "worlds-2026", "furia", "esports"],
+      "dataFato": "2026-10-15",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Insider Gaming", "url": "https://insider-gaming.com/league-of-legends-worlds-2026-teams-play-in-draw-pools/", "dominio": "insider-gaming.com" },
+      "fontesSecundarias": [
+        { "nome": "Liquipedia", "url": "https://liquipedia.net/leagueoflegends/FURIA", "dominio": "liquipedia.net" }
+      ],
+      "nota": 7.1,
+      "justificativa": "Início do principal torneio de League of Legends do ano, com participação direta de representante brasileira, de interesse amplo do público gamer.",
+      "pesquisador": "radar-esports"
+    },
+    {
+      "posicao": 8,
+      "slug": "gta-6-pc-primeiro-trimestre-2027-rumor",
+      "titulo": "Relatório indica versão PC de GTA VI para o primeiro trimestre de 2027",
+      "resumo": "Segundo reportagem da GamesBeat baseada em quatro fontes anônimas da indústria, a versão para PC de Grand Theft Auto VI deve chegar no primeiro trimestre de 2027, poucos meses após o lançamento em consoles (PS5 e Xbox Series, confirmado para 19/11/2026). A Rockstar Games não confirmou oficialmente a informação.",
+      "tipo": "rumor",
+      "escopo": "internacional",
+      "confiabilidade": "rumor",
+      "plataformas": ["PC", "PS5", "Xbox Series"],
+      "tags": ["gta-6", "rockstar", "rumor"],
+      "dataFato": "2026-10-14",
+      "janelaEstendida": false,
+      "fonte": { "nome": "GTA BOOM", "url": "https://www.gtaboom.com/gamesbeat-reports-gta-6-will-hit-pc-in-early-2027", "dominio": "gtaboom.com" },
+      "fontesSecundarias": [
+        { "nome": "PCWorld", "url": "https://www.pcworld.com/article/3260660/we-guessed-late-2027-for-gta-6-on-pc-a-report-says-q1-2027.html", "dominio": "pcworld.com" },
+        { "nome": "Dot Esports", "url": "https://dotesports.com/gta/news/gta-6-pc-release-q1-2027-report", "dominio": "dotesports.com" }
+      ],
+      "nota": 6.9,
+      "justificativa": "Rumor de alto interesse sobre um dos jogos mais aguardados da década, mas penalizado por não ser confirmação oficial.",
+      "pesquisador": "radar-lancamentos-internacionais"
+    },
+    {
+      "posicao": 9,
+      "slug": "epic-games-eac-v2-nao-funciona-steam-deck",
+      "titulo": "Epic Games confirma que anti-cheat EAC v2 não funciona no Steam Deck",
+      "resumo": "A Epic Games informou que sua nova solução de anti-cheat para Linux, EAC v2, não é compatível com o Steam Deck por limitações de hardware, e afirmou estar em conversas ativas com a Valve para viabilizar suporte futuro. O anúncio ocorre junto ao lançamento em preview do novo Epic Games Launcher, com suporte nativo a Linux.",
+      "tipo": "noticia",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC", "Steam", "Linux"],
+      "tags": ["epic-games", "anti-cheat", "steam-deck", "valve"],
+      "dataFato": "2026-10-14",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Mixed News", "url": "https://mixed-news.com/en/epic-eac-linux-v2-steam-deck-unsupported-valve-talks-fortnite-pilot/", "dominio": "mixed-news.com" },
+      "fontesSecundarias": [
+        { "nome": "Inven Global", "url": "https://www.invenglobal.com/articles/27172/18x-faster-than-steam-epic-unveils-new-launcher-preview", "dominio": "invenglobal.com" },
+        { "nome": "GamesRadar", "url": "https://www.gamesradar.com/games/epics-bulletproof-plan-to-outdo-steam-we-vibe-coded-the-epic-games-launcher/", "dominio": "gamesradar.com" }
+      ],
+      "nota": 6.4,
+      "justificativa": "Notícia técnica de interesse para a comunidade PC/Linux, relevante no contexto da disputa Epic x Valve pelo mercado de launchers.",
+      "pesquisador": "radar-empresas-internacionais"
+    },
+    {
+      "posicao": 10,
+      "slug": "bgs-confirma-edicao-2027-em-meio-a-criticas",
+      "titulo": "Brasil Game Show confirma 17ª edição encerrada em meio a críticas e já anuncia BGS 2027",
+      "resumo": "Após o encerramento da 17ª Brasil Game Show, realizada de 9 a 12 de outubro no Distrito Anhembi, a organização confirmou nos dias 13 e 14 de outubro a edição de 2027 (também de 9 a 12 de outubro), já com ingressos à venda. O anúncio ocorreu em meio a fortes críticas de público e criadores de conteúdo sobre redução de espaço, área vazia, praça de alimentação superdimensionada e ausência de marcas tradicionais como Xbox e Nvidia.",
+      "tipo": "noticia",
+      "escopo": "nacional",
+      "confiabilidade": "confirmado",
+      "plataformas": [],
+      "tags": ["bgs", "evento", "mercado-brasileiro"],
+      "dataFato": "2026-10-14",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Times Brasil", "url": "https://timesbrasil.com.br/empresas-e-negocios/tecnologia-e-inovacao/bgs-confirma-nova-edicao-em-meio-a-criticas/", "dominio": "timesbrasil.com.br" },
+      "fontesSecundarias": [
+        { "nome": "Viciados", "url": "https://viciados.net/bgs-2027-confirmada-brasil-game-show-2027-datas/", "dominio": "viciados.net" },
+        { "nome": "Informa Noroeste", "url": "https://informanoroeste.com.br/bgs-2026-foi-ruim-criadores-de-conteudo-e-visitantes-criticam-a-edicao-deste-ano/", "dominio": "informanoroeste.com.br" }
+      ],
+      "nota": 6.6,
+      "justificativa": "Maior evento de games do Brasil e seu desfecho polêmico interessam diretamente ao público nacional, completando a cota de itens nacionais do dia.",
+      "pesquisador": "radar-empresas-nacionais"
+    }
+  ],
+  "tambemNoRadar": [
+    {
+      "slug": "astralis-completa-elenco-cs2-siuhy-cmtry",
+      "titulo": "Astralis completa elenco de CS2 com siuhy e cmtry",
+      "resumo": "A Astralis anunciou oficialmente, em 14/10, as contratações de Kamil siuhy Szkaradek (ex-Liquid) e Nikita cmtry Samolotov (ex-FUT) para seu elenco de CS2, substituindo Rasmus HooXi Nielsen e Jakob jabbi Nygaard. É a primeira vez que a Astralis não tem majoria dinamarquesa no line-up; cmtry deixou de jogar AWP para atuar como rifler, com phzy assumindo o rifle francotirador.",
+      "tipo": "noticia",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC", "Steam"],
+      "tags": ["cs2", "astralis", "transferencia"],
+      "dataFato": "2026-10-14",
+      "janelaEstendida": false,
+      "fonte": { "nome": "HLTV", "url": "https://www.hltv.org/news/45714/official-astralis-sign-siuhy-and-cmtry", "dominio": "hltv.org" },
+      "fontesSecundarias": [
+        { "nome": "Dust2.us", "url": "https://www.dust2.us/news/78854/official-astralis-complete-international-roster-with-siuhy-and-cmtry", "dominio": "dust2.us" }
+      ],
+      "nota": 6.8,
+      "justificativa": "Movimento relevante no cenário de CS2, mas de interesse mais nichado que os itens do TOP 10.",
+      "pesquisador": "radar-esports"
+    },
+    {
+      "slug": "xbox-labs-ia-novas-tecnologias",
+      "titulo": "Xbox cria divisão Xbox Labs para experimentar com IA e novas tecnologias de jogos",
+      "resumo": "A CEO da Xbox, Asha Sharma, anunciou em 14/10 a criação do Xbox Labs, novo time liderado pelo CTO Scott Van Vliet para explorar ideias emergentes, incluindo IA generativa, recompilação de jogos e portabilidade entre plataformas. A iniciativa surge em resposta à onda recente de mods e ports de jogos feitos com IA.",
+      "tipo": "noticia",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["Xbox Series", "PC"],
+      "tags": ["xbox", "inteligencia-artificial", "microsoft"],
+      "dataFato": "2026-10-14",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Insider Gaming", "url": "https://insider-gaming.com/xbox-labs-announced/", "dominio": "insider-gaming.com" },
+      "fontesSecundarias": [
+        { "nome": "Video Games Chronicle", "url": "https://www.videogameschronicle.com/news/asha-sharma-forms-xbox-labs-in-response-to-explosion-of-ai-powered-mods-and-ports/", "dominio": "videogameschronicle.com" },
+        { "nome": "GamesBeat", "url": "https://gamesbeat.com/microsoft-reveals-xbox-labs-a-team-making-cutting-edge-gaming-tech/", "dominio": "gamesbeat.com" }
+      ],
+      "nota": 6.3,
+      "justificativa": "Anúncio corporativo relevante, mas de impacto ainda especulativo para o público final.",
+      "pesquisador": "radar-lancamentos-internacionais"
+    },
+    {
+      "slug": "fire-emblem-fortunes-weave-expansion-pass",
+      "titulo": "Nintendo anuncia Expansion Pass de Fire Emblem: Fortune's Weave",
+      "resumo": "A Nintendo anunciou em 14/10 o Expansion Pass de Fire Emblem: Fortune's Weave, vendido por US$ 34,99 (ou bundle com o jogo por US$ 104,99), dividido em três ondas de conteúdo. A Wave 1, com armas adicionais, já está disponível; a Wave 2 chega no fim de 2026 e a Wave 3 em 2027.",
+      "tipo": "lancamento",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["Switch 2"],
+      "tags": ["nintendo", "fire-emblem", "dlc"],
+      "dataFato": "2026-10-14",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Nintendo Life", "url": "https://www.nintendolife.com/news/2026/10/fire-emblem-fortunes-weave-expansion-pass-announced-wave-1-launches-today", "dominio": "nintendolife.com" },
+      "fontesSecundarias": [
+        { "nome": "Siliconera", "url": "https://www.siliconera.com/fire-emblem-fortunes-weave-expansion-pass-dlc-announced/", "dominio": "siliconera.com" },
+        { "nome": "Vooks", "url": "https://www.vooks.net/fire-emblem-fortunes-weave-expansion-pass-announced/", "dominio": "vooks.net" }
+      ],
+      "nota": 6.0,
+      "justificativa": "Anúncio de DLC de interesse para fãs da franquia, mas de alcance limitado frente aos destaques do dia.",
+      "pesquisador": "radar-lancamentos-internacionais"
+    },
+    {
+      "slug": "valorant-champions-2026-vitality-loud-chave-superior",
+      "titulo": "Valorant Champions 2026: Vitality e LOUD disputam final de chave superior",
+      "resumo": "Em 15/10, Team Vitality e LOUD se enfrentam na final da chave superior do Valorant Champions 2026, em Shanghai, com vaga direta na Grande Final em jogo. No bracket inferior, G2 Esports e 100 Thieves disputam vaga na semifinal após a eliminação da NRG, atual campeã, e da Nongshim RedForce; a Grande Final está marcada para 17/10.",
+      "tipo": "esports",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC"],
+      "tags": ["valorant", "champions-2026", "loud", "esports"],
+      "dataFato": "2026-10-15",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Insider Gaming", "url": "https://insider-gaming.com/valorant-champions-2206-shanghai-top-4/", "dominio": "insider-gaming.com" },
+      "fontesSecundarias": [
+        { "nome": "VLR.gg", "url": "https://www.vlr.gg/event/2766/valorant-champions-2026/", "dominio": "vlr.gg" }
+      ],
+      "nota": 6.2,
+      "justificativa": "Confronto relevante com participação brasileira (LOUD) em torneio de peso, mas ainda sem resultado final na janela.",
+      "pesquisador": "radar-esports"
+    },
+    {
+      "slug": "rainbow-six-siege-legend-division",
+      "titulo": "Rainbow Six Siege lança playlist competitiva Legend Division",
+      "resumo": "A Ubisoft lançou em 15/10 a playlist Legend Division em Rainbow Six Siege, voltada exclusivamente a jogadores de altíssimo rank (status Champion, conta nível 200+, verificação em duas etapas), incluindo profissionais do cenário competitivo. O modo oferece cosméticos exclusivos e reforça requisitos de segurança contra fraudes.",
+      "tipo": "lancamento",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC", "Xbox Series", "PS5"],
+      "tags": ["rainbow-six-siege", "esports", "anti-cheat"],
+      "dataFato": "2026-10-15",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Siege.gg", "url": "https://siege.gg/news/rainbow-six-sieges-legend-division-to-be-released-on-october-15", "dominio": "siege.gg" },
+      "fontesSecundarias": [],
+      "nota": 5.8,
+      "justificativa": "Novidade de interesse nichado para a comunidade competitiva de Rainbow Six Siege.",
+      "pesquisador": "radar-esports"
+    }
+  ],
+  "descartados": [
+    { "titulo": "Abragames participa de grupo de trabalho que formulou decreto do Marco Legal dos Games", "motivo": "Duplicata total do item sobre o decreto do Marco Legal dos Jogos Eletrônicos; conteúdo já incorporado ao item principal." },
+    { "titulo": "Clássico brasileiro FURIA x Legacy define vaga nos playoffs do Thunderpick 2026", "motivo": "Verificado via WebFetch que a matéria é apenas prévia do confronto, sem resultado confirmado na janela; sem fato consumado." },
+    { "titulo": "Rockstar afirma que negociações com sindicato de trabalhadores seguem positivas", "motivo": "Fonte principal era apenas a URL genérica bloomberg.com, sem conteúdo verificável específico sobre a declaração; conteúdo é possível continuação do item já coberto sobre reconhecimento do sindicato, mas não pôde ser confirmado de forma independente." },
+    { "titulo": "Governo de São Paulo define prazo para contrarrazões no edital PROAC de jogos indie", "motivo": "Relevância limitada ao público geral de games; tema de interesse mais administrativo/local, abaixo da linha de corte do dia." },
+    { "titulo": "CBLOL 2026: LOS vence FURIA e conquista título do Split 2", "motivo": "Fato ocorrido em 10/10, fora da janela de 24h/48h de referência (14-15/10)." },
+    { "titulo": "Kakao Games/Abu Dhabi", "motivo": "Descartado pelo próprio pesquisador por estar fora da janela de 48h." }
+  ]
+}
