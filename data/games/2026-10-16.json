@@ -1,0 +1,343 @@
+{
+  "categoria": "games",
+  "data": "2026-10-16",
+  "geradoEm": "2026-10-16T21:00:00-03:00",
+  "janela": { "inicio": "2026-10-15T21:00:00-03:00", "fim": "2026-10-16T21:00:00-03:00" },
+  "observacao": null,
+  "itens": [
+    {
+      "posicao": 1,
+      "slug": "lula-assina-decreto-marco-legal-dos-jogos-eletronicos",
+      "titulo": "Lula assina decreto que regulamenta o Marco Legal dos Jogos Eletrônicos",
+      "resumo": "O presidente Lula assinou o decreto que regulamenta a Lei nº 14.852/2024, reconhecendo jogos eletrônicos como produtos audiovisuais e culturais e liberando acesso de estúdios à Lei Rouanet via novo programa 'Rouanet Games' (R$ 200 milhões), à Lei do Audiovisual e a crédito do Fundo Setorial do Audiovisual. O texto também cria CNAEs específicos para desenvolvimento (6211-3/00) e edição/licenciamento (5821-3/00) de jogos, além de instituir a plataforma pública 'Game Brasil' para catalogar títulos nacionais, com investimento inicial de R$ 1,4 milhão.",
+      "tipo": "noticia",
+      "escopo": "nacional",
+      "confiabilidade": "confirmado",
+      "plataformas": [],
+      "tags": ["legislacao", "marco-legal-dos-games", "governo", "financiamento"],
+      "dataFato": "2026-10-14",
+      "janelaEstendida": true,
+      "fonte": { "nome": "CNN Brasil", "url": "https://www.cnnbrasil.com.br/politica/lula-regulamenta-marco-dos-games-com-credito-e-plataforma-nacional/", "dominio": "cnnbrasil.com.br" },
+      "fontesSecundarias": [
+        { "nome": "TecMundo", "url": "https://www.tecmundo.com.br/voxel/281873-marco-legal-games-abragames-posiciona-aprovacao-novo-texto.htm", "dominio": "tecmundo.com.br" },
+        { "nome": "Game FM", "url": "https://gamefm.com.br/lula-assina-decreto-que-regulamenta-o-marco-legal-dos-jogos-eletronicos-e-anuncia-pacote-de-r-200-milhoes-para-a-industria-de-games/", "dominio": "gamefm.com.br" },
+        { "nome": "Drops de Jogos (UAI)", "url": "https://dropsdejogos.uai.com.br/noticias/indie/game-brasil-plataforma-para-jogos-brasileiros-e-um-grande-acerto-do-marco-legal-dos-jogos-eletronicos/", "dominio": "dropsdejogos.uai.com.br" },
+        { "nome": "Contabeis.com.br", "url": "https://www.contabeis.com.br/noticias/80110/empresas-de-games-terao-cnaes-especificos-com-regulamentacao-do-setor/", "dominio": "contabeis.com.br" },
+        { "nome": "Agência Sebrae", "url": "https://agenciasebrae.com.br/inovacao-e-tecnologia/com-alivio-tributario-e-expectativa-de-novos-cnaes-marco-legal-dos-games-e-regulamentado-no-brasil/", "dominio": "agenciasebrae.com.br" }
+      ],
+      "nota": 9.5,
+      "justificativa": "Maior impacto estrutural para a indústria nacional de games em anos: cria mecanismos de financiamento, identificação tributária e uma plataforma pública para o setor. Unifica os ângulos de CNAE, Rouanet Games e Game Brasil, que são desdobramentos do mesmo decreto.",
+      "pesquisador": "radar-empresas-nacionais"
+    },
+    {
+      "posicao": 2,
+      "slug": "ubisoft-fecha-redlynx-e-corta-vagas-em-singapura",
+      "titulo": "Ubisoft fecha o estúdio RedLynx e corta 70 vagas em Singapura",
+      "resumo": "A Ubisoft comunicou a proposta de fechamento da RedLynx, estúdio finlandês criador da série Trials adquirido em 2011, afetando até 52 posições. No mesmo anúncio, confirmou o corte de 70 vagas (cerca de 20% da equipe) no estúdio de Singapura, responsável por Skull and Bones.",
+      "tipo": "noticia",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": [],
+      "tags": ["ubisoft", "demissoes", "fechamento-de-estudio"],
+      "dataFato": "2026-10-14",
+      "janelaEstendida": true,
+      "fonte": { "nome": "Game Developer", "url": "https://www.gamedeveloper.com/business/ubisoft-to-close-trials-studio-redlynx-downsize-ubisoft-singapore", "dominio": "gamedeveloper.com" },
+      "fontesSecundarias": [
+        { "nome": "Nintendo Life", "url": "https://www.nintendolife.com/news/2026/10/redlynx-the-studio-behind-the-trials-series-is-being-closed-by-ubisoft", "dominio": "nintendolife.com" },
+        { "nome": "Push Square", "url": "https://www.pushsquare.com/news/2026/10/trials-studio-redlynx-looks-set-to-close-as-ubisoft-continues-major-restructure", "dominio": "pushsquare.com" }
+      ],
+      "nota": 8.3,
+      "justificativa": "Fechamento de um estúdio histórico (RedLynx/Trials) somado a mais uma rodada de cortes na Ubisoft reforça o cenário de reestruturação profunda da publisher, com forte repercussão entre o público gamer.",
+      "pesquisador": "radar-empresas-internacionais"
+    },
+    {
+      "posicao": 3,
+      "slug": "mvk-esports-vence-furia-no-play-in-de-worlds-2026",
+      "titulo": "MVK Esports vence a FURIA por 3-0 e surpreende no Play-In de Worlds 2026",
+      "resumo": "No primeiro dia do Play-In do Mundial de League of Legends 2026, em Los Angeles, a equipe vietnamita MVK Esports varreu a brasileira FURIA por 3 a 0 em série melhor de cinco, eliminando a chance de avanço direto à chave superior. A FURIA agora disputa a chave de eliminação contra a Cloud9 no sábado, 17 de outubro.",
+      "tipo": "esports",
+      "escopo": "nacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC"],
+      "tags": ["league-of-legends", "worlds-2026", "furia", "play-in"],
+      "dataFato": "2026-10-15",
+      "janelaEstendida": false,
+      "fonte": { "nome": "GosuGamers", "url": "https://www.gosugamers.net/lol/news/79360-worlds-2026-play-ins-day-1-karmine-corp-survive-cloud9-kia-furia-take-down-mvk-esports", "dominio": "gosugamers.net" },
+      "fontesSecundarias": [
+        { "nome": "InvenGlobal", "url": "https://www.invenglobal.com/articles/27272/vietnams-mvk-sweeps-international-regular-furia-3-0", "dominio": "invenglobal.com" },
+        { "nome": "OP.GG Esports", "url": "https://esports.op.gg/matches/32709/fur-vs-mvk-2026-10-15", "dominio": "esports.op.gg" }
+      ],
+      "nota": 8.1,
+      "justificativa": "Resultado de grande repercussão para o público brasileiro de esports: derrota surpreendente da FURIA no Mundial de LoL, com desdobramento direto (eliminatória contra a Cloud9).",
+      "pesquisador": "radar-esports"
+    },
+    {
+      "posicao": 4,
+      "slug": "sega-retira-total-war-shogun-2-complete-edition-de-venda",
+      "titulo": "Sega retira Total War: Shogun 2 Complete Edition de venda após críticas sobre uso de IA",
+      "resumo": "Sega e Creative Assembly removeram o remaster Total War: Shogun 2 – Complete Edition das lojas digitais apenas dois dias após o lançamento, após forte backlash por bugs antigos não corrigidos e acusações de uso não divulgado de IA generativa em artes de unidades. A empresa prometeu restaurar o jogo original enquanto investiga os problemas; donos atuais mantêm acesso ao remaster.",
+      "tipo": "noticia",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC", "Steam"],
+      "tags": ["sega", "total-war", "inteligencia-artificial", "remaster"],
+      "dataFato": "2026-10-15",
+      "janelaEstendida": false,
+      "fonte": { "nome": "The Sixth Axis", "url": "https://www.thesixthaxis.com/2026/10/15/total-war-shogun-2-complete-edition-remaster-to-be-pulled-from-sale-amidst-strong-criticism/", "dominio": "thesixthaxis.com" },
+      "fontesSecundarias": [
+        { "nome": "PC Gamer", "url": "https://www.pcgamer.com/games/strategy/the-shogun-2-remaster-is-so-bad-sega-is-removing-it-from-sale-and-bringing-back-the-original/", "dominio": "pcgamer.com" },
+        { "nome": "VideoCardz", "url": "https://videocardz.com/newz/total-war-shogun-2-complete-edition-pulled-from-sale-by-sega-just-two-days-after-launch-following-overwhelmingly-negative-reviews", "dominio": "videocardz.com" }
+      ],
+      "nota": 7.8,
+      "justificativa": "Caso raro de publisher retirar um lançamento da loja dois dias após o lançamento, com forte debate sobre uso de IA generativa em games — tema de alto interesse atual.",
+      "pesquisador": "radar-lancamentos-internacionais"
+    },
+    {
+      "posicao": 5,
+      "slug": "jagex-cancela-runescape-reignited",
+      "titulo": "Jagex cancela RuneScape Reignited após revolta de jogadores",
+      "resumo": "A Jagex cancelou o projeto RuneScape Reignited menos de duas semanas após o anúncio, citando feedback negativo da comunidade sobre o plano de resetar servidores do RuneScape 3. O diretor criativo Mod Ryan confirmou a decisão e afirmou que outras novidades, incluindo um guia de aventura remasterizado, seguem previstas para a atualização de 2 de dezembro de 2026.",
+      "tipo": "noticia",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC"],
+      "tags": ["jagex", "runescape", "comunidade", "cancelamento"],
+      "dataFato": "2026-10-15",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Insider Gaming", "url": "https://insider-gaming.com/runescape-reignited-canceled/", "dominio": "insider-gaming.com" },
+      "fontesSecundarias": [
+        { "nome": "GamesRadar", "url": "https://www.gamesradar.com/games/mmo/jagex-cancels-mmo-reset-runescape-reignited-after-player-backlash-the-last-time-we-didnt-listen-to-player-feedback-combat-changed-forever/", "dominio": "gamesradar.com" },
+        { "nome": "KeenGamer", "url": "https://www.keengamer.com/articles/news/rs3-devs-cancel-runescape-reignited/", "dominio": "keengamer.com" }
+      ],
+      "nota": 7.3,
+      "justificativa": "Mostra o poder de reação da comunidade sobre decisões de uma desenvolvedora veterana, revertendo um plano anunciado em menos de duas semanas.",
+      "pesquisador": "radar-lancamentos-internacionais"
+    },
+    {
+      "posicao": 6,
+      "slug": "ubisoft-propoe-corte-de-100-vagas-em-estudios-alemaes",
+      "titulo": "Ubisoft propõe corte de 100 vagas em três estúdios alemães",
+      "resumo": "A Ubisoft confirmou um plano de saídas voluntárias que pode afetar cerca de 100 das 600 posições em seus três estúdios alemães (Düsseldorf, Berlin e Mainz), responsáveis por franquias como Anno, Rayman, Might & Magic e Prince of Persia. Mais da metade dos cortes deve ocorrer em Düsseldorf, o maior dos três, e as negociações com o conselho trabalhista alemão ainda estão em curso.",
+      "tipo": "noticia",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": [],
+      "tags": ["ubisoft", "demissoes", "alemanha"],
+      "dataFato": "2026-10-14",
+      "janelaEstendida": true,
+      "fonte": { "nome": "Insider Gaming", "url": "https://insider-gaming.com/ubisoft-germany-100-job-cuts-report/", "dominio": "insider-gaming.com" },
+      "fontesSecundarias": [
+        { "nome": "Kotaku", "url": "https://kotaku.com/ubisoft-job-losses-germany-anno-rayman-prince-of-persia-layoffs-2000746312", "dominio": "kotaku.com" },
+        { "nome": "GamesWirtschaft", "url": "https://www.gameswirtschaft.de/wirtschaft/ubisoft-duesseldorf-mainz-berlin-stellenabbau-151026/", "dominio": "gameswirtschaft.de" }
+      ],
+      "nota": 7.0,
+      "justificativa": "Complementa o quadro de reestruturação da Ubisoft no mesmo período, embora trate de estúdios diferentes do item sobre RedLynx e Singapura.",
+      "pesquisador": "radar-empresas-internacionais"
+    },
+    {
+      "posicao": 7,
+      "slug": "furia-e-falcons-avancam-a-semifinal-da-thunderpick-world-championship",
+      "titulo": "FURIA e Falcons avançam à semifinal da Thunderpick World Championship 2026",
+      "resumo": "A FURIA derrotou a Legacy por 2 a 1 em CS2, em clássico brasileiro, e garantiu vaga na semifinal da Thunderpick World Championship 2026, torneio de US$ 1 milhão disputado em Malta. A Team Falcons também avançou ao vencer a 9z por 2 a 1 na final do grupo A da chave superior.",
+      "tipo": "esports",
+      "escopo": "nacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC", "Steam"],
+      "tags": ["cs2", "furia", "thunderpick", "counter-strike"],
+      "dataFato": "2026-10-15",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Dust2", "url": "https://www.dust2.com.br/noticias/78929/furia-vira-classico-brasileiro-e-vai-aos-playoffs-da-thunderpick-world-championship", "dominio": "dust2.com.br" },
+      "fontesSecundarias": [
+        { "nome": "HLTV", "url": "https://www.hltv.org/news/45728/falcons-secure-playoff-berth-at-twc-2026", "dominio": "hltv.org" }
+      ],
+      "nota": 6.8,
+      "justificativa": "Avanço da FURIA em CS2 tem apelo direto ao público brasileiro de esports; o resultado da Falcons no mesmo torneio e dia foi incorporado como contexto da mesma chave.",
+      "pesquisador": "radar-esports"
+    },
+    {
+      "posicao": 8,
+      "slug": "netflix-corta-1000-empregos-next-games-afetada",
+      "titulo": "Netflix corta cerca de 1.000 empregos; subsidiária de games Next Games é afetada",
+      "resumo": "A Netflix anunciou o corte de aproximadamente 1.000 empregos (6% do quadro global), decisão comunicada pelos co-CEOs Ted Sarandos e Greg Peters. A reestruturação também afetou a Next Games, estúdio finlandês de mobile games adquirido pela Netflix em 2022, com saídas confirmadas na equipe.",
+      "tipo": "noticia",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["Mobile"],
+      "tags": ["netflix", "demissoes", "mobile-games"],
+      "dataFato": "2026-10-14",
+      "janelaEstendida": true,
+      "fonte": { "nome": "InvenGlobal", "url": "https://www.invenglobal.com/articles/27245/netflix-lays-off-around-1000-employees-game-subsidiary-staff-also-affected", "dominio": "invenglobal.com" },
+      "fontesSecundarias": [
+        { "nome": "TechCrunch", "url": "https://techcrunch.com/2026/10/14/netflix-to-lay-off-1000-staff-amid-intensifying-competition-for-user-attention/", "dominio": "techcrunch.com" },
+        { "nome": "PocketGamer.biz", "url": "https://www.pocketgamer.biz/netflix-lays-off-around-1000-employees-with-cuts-affecting-games-division/", "dominio": "pocketgamer.biz" }
+      ],
+      "nota": 6.5,
+      "justificativa": "O recorte é majoritariamente corporativo e fora do core gaming, mas a Next Games sofre impacto direto, o que justifica presença no radar, ainda que com peso menor que os cortes focados puramente em games.",
+      "pesquisador": "radar-empresas-internacionais"
+    },
+    {
+      "posicao": 9,
+      "slug": "capcom-lanca-resident-evil-2-3-4-remakes-no-switch-2",
+      "titulo": "Capcom lança Resident Evil 2, 3 e 4 remasterizados para Switch 2",
+      "resumo": "A Capcom lançou digitalmente via Nintendo eShop as versões Resident Evil 2 Deluxe Edition, Resident Evil 3 e Resident Evil 4 Gold Edition para Nintendo Switch 2 em 16 de outubro de 2026. As edições físicas estão previstas para 29 de janeiro de 2027.",
+      "tipo": "lancamento",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["Switch 2"],
+      "tags": ["capcom", "resident-evil", "remake"],
+      "dataFato": "2026-10-16",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Gematsu", "url": "https://www.gematsu.com/2026/09/resident-evil-2-resident-evil-3-and-resident-evil-4-remakes-coming-to-switch-2-on-october-16", "dominio": "gematsu.com" },
+      "fontesSecundarias": [
+        { "nome": "Explosion Network", "url": "https://explosionnetwork.com/resident-evil-2-3-and-4-remakes-are-coming-to-nintendo-switch-2-in-october/", "dominio": "explosionnetwork.com" }
+      ],
+      "nota": 6.5,
+      "justificativa": "Lançamento relevante para a base da Switch 2, trazendo uma trilogia aclamada de remakes para o novo hardware da Nintendo.",
+      "pesquisador": "radar-lancamentos-internacionais"
+    },
+    {
+      "posicao": 10,
+      "slug": "microsoft-anuncia-controle-xbox-nano-no-brasil",
+      "titulo": "Microsoft anuncia controle Xbox Nano no Brasil por R$ 379",
+      "resumo": "A Microsoft anunciou a chegada ao Brasil do Xbox Nano, seu controle mais compacto (cerca de 100g e 13cm), com preço sugerido de R$ 379 e lançamento previsto para novembro. O acessório tem bateria recarregável, conexão Bluetooth/Xbox Wireless, 18 botões e um botão extra programável, disponível inicialmente na cor Robot White.",
+      "tipo": "lancamento",
+      "escopo": "nacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["Xbox Series", "PC", "Mobile"],
+      "tags": ["xbox", "microsoft", "acessorio", "brasil"],
+      "dataFato": "2026-10-14",
+      "janelaEstendida": true,
+      "fonte": { "nome": "Mixvale", "url": "https://www.mixvale.com.br/2026/10/14/microsoft-anuncia-controle-xbox-nano-no-brasil-por-r-379/", "dominio": "mixvale.com.br" },
+      "fontesSecundarias": [
+        { "nome": "GameOverdrive", "url": "https://gameoverdrive.com.br/xbox-nano-controle-preco-brasil-lancamento/", "dominio": "gameoverdrive.com.br" },
+        { "nome": "SpaceMoney", "url": "https://www.spacemoney.com.br/tecnologia/xbox-nano-controle-brasil-preco/", "dominio": "spacemoney.com.br" }
+      ],
+      "nota": 6.0,
+      "justificativa": "Lançamento de acessório oficial com preço definido para o Brasil, de interesse direto do público local de Xbox.",
+      "pesquisador": "radar-lancamentos-nacionais"
+    }
+  ],
+  "tambemNoRadar": [
+    {
+      "slug": "riot-games-e-ferjee-levam-estudantes-aos-bastidores-do-cblol",
+      "titulo": "Riot Games e FERJEE levam estudantes aos bastidores da final do CBLOL 2026",
+      "resumo": "A Riot Games Brasil, em parceria com a FERJEE, promoveu o projeto 'FERJEE Academy', levando mais de 70 jovens para conhecer a produção dos bastidores da grande final do segundo split do CBLOL 2026, realizada em 10/10 na Arena Carioca 1. A matéria traz declarações de Igor Corrêa, líder de produto do CBLOL na Riot Games Brasil.",
+      "tipo": "esports",
+      "escopo": "nacional",
+      "confiabilidade": "confirmado",
+      "plataformas": [],
+      "tags": ["cblol", "riot-games", "educacao", "esports"],
+      "dataFato": "2026-10-15",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Olhar Digital", "url": "https://olhardigital.com.br/2026/10/15/games-e-consoles/cblol-2026-universitarios-conhecem-bastidores-da-final-com-riot-games/", "dominio": "olhardigital.com.br" },
+      "fontesSecundarias": [],
+      "nota": 5.0,
+      "justificativa": "Pauta institucional de menor impacto direto no público gamer em geral, mais relevante como ação educativa/social do que como notícia de destaque.",
+      "pesquisador": "radar-empresas-nacionais"
+    },
+    {
+      "slug": "epic-games-libera-agent-a-gratis-no-brasil",
+      "titulo": "Epic Games libera Agent A: O Enigma Disfarçado grátis no Brasil, mas bloqueia Bad Cheese",
+      "resumo": "A Epic Games Store liberou o jogo Agent A: O Enigma Disfarçado gratuitamente para resgate entre 15 e 22 de outubro. O outro título da semana, Bad Cheese, ficou bloqueado para contas brasileiras, assim como em Austrália, Alemanha, Rússia e Coreia do Sul, por restrição comercial regional.",
+      "tipo": "noticia",
+      "escopo": "nacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC"],
+      "tags": ["epic-games-store", "jogo-gratis"],
+      "dataFato": "2026-10-15",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Mixvale", "url": "https://www.mixvale.com.br/2026/10/15/epic-games-store-libera-agent-a-de-graca-mas-bloqueia-bad-cheese-no-brasil/", "dominio": "mixvale.com.br" },
+      "fontesSecundarias": [
+        { "nome": "Game Overdrive", "url": "https://gameoverdrive.com.br/agent-a-gratis-epic-games-15-outubro-2026/", "dominio": "gameoverdrive.com.br" },
+        { "nome": "Flow Games", "url": "https://flowgames.gg/epic-games-store-jogo-gratis-pc-dia-15-10-2026/", "dominio": "flowgames.gg" }
+      ],
+      "nota": 5.0,
+      "justificativa": "Pauta recorrente de jogo grátis semanal, com interesse pontual, mas sem grande repercussão frente aos outros destaques do dia.",
+      "pesquisador": "radar-lancamentos-nacionais"
+    },
+    {
+      "slug": "nintendo-switch-2-cai-de-preco-na-amazon-brasil",
+      "titulo": "Nintendo Switch 2 cai para R$ 3.704 no Pix em oferta da Amazon no Brasil",
+      "resumo": "O console Nintendo Switch 2 entrou em promoção na Amazon Brasil por R$ 3.704,05 no Pix, uma redução de cerca de 19,5% frente ao preço sugerido oficial de R$ 4.599,90. A oferta ocorre dias antes do lançamento da edição especial de Zelda do console, prevista para 29 de outubro.",
+      "tipo": "noticia",
+      "escopo": "nacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["Switch 2"],
+      "tags": ["nintendo", "promocao", "brasil"],
+      "dataFato": "2026-10-15",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Mixvale", "url": "https://www.mixvale.com.br/2026/10/15/nintendo-switch-2-cai-para-r-3-704-no-pix-em-oferta-na-amazon/", "dominio": "mixvale.com.br" },
+      "fontesSecundarias": [
+        { "nome": "NCNews", "url": "https://ncnews.com.br/2026/10/15/nintendo-switch-brasil-switch-2-13-off-magalu-hoje/", "dominio": "ncnews.com.br" }
+      ],
+      "nota": 4.8,
+      "justificativa": "Notícia de varejo/promoção pontual, útil ao leitor mas de menor relevância editorial frente aos destaques do dia.",
+      "pesquisador": "radar-lancamentos-nacionais"
+    },
+    {
+      "slug": "rumor-valve-desenvolve-variante-oled-do-steam-frame",
+      "titulo": "Rumor: Valve desenvolve variante OLED do headset Steam Frame, codinome Plano",
+      "resumo": "Pesquisadores encontraram no código-fonte do kernel Linux do SteamOS uma branch de desenvolvimento chamada 'deckard-plano', apontando para uma possível variante OLED do headset Steam Frame com resolução nativa de 3552x3840 a 90Hz. A Valve não confirmou oficialmente o produto.",
+      "tipo": "rumor",
+      "escopo": "internacional",
+      "confiabilidade": "rumor",
+      "plataformas": ["PC", "Steam"],
+      "tags": ["valve", "steam-frame", "hardware"],
+      "dataFato": "2026-10-14",
+      "janelaEstendida": true,
+      "fonte": { "nome": "Club386", "url": "https://www.club386.com/valve-steam-frame-oled-rumour/", "dominio": "club386.com" },
+      "fontesSecundarias": [
+        { "nome": "SteamDeckHQ", "url": "https://steamdeckhq.com/news/an-oled-steam-frame-may-be-on-the-way", "dominio": "steamdeckhq.com" },
+        { "nome": "PCGuide", "url": "https://www.pcguide.com/news/steam-frame-oled-already-rumored-after-valve-shares-kernel-source-code/", "dominio": "pcguide.com" }
+      ],
+      "nota": 5.5,
+      "justificativa": "Rumor interessante para o público entusiasta de hardware Valve, mas sem confirmação oficial e impacto ainda especulativo, o que limita sua posição no ranking.",
+      "pesquisador": "radar-empresas-internacionais"
+    },
+    {
+      "slug": "epic-games-store-lanca-preview-de-cliente-com-suporte-a-linux",
+      "titulo": "Epic Games Store lança preview do cliente reconstruído com suporte a Linux",
+      "resumo": "A Epic Games lançou em preview o launcher reconstruído da Epic Games Store, trazendo suporte nativo a Linux pela primeira vez, além de melhorias de velocidade e nova interface de biblioteca. A Epic afirma que o Fortnite também chegará ao Linux futuramente, com atualização do Easy Anti-Cheat para suportar a mudança.",
+      "tipo": "lancamento",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC", "Linux"],
+      "tags": ["epic-games-store", "linux"],
+      "dataFato": "2026-10-14",
+      "janelaEstendida": true,
+      "fonte": { "nome": "Gamereactor", "url": "https://www.gamereactor.eu/epic-games-store-rebuild/", "dominio": "gamereactor.eu" },
+      "fontesSecundarias": [
+        { "nome": "GodIsAGeek", "url": "https://godisageek.com/2026/10/epic-games-launcher-linux/", "dominio": "godisageek.com" },
+        { "nome": "HowToVideoGame", "url": "https://howtovideogame.com/epic-games-launcher-preview/", "dominio": "howtovideogame.com" }
+      ],
+      "nota": 5.8,
+      "justificativa": "Relevante para a comunidade Linux/SteamOS, mas de alcance mais restrito frente aos destaques do dia.",
+      "pesquisador": "radar-lancamentos-internacionais"
+    },
+    {
+      "slug": "xbox-game-pass-recebe-beyond-these-stars-e-bluey",
+      "titulo": "Xbox Game Pass recebe Beyond These Stars e Bluey's Happy Snaps em outubro",
+      "resumo": "O jogo de construção de cidades Beyond These Stars, da Balancing Monkey Games, chegou ao PC Game Pass em 15/16 de outubro de 2026 no dia de lançamento, junto com Bluey's Happy Snaps em 15 de outubro.",
+      "tipo": "lancamento",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC", "Xbox Series"],
+      "tags": ["xbox-game-pass", "lancamento"],
+      "dataFato": "2026-10-15",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Pure Xbox", "url": "https://www.purexbox.com/news/2026/10/these-nine-games-are-coming-to-xbox-game-pass-including-battlefield-6-october-8-16", "dominio": "purexbox.com" },
+      "fontesSecundarias": [
+        { "nome": "TrueAchievements", "url": "https://www.trueachievements.com/news/xbox-game-pass-beyond-these-stars-release-date", "dominio": "trueachievements.com" },
+        { "nome": "GG.deals", "url": "https://gg.deals/subscription-news/another-game-is-joining-game-pass-day-one-in-october-and-this-one-has-you-building-on-a-whale", "dominio": "gg.deals" }
+      ],
+      "nota": 5.2,
+      "justificativa": "Entrada padrão de catálogo do Game Pass, com interesse moderado frente aos grandes destaques da edição.",
+      "pesquisador": "radar-lancamentos-internacionais"
+    }
+  ],
+  "descartados": [
+    { "titulo": "Krafton inicia beta fechado de PUBG: DED.NET em consoles", "motivo": "Fato ocorrido entre 9 e 12 de outubro, fora da janela mesmo considerando a extensão de 48h." },
+    { "titulo": "CBLOL 2026: Los Grandes vence a FURIA", "motivo": "Partida ocorrida em 10/10, fora da janela mesmo com extensão." },
+    { "titulo": "Lançamentos indie de terror: Tenebris Somnia e Penguin Colony", "motivo": "Sem fontes secundárias e baixo impacto editorial frente aos demais candidatos do dia; cobertura limitada a uma lista genérica de lançamentos do mês." }
+  ]
+}
