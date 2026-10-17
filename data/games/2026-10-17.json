@@ -1,0 +1,379 @@
+{
+  "categoria": "games",
+  "data": "2026-10-17",
+  "geradoEm": "2026-10-17T21:00:00-03:00",
+  "janela": { "inicio": "2026-10-16T21:00:00-03:00", "fim": "2026-10-17T21:00:00-03:00" },
+  "observacao": null,
+  "itens": [
+    {
+      "posicao": 1,
+      "slug": "loud-vence-vitality-vai-final-valorant-champions-2026",
+      "titulo": "LOUD vence Team Vitality e vai à grande final do VALORANT Champions 2026",
+      "resumo": "A LOUD derrotou a Team Vitality por 2-1 (13-8 Vitality no mapa 1; 13-5 e 13-11 LOUD nos mapas seguintes) na final do upper bracket do VALORANT Champions 2026, em Xangai. A organização brasileira se tornou a primeira a alcançar a grande final de Champions duas vezes e disputa o título contra o vencedor da chave inferior, entre Vitality e 100 Thieves.",
+      "tipo": "esports",
+      "escopo": "nacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC"],
+      "tags": ["valorant", "esports", "campeonato", "brasil"],
+      "dataFato": "2026-10-16",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Dot Esports", "url": "https://dotesports.com/valorant/news/vct-champions-2026-vit-vs-loud", "dominio": "dotesports.com" },
+      "fontesSecundarias": [
+        { "nome": "VLR.gg", "url": "https://www.vlr.gg/754736/team-vitality-vs-loud-valorant-champions-2026-ubf", "dominio": "vlr.gg" },
+        { "nome": "Vavel Brasil", "url": "https://www.vavel.com/br/esports-br/2026/10/16/1275502-loud-vence-vitality-de-virada-e-garante-vaga-na-grande-final-do-valorant-champions-2026.html", "dominio": "vavel.com" }
+      ],
+      "nota": 9.3,
+      "justificativa": "Feito histórico de uma organização brasileira — segunda final de Champions da LOUD — com ampla cobertura e alto impacto para o público gamer nacional e internacional de esports.",
+      "pesquisador": "radar-esports"
+    },
+    {
+      "posicao": 2,
+      "slug": "marco-legal-dos-games-decreto-entra-em-vigor",
+      "titulo": "Marco Legal dos Games entra em vigor com crédito facilitado para estúdios brasileiros",
+      "resumo": "O Decreto nº 13.138, que regulamenta o Marco Legal dos Games assinado por Lula em 14/10/2026, reduz o valor mínimo de empréstimos do Fundo Setorial do Audiovisual (FSA) de R$ 500 mil para R$ 150 mil, baixa os juros (de TR+2% para TR+0,5% ao ano) e abre uma chamada da Finep de R$ 200 milhões para startups de games. O decreto também cria a plataforma gratuita \"Game Brasil\" para catalogar jogos nacionais, embora parte da implementação ainda dependa de regulamentação complementar.",
+      "tipo": "noticia",
+      "escopo": "nacional",
+      "confiabilidade": "confirmado",
+      "plataformas": [],
+      "tags": ["marco-legal-dos-games", "financiamento", "industria", "brasil"],
+      "dataFato": "2026-10-16",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Lazcult", "url": "https://lazcult.com.br/2026/10/16/marco-legal-dos-games-estudios-brasileiros/", "dominio": "lazcult.com.br" },
+      "fontesSecundarias": [
+        { "nome": "Drops de Jogos (UAI)", "url": "https://dropsdejogos.uai.com.br/noticias/industria/presidencia-e-minc-regulamentam-marco-legal-dos-games-e-anunciam-medidas-de-incentivo-a-industria-brasileira/", "dominio": "dropsdejogos.uai.com.br" },
+        { "nome": "Canaltech", "url": "https://canaltech.com.br/games/como-o-marco-legal-dos-games-vai-financiar-estudios-brasileiros-entenda/", "dominio": "canaltech.com.br" }
+      ],
+      "nota": 8.7,
+      "justificativa": "Marco regulatório relevante para toda a indústria nacional de games, com efeitos financeiros concretos; cota nacional reforçada pela cobertura ampla e consistente entre pesquisadores.",
+      "pesquisador": "radar-empresas-nacionais"
+    },
+    {
+      "posicao": 3,
+      "slug": "epic-games-launcher-vibe-coded-valve-steam",
+      "titulo": "Epic Games lança launcher \"vibe coded\" e Valve responde com patch no Steam no mesmo dia",
+      "resumo": "A Epic Games revelou um novo launcher da Epic Games Store, construído com \"vibe coding\" (IA), afirmando inicialização em 5,47s, 46% mais rápido que o Steam. A Valve já havia atualizado o Steam um dia antes, deixando o cliente com inicialização em cerca de 5,23s, superando o número usado pela Epic como comparação; o ex-escritor da Valve, Chet Faliszek, criticou publicamente o CEO da Epic, Tim Sweeney, pela abordagem.",
+      "tipo": "noticia",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC"],
+      "tags": ["epic-games", "steam", "valve", "pc-gaming"],
+      "dataFato": "2026-10-16",
+      "janelaEstendida": false,
+      "fonte": { "nome": "PC Gamer", "url": "https://www.pcgamer.com/software/platforms/little-tim-is-so-obsessed-with-gabe-former-valve-writer-baffled-by-epic-ceo-tim-sweeneys-attempts-to-compete-with-steam-via-vibe-coding/", "dominio": "pcgamer.com" },
+      "fontesSecundarias": [
+        { "nome": "Inven Global", "url": "https://www.invenglobal.com/articles/27298/epic-games-store-claimed-to-be-faster-than-steam-left-red-faced-as-valve-boosted-speed-a-day-early", "dominio": "invenglobal.com" },
+        { "nome": "TechPowerUp", "url": "https://www.techpowerup.com/353749/new-steam-update-puts-startup-times-back-ahead-of-epics-vibe-coded-launcher", "dominio": "techpowerup.com" }
+      ],
+      "nota": 7.6,
+      "justificativa": "Episódio de grande repercussão na comunidade PC pela rivalidade direta entre as duas maiores lojas digitais e pelo uso polêmico de IA no desenvolvimento do launcher.",
+      "pesquisador": "radar-empresas-internacionais"
+    },
+    {
+      "posicao": 4,
+      "slug": "furia-sobrevive-play-in-worlds-2026-revanche-mvk",
+      "titulo": "FURIA perde para MVK, reage ao eliminar Cloud9 e marca revanche decisiva no Play-In do Worlds 2026",
+      "resumo": "No primeiro dia do Play-In Stage do Worlds 2026 de League of Legends, a MVK Esports (Vietnã) venceu a FURIA por 3-0, jogando a equipe brasileira para a chave inferior. No dia seguinte (16/10), a FURIA se recuperou e venceu a Cloud9 KIA por 3-1, eliminando os norte-americanos e seguindo viva no torneio com uma revanche decisiva contra a própria MVK pela vaga na fase suíça.",
+      "tipo": "esports",
+      "escopo": "nacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC"],
+      "tags": ["league-of-legends", "worlds-2026", "esports", "brasil"],
+      "dataFato": "2026-10-16",
+      "janelaEstendida": false,
+      "fonte": { "nome": "GosuGamers", "url": "https://www.gosugamers.net/lol/news/79364-karmine-corp-sweep-mvk-esports-furia-eliminate-cloud9-kia-on-day-2-of-worlds-2026-play-ins", "dominio": "gosugamers.net" },
+      "fontesSecundarias": [
+        { "nome": "Terra Esportes", "url": "https://www.terra.com.br/esportes/worlds-2026-de-virada-furia-vence-e-elimina-a-cloud9-na-fase-de-entrada,a52047953e1862a7150ec91d75fbfcb1redsvh8e.html", "dominio": "terra.com.br" },
+        { "nome": "Mais Esports", "url": "https://maisesports.com.br/worlds-2026-furia-elimina-a-cloud9-para-alivio-da-nacao-e-karmine-corp-elimina-mvk", "dominio": "maisesports.com.br" },
+        { "nome": "Inven Global", "url": "https://www.invenglobal.com/articles/27272/vietnams-mvk-sweeps-international-regular-furia-3-0", "dominio": "invenglobal.com" }
+      ],
+      "nota": 7.4,
+      "justificativa": "Narrativa completa da campanha brasileira no Play-In do Worlds, com desfecho ainda em aberto; relevante para o público de esports nacional.",
+      "pesquisador": "radar-esports"
+    },
+    {
+      "posicao": 5,
+      "slug": "activision-qa-autoriza-greve-antes-de-mw4",
+      "titulo": "Trabalhadores de QA da Activision autorizam greve a dias do lançamento de Call of Duty: Modern Warfare 4",
+      "resumo": "Em 15 de outubro de 2026, os testadores de QA da Activision Publishing, representados pela CWA, votaram para autorizar uma greve após mais de dois anos sem contrato coletivo, citando reajustes salariais, salvaguardas contra IA e direitos de acomodação sob a ADA. A votação ocorre dias antes do lançamento mundial de Call of Duty: Modern Warfare 4 (23/10); a Activision afirmou permanecer aberta ao diálogo, com novas reuniões marcadas para 21 e 22 de outubro.",
+      "tipo": "noticia",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": [],
+      "tags": ["activision", "call-of-duty", "sindicato", "trabalho"],
+      "dataFato": "2026-10-16",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Aftermath", "url": "https://aftermath.site/activision-qa-workers-union-strike-call-of-duty-layoffs/", "dominio": "aftermath.site" },
+      "fontesSecundarias": [
+        { "nome": "CWA Union", "url": "https://cwa-union.org/news/releases/activision-quality-assurance-workers-vote-authorize-strike", "dominio": "cwa-union.org" },
+        { "nome": "Kotaku", "url": "https://kotaku.com/modern-warfare-4-testers-vote-to-authorize-union-strike-as-contract-negotiations-stall-it-is-time-to-stop-playing-games-2000746427", "dominio": "kotaku.com" }
+      ],
+      "nota": 7.3,
+      "justificativa": "Tensão trabalhista relevante na maior publisher de FPS do mundo, com timing crítico junto ao lançamento de um dos maiores jogos do ano.",
+      "pesquisador": "radar-empresas-internacionais"
+    },
+    {
+      "posicao": 6,
+      "slug": "esic-banimento-perpetuo-playn-cs2",
+      "titulo": "ESIC converte banimento de playN em perpétuo após jogador exibir dinheiro nas redes",
+      "resumo": "A Esports Integrity Commission (ESIC) havia banido o húngaro Palkovics \"playN\" Tamás por 3 anos em 15/10/2026, por manipulação de resultados no Roman Imperium Cup VII, ao lado de outros quatro jogadores da NOMERCY. No dia seguinte, a punição foi elevada a banimento vitalício depois que o jogador, de 22 anos, publicou fotos exibindo dinheiro em espécie com legenda sugerindo retorno ao torneio em 2029.",
+      "tipo": "noticia",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC"],
+      "tags": ["cs2", "esports", "match-fixing", "integridade"],
+      "dataFato": "2026-10-16",
+      "janelaEstendida": false,
+      "fonte": { "nome": "HLTV", "url": "https://www.hltv.org/news/45735/esic-imposes-lifetime-ban-on-playn", "dominio": "hltv.org" },
+      "fontesSecundarias": [
+        { "nome": "Dexerto", "url": "https://www.dexerto.com/counter-strike-2/cs2-pro-banned-for-life-reported-to-police-after-flexing-cash-while-suspended-for-matchfixing-3419458/", "dominio": "dexerto.com" },
+        { "nome": "Talk Esport", "url": "https://www.talkesport.com/news/cs2/playn-lifetime-ban-esic-nomercy/", "dominio": "talkesport.com" }
+      ],
+      "nota": 7.2,
+      "justificativa": "Caso exemplar de combate à manipulação de resultados no CS2, com desfecho inusitado que amplia a repercussão.",
+      "pesquisador": "radar-esports"
+    },
+    {
+      "posicao": 7,
+      "slug": "riot-encerra-league-of-legends-classic",
+      "titulo": "Riot Games anuncia fim do modo League of Legends Classic apenas 3 meses após o lançamento",
+      "resumo": "A Riot Games anunciou que o modo League of Legends Classic, lançado em julho de 2026 como retorno nostálgico ao MOBA 5v5 dos primeiros dias, será desativado em janeiro de 2027. A empresa citou queda acentuada de jogadores, longos tempos de fila e grandes diferenças de MMR, prometendo reembolsos para compras exclusivas do modo e possível retorno futuro como evento temporário.",
+      "tipo": "noticia",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC"],
+      "tags": ["riot-games", "league-of-legends", "encerramento"],
+      "dataFato": "2026-10-15",
+      "janelaEstendida": true,
+      "fonte": { "nome": "KitGuru", "url": "https://www.kitguru.net/gaming/matthew-wilson/riot-is-cancelling-league-of-legends-classic-already/", "dominio": "kitguru.net" },
+      "fontesSecundarias": [
+        { "nome": "Delisted Games", "url": "https://delistedgames.com/three-months-after-launch-league-of-legends-classic-will-shut-down-in-january/", "dominio": "delistedgames.com" },
+        { "nome": "MassivelyOP", "url": "https://massivelyop.com/2026/10/15/league-of-legends-classic-is-effectively-calling-it-quits-after-just-three-months-of-operation/", "dominio": "massivelyop.com" }
+      ],
+      "nota": 6.5,
+      "justificativa": "Fracasso rápido de uma aposta nostálgica da Riot em um dos jogos mais populares do mundo, com impacto direto para a base de jogadores.",
+      "pesquisador": "radar-empresas-internacionais"
+    },
+    {
+      "posicao": 8,
+      "slug": "funcom-troca-ceo-demissoes-conan-exiles-dune-awakening",
+      "titulo": "Funcom troca CEO e anuncia demissões para focar em Conan Exiles e Dune: Awakening",
+      "resumo": "A Funcom confirmou que o CEO Rui Casais, à frente da empresa por 11 anos, deixará o cargo até o final do ano, sendo substituído pelo diretor de produto Scott Junior. A empresa anunciou reestruturação e demissões não especificadas para concentrar esforços exclusivamente em Conan Exiles e Dune: Awakening, afirmando não conseguir sustentar o tamanho da estrutura usada no pico de desenvolvimento do Dune.",
+      "tipo": "noticia",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC", "PS5", "Xbox Series"],
+      "tags": ["funcom", "demissoes", "dune-awakening", "conan-exiles"],
+      "dataFato": "2026-10-15",
+      "janelaEstendida": true,
+      "fonte": { "nome": "GamesRadar", "url": "https://www.gamesradar.com/games/survival/dune-awakening-team-faces-layoffs-as-funcom-boss-admits-we-cannot-sustain-the-size-and-structure-of-the-past/", "dominio": "gamesradar.com" },
+      "fontesSecundarias": [
+        { "nome": "MMOs.com", "url": "https://mmos.com/news/industry/funcom-restructuring-ceo-change", "dominio": "mmos.com" },
+        { "nome": "GameDev.net", "url": "https://gamedev.net/news/6453-funcom-to-lay-off-staff-as-it-pivots-to-focusing-solely-on-conan-exiles-and/", "dominio": "gamedev.net" }
+      ],
+      "nota": 6.2,
+      "justificativa": "Mudança estrutural relevante em um estúdio conhecido, mas de impacto mais restrito ao público fã de MMOs de sobrevivência.",
+      "pesquisador": "radar-empresas-internacionais"
+    },
+    {
+      "posicao": 9,
+      "slug": "xbox-nano-controle-preco-brasil",
+      "titulo": "Microsoft anuncia controle Xbox Nano com preço de R$ 379 no Brasil",
+      "resumo": "A Microsoft anunciou o Xbox Nano, seu controle mais compacto e leve (cerca de 100g, 13cm), com chegada ao varejo brasileiro prevista para novembro de 2026 e preço sugerido de R$ 379. O acessório tem bateria recarregável, 18 comandos padrão, botão de ação programável e conectividade sem fio/Bluetooth, mirando jogadores com mãos menores e uso portátil.",
+      "tipo": "lancamento",
+      "escopo": "nacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["Xbox Series", "PC"],
+      "tags": ["xbox", "hardware", "acessorio", "brasil"],
+      "dataFato": "2026-10-14",
+      "janelaEstendida": true,
+      "fonte": { "nome": "Central Xbox", "url": "https://centralxbox.com.br/2026/10/14/xbox-anuncia-controle-nano-de-r379-no-brasil-acessorio-chega-em-novembro/", "dominio": "centralxbox.com.br" },
+      "fontesSecundarias": [
+        { "nome": "MixVale", "url": "https://www.mixvale.com.br/2026/10/14/microsoft-anuncia-controle-xbox-nano-no-brasil-por-r-379/", "dominio": "mixvale.com.br" },
+        { "nome": "Game Overdrive", "url": "https://gameoverdrive.com.br/xbox-nano-controle-preco-brasil-lancamento/", "dominio": "gameoverdrive.com.br" }
+      ],
+      "nota": 6.4,
+      "justificativa": "Lançamento de hardware acessível com chegada confirmada ao mercado brasileiro, de interesse direto do público nacional de consoles.",
+      "pesquisador": "radar-lancamentos-nacionais"
+    },
+    {
+      "posicao": 10,
+      "slug": "evo-brazil-novidades-27-outubro",
+      "titulo": "EVO Brazil confirma redes oficiais e anuncia novidades para 27 de outubro",
+      "resumo": "A organização EVO, maior torneio de jogos de luta do mundo, lançou perfis oficiais da \"EVO Brazil\" em redes sociais, confirmando que detalhes sobre data, local e jogos da primeira edição brasileira (a partir de 2027) serão revelados em 27 de outubro de 2026. A edição brasileira integra a expansão internacional da EVO, que também chega a Marrocos, México, Arábia Saudita, China e Singapura.",
+      "tipo": "esports",
+      "escopo": "nacional",
+      "confiabilidade": "confirmado",
+      "plataformas": [],
+      "tags": ["evo", "jogos-de-luta", "esports", "brasil"],
+      "dataFato": "2026-10-15",
+      "janelaEstendida": true,
+      "fonte": { "nome": "GameBlast", "url": "https://www.gameblast.com.br/2026/10/evo-brazil-informacoes-sobre-edicao-brasileira-serao-divulgadas-em-27-outubro.html", "dominio": "gameblast.com.br" },
+      "fontesSecundarias": [
+        { "nome": "Adrenaline", "url": "https://www.adrenaline.com.br/games/e-sport/evo-brasil-2027/", "dominio": "adrenaline.com.br" },
+        { "nome": "Alternativa Nerd", "url": "https://alternativanerd.com.br/games/evo-brazil-ganha-data-para-novidades-sobre-torneio-no-brasil/", "dominio": "alternativanerd.com.br" }
+      ],
+      "nota": 5.8,
+      "justificativa": "Novidade de interesse para a comunidade brasileira de fighting games, ainda que seja apenas um anúncio prévio sem detalhes concretos do evento.",
+      "pesquisador": "radar-empresas-nacionais"
+    }
+  ],
+  "tambemNoRadar": [
+    {
+      "slug": "bgs-2026-encolhimento-comparado-2016",
+      "titulo": "Canaltech questiona encolhimento da Brasil Game Show em comparação com 2016",
+      "resumo": "Matéria da Canaltech compara a 15ª edição da BGS (realizada de 9 a 12/10 no Distrito Anhembi) com a edição de 2016, apontando a ausência de marcas historicamente presentes como PlayStation, Xbox, Razer, Nvidia, AMD, Logitech G, Samsung e TCL. O texto é majoritariamente uma análise qualitativa, sem dados oficiais de público da edição de 2026.",
+      "tipo": "noticia",
+      "escopo": "nacional",
+      "confiabilidade": "confirmado",
+      "plataformas": [],
+      "tags": ["bgs", "evento", "brasil"],
+      "dataFato": "2026-10-16",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Canaltech", "url": "https://canaltech.com.br/games/bgs-2026-como-a-maior-feira-de-games-da-america-latina-encolheu-em-10-anos/", "dominio": "canaltech.com.br" },
+      "fontesSecundarias": [
+        { "nome": "Jornal SP Norte", "url": "https://www.jornalspnorte.com.br/bgs-2026-o-fiasco-anunciado-de-uma-gigante-que-parece-ter-perdido-sua-propria-identidade/", "dominio": "jornalspnorte.com.br" }
+      ],
+      "nota": 5.9,
+      "justificativa": "Análise relevante sobre o maior evento de games do Brasil, mas sem dados concretos de público nem fato noticioso específico do dia, o que limita sua força no ranking.",
+      "pesquisador": "radar-empresas-nacionais"
+    },
+    {
+      "slug": "asleep-ato-1-gratuito-steam-marco-legal",
+      "titulo": "Asleep: Ato 1 ficará gratuito no Steam por 72 horas para celebrar Marco Legal dos Games",
+      "resumo": "Asleep: Ato 1, jogo de terror psicológico em pixel art do estúdio brasileiro Black Hole Games, ficará gratuito no Steam por 72 horas entre 30 de outubro e 2 de novembro. A promoção celebra a regulamentação do Marco Legal dos Games; o título, ambientado no Nordeste brasileiro dos anos 1990, tem dublagem completa em PT-BR e nota 92% positiva no Steam.",
+      "tipo": "noticia",
+      "escopo": "nacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC"],
+      "tags": ["indie", "brasil", "steam", "promocao"],
+      "dataFato": "2026-10-16",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Shock Radio Web", "url": "https://shockradioweb.com.br/2026/10/16/asleep-ato-1-ficara-gratuito-no-steam-por-72-horas-para-celebrar-novo-marco-da-industria-brasileira-de-games/", "dominio": "shockradioweb.com.br" },
+      "fontesSecundarias": [
+        { "nome": "Diário de Pernambuco", "url": "https://www.diariodepernambuco.com.br/tecnologia/2026/10/11726844-jogo-brasileiro-de-terror-ficara-de-graca-na-steam-por-72-horas-saiba-como-resgatar.html", "dominio": "diariodepernambuco.com.br" },
+        { "nome": "Conecta Geek", "url": "https://conectageek.com.br/asleep-ato-1-ficara-gratuito-no-steam-para-celebrar-novo-marco-da-industria-brasileira-de-games/", "dominio": "conectageek.com.br" }
+      ],
+      "nota": 6.8,
+      "justificativa": "Boa notícia para o público indie nacional, mas de alcance mais limitado frente aos destaques do TOP 10; fica como complemento à cobertura do Marco Legal dos Games.",
+      "pesquisador": "radar-lancamentos-nacionais"
+    },
+    {
+      "slug": "valve-steam-achievement-sets-beta",
+      "titulo": "Valve lança em beta o novo sistema \"Steam Achievement Sets\"",
+      "resumo": "A Valve anunciou a entrada em beta dos \"Achievement Sets\" no Steam, um sistema que organiza conquistas em coleções separadas (DLC, sazonais, multiplayer) e preserva o status de conclusão quando novas conquistas são adicionadas. Dezessete jogos já suportam o recurso no lançamento do beta, incluindo Call of Duty: Modern Warfare 4, Forza Horizon 5, Portal 2 e Crusader Kings III.",
+      "tipo": "lancamento",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC"],
+      "tags": ["steam", "valve", "pc-gaming"],
+      "dataFato": "2026-10-16",
+      "janelaEstendida": false,
+      "fonte": { "nome": "PC Gamer", "url": "https://www.pcgamer.com/software/platforms/steam-achievements-are-getting-a-huge-overhaul-with-separate-sets-for-dlc-and-season-passes-and-an-easy-way-to-compare-with-friends/", "dominio": "pcgamer.com" },
+      "fontesSecundarias": [
+        { "nome": "TBreak", "url": "https://tbreak.com/steam-achievement-sets-beta/", "dominio": "tbreak.com" },
+        { "nome": "PCGamesN", "url": "https://www.pcgamesn.com/steam/achievement-sets", "dominio": "pcgamesn.com" }
+      ],
+      "nota": 6.6,
+      "justificativa": "Novidade de qualidade de vida para o Steam, relevante para o público PC, mas de impacto secundário frente às disputas de mercado e esports do dia.",
+      "pesquisador": "radar-lancamentos-internacionais"
+    },
+    {
+      "slug": "gamepires-demissoes-scum-splash-damage",
+      "titulo": "Demissões na Gamepires (SCUM), adquirida pela Splash Damage, citam \"condições de mercado desafiadoras\"",
+      "resumo": "A Gamepires, estúdio croata com mais de 65 funcionários responsável por SCUM e adquirida pela Splash Damage em fevereiro de 2026, anunciou demissões não especificadas, classificando a decisão como necessária para a \"sustentabilidade de longo prazo\" frente a condições de mercado desafiadoras. A empresa reafirmou que o desenvolvimento de SCUM continuará com novas atualizações.",
+      "tipo": "noticia",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC", "PS5", "Xbox Series"],
+      "tags": ["demissoes", "scum", "splash-damage"],
+      "dataFato": "2026-10-14",
+      "janelaEstendida": true,
+      "fonte": { "nome": "DualShockers", "url": "https://www.dualshockers.com/scum-developer-suffers-an-undisclosed-number-of-layoffs/", "dominio": "dualshockers.com" },
+      "fontesSecundarias": [
+        { "nome": "OpenCritic", "url": "https://opencritic.com/news/37775/scum-developer-triggers-layoffs-over-market-conditions", "dominio": "opencritic.com" }
+      ],
+      "nota": 5.3,
+      "justificativa": "Mais um caso de demissões no setor, mas de impacto limitado a um estúdio e jogo de nicho; fica fora do TOP 10 por relevância menor.",
+      "pesquisador": "radar-empresas-internacionais"
+    },
+    {
+      "slug": "ken-kutaragi-fim-discos-ps5",
+      "titulo": "Ex-presidente da PlayStation, Ken Kutaragi, comenta fim dos discos físicos do PS5",
+      "resumo": "Ken Kutaragi, conhecido como \"pai do PlayStation\", declarou entender a insatisfação dos jogadores com o fim da produção de discos para novos jogos de PS5 a partir de 2028, mas defendeu que a manutenção da mídia física não faz mais sentido economicamente. Kutaragi também sugeriu que a evolução de IA e computação em nuvem pode tornar os próprios consoles dispensáveis no futuro.",
+      "tipo": "noticia",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PS5"],
+      "tags": ["playstation", "sony", "midia-fisica"],
+      "dataFato": "2026-10-16",
+      "janelaEstendida": false,
+      "fonte": { "nome": "GameSpot", "url": "https://www.gamespot.com/articles/killing-ps5-discs-just-makes-sense-even-if-it-angers-people-former-playstation-exec-says/", "dominio": "gamespot.com" },
+      "fontesSecundarias": [
+        { "nome": "Kotaku", "url": "https://kotaku.com/father-of-playstation-ken-kutaragi-blames-a-mentality-issue-for-the-backlash-to-killing-discs-2000746753", "dominio": "kotaku.com" }
+      ],
+      "nota": 5.4,
+      "justificativa": "Declaração de figura histórica da indústria sobre tema já conhecido (fim dos discos de PS5), sem fato novo que justifique posição mais alta.",
+      "pesquisador": "radar-empresas-internacionais"
+    },
+    {
+      "slug": "wolf-among-us-remastered-adiado-switch",
+      "titulo": "The Wolf Among Us Remastered é adiado na versão Nintendo Switch",
+      "resumo": "A Telltale Games confirmou que a versão Nintendo Switch de The Wolf Among Us Remastered foi adiada para data não anunciada, enquanto PS5, Xbox e PC mantêm o lançamento em 29 de outubro de 2026. A desenvolvedora afirmou buscar entregar a experiência que os jogadores Nintendo merecem e não mencionou status da versão Switch 2.",
+      "tipo": "noticia",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["Switch", "PS5", "Xbox Series", "PC"],
+      "tags": ["telltale", "adiamento", "nintendo-switch"],
+      "dataFato": "2026-10-16",
+      "janelaEstendida": true,
+      "fonte": { "nome": "Gematsu", "url": "https://www.gematsu.com/2026/10/the-wolf-among-us-remastered-for-switch-delayed-to-unannounced-date", "dominio": "gematsu.com" },
+      "fontesSecundarias": [
+        { "nome": "Nintendo Life", "url": "https://www.nintendolife.com/news/2026/10/the-wolf-among-us-remastered-has-been-delayed-for-switch", "dominio": "nintendolife.com" }
+      ],
+      "nota": 5.2,
+      "justificativa": "Adiamento pontual de uma versão específica de um relançamento, com impacto restrito à base de fãs de Nintendo Switch.",
+      "pesquisador": "radar-lancamentos-internacionais"
+    },
+    {
+      "slug": "legacy-eliminada-thunderpick-betboom",
+      "titulo": "Legacy é eliminada da Thunderpick World Championship 2026 pela BETBOOM",
+      "resumo": "A organização brasileira Legacy perdeu por 2-1 para a BETBOOM (Nuke, Dust2 e Mirage) e foi eliminada da Thunderpick World Championship 2026, terminando em 5º-6º lugar do torneio de CS2 com premiação de US$ 1 milhão. A BETBOOM avançou para enfrentar a Falcons na semifinal em 17/10.",
+      "tipo": "esports",
+      "escopo": "nacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC"],
+      "tags": ["cs2", "esports", "brasil"],
+      "dataFato": "2026-10-16",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Dust2", "url": "https://www.dust2.com.br/noticias/78962/legacy-cai-para-betboom-e-esta-fora-da-thunderpick-world-championship", "dominio": "dust2.com.br" },
+      "fontesSecundarias": [
+        { "nome": "HLTV", "url": "https://www.hltv.org/news/45739/betboom-qualify-for-twc-playoffs-over-legacy", "dominio": "hltv.org" }
+      ],
+      "nota": 5.1,
+      "justificativa": "Eliminação relevante para o público de CS2 nacional, mas de menor peso frente aos outros resultados de esports do dia.",
+      "pesquisador": "radar-esports"
+    },
+    {
+      "slug": "samsung-supercell-finalistas-galaxy-arena-clash-royale",
+      "titulo": "Samsung e Supercell definem brasileiros finalistas do Galaxy Arena de Clash Royale em São Paulo",
+      "resumo": "A Samsung, em parceria com a Supercell, definiu os finalistas do torneio Galaxy Arena de Clash Royale, que celebra os 10 anos do game: pelo Brasil, disputam o influenciador Kennedy Clash e o pro-player Pedro Tm contra duplas do México e do Peru. A grande final presencial ocorre em São Paulo no dia 17/10/2026.",
+      "tipo": "esports",
+      "escopo": "nacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["Mobile"],
+      "tags": ["clash-royale", "samsung", "esports", "brasil"],
+      "dataFato": "2026-10-17",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Gamers & Games", "url": "https://gamersegames.com.br/2026/10/16/samsung-define-finalistas-do-galaxy-arena-para-a-final-de-clash-royale-em-sao-paulo", "dominio": "gamersegames.com.br" },
+      "fontesSecundarias": [],
+      "nota": 5.0,
+      "justificativa": "Evento de marketing de nicho mobile, com apelo regional mas público mais restrito que os destaques de esports tradicionais do dia.",
+      "pesquisador": "radar-empresas-nacionais"
+    }
+  ],
+  "descartados": [
+    { "titulo": "LOUD completa elenco de Valorant para temporada 2026 da VCT Americas", "motivo": "fato real ocorreu em julho de 2026 (anúncio do jogador DaviH), fora da janela do dia; ambas as fontes apresentadas não confirmam um evento de 16/10/2026 como alegado." },
+    { "titulo": "Marco Legal dos Games é um retrocesso incalculável, diz Abragames (fonte secundária descartada)", "motivo": "fonte (hardware.com.br) publicada em 2023, sobre versão anterior do projeto de lei; conteúdo contraditório e desatualizado em relação ao fato relatado sobre o decreto de outubro de 2026, removida como fonte secundária do item do Marco Legal." },
+    { "titulo": "BRAT 2026 — maratona de speedrun com parceria Samsung/Flow Games", "motivo": "evento de baixo impacto editorial para o recorte do dia, sem fato noticioso específico além da divulgação de patrocínio; não há elemento novo que justifique inclusão frente aos demais candidatos." }
+  ]
+}
