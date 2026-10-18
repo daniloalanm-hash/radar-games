@@ -27,6 +27,7 @@ export function GET() {
         nota: i.nota,
         dataFato: i.dataFato,
         fonte: i.fonte,
+        fontesSecundarias: i.fontesSecundarias ?? [],
         // matéria completa já adaptada para o blog (quando existe): dá material para um roteiro de 1 min+
         artigo: carregarAdaptacao("games", e.data, i.slug)?.markdown ?? null,
       })),
