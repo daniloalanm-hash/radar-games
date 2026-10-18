@@ -89,7 +89,14 @@ jobs:
           if [ -n "${{ github.event.inputs.data }}" ]; then
             echo "hoje=${{ github.event.inputs.data }}" >> "$GITHUB_OUTPUT"
           else
-            echo "hoje=$(TZ=America/Sao_Paulo date +%F)" >> "$GITHUB_OUTPUT"
+            # O agendado das 21:30 costuma sair com 4-6 h de atraso (já passa da meia-noite em Brasília).
+            # Antes do meio-dia, a edição que fechou é a de ONTEM — sem isso a edição saía com a data
+            # do dia seguinte e uma janela que ainda nem tinha acontecido.
+            if [ "$(TZ=America/Sao_Paulo date +%-H)" -lt 12 ]; then
+              echo "hoje=$(TZ=America/Sao_Paulo date -d 'yesterday' +%F)" >> "$GITHUB_OUTPUT"
+            else
+              echo "hoje=$(TZ=America/Sao_Paulo date +%F)" >> "$GITHUB_OUTPUT"
+            fi
           fi
 
       - name: Rodar /radar-games
