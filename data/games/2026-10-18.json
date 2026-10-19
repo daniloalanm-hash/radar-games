@@ -1,0 +1,278 @@
+{
+  "categoria": "games",
+  "data": "2026-10-18",
+  "geradoEm": "2026-10-18T21:00:00-03:00",
+  "janela": { "inicio": "2026-10-17T21:00:00-03:00", "fim": "2026-10-18T21:00:00-03:00" },
+  "observacao": null,
+  "itens": [
+    {
+      "posicao": 1,
+      "slug": "loud-bicampea-mundial-valorant-champions-2026",
+      "titulo": "LOUD é bicampeã mundial do Valorant Champions 2026",
+      "resumo": "A LOUD derrotou a Team Vitality por 3 a 1 na grande final do Valorant Champions 2026, em Shanghai, e se tornou a primeira organização da história do game a vencer o Mundial duas vezes (a primeira foi em 2022, em Istambul). Roberto \"erde\" Lobos foi eleito MVP do torneio e dedicou a conquista à mãe, falecida dias antes da competição; a LOUD levou US$ 1 milhão em premiação.",
+      "tipo": "esports",
+      "escopo": "nacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC"],
+      "tags": ["valorant", "esports", "campeonato-mundial", "loud"],
+      "dataFato": "2026-10-18",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Dot Esports", "url": "https://dotesports.com/valorant/news/vct-champions-2026-grand-finals", "dominio": "dotesports.com" },
+      "fontesSecundarias": [
+        { "nome": "CNN Brasil", "url": "https://www.cnnbrasil.com.br/esportes/esports/historico-loud-vence-team-vitality-e-e-bicampea-do-valorant-champions/", "dominio": "cnnbrasil.com.br" },
+        { "nome": "VLR.gg", "url": "https://www.vlr.gg/event/2766/valorant-champions-2026/", "dominio": "vlr.gg" },
+        { "nome": "GosuGamers", "url": "https://www.gosugamers.net/valorant/news/79367-loud-defeat-team-vitality-to-win-valorant-champions-2026", "dominio": "gosugamers.net" },
+        { "nome": "The Spike", "url": "https://www.thespike.gg/valorant/news/loud-wins-valorant-champions-2026/9043", "dominio": "thespike.gg" },
+        { "nome": "Drops de Jogos", "url": "https://dropsdejogos.uai.com.br/noticias/industria/brasileira-loud-conquista-bicampeonato-mundial-de-valorant-na-china", "dominio": "dropsdejogos.uai.com.br" }
+      ],
+      "nota": 9.8,
+      "justificativa": "Maior história do dia: conquista histórica e inédita de uma organização brasileira em um Mundial de Valorant, com forte repercussão emocional (dedicatória do MVP) e ampla cobertura nacional e internacional.",
+      "pesquisador": "radar-esports"
+    },
+    {
+      "posicao": 2,
+      "slug": "furia-bicampea-thunderpick-world-championship-cs2",
+      "titulo": "FURIA é bicampeã da Thunderpick World Championship de CS2",
+      "resumo": "A FURIA venceu a BetBoom por 3 a 2 na grande final da Thunderpick World Championship 2026, disputada na BLAST Arena Studios em Malta, conquistando o bicampeonato do torneio (também venceu em 2025, contra a NAVI). A equipe brasileira, com atuação decisiva de FalleN, levou US$ 500 mil em premiação.",
+      "tipo": "esports",
+      "escopo": "nacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC", "Steam"],
+      "tags": ["cs2", "esports", "furia", "thunderpick"],
+      "dataFato": "2026-10-18",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Dust2", "url": "https://www.dust2.com.br/noticias/79021/com-fallen-decisivo-furia-e-bicampea-da-thunderpick", "dominio": "dust2.com.br" },
+      "fontesSecundarias": [
+        { "nome": "Esports.gg", "url": "https://esports.gg/news/counter-strike-2/cs2-thunderpick-world-championship-2026-results/", "dominio": "esports.gg" }
+      ],
+      "nota": 9.0,
+      "justificativa": "Segundo título consecutivo da FURIA na Thunderpick, com atuação decisiva de FalleN; forte apelo para o público brasileiro de CS2.",
+      "pesquisador": "radar-esports"
+    },
+    {
+      "posicao": 3,
+      "slug": "karmine-corp-vence-mvk-vaga-swiss-stage-worlds-2026",
+      "titulo": "Karmine Corp vence MVK e conquista última vaga do Swiss Stage do Worlds 2026",
+      "resumo": "A Karmine Corp derrotou a MVK Esports por 3 a 0 na decisão do Play-In do Mundial de League of Legends 2026, garantindo a última vaga na fase Swiss e se tornando a terceira representante da EMEA no torneio, junto de G2 Esports e Movistar KOI. O sorteio da Rodada 1 do Swiss Stage definiu os confrontos, incluindo o do time brasileiro LØS (campeão do CBLOL) contra a T1, e da FURIA contra a LYON.",
+      "tipo": "esports",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC"],
+      "tags": ["league-of-legends", "worlds-2026", "esports"],
+      "dataFato": "2026-10-18",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Dot Esports", "url": "https://dotesports.com/league-of-legends/news/karmine-corp-beat-mvk-worlds-2026-play-ins", "dominio": "dotesports.com" },
+      "fontesSecundarias": [
+        { "nome": "GosuGamers", "url": "https://www.gosugamers.net/lol/news/79368-karmine-corp-sweep-mvk-esports-to-secure-final-lol-worlds-2026-swiss-stage-spot", "dominio": "gosugamers.net" },
+        { "nome": "Sheep Esports", "url": "https://www.sheepesports.com/en/articles/worlds-2026-swiss-stage-round-1-draw/en", "dominio": "sheepesports.com" }
+      ],
+      "nota": 7.8,
+      "justificativa": "Define o quadro completo do Worlds 2026 e inclui representante brasileira (LØS), mas tem menor impacto que as conquistas de LOUD e FURIA.",
+      "pesquisador": "radar-esports"
+    },
+    {
+      "posicao": 4,
+      "slug": "marco-legal-dos-games-decreto-rouanet-games-credito",
+      "titulo": "Marco Legal dos Games: decreto cria Rouanet Games e abre crédito para estúdios brasileiros",
+      "resumo": "O decreto \"Desenvolve Gamers Brasil\", assinado por Lula em 14 de outubro, regulamenta o Marco Legal dos Jogos Eletrônicos, cria a \"Rouanet Games\" (permitindo patrocínio privado via Lei Rouanet para estúdios), reduz juros e valor mínimo de empréstimos do Fundo Setorial do Audiovisual, e libera R$ 200 milhões via Finep para startups de games. A regulamentação continuou repercutindo em 17 e 18 de outubro, incluindo o crescimento da rede colaborativa Eu Crio Jogos, que saltou de 81 para 206 criadores cadastrados.",
+      "tipo": "noticia",
+      "escopo": "nacional",
+      "confiabilidade": "confirmado",
+      "plataformas": [],
+      "tags": ["marco-legal-dos-games", "industria-nacional", "financiamento"],
+      "dataFato": "2026-10-17",
+      "janelaEstendida": true,
+      "fonte": { "nome": "Adrenaline", "url": "https://www.adrenaline.com.br/games/decreto-marco-legal-jogos-eletronicos-rouanet-games-credito-fsa-como-funciona/", "dominio": "adrenaline.com.br" },
+      "fontesSecundarias": [
+        { "nome": "Drops de Jogos", "url": "https://dropsdejogos.uai.com.br/noticias/indie/rouanet-games-e-uma-excelente-destaque-do-marco-legal-dos-jogos-eletronicos/", "dominio": "dropsdejogos.uai.com.br" },
+        { "nome": "Drops de Jogos — Eu Crio Jogos", "url": "https://dropsdejogos.uai.com.br/noticias/indie/com-o-marco-legal-dos-games-regulamentado-rede-de-comunidades-mostra-onde-esta-quem-cria-jogos-no-brasil/", "dominio": "dropsdejogos.uai.com.br" },
+        { "nome": "Canaltech", "url": "https://canaltech.com.br/games/como-o-marco-legal-dos-games-vai-financiar-estudios-brasileiros-entenda/", "dominio": "canaltech.com.br" },
+        { "nome": "Planalto", "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/decreto/d13138.htm", "dominio": "planalto.gov.br" }
+      ],
+      "nota": 8.5,
+      "justificativa": "Marco regulatório de grande impacto estrutural para a indústria nacional de games, com efeitos práticos já visíveis (crescimento de cadastros, anúncios de estúdios); escolhido entre fonte de maior peso editorial (Adrenaline) e consolidado com os desdobramentos da semana.",
+      "pesquisador": "radar-empresas-nacionais"
+    },
+    {
+      "posicao": 5,
+      "slug": "team-vitality-sede-saqueada-protestos-paris",
+      "titulo": "Sede da Team Vitality é saqueada durante protestos em Paris",
+      "resumo": "A sede da organização de esports Team Vitality (V.Hive), em Paris, foi invadida e saqueada em 17 de outubro durante protestos de rua na capital francesa, com roubo de troféus de CS2 — incluindo o da StarLadder StarSeries Fall 2026 — e equipamentos de computador. A equipe confirmou que nenhum funcionário ou fã ficou ferido, mas vitrines foram destruídas e a sede permanece fechada para avaliação de danos.",
+      "tipo": "esports",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": [],
+      "tags": ["esports", "vitality", "cs2", "paris"],
+      "dataFato": "2026-10-17",
+      "janelaEstendida": false,
+      "fonte": { "nome": "GosuGamers", "url": "https://www.gosugamers.net/counterstrike/news/79366-team-vitality-s-v-hive-headquarters-looted-during-paris-riots-cs2-trophies-and-equipment-stolen", "dominio": "gosugamers.net" },
+      "fontesSecundarias": [
+        { "nome": "Insider Gaming", "url": "https://insider-gaming.com/team-vitality-paris-hq-looted-trashed-riots/", "dominio": "insider-gaming.com" },
+        { "nome": "Dexerto", "url": "https://www.dexerto.com/esports/rioters-vandalize-team-vitality-hq-and-steal-esports-trophy-during-paris-protests-3419723/", "dominio": "dexerto.com" },
+        { "nome": "Dust2.us", "url": "https://www.dust2.us/news/79001/vitality-hq-looted-starladder-trophy-stolen-during-ongoing-paris-riots", "dominio": "dust2.us" }
+      ],
+      "nota": 7.0,
+      "justificativa": "Episódio raro envolvendo organização de esports de ponta, com perda de troféus históricos; impacto alto na comunidade de CS2 apesar de não envolver jogo ou lançamento em si.",
+      "pesquisador": "radar-lancamentos-internacionais"
+    },
+    {
+      "posicao": 6,
+      "slug": "call-of-duty-modern-warfare-4-melhor-avaliacao-steam-decada",
+      "titulo": "Call of Duty: Modern Warfare 4 atinge a melhor avaliação da franquia no Steam em mais de uma década",
+      "resumo": "O acesso antecipado da campanha de Call of Duty: Modern Warfare 4 (Activision), liberado em 16 de outubro para quem fez pré-venda, acumulou 87,4% de avaliações positivas no Steam, a melhor marca da franquia na plataforma desde 2010. O lançamento mundial completo está previsto para 23 de outubro de 2026.",
+      "tipo": "lancamento",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC", "PS5", "Xbox Series", "Switch 2"],
+      "tags": ["call-of-duty", "activision", "steam", "lancamento"],
+      "dataFato": "2026-10-18",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Insider Gaming", "url": "https://insider-gaming.com/modern-warfare-4-emerges-best-steam-rating-decade/", "dominio": "insider-gaming.com" },
+      "fontesSecundarias": [
+        { "nome": "TechPowerUp", "url": "https://www.techpowerup.com/353835/call-of-duty-modern-warfare-4-gets-a-warm-steam-welcome-with-90-positive-reviews", "dominio": "techpowerup.com" },
+        { "nome": "Nintendo Life", "url": "https://www.nintendolife.com/news/2026/10/round-up-the-reviews-for-call-of-duty-modern-warfare-4s-campaign-are-in", "dominio": "nintendolife.com" },
+        { "nome": "Khel Now", "url": "https://khelnow.com/gaming/call-of-duty-modern-warfare-4-becomes-highest-rated-call-of-duty-on-steam-202610", "dominio": "khelnow.com" }
+      ],
+      "nota": 7.2,
+      "justificativa": "Recepção muito positiva de um dos maiores lançamentos do ano, com dado mais atualizado e abrangente que os pesquisadores trouxeram; relevante para o público gamer que acompanha a franquia.",
+      "pesquisador": "radar-lancamentos-internacionais"
+    },
+    {
+      "posicao": 7,
+      "slug": "gta-6-classificacao-etaria-final-todos-mercados",
+      "titulo": "GTA 6 recebe classificação etária final em todos os grandes mercados globais",
+      "resumo": "Com a classificação sul-coreana (19+) definida em 16 de outubro, Grand Theft Auto VI completou seu processo de classificação etária em todos os mercados principais: M (ESRB) nos EUA, PEGI 18 na Europa, USK 18 na Alemanha, CERO Z no Japão, R18+ na Austrália e 18 no Brasil. O marco fecha a reta final antes do lançamento mundial em 19 de novembro de 2026.",
+      "tipo": "noticia",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PS5", "Xbox Series"],
+      "tags": ["gta-6", "rockstar-games", "classificacao-etaria", "lancamento"],
+      "dataFato": "2026-10-17",
+      "janelaEstendida": false,
+      "fonte": { "nome": "GTA BOOM", "url": "https://www.gtaboom.com/gta-6-is-now-rated-adults-only-in-every-major-market-48c5", "dominio": "gtaboom.com" },
+      "fontesSecundarias": [],
+      "nota": 7.5,
+      "justificativa": "Marco relevante na reta final de um dos lançamentos mais esperados da história, embora seja um passo burocrático sem grandes novidades de conteúdo.",
+      "pesquisador": "radar-lancamentos-internacionais"
+    },
+    {
+      "posicao": 8,
+      "slug": "asleep-ato-1-gratuito-steam-marco-legal-games",
+      "titulo": "Asleep: Ato 1, jogo brasileiro da Black Hole Games, ficará gratuito no Steam para celebrar o Marco Legal dos Games",
+      "resumo": "O estúdio brasileiro Black Hole Games e a publisher CriticalLeap anunciaram que o jogo de terror psicológico \"Asleep: Ato 1\" ficará disponível gratuitamente no Steam entre 30 de outubro e 2 de novembro, em celebração à regulamentação do Marco Legal dos Games. O título, lançado em maio de 2024 e ambientado no Nordeste brasileiro dos anos 1990, tem 92% de avaliações positivas na Steam.",
+      "tipo": "noticia",
+      "escopo": "nacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC", "Steam"],
+      "tags": ["jogo-brasileiro", "marco-legal-dos-games", "steam"],
+      "dataFato": "2026-10-18",
+      "janelaEstendida": false,
+      "fonte": { "nome": "J-WAVE", "url": "https://www.jwave.com.br/2026/10/asleep-ato-1-ficara-gratuito-no-steam-por-tempo-limitado/", "dominio": "jwave.com.br" },
+      "fontesSecundarias": [
+        { "nome": "Conecta Geek", "url": "https://conectageek.com.br/asleep-ato-1-ficara-gratuito-no-steam-para-celebrar-novo-marco-da-industria-brasileira-de-games/", "dominio": "conectageek.com.br" }
+      ],
+      "nota": 6.5,
+      "justificativa": "Boa notícia para o público nacional de jogos indie, mas de impacto mais pontual que os destaques estruturais do Marco Legal.",
+      "pesquisador": "radar-empresas-nacionais"
+    },
+    {
+      "posicao": 9,
+      "slug": "lucasfilm-games-aposta-estudios-indie-star-wars",
+      "titulo": "Lucasfilm Games aposta em estúdios indie para o futuro de Star Wars",
+      "resumo": "O VP da Lucasfilm Games, Douglas Reilly, afirmou que a estratégia de apostar em estúdios independentes para jogos de Star Wars é deliberada, citando o sucesso crítico de Star Wars Zero Company e Star Wars Galactic Racer (ambos com notas na faixa dos 80 no Metacritic). Ele declarou que não é necessário ser um dos cinco maiores publishers para fazer um bom jogo de Star Wars, e que a empresa está \"explorando\" parcerias que vão surpreender os fãs.",
+      "tipo": "noticia",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": [],
+      "tags": ["star-wars", "lucasfilm-games", "estudios-indie"],
+      "dataFato": "2026-10-18",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Insider Gaming", "url": "https://insider-gaming.com/lucasfilm-star-wars-games-independent-studios/", "dominio": "insider-gaming.com" },
+      "fontesSecundarias": [
+        { "nome": "OpenCritic", "url": "https://opencritic.com/news/37963/lucasfilm-wants-to-be-flexible-with-star-wars-games-after-zero-company-and-galactic-racer", "dominio": "opencritic.com" },
+        { "nome": "Bespin Bulletin", "url": "https://bespinbulletin.com/lucasfilm-is-doubling-down-on-smaller-star-wars-games/", "dominio": "bespinbulletin.com" }
+      ],
+      "nota": 6.0,
+      "justificativa": "Sinaliza mudança de estratégia relevante para o futuro da franquia Star Wars nos games, mas é uma declaração institucional sem anúncio concreto de produto.",
+      "pesquisador": "radar-empresas-internacionais"
+    },
+    {
+      "posicao": 10,
+      "slug": "joe-ziegler-entrevista-atritos-producao-marathon-bungie",
+      "titulo": "Ex-diretor de Marathon, Joe Ziegler, dá entrevista detalhando atritos na produção na Bungie",
+      "resumo": "Em entrevista publicada pela PC Gamer, Joe Ziegler — que dirigiu o jogo de extração Marathon na Bungie e deixou o estúdio em julho de 2026 — relatou que houve \"muitos desentendimentos\" durante a produção do título, além de falar sobre sua trajetória após a Riot Games.",
+      "tipo": "noticia",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC", "PS5"],
+      "tags": ["bungie", "marathon", "bastidores"],
+      "dataFato": "2026-10-18",
+      "janelaEstendida": false,
+      "fonte": { "nome": "PC Gamer", "url": "https://www.pcgamer.com/gaming-industry/there-were-a-lot-of-disagreements-across-the-place-former-marathon-director-joe-ziegler-on-leading-bungies-extraction-shooter-playing-path-of-exile-for-3-437-hours-and-why-hell-never-uninstall-kingdom-hearts/", "dominio": "pcgamer.com" },
+      "fontesSecundarias": [
+        { "nome": "Tech Insider", "url": "https://tech-insider.org/joe-ziegler-marathon-director-bungie-clashes-2026", "dominio": "tech-insider.org" }
+      ],
+      "nota": 5.5,
+      "justificativa": "Relato de bastidores relevante para fãs de Marathon e da Bungie, mas de alcance limitado e sem grande repercussão imediata.",
+      "pesquisador": "radar-empresas-internacionais"
+    }
+  ],
+  "tambemNoRadar": [
+    {
+      "slug": "decreto-marco-legal-games-desdobramentos-setor",
+      "titulo": "Decreto do Marco Legal dos Games segue gerando desdobramentos no setor nacional",
+      "resumo": "O Decreto nº 13.138, assinado por Lula em 14 de outubro, regulamenta o Marco Legal dos Games e cria a plataforma pública Game Brasil. O tema continuou repercutindo em 17 e 18 de outubro em reportagens sobre efeitos práticos, como crédito via FSA, R$ 200 milhões via Finep e novos CNAEs para o setor.",
+      "tipo": "noticia",
+      "escopo": "nacional",
+      "confiabilidade": "confirmado",
+      "plataformas": [],
+      "tags": ["marco-legal-dos-games", "industria-nacional"],
+      "dataFato": "2026-10-14",
+      "janelaEstendida": true,
+      "fonte": { "nome": "Canaltech", "url": "https://canaltech.com.br/games/como-o-marco-legal-dos-games-vai-financiar-estudios-brasileiros-entenda/", "dominio": "canaltech.com.br" },
+      "fontesSecundarias": [
+        { "nome": "Planalto", "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/decreto/d13138.htm", "dominio": "planalto.gov.br" }
+      ],
+      "nota": 6.5,
+      "justificativa": "Mesma história do item principal sobre o Marco Legal; já incorporada ao resumo do item #4, ficando aqui como registro do candidato consolidado.",
+      "pesquisador": "radar-lancamentos-nacionais"
+    },
+    {
+      "slug": "bgs-2026-encerra-areas-vazias-contraste-recorde-2016",
+      "titulo": "BGS 2026 encerra com áreas vazias em contraste ao recorde de público de 2016",
+      "resumo": "Análises publicadas após o encerramento da 17ª Brasil Game Show (9 a 12 de outubro, em São Paulo) destacam críticas de visitantes e imprensa sobre áreas vazias nos pavilhões e ausência de marcas tradicionais como PlayStation, Xbox, Nvidia e Ubisoft. O texto contrasta o tamanho reduzido da edição de 2026 com o recorde histórico de público do evento em 2016, quando ultrapassou 300 mil visitantes.",
+      "tipo": "noticia",
+      "escopo": "nacional",
+      "confiabilidade": "confirmado",
+      "plataformas": [],
+      "tags": ["bgs-2026", "industria-nacional", "eventos"],
+      "dataFato": "2026-10-14",
+      "janelaEstendida": true,
+      "fonte": { "nome": "Arkade", "url": "https://arkade.com.br/bgs-2026-menor-com-mais-ausencias-mas-trazendo-games-ainda-nao-lancados/", "dominio": "arkade.com.br" },
+      "fontesSecundarias": [],
+      "nota": 6.0,
+      "justificativa": "Fato relevante para o setor nacional, mas o evento em si ocorreu bem antes da janela (9 a 12/10); a cobertura é uma análise tardia, por isso não entrou no TOP 10.",
+      "pesquisador": "radar-empresas-nacionais"
+    },
+    {
+      "slug": "rede-eu-crio-jogos-cresce-marco-legal-games",
+      "titulo": "Rede Eu Crio Jogos salta de 81 para 206 criadores cadastrados após Marco Legal dos Games",
+      "resumo": "Entre os dias 13 e 17 de outubro, o mapa colaborativo do Movimento Eu Crio Jogos cresceu de 81 para 206 pessoas cadastradas em 18 estados, após a regulamentação do Marco Legal dos Games. A vitrine do movimento já soma 110 jogos e 44 estúdios cadastrados.",
+      "tipo": "noticia",
+      "escopo": "nacional",
+      "confiabilidade": "confirmado",
+      "plataformas": [],
+      "tags": ["marco-legal-dos-games", "industria-nacional", "comunidade"],
+      "dataFato": "2026-10-17",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Drops de Jogos", "url": "https://dropsdejogos.uai.com.br/noticias/indie/com-o-marco-legal-dos-games-regulamentado-rede-de-comunidades-mostra-onde-esta-quem-cria-jogos-no-brasil/", "dominio": "dropsdejogos.uai.com.br" },
+      "fontesSecundarias": [],
+      "nota": 5.8,
+      "justificativa": "Dado interessante como desdobramento do Marco Legal, mas de alcance e impacto menores que os outros destaques do tema; já mencionado no resumo do item #4.",
+      "pesquisador": "radar-lancamentos-nacionais"
+    }
+  ],
+  "descartados": [
+    { "titulo": "FalleN e FURIA: declarações pós-título na Thunderpick", "motivo": "Fonte principal (arquivo genérico da HLTV) não trata especificamente do fato, e a fonte secundária é datada de 9/10 e sobre outro evento (eliminação na ESL Pro League), fora da janela. Além disso, a vitória da FURIA na Thunderpick já está contemplada no item principal sobre o bicampeonato." }
+  ]
+}
