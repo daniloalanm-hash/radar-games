@@ -1,0 +1,328 @@
+{
+  "categoria": "games",
+  "data": "2026-10-19",
+  "geradoEm": "2026-10-19T21:00:00-03:00",
+  "janela": { "inicio": "2026-10-18T21:00:00-03:00", "fim": "2026-10-19T21:00:00-03:00" },
+  "observacao": null,
+  "itens": [
+    {
+      "posicao": 1,
+      "slug": "loud-bicampea-valorant-champions-2026",
+      "titulo": "LOUD vence Team Vitality e conquista bicampeonato inédito do Valorant Champions",
+      "resumo": "A LOUD derrotou a Team Vitality por 3-1 na grande final do Valorant Champions 2026, em Shanghai, conquistando seu segundo título mundial (o primeiro foi em 2022) e se tornando a primeira equipe bicampeã da história do torneio. O chileno Roberto \"erde\" Lobos foi eleito MVP da final e dedicou a vitória à mãe, falecida dias antes da disputa; o prêmio máximo da competição foi de US$ 1 milhão.",
+      "tipo": "esports",
+      "escopo": "nacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC"],
+      "tags": ["valorant", "esports", "campeonato-mundial", "loud"],
+      "dataFato": "2026-10-18",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Insider Gaming", "url": "https://insider-gaming.com/loud-prevails-in-valorant-champions-2026-triumph/", "dominio": "insider-gaming.com" },
+      "fontesSecundarias": [
+        { "nome": "iGaming Brazil", "url": "https://igamingbrazil.com/esports/2026/10/19/loud-conquista-bicampeonato-inedito-no-valorant-champions-2026/", "dominio": "igamingbrazil.com" },
+        { "nome": "CNN Brasil", "url": "https://www.cnnbrasil.com.br/esportes/esports/historico-loud-vence-team-vitality-e-e-bicampea-do-valorant-champions/", "dominio": "cnnbrasil.com.br" }
+      ],
+      "nota": 9.3,
+      "justificativa": "Maior repercussão do período: organização brasileira conquista título mundial inédito (primeira bicampeã da história do Valorant Champions), com história pessoal forte do MVP e confirmação por múltiplas fontes de peso.",
+      "pesquisador": "radar-esports"
+    },
+    {
+      "posicao": 2,
+      "slug": "gta-6-confirma-lancamento-19-novembro",
+      "titulo": "GTA 6 confirma lançamento em exatamente um mês, no dia 19 de novembro",
+      "resumo": "The Game Awards anunciou nas redes sociais que Grand Theft Auto VI, da Rockstar Games, será lançado oficialmente em 19 de novembro de 2026 para PS5 e Xbox Series X|S. O pré-carregamento digital começa em 12 de novembro, com preços de US$ 79,99 (edição padrão) e US$ 99,99 (edição ultimate).",
+      "tipo": "noticia",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PS5", "Xbox Series"],
+      "tags": ["gta-6", "rockstar", "lancamento"],
+      "dataFato": "2026-10-19",
+      "janelaEstendida": false,
+      "fonte": { "nome": "KhelNow", "url": "https://khelnow.com/gaming/gta-6-launch-day-is-officially-one-month-away-202610", "dominio": "khelnow.com" },
+      "fontesSecundarias": [],
+      "nota": 8.5,
+      "justificativa": "Confirmação de data para o lançamento mais aguardado da indústria, com detalhes concretos de pré-carregamento e preços; impacto altíssimo para o público gamer.",
+      "pesquisador": "radar-lancamentos-internacionais"
+    },
+    {
+      "posicao": 3,
+      "slug": "furia-bicampea-thunderpick-world-championship",
+      "titulo": "FURIA vence BetBoom e conquista o bicampeonato do Thunderpick World Championship",
+      "resumo": "A FURIA derrotou a BetBoom Team por 3-2 na grande final do Thunderpick World Championship 2026, em Malta, revertendo um déficit de 1-2 para erguer o troféu pela segunda vez consecutiva. KSCERATO foi eleito MVP do torneio, e a premiação total do evento foi de US$ 500 mil.",
+      "tipo": "esports",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC"],
+      "tags": ["cs2", "esports", "furia", "campeonato"],
+      "dataFato": "2026-10-18",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Dust2", "url": "https://www.dust2.com.br/noticias/79038/brasil-chega-a-tres-titulos-conquistados-em-2026", "dominio": "dust2.com.br" },
+      "fontesSecundarias": [
+        { "nome": "Dot Esports", "url": "https://dotesports.com/counter-strike/news/furia-beat-betboom-thunderpick-world-championship-2026", "dominio": "dotesports.com" },
+        { "nome": "Vavel Brasil", "url": "https://www.vavel.com/br/esports-br/2026/10/18/1275968-furia-e-bicampea-da-twc-em-final-eletrizante-contra-a-betboom-levou-a-melhor-por-3-a-2.html", "dominio": "vavel.com" }
+      ],
+      "nota": 8.0,
+      "justificativa": "Título internacional de organização brasileira em CS2, com virada no placar e MVP confirmado por múltiplas fontes de peso no cenário competitivo.",
+      "pesquisador": "radar-esports"
+    },
+    {
+      "posicao": 4,
+      "slug": "arida-marco-legal-dos-games-planalto",
+      "titulo": "ARIDA, da baiana Aoca Game Lab, ganha cross-save e demo de sequência após assinatura do Marco Legal dos Games",
+      "resumo": "O estúdio baiano Aoca Game Lab, criador da franquia ARIDA (ambientada no sertão baiano do século XIX e inspirada na Guerra de Canudos), participou da cerimônia de assinatura do decreto \"Desenvolve Gamers Brasil\" no Palácio do Planalto. ÁRIDA 1 passou a suportar cross-save via Google Play Games, e uma demo jogável de ÁRIDA 2: Rise of the Brave ficou disponível no Steam até 28 de outubro.",
+      "tipo": "noticia",
+      "escopo": "nacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC", "Mobile"],
+      "tags": ["marco-legal-dos-games", "estudio-brasileiro", "politica-publica", "indie"],
+      "dataFato": "2026-10-19",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Drops de Jogos", "url": "https://dropsdejogos.uai.com.br/noticias/indie/arida-e-o-marco-legal-dos-games-no-palacio-do-planalto/", "dominio": "dropsdejogos.uai.com.br" },
+      "fontesSecundarias": [
+        { "nome": "Gaming Era", "url": "https://gamingera.biz/lula-decreto-marco-legal-dos-games-plataforma-game-brasil/", "dominio": "gamingera.biz" }
+      ],
+      "nota": 7.8,
+      "justificativa": "Combina política pública relevante para o setor nacional com lançamento concreto de conteúdo jogável de estúdio brasileiro; forte simbolismo para o mercado local.",
+      "pesquisador": "radar-lancamentos-nacionais"
+    },
+    {
+      "posicao": 5,
+      "slug": "furia-elimina-cloud9-worlds-2026-lol",
+      "titulo": "FURIA elimina Cloud9 e avança no Play-In do Worlds 2026 de League of Legends",
+      "resumo": "A FURIA derrotou a Cloud9 por 3-1 na chave baixa do Play-In do Mundial de League of Legends 2026, eliminando a equipe norte-americana na primeira fase do torneio. Andrey \"Ayu\" Saraiva foi o MVP da série, e a FURIA avançou para enfrentar a MVK Esports, com vaga na Swiss Stage em jogo.",
+      "tipo": "esports",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC"],
+      "tags": ["league-of-legends", "worlds-2026", "furia", "esports"],
+      "dataFato": "2026-10-18",
+      "janelaEstendida": false,
+      "fonte": { "nome": "GameReactor", "url": "https://www.gamereactor.pt/furia-elimina-cloud9-worlds-2026-league-of-legends-play-in/", "dominio": "gamereactor.pt" },
+      "fontesSecundarias": [
+        { "nome": "InvenGlobal", "url": "https://www.invenglobal.com/articles/27312/furia-survives-by-defeating-c9-cloud9-suffers-humiliation-as-first-team-eliminated", "dominio": "invenglobal.com" },
+        { "nome": "Sheep Esports", "url": "https://www.sheepesports.com/en/articles/we-are-pathetic-cloud9-vulcan-after-worlds-2026-elimination/en", "dominio": "sheepesports.com" }
+      ],
+      "nota": 7.0,
+      "justificativa": "Eliminação de equipe tradicional da América do Norte por organização brasileira em torneio de altíssima visibilidade, bem confirmada por fontes especializadas.",
+      "pesquisador": "radar-esports"
+    },
+    {
+      "posicao": 6,
+      "slug": "liquid-swords-fecha-portas-apos-falencia",
+      "titulo": "Liquid Swords fecha as portas após falência, seis meses depois do lançamento de Samson",
+      "resumo": "O estúdio sueco Liquid Swords, fundado por Christofer Sundberg (cofundador da Avalanche Studios), confirmou o fechamento em 19 de outubro de 2026, após pedido de falência motivado por salários atrasados há dois meses. Os cerca de 30 funcionários foram demitidos; o jogo Samson, lançado em PC em abril e em PS5/Xbox Series em setembro, teve desempenho melhor em consoles, mas insuficiente para salvar a empresa.",
+      "tipo": "noticia",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC", "PS5", "Xbox Series"],
+      "tags": ["fechamento-de-estudio", "falencia", "samson"],
+      "dataFato": "2026-10-19",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Game Social Club", "url": "https://gamersocialclub.ca/2026/10/19/liquid-swords-founder-confirms-studio-closure/", "dominio": "gamersocialclub.ca" },
+      "fontesSecundarias": [
+        { "nome": "Destructoid", "url": "https://www.destructoid.com/samson-studio-shuts-down-console-success-wasnt-enough/", "dominio": "destructoid.com" },
+        { "nome": "InvenGlobal", "url": "https://www.invenglobal.com/articles/27379/liquid-swords-to-close-following-samson-release", "dominio": "invenglobal.com" }
+      ],
+      "nota": 6.8,
+      "justificativa": "Fechamento de estúdio com fundador de peso histórico (Avalanche/Just Cause), bem documentado e datado com precisão, ilustrando riscos financeiros do setor.",
+      "pesquisador": "radar-empresas-internacionais"
+    },
+    {
+      "posicao": 7,
+      "slug": "supercell-conclui-aquisicao-metacore",
+      "titulo": "Supercell conclui aquisição total da Metacore, criadora de Merge Mansion",
+      "resumo": "A Supercell anunciou em 19 de outubro de 2026 a conclusão da aquisição integral da desenvolvedora finlandesa Metacore, criadora de Merge Mansion, da qual já era a maior acionista. A operação, anunciada originalmente em maio, veio acompanhada de corte de até 160 vagas na Finlândia como parte de reestruturação; termos financeiros não foram revelados.",
+      "tipo": "noticia",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["Mobile"],
+      "tags": ["supercell", "aquisicao", "mobile", "demissoes"],
+      "dataFato": "2026-10-19",
+      "janelaEstendida": false,
+      "fonte": { "nome": "PocketGamer.biz", "url": "https://www.pocketgamer.biz/supercell-completes-full-acquisition-of-metacore/", "dominio": "pocketgamer.biz" },
+      "fontesSecundarias": [
+        { "nome": "MobileGamer.biz", "url": "https://mobilegamer.biz/supercell-has-completed-its-acquisition-of-merge-mansion-maker-metacore/", "dominio": "mobilegamer.biz" },
+        { "nome": "MGoddess", "url": "https://www.mgoddess.com/news/supercell-has-completed-its-acquisition-of-merge-mansion-maker-metacore/?lang=en", "dominio": "mgoddess.com" }
+      ],
+      "nota": 6.3,
+      "justificativa": "Aquisição relevante no setor mobile/casual com impacto direto em empregos, confirmada por múltiplas fontes especializadas do setor.",
+      "pesquisador": "radar-empresas-internacionais"
+    },
+    {
+      "posicao": 8,
+      "slug": "damned-2-the-fallen-update",
+      "titulo": "Damned 2, da brasileira 9Heads Game Studios, recebe atualização gratuita The Fallen Update",
+      "resumo": "O jogo de terror assimétrico Damned 2, desenvolvido pela brasileira 9Heads Game Studios e publicado pela Nuntius Games, recebeu a atualização gratuita \"The Fallen Update\" no Steam (Acesso Antecipado). A atualização adiciona a criatura jogável Fallen, suporte a sobreviventes controlados por IA, novo sistema de obstáculos e itens cosméticos.",
+      "tipo": "noticia",
+      "escopo": "nacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC"],
+      "tags": ["estudio-brasileiro", "terror-assimetrico", "atualizacao"],
+      "dataFato": "2026-10-19",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Gamers e Games", "url": "https://www.gamersegames.com.br/2026/10/19/damned-2-recebe-the-fallen-update-grande-atualizacao-gratuita-com-nova-criatura-e-melhorias/", "dominio": "gamersegames.com.br" },
+      "fontesSecundarias": [
+        { "nome": "Steam", "url": "https://store.steampowered.com/app/2221390/Damned_2/", "dominio": "store.steampowered.com" }
+      ],
+      "nota": 6.0,
+      "justificativa": "Patch gratuito relevante de estúdio brasileiro reconhecido no gênero de terror assimétrico, com alcance moderado fora do nicho mas importante para a cota nacional.",
+      "pesquisador": "radar-lancamentos-nacionais"
+    },
+    {
+      "posicao": 9,
+      "slug": "monster-hunter-wilds-demo-switch-2",
+      "titulo": "Demo gratuita do prólogo de Monster Hunter Wilds chega ao Switch 2",
+      "resumo": "A Capcom liberou no eShop do Nintendo Switch 2 a demo gratuita do prólogo de Monster Hunter Wilds, com progresso salvo transferível para o jogo completo. O lançamento mundial da versão completa para Switch 2 está previsto para 4 de dezembro de 2026.",
+      "tipo": "lancamento",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["Switch 2"],
+      "tags": ["monster-hunter", "capcom", "demo", "switch-2"],
+      "dataFato": "2026-10-19",
+      "janelaEstendida": false,
+      "fonte": { "nome": "My Nintendo News", "url": "https://mynintendonews.com/2026/10/19/dont-forget-monster-hunter-wilds-demo-for-nintendo-switch-2-is-coming-today/", "dominio": "mynintendonews.com" },
+      "fontesSecundarias": [],
+      "nota": 6.0,
+      "justificativa": "Lançamento concreto de demo para um dos jogos mais aguardados no Switch 2, com progresso transferível que gera engajamento imediato dos jogadores.",
+      "pesquisador": "radar-lancamentos-internacionais"
+    },
+    {
+      "posicao": 10,
+      "slug": "phantom-blade-zero-134gb-ps5",
+      "titulo": "Phantom Blade Zero revela tamanho de instalação de 134,8 GB no PS5",
+      "resumo": "A S-Game revelou que Phantom Blade Zero pesará cerca de 134,8 GB no PS5, um dos maiores downloads day-one da geração atual. O jogo chega em 29 de outubro para PS5 e PC, com pré-carregamento liberado em 27 de outubro.",
+      "tipo": "noticia",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PS5", "PC"],
+      "tags": ["phantom-blade-zero", "ps5", "lancamento"],
+      "dataFato": "2026-10-19",
+      "janelaEstendida": false,
+      "fonte": { "nome": "PSU.com", "url": "https://www.psu.com/news/phantom-blade-zero-ps5-file-size-revealed-ahead-of-oct-29-release/", "dominio": "psu.com" },
+      "fontesSecundarias": [
+        { "nome": "Final Weapon", "url": "https://finalweapon.net/2026/10/16/phantom-blade-zero-playstation-5-file-size/", "dominio": "finalweapon.net" }
+      ],
+      "nota": 5.8,
+      "justificativa": "Fato datado e verificável, de interesse moderado para jogadores que aguardam o lançamento, fecha o TOP 10 com variedade de pesquisadores.",
+      "pesquisador": "radar-lancamentos-internacionais"
+    }
+  ],
+  "tambemNoRadar": [
+    {
+      "slug": "mojang-nova-ceo-xbox-divisao-xp",
+      "titulo": "Nova CEO assume a Mojang/Minecraft e Xbox cria divisão XP para expandir franquias além dos jogos",
+      "resumo": "Maria Angelidou-Smith assumiu formalmente, em 19 de outubro de 2026, o cargo de CEO da Mojang e Minecraft na Xbox, enquanto Kayleen Walters migrou da Mojang para presidir a nova divisão Xbox XP, criada para coordenar cinema/TV, produtos licenciados e eventos físicos das franquias Xbox. O anúncio das mudanças havia sido feito em 8 de outubro, com efetivação das novas funções nesta data.",
+      "tipo": "noticia",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": [],
+      "tags": ["xbox", "minecraft", "mojang", "lideranca"],
+      "dataFato": "2026-10-19",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Xbox Wire", "url": "https://news.xbox.com/en-us/2026/10/08/new-leadership-appointments-and-xbox-division/amp/", "dominio": "news.xbox.com" },
+      "fontesSecundarias": [],
+      "nota": 5.2,
+      "justificativa": "Mudança de liderança relevante para o ecossistema Xbox/Minecraft, mas o anúncio original é de 8/10, o que reduz o ineditismo do fato dentro da janela.",
+      "pesquisador": "radar-empresas-internacionais"
+    },
+    {
+      "slug": "beamng-drive-ps5-brasil",
+      "titulo": "BeamNG.drive chega ao PS5 por R$ 142,50 na PlayStation Store brasileira",
+      "resumo": "O simulador de direção BeamNG.drive foi lançado oficialmente para PS5 em 19 de outubro de 2026, com suporte a tela dividida para até quatro jogadores e física de colisão em tempo real. Na PlayStation Store brasileira, a edição padrão custa R$ 142,50; a versão de console não inclui mods nem realidade virtual presentes no PC.",
+      "tipo": "lancamento",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PS5", "PC"],
+      "tags": ["beamng", "simulador", "ps5"],
+      "dataFato": "2026-10-19",
+      "janelaEstendida": false,
+      "fonte": { "nome": "PSX Brasil", "url": "https://psxbrasil.com.br/veja-o-trailer-de-lancamento-de-beamng-drive-ja-disponivel/", "dominio": "psxbrasil.com.br" },
+      "fontesSecundarias": [
+        { "nome": "Critical Hits", "url": "https://criticalhits.com.br/games/beamng-drive-chega-ao-ps5-com-fisica-realista-e-trailer-de-lancamento/", "dominio": "criticalhits.com.br" },
+        { "nome": "Game Overdrive", "url": "https://gameoverdrive.com.br/beamng-drive-ps5-lancamento-preco-tela-dividida/", "dominio": "gameoverdrive.com.br" }
+      ],
+      "nota": 5.0,
+      "justificativa": "Lançamento internacional com recorte de preço específico para o mercado brasileiro, mas de apelo nichado dentro do gênero de simuladores.",
+      "pesquisador": "radar-lancamentos-nacionais"
+    },
+    {
+      "slug": "witcher-3-remastered-patch-501-switch-2",
+      "titulo": "The Witcher 3 Remastered recebe patch 5.01 no Switch 2 com melhorias visuais",
+      "resumo": "A CD Projekt Red lançou a atualização 5.01 de The Witcher 3: Wild Hunt – Remastered para Switch 2, PS5 e PC, trazendo melhorias de nitidez de imagem e correções de bugs de gameplay. No Switch 2, o patch chegou duas semanas depois das demais plataformas.",
+      "tipo": "noticia",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["Switch 2", "PS5", "PC"],
+      "tags": ["witcher-3", "cd-projekt-red", "patch", "switch-2"],
+      "dataFato": "2026-10-19",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Nintendo Life", "url": "https://www.nintendolife.com/news/2026/10/the-witcher-3-remastereds-latest-update-is-now-live-here-are-the-full-patch-notes", "dominio": "nintendolife.com" },
+      "fontesSecundarias": [
+        { "nome": "MP1st", "url": "https://mp1st.com/news/the-witcher-3-remastered-update-5-01-now-available-on-switch-2-this-october-19", "dominio": "mp1st.com" },
+        { "nome": "Nintendo Wire", "url": "https://nintendowire.com/news/2026/10/19/the-witcher-3-remastereds-image-quality-improving-patch-is-now-live-on-switch-2/", "dominio": "nintendowire.com" }
+      ],
+      "nota": 5.0,
+      "justificativa": "Patch relevante para a base de jogadores de Switch 2, mas de impacto moderado comparado aos demais destaques do dia.",
+      "pesquisador": "radar-lancamentos-internacionais"
+    },
+    {
+      "slug": "faraway-data-lancamento-annapurna",
+      "titulo": "Faraway, de Steph Thirion, ganha data de lançamento após mais de uma década em desenvolvimento",
+      "resumo": "O jogo indie Faraway, desenvolvido solo por Steph Thirion e publicado pela Annapurna Interactive, teve sua data de lançamento confirmada para 5 de novembro de 2026, chegando a PC, PS5, Xbox Series X|S, Switch e Switch 2. O título é um arcade procedural sobre uma estrela cadente, em desenvolvimento há mais de dez anos.",
+      "tipo": "noticia",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC", "PS5", "Xbox Series", "Switch", "Switch 2"],
+      "tags": ["indie", "annapurna-interactive", "lancamento"],
+      "dataFato": "2026-10-19",
+      "janelaEstendida": false,
+      "fonte": { "nome": "GameSpot", "url": "https://www.gamespot.com/articles/after-16-years-chill-sci-fi-game-faraway-has-a-release-date/", "dominio": "gamespot.com" },
+      "fontesSecundarias": [
+        { "nome": "MonsterVine", "url": "https://monstervine.com/2026/10/faraway-release-date-november-5/", "dominio": "monstervine.com" },
+        { "nome": "GoNintendo", "url": "https://gonintendo.com/contents/66258-arcade-puzzler-faraway-comes-to-switch-switch-2-nov-5th-2026", "dominio": "gonintendo.com" }
+      ],
+      "nota": 4.8,
+      "justificativa": "Anúncio com boa carga narrativa sobre longo desenvolvimento solo, de interesse para a comunidade indie, mas impacto limitado fora desse público.",
+      "pesquisador": "radar-lancamentos-internacionais"
+    },
+    {
+      "slug": "dunecrawl-ps5-xbox-android",
+      "titulo": "DuneCrawl chega a PS5, Xbox Series e Android",
+      "resumo": "DuneCrawl, jogo cooperativo de exploração disponível no PC desde janeiro, foi lançado em 19 de outubro de 2026 para PlayStation 5, Xbox Series X|S e Android. As versões para Switch e Switch 2 chegam ainda em 2026, sem data definida.",
+      "tipo": "lancamento",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PS5", "Xbox Series", "Mobile"],
+      "tags": ["dunecrawl", "lancamento", "cooperativo"],
+      "dataFato": "2026-10-19",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Gematsu", "url": "https://www.gematsu.com/2026/10/dunecrawl-coming-to-ps5-xbox-series-and-android-on-october-19-switch-2-and-switch-later-in-2026", "dominio": "gematsu.com" },
+      "fontesSecundarias": [
+        { "nome": "VGChartz", "url": "https://www.vgchartz.com/article/469251/dunecrawl-launches-october-19-for-ps5-xbox-series-and-android-later-for-switch-2-and-switch/", "dominio": "vgchartz.com" }
+      ],
+      "nota": 4.0,
+      "justificativa": "Lançamento multiplataforma confirmado, porém de apelo nichado/indie com baixo impacto geral.",
+      "pesquisador": "radar-lancamentos-internacionais"
+    },
+    {
+      "slug": "movimento-eu-crio-jogos-82-comunidades",
+      "titulo": "Movimento Eu Crio Jogos mapeia 82 comunidades de criadores de games em 25 estados",
+      "resumo": "A rede descentralizada Movimento Eu Crio Jogos divulgou que, após a regulamentação do Marco Legal dos Games, já reúne 82 comunidades em 25 dos 27 estados brasileiros, com mais de 200 criadores cadastrados, 110 jogos em vitrine e 216 eventos mapeados. A rede funciona sem CNPJ ou liderança central, por participação voluntária.",
+      "tipo": "noticia",
+      "escopo": "nacional",
+      "confiabilidade": "confirmado",
+      "plataformas": [],
+      "tags": ["marco-legal-dos-games", "comunidade", "indie-brasil"],
+      "dataFato": "2026-10-17",
+      "janelaEstendida": true,
+      "fonte": { "nome": "Drops de Jogos", "url": "https://dropsdejogos.uai.com.br/noticias/indie/com-o-marco-legal-dos-games-regulamentado-rede-de-comunidades-mostra-onde-esta-quem-cria-jogos-no-brasil/", "dominio": "dropsdejogos.uai.com.br" },
+      "fontesSecundarias": [
+        { "nome": "Eu Crio Jogos", "url": "https://eucriojogos.com.br/", "dominio": "eucriojogos.com.br" }
+      ],
+      "nota": 4.5,
+      "justificativa": "Fato verificável com números concretos sobre a cena indie nacional, mas é notícia de nicho e está no limite da janela estendida, o que reduz sua posição no ranking.",
+      "pesquisador": "radar-empresas-nacionais"
+    }
+  ],
+  "descartados": []
+}
