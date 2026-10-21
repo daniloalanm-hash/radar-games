@@ -11,7 +11,23 @@ export interface Adaptacao {
   titulo: string;
   fonteUrl: string;
   plataformas: string[];
+  /** Imagem escolhida para o artigo (opcional; artigos antigos não têm). */
+  imagem: string | null;
+  imagemCredito: string | null;
+  /** "oficial" = material de divulgação; "veiculo" = imagem da matéria, checar direitos. */
+  imagemOrigem: "oficial" | "veiculo" | null;
+  /** Link do trailer oficial no YouTube, para inserir no blog. */
+  video: string | null;
   markdown: string;
+}
+
+function urlHttps(valor: string | undefined): string | null {
+  if (!valor) return null;
+  try {
+    return new URL(valor).protocol === "https:" ? valor : null;
+  } catch {
+    return null;
+  }
 }
 
 // Nota: parser de frontmatter feito à mão de propósito — os arquivos são
@@ -79,6 +95,13 @@ export function carregarAdaptacao(
       .split(",")
       .map((p) => p.trim())
       .filter(Boolean),
+    imagem: urlHttps(campos.imagem),
+    imagemCredito: campos.imagemCredito || null,
+    imagemOrigem:
+      campos.imagemOrigem === "oficial" || campos.imagemOrigem === "veiculo"
+        ? campos.imagemOrigem
+        : null,
+    video: urlHttps(campos.video),
     markdown: corpo,
   };
 }
