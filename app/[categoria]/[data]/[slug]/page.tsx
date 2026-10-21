@@ -66,6 +66,48 @@ export default async function PaginaArtigo({
         radar.
       </p>
 
+      {adaptacao.imagem && (
+        <figure className="space-y-2">
+          {/* eslint-disable-next-line @next/next/no-img-element -- imagem externa, sem otimização */}
+          <img
+            src={adaptacao.imagem}
+            alt=""
+            loading="lazy"
+            className="w-full rounded-lg border border-borda"
+          />
+          <figcaption className="flex flex-wrap items-center gap-x-3 gap-y-1 text-xs text-suave">
+            {adaptacao.imagemCredito && <span>Imagem: {adaptacao.imagemCredito}</span>}
+            {adaptacao.imagemOrigem === "veiculo" && (
+              <span className="text-alerta">
+                imagem do veículo, confira os direitos antes de publicar
+              </span>
+            )}
+            <a
+              href={adaptacao.imagem}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-destaque hover:underline"
+            >
+              abrir em tamanho original
+            </a>
+          </figcaption>
+        </figure>
+      )}
+
+      {adaptacao.video && (
+        <p className="text-sm">
+          Trailer para inserir no blog:{" "}
+          <a
+            href={adaptacao.video}
+            target="_blank"
+            rel="noopener noreferrer"
+            className="break-all text-destaque hover:underline"
+          >
+            {adaptacao.video}
+          </a>
+        </p>
+      )}
+
       <ArtigoMarkdown markdown={adaptacao.markdown} />
 
       {fonte && (
