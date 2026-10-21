@@ -23,6 +23,23 @@ Texto do artigo.
 **Fonte:** GamesIndustry.biz
 `;
 
+const ARTIGO_COM_IMAGEM = `---
+titulo: Jogo Exemplo ganha data
+data: 2026-08-30
+categoria: games
+posicao: 2
+slug: jogo-exemplo-ganha-data
+fonteUrl: https://exemplo.com/n
+plataformas: PC
+imagem: https://cdn.steamstatic.com/apps/1/header.jpg?t=123
+imagemCredito: Divulgação/Estúdio Exemplo
+imagemOrigem: oficial
+video: https://www.youtube.com/watch?v=AbCdEfGhIjK
+---
+
+## Jogo Exemplo ganha data
+`;
+
 let base: string;
 
 beforeAll(() => {
@@ -32,6 +49,25 @@ beforeAll(() => {
     path.join(base, "games", "2026-08-30", "1-estudio-exemplo-anuncia-aquisicao.md"),
     ARTIGO,
   );
+  writeFileSync(
+    path.join(base, "games", "2026-08-30", "2-jogo-exemplo-ganha-data.md"),
+    ARTIGO_COM_IMAGEM,
+  );
+});
+
+describe("imagem e vídeo do artigo", () => {
+  it("lê os campos novos", () => {
+    const a = carregarAdaptacao("games", "2026-08-30", "jogo-exemplo-ganha-data", base)!;
+    expect(a.imagem).toBe("https://cdn.steamstatic.com/apps/1/header.jpg?t=123");
+    expect(a.imagemCredito).toBe("Divulgação/Estúdio Exemplo");
+    expect(a.imagemOrigem).toBe("oficial");
+    expect(a.video).toBe("https://www.youtube.com/watch?v=AbCdEfGhIjK");
+  });
+
+  it("artigos antigos continuam sem imagem", () => {
+    const a = carregarAdaptacao("games", "2026-08-30", "estudio-exemplo-anuncia-aquisicao", base)!;
+    expect([a.imagem, a.imagemCredito, a.imagemOrigem, a.video]).toEqual([null, null, null, null]);
+  });
 });
 
 afterAll(() => rmSync(base, { recursive: true, force: true }));
@@ -68,8 +104,10 @@ describe("carregarAdaptacao", () => {
 describe("listarAdaptacoes", () => {
   it("lista as adaptações do dia", () => {
     const adaptacoes = listarAdaptacoes("games", "2026-08-30", base);
-    expect(adaptacoes).toHaveLength(1);
-    expect(adaptacoes[0].slug).toBe("estudio-exemplo-anuncia-aquisicao");
+    expect(adaptacoes.map((a) => a.slug)).toEqual([
+      "estudio-exemplo-anuncia-aquisicao",
+      "jogo-exemplo-ganha-data",
+    ]);
   });
 
   it("devolve lista vazia para dia sem adaptações", () => {
