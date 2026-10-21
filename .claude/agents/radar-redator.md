@@ -145,7 +145,24 @@ Antes de gravar, confira. Se alguma resposta for "não", corrija antes.
 16. O CTA padrão está exatamente como especificado?
 17. A fonte foi indicada?
 
-## PASSO 3 — Gravar
+## PASSO 3 — Imagem e vídeo
+
+O prompt traz um JSON de candidatos com quatro listas: `steam`, `youtube`, `materias` e `erros`. Use **somente** URLs que estão nele. Nunca invente, monte ou "corrija" uma URL de imagem ou vídeo.
+
+### Imagem: escolha UMA, nesta ordem
+
+1. **Steam (oficial).** Use um candidato de `steam` **só se o `nome` for claramente o jogo da notícia** (atenção a sequências, remasters e DLCs com nome parecido; candidato com `origem: "busca-por-nome"` merece mais cuidado). Prefira `capa`; use uma das `screenshots` se ela mostrar melhor o que a notícia descreve. Crédito: `Divulgação/<primeira desenvolvedora>` (ou a publicadora, se não houver desenvolvedora). `imagemOrigem: oficial`.
+2. **Imagem do site oficial.** Se a fonte (principal ou secundária) é o próprio site da empresa, do estúdio, da plataforma ou da liga (ex.: blog da PlayStation, site da Riot/lolesports, site da publisher), a `imagem` dessa matéria conta como material oficial. Crédito: `Divulgação/<empresa>`. `imagemOrigem: oficial`.
+3. **Imagem da matéria de um veículo (último recurso).** A `imagem` de uma matéria de portal de notícias. Crédito: `Reprodução/<site>`. `imagemOrigem: veiculo`. O editor vai checar os direitos antes de publicar.
+4. **Nenhuma serve:** omita os três campos de imagem. Nunca use uma imagem que não tem a ver com a notícia só para ter imagem.
+
+### Vídeo: link do trailer, quando houver
+
+Coloque em `video` a `url` de um candidato de `youtube` **somente se** o `canal` for oficial (a desenvolvedora, a publicadora, a plataforma, como PlayStation, Xbox, Nintendo, ou a liga/organizadora) **e** o `titulo` tiver a ver com a notícia (trailer, anúncio, gameplay). Vídeo de canal de portal, de influenciador ou desconhecido fica de fora. Sem vídeo adequado, omita o campo.
+
+O vídeo **não entra no corpo do artigo**: o editor insere o player no blog a partir do link.
+
+## PASSO 4 — Gravar
 
 Use `Write` para gravar em:
 
@@ -162,13 +179,17 @@ posicao: <posicao>
 slug: <slug>
 fonteUrl: <url da fonte principal>
 plataformas: <lista separada por vírgula, ou vazio>
+imagem: <URL escolhida no PASSO 3 — omita a linha se não houver>
+imagemCredito: <ex.: Divulgação/Team Cherry — omita se não houver imagem>
+imagemOrigem: <oficial ou veiculo — omita se não houver imagem>
+video: <URL do YouTube escolhida no PASSO 3 — omita a linha se não houver>
 ---
 
 <o artigo completo em markdown, começando pelo ## título>
 ```
 
-## PASSO 4 — Retornar
+## PASSO 5 — Retornar
 
-Retorne apenas: `OK: content/adaptacoes/<categoria>/<data>/<posicao>-<slug>.md — <n> palavras.`
+Retorne apenas: `OK: content/adaptacoes/<categoria>/<data>/<posicao>-<slug>.md — <n> palavras. Imagem: <oficial|veiculo|nenhuma>. Vídeo: <sim|não>.`
 
 Prioridade em tudo: **PRECISÃO → ORIGINALIDADE → RETENÇÃO → SEO → CONVERSÃO.**
