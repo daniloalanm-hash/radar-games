@@ -14,7 +14,9 @@ export function GET() {
     .map((e) => ({
       data: e.data,
       janela: e.janela,
-      itens: e.itens.map((i) => ({
+      itens: e.itens.map((i) => {
+        const adaptacao = carregarAdaptacao("games", e.data, i.slug);
+        return {
         posicao: i.posicao,
         slug: i.slug,
         titulo: i.titulo,
@@ -29,8 +31,14 @@ export function GET() {
         fonte: i.fonte,
         fontesSecundarias: i.fontesSecundarias ?? [],
         // matéria completa já adaptada para o blog (quando existe): dá material para um roteiro de 1 min+
-        artigo: carregarAdaptacao("games", e.data, i.slug)?.markdown ?? null,
-      })),
+        artigo: adaptacao?.markdown ?? null,
+        // imagem e trailer escolhidos na adaptação (quando existem); "veiculo" = checar direitos
+        imagem: adaptacao?.imagem ?? null,
+        imagemCredito: adaptacao?.imagemCredito ?? null,
+        imagemOrigem: adaptacao?.imagemOrigem ?? null,
+        video: adaptacao?.video ?? null,
+        };
+      }),
     }));
   return NextResponse.json(
     { atualizado: edicoes[0]?.data ?? null, edicoes },
