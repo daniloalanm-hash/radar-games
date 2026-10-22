@@ -1,0 +1,323 @@
+{
+  "categoria": "games",
+  "data": "2026-10-21",
+  "geradoEm": "2026-10-21T21:30:00-03:00",
+  "janela": { "inicio": "2026-10-20T21:00:00-03:00", "fim": "2026-10-21T21:00:00-03:00" },
+  "observacao": "Dia marcado por grandes movimentos corporativos internacionais; o lado nacional trouxe poucos fatos de peso, com destaque para o lançamento de um estúdio indie de Curitiba.",
+  "itens": [
+    {
+      "posicao": 1,
+      "slug": "ea-fecha-bioware-cancela-mass-effect-e-une-respawn-dice-em-battlefront",
+      "titulo": "EA fecha a BioWare, cancela novo Mass Effect e une Respawn e DICE em Star Wars: Battlefront",
+      "resumo": "A Electronic Arts anunciou em 21/10 o fechamento definitivo da BioWare (31 anos de atividade), cancelando o desenvolvimento inicial de um novo Mass Effect, dentro de uma reestruturação que eliminou cerca de 400 vagas em toda a empresa. No mesmo comunicado, a EA confirmou que Respawn Entertainment e DICE vão trabalhar juntas em um novo título da franquia Star Wars: Battlefront, apontado por fontes como 'Battlefront 3'. É o primeiro grande movimento da EA após a conclusão da compra de US$ 55 bilhões liderada pelo fundo soberano saudita PIF, Silver Lake e Affinity Partners.",
+      "tipo": "noticia",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": [],
+      "tags": ["ea", "bioware", "mass-effect", "star-wars-battlefront", "demissoes", "fusao-publisher"],
+      "dataFato": "2026-10-21",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Variety", "url": "https://variety.com/2026/digital/news/ea-layoffs-bioware-shutting-down-respawn-dice-star-wars-battlefront-3-1236918715/", "dominio": "variety.com" },
+      "fontesSecundarias": [
+        { "nome": "GameSpot", "url": "https://www.gamespot.com/articles/ea-shuts-down-dragon-age-mass-effect-studio-bioware/", "dominio": "gamespot.com" },
+        { "nome": "Bloomberg", "url": "https://www.bloomberg.com/news/articles/2026-10-21/electronic-arts-to-cut-400-jobs-shut-down-bioware", "dominio": "bloomberg.com" },
+        { "nome": "Insider Gaming", "url": "https://insider-gaming.com/ea-shutting-down-bioware-cut-400-jobs-across-the-company/", "dominio": "insider-gaming.com" },
+        { "nome": "GameSpot", "url": "https://www.gamespot.com/articles/star-wars-battlefront-3-reportedly-in-development-by-eas-top-shooter-studios/", "dominio": "gamespot.com" }
+      ],
+      "nota": 9.5,
+      "justificativa": "Fechamento de um dos estúdios mais históricos da indústria, cancelamento de uma franquia AAA e reorganização de outra em um único dia é o fato mais impactante da janela, com cobertura ampla e fontes de peso confirmando cada ponto.",
+      "pesquisador": "radar-empresas-internacionais"
+    },
+    {
+      "posicao": 2,
+      "slug": "evil-geniuses-encerra-operacoes-apos-25-anos",
+      "titulo": "Evil Geniuses encerra operações após mais de 25 anos",
+      "resumo": "A organização Evil Geniuses anunciou em 20 de outubro de 2026 que encerrará suas operações competitivas e do dia a dia em 2 de novembro, após mais de 25 anos de história (fundada em 1999). O CEO Chris DeAppolonio citou patrocínio limitado e custo crescente de competir no alto nível como motivos, pouco depois de a EG ficar de fora do programa de parceria da VCT Americas para 2027; todo o elenco de Valorant se torna agente livre a partir de 2 de novembro.",
+      "tipo": "noticia",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": [],
+      "tags": ["esports", "evil-geniuses", "valorant", "encerramento-organizacao"],
+      "dataFato": "2026-10-20",
+      "janelaEstendida": false,
+      "fonte": { "nome": "VLR.gg", "url": "https://www.vlr.gg/778312/evil-geniuses-to-cease-operations", "dominio": "vlr.gg" },
+      "fontesSecundarias": [
+        { "nome": "Shacknews", "url": "https://www.shacknews.com/article/151082/evil-geniuses-ending-competitive-day-to-day-operations", "dominio": "shacknews.com" },
+        { "nome": "The Spike", "url": "https://www.thespike.gg/valorant/news/evil-geniuses-to-shut-down-all-operations-entire-valorant-roster-to-be-released/9070", "dominio": "thespike.gg" }
+      ],
+      "nota": 8.8,
+      "justificativa": "O fim de uma das organizações de esports mais tradicionais da América do Norte, com mais de duas décadas de história, é um marco para a cena competitiva e afeta diretamente jogadores e fãs.",
+      "pesquisador": "radar-esports"
+    },
+    {
+      "posicao": 3,
+      "slug": "microsoft-nega-venda-do-xbox-apos-rumor-de-avaliacao-de-150-bilhoes",
+      "titulo": "Microsoft nega venda do Xbox após rumor de avaliação de até US$ 150 bilhões",
+      "resumo": "Segundo reportagem do The Information publicada em 21/10, firmas de private equity exploraram informalmente a compra da divisão Xbox da Microsoft, avaliando o negócio entre US$ 100 bilhões e US$ 150 bilhões, mas as conversas não avançaram para negociação formal. Um porta-voz da Microsoft respondeu publicamente que 'Xbox is not for sale'.",
+      "tipo": "noticia",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["Xbox Series"],
+      "tags": ["microsoft", "xbox", "private-equity", "fusoes-aquisicoes"],
+      "dataFato": "2026-10-21",
+      "janelaEstendida": false,
+      "fonte": { "nome": "GameSpot", "url": "https://www.gamespot.com/articles/prospective-buyers-reportedly-value-xbox-as-high-as-150-billion/", "dominio": "gamespot.com" },
+      "fontesSecundarias": [
+        { "nome": "Windows Central", "url": "https://www.windowscentral.com/gaming/xbox/xbox-was-reportedly-valued-up-to-usd150b-as-private-equity-firms-explored-buying-microsofts-gaming-business", "dominio": "windowscentral.com" },
+        { "nome": "Pure Xbox", "url": "https://www.purexbox.com/news/2026/10/report-xbox-valued-at-over-usd100-billion-by-private-equity-firms-in-short-lived-discussions", "dominio": "purexbox.com" },
+        { "nome": "Power Up Gaming", "url": "https://powerupgaming.co.uk/2026/10/21/microsoft-responds-to-rumors-of-a-private-equity-buyout-of-xbox-not-for-sale/", "dominio": "powerupgaming.co.uk" }
+      ],
+      "nota": 8.2,
+      "justificativa": "Rumor de bilhões envolvendo um dos maiores players do mercado, com resposta oficial da Microsoft confirmando o fato jornalístico (a negociação ocorreu, mesmo sem avançar), e ampla cobertura corroborando os números.",
+      "pesquisador": "radar-empresas-internacionais"
+    },
+    {
+      "posicao": 4,
+      "slug": "final-fantasy-vii-remake-intergrade-chega-ao-xbox-game-pass",
+      "titulo": "Final Fantasy VII Remake Intergrade chega ao Xbox Game Pass em 29 de outubro",
+      "resumo": "A Microsoft confirmou oficialmente no Xbox Wire, em 20 de outubro de 2026, que Final Fantasy VII Remake Intergrade entrará no Xbox Game Pass Ultimate, Premium e PC Game Pass em 29 de outubro. O pacote inclui o jogo principal e o episódio extra 'INTERmission', estrelado por Yuffie Kisaragi, mas membros Essential ficam de fora e Rebirth não está incluído.",
+      "tipo": "lancamento",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["Xbox Series", "PC"],
+      "tags": ["xbox-game-pass", "final-fantasy", "square-enix"],
+      "dataFato": "2026-10-20",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Xbox Wire", "url": "https://news.xbox.com/en-us/2026/10/20/xbox-game-pass-october-2026-wave-2/", "dominio": "news.xbox.com" },
+      "fontesSecundarias": [
+        { "nome": "Windows Central", "url": "https://www.windowscentral.com/gaming/xbox/final-fantasy-vii-remake-game-pass-october-2026", "dominio": "windowscentral.com" },
+        { "nome": "Video Games Chronicle", "url": "https://www.videogameschronicle.com/news/the-rest-of-octobers-xbox-game-pass-titles-have-been-revealed-including-final-fantasy-7-remake/", "dominio": "videogameschronicle.com" }
+      ],
+      "nota": 7.8,
+      "justificativa": "Chegada de um RPG AAA aclamado ao Game Pass é notícia de alto interesse para assinantes, com fonte primária oficial da Microsoft.",
+      "pesquisador": "radar-lancamentos-internacionais"
+    },
+    {
+      "posicao": 5,
+      "slug": "xbox-planeja-mais-tres-rodadas-de-demissoes-ate-janeiro-2027",
+      "titulo": "Xbox planeja mais três rodadas de demissões até janeiro de 2027",
+      "resumo": "Segundo reportagem publicada em 21/10 citando fontes internas, a CEO do Xbox, Asha Sharma, estaria planejando três novas rodadas de demissões (outubro, novembro e janeiro) dentro do plano de 'reset' que já eliminou 1.868 das 3.200 vagas previstas para o ano fiscal 2027 da Microsoft.",
+      "tipo": "noticia",
+      "escopo": "internacional",
+      "confiabilidade": "rumor",
+      "plataformas": ["Xbox Series"],
+      "tags": ["xbox", "microsoft", "demissoes"],
+      "dataFato": "2026-10-21",
+      "janelaEstendida": false,
+      "fonte": { "nome": "NotebookCheck", "url": "https://www.notebookcheck.net/Xbox-reportedly-plans-three-more-rounds-of-layoffs.1429496.0.html", "dominio": "notebookcheck.net" },
+      "fontesSecundarias": [
+        { "nome": "MassivelyOP", "url": "https://massivelyop.com/2026/10/21/xbox-is-reportedly-queuing-up-for-three-more-layoff-rounds-starting-as-soon-as-this-month", "dominio": "massivelyop.com" },
+        { "nome": "GodIsAGeek", "url": "https://godisageek.com/2026/10/xbox-layoffs-rounds-january", "dominio": "godisageek.com" },
+        { "nome": "Tech4Gamers", "url": "https://tech4gamers.com/asha-sharma-layoffs-xbox/", "dominio": "tech4gamers.com" }
+      ],
+      "nota": 7.3,
+      "justificativa": "Mesmo como rumor, o impacto sobre funcionários e o padrão recorrente de cortes no setor justificam a posição, ainda mais no mesmo dia em que a Microsoft negou venda do Xbox.",
+      "pesquisador": "radar-empresas-internacionais"
+    },
+    {
+      "posicao": 6,
+      "slug": "lighthouse-of-madness-estudio-curitibano-flying-jack-chega-ao-steam",
+      "titulo": "Lighthouse of Madness, do estúdio curitibano Flying Jack, chega ao Steam",
+      "resumo": "O estúdio brasileiro Flying Jack Creative Studio, de Curitiba, lançou 'Lighthouse of Madness' para PC via Steam em 21 de outubro de 2026. É o primeiro projeto do estúdio, um puzzle em primeira pessoa com horror cósmico inspirado em H.P. Lovecraft, em desenvolvimento desde 2020; evento presencial de lançamento está marcado para 23/10 no Estúdio Riachuelo, em Curitiba.",
+      "tipo": "lancamento",
+      "escopo": "nacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC"],
+      "tags": ["estudio-brasileiro", "indie", "terror", "steam"],
+      "dataFato": "2026-10-21",
+      "janelaEstendida": false,
+      "fonte": { "nome": "BemParaná", "url": "https://www.bemparana.com.br/noticias/parana/estudio-curitibano-lanca-game-inspirado-em-h-p-lovecraft-no-estudio-riachuelo-nesta-sexta-feira/", "dominio": "bemparana.com.br" },
+      "fontesSecundarias": [
+        { "nome": "Omelete", "url": "https://www.omelete.com.br/games/lighthouse-of-madness-jogo-brasileiro-steam-ja-disponivel", "dominio": "omelete.com.br" },
+        { "nome": "Steam", "url": "https://store.steampowered.com/app/1564060/Lighthouse_of_Madness/?l=brazilian", "dominio": "store.steampowered.com" }
+      ],
+      "nota": 6.8,
+      "justificativa": "Lançamento nacional confirmado por múltiplas fontes, representando a cota de conteúdo brasileiro mesmo sendo um estúdio pequeno em seu primeiro projeto.",
+      "pesquisador": "radar-lancamentos-nacionais"
+    },
+    {
+      "posicao": 7,
+      "slug": "crimson-desert-detalha-dlc-charting-the-unknown",
+      "titulo": "Crimson Desert detalha as 8 novas features do DLC 'Charting The Unknown'",
+      "resumo": "A Pearl Abyss divulgou, em 21 de outubro de 2026, um trailer detalhando as oito novas features do DLC 'Charting The Unknown' para Crimson Desert, incluindo exploração submarina, construção de navios, sistema de romance, construção de casas e reivindicação de castelos. A expansão custará £19,99/US$ 24,99 e chega em 29 de outubro de 2026.",
+      "tipo": "lancamento",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC", "PS5", "Xbox Series"],
+      "tags": ["crimson-desert", "pearl-abyss", "dlc"],
+      "dataFato": "2026-10-21",
+      "janelaEstendida": false,
+      "fonte": { "nome": "GamingBible", "url": "https://www.gamingbible.com/news/crimson-desert-goty-dlc-confirms-8-new-features-romance-076825-20261021", "dominio": "gamingbible.com" },
+      "fontesSecundarias": [
+        { "nome": "Vice", "url": "https://www.vice.com/en/article/crimson-desert-is-getting-a-ton-of-new-content-this-october/", "dominio": "vice.com" }
+      ],
+      "nota": 6.9,
+      "justificativa": "DLC de um dos lançamentos mais aguardados do ano com conteúdo substancial, mas de interesse mais restrito ao público já engajado com o jogo.",
+      "pesquisador": "radar-lancamentos-internacionais"
+    },
+    {
+      "posicao": 8,
+      "slug": "id-xbox-showcase-outubro-revela-shrek-2-remastered",
+      "titulo": "ID@Xbox Showcase de outubro revela Shrek 2 Remastered e novos indies",
+      "resumo": "O ID@Xbox Showcase de 20 de outubro de 2026 apresentou 30 minutos de novos trailers e anúncios, com destaque mundial para Shrek 2 Remastered (lançamento em 10 de novembro, com modo foto e troca instantânea de personagem para até 4 jogadores). Também foram mostrados Magenta Down, Waveling Island, Love is a Roguelike, Chronoscript e Red Kiss, com lançamentos entre 2026 e 2027.",
+      "tipo": "lancamento",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["Xbox Series", "PC"],
+      "tags": ["id-xbox", "showcase", "indies", "shrek"],
+      "dataFato": "2026-10-20",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Game Informer", "url": "https://gameinformer.com/2026/10/20/heres-a-recap-of-the-october-2026-idxbox-showcase", "dominio": "gameinformer.com" },
+      "fontesSecundarias": [
+        { "nome": "Gamer Social Club", "url": "https://gamersocialclub.ca/2026/10/20/idxbox-showcase-october-2026-every-game-shown/", "dominio": "gamersocialclub.ca" },
+        { "nome": "KeenGamer", "url": "https://www.keengamer.com/articles/news/idxbox-october-2026-showcase-delivers-new-trailers-and-reveals/", "dominio": "keengamer.com" }
+      ],
+      "nota": 6.7,
+      "justificativa": "Showcase com múltiplos anúncios e o retorno nostálgico de Shrek 2 Remastered gera bom engajamento, mas o conjunto é majoritariamente de jogos indies de nicho.",
+      "pesquisador": "radar-lancamentos-internacionais"
+    },
+    {
+      "posicao": 9,
+      "slug": "pain-gaming-avanca-aos-playoffs-do-circuit-x-curitiba-4",
+      "titulo": "paiN Gaming avança aos playoffs do Circuit X Curitiba #4",
+      "resumo": "A paiN Gaming, comandada por Lucas 'Tatu' Santana, venceu BARCA (2-1) e Fluxo (2-1) nas partidas do Grupo A do Circuit X Curitiba #4, em 21 de outubro de 2026, garantindo a primeira vaga da chave nos playoffs. O torneio é realizado no Paraná, com oito equipes e premiação total de US$ 15 mil.",
+      "tipo": "esports",
+      "escopo": "nacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC"],
+      "tags": ["cs2", "pain-gaming", "circuit-x-curitiba"],
+      "dataFato": "2026-10-21",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Dust2", "url": "https://www.dust2.com.br/noticias/79143/pain-avanca-aos-playoffs-do-circuit-x-curitiba-4", "dominio": "dust2.com.br" },
+      "fontesSecundarias": [
+        { "nome": "HLTV", "url": "https://www.hltv.org/matches/2399805/pain-vs-barca-circuit-x-curitiba-season-4", "dominio": "hltv.org" },
+        { "nome": "HLTV", "url": "https://www.hltv.org/matches/2399807/pain-vs-fluxo-circuit-x-curitiba-season-4", "dominio": "hltv.org" }
+      ],
+      "nota": 5.8,
+      "justificativa": "Resultado competitivo nacional confirmado por múltiplas fontes, completando a cota de conteúdo brasileiro da edição; torneio regional de porte modesto.",
+      "pesquisador": "radar-esports"
+    },
+    {
+      "posicao": 10,
+      "slug": "ps-plus-extra-perde-gta-v-e-red-dead-redemption-2-em-novembro",
+      "titulo": "PS Plus Extra perde Grand Theft Auto V e Red Dead Redemption 2 em novembro",
+      "resumo": "A Sony confirmou que 11 jogos sairão do catálogo PS Plus Extra em 17 de novembro de 2026, incluindo os títulos da Rockstar Grand Theft Auto V e Red Dead Redemption 2, além de Football Manager 26 e The Talos Principle 2.",
+      "tipo": "noticia",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PS5", "PS4"],
+      "tags": ["ps-plus", "sony", "rockstar", "catalogo"],
+      "dataFato": "2026-10-21",
+      "janelaEstendida": true,
+      "fonte": { "nome": "ScreenRant", "url": "https://screenrant.com/playstation-plus-gta-5-leaving-november-2026/", "dominio": "screenrant.com" },
+      "fontesSecundarias": [
+        { "nome": "PSU", "url": "https://www.psu.com/news/ps-plus-extra-games-leaving-in-november-2026-include-grand-theft-auto-v-red-dead-redemption-2/", "dominio": "psu.com" }
+      ],
+      "nota": 6.2,
+      "justificativa": "Saída de dois dos jogos mais populares do catálogo PS Plus Extra afeta diretamente milhões de assinantes, mesmo sendo efeito só em novembro.",
+      "pesquisador": "radar-lancamentos-internacionais"
+    }
+  ],
+  "tambemNoRadar": [
+    {
+      "slug": "robogal-gaga-delta-lady-atinge-marco-de-wishlists",
+      "titulo": "RoboGAL: Gaga Delta Lady atinge marco de wishlists antes do lançamento",
+      "resumo": "O jogo 'RoboGAL: Gaga Delta Lady', do estúdio brasileiro TwinkleSoft (publicado pela Nuntius Games), atingiu 10 mil adições à lista de desejos no Steam, segundo notícia publicada em 20 de outubro de 2026. O título, inspirado em Mega Man e Touhou Project, tem trilha sonora composta por Neoware (catarinense) e lançamento previsto para 29 de outubro no Steam.",
+      "tipo": "noticia",
+      "escopo": "nacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC"],
+      "tags": ["estudio-brasileiro", "indie", "steam", "wishlist"],
+      "dataFato": "2026-10-20",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Gamers e Games", "url": "https://www.gamersegames.com.br/2026/10/20/robogal-gaga-delta-lady-detalha-inspiracoes-da-trilha-sonora-e-atinge-marco-no-steam/", "dominio": "gamersegames.com.br" },
+      "fontesSecundarias": [
+        { "nome": "Flow Games", "url": "https://flowgames.gg/robogal-promete-muita-diversao-ao-estilo-mega-man/", "dominio": "flowgames.gg" }
+      ],
+      "nota": 5.5,
+      "justificativa": "Marco de wishlist é positivo para o estúdio, mas tem alcance limitado e não representa lançamento efetivo na janela.",
+      "pesquisador": "radar-lancamentos-nacionais"
+    },
+    {
+      "slug": "wolves-esports-vence-a-team-no-vct-threshold-china",
+      "titulo": "Wolves Esports vence A Team na abertura do VCT Threshold China 2026",
+      "resumo": "Wolves Esports venceu A Team por 2-0 na abertura de sua campanha no VCT Threshold China 2026, disputado em Shangai, em 21 de outubro de 2026. O torneio reúne 13 equipes e segue até 1º de novembro; a partida ocorre dias após a Wolves perder seu status de parceira da Riot Games para o ciclo 2027-2028 do VCT China.",
+      "tipo": "esports",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC"],
+      "tags": ["valorant", "vct", "wolves-esports"],
+      "dataFato": "2026-10-21",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Esports News UK", "url": "https://esports-news.co.uk/2026/10/21/wolves-esports-sweep-a-team-2-0-to-open-vct-threshold-china-2026/", "dominio": "esports-news.co.uk" },
+      "fontesSecundarias": [
+        { "nome": "Esports.gg", "url": "https://esports.gg/news/valorant/wolves-esports-vct-threshold-china-a-team/", "dominio": "esports.gg" }
+      ],
+      "nota": 5.0,
+      "justificativa": "Resultado de fase de grupos de torneio regional, relevante para fãs de Valorant na China mas de impacto limitado para o público geral.",
+      "pesquisador": "radar-esports"
+    },
+    {
+      "slug": "ps-store-brasil-lanca-promocao-planeta-das-ofertas",
+      "titulo": "PlayStation Store Brasil lança promoção 'Planeta das Ofertas'",
+      "resumo": "A PlayStation Store Brasil iniciou em 21 de outubro de 2026 a promoção 'Planeta das Ofertas', com descontos de até 75% em centenas de jogos de PS4 e PS5, válida até 4 de novembro. Entre os destaques estão Detroit: Become Human (75% off) e Horizon Forbidden West (70% off).",
+      "tipo": "noticia",
+      "escopo": "nacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PS5", "PS4"],
+      "tags": ["ps-store", "promocao", "descontos"],
+      "dataFato": "2026-10-21",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Gamers e Games", "url": "https://www.gamersegames.com.br/2026/10/21/playstation-store-tem-centenas-de-jogos-de-ps4-e-ps5-em-promocao-por-tempo-limitado/", "dominio": "gamersegames.com.br" },
+      "fontesSecundarias": [
+        { "nome": "Última Ficha", "url": "https://ultimaficha.com.br/2026/10/21/playstation-store-promocao-planeta-descontos/", "dominio": "ultimaficha.com.br" },
+        { "nome": "AntiHype", "url": "https://antihype.com.br/c/games/promocao-planeta-das-ofertas-ps-store-outubro-2026/", "dominio": "antihype.com.br" }
+      ],
+      "nota": 5.2,
+      "justificativa": "Promoção útil para consumidores, mas é conteúdo recorrente e de baixo ineditismo.",
+      "pesquisador": "radar-lancamentos-nacionais"
+    },
+    {
+      "slug": "epic-games-store-inicia-promocao-de-halloween",
+      "titulo": "Epic Games Store inicia promoção de Halloween com até 80% de desconto",
+      "resumo": "A Epic Games Store iniciou promoção de Halloween com descontos de até 80% em jogos de terror e AAA, válida de 19 de outubro até 2 de novembro de 2026. Destaques incluem Dead Space Remake (R$ 249,00 por R$ 49,80) e Alien: Isolation com 75% de desconto.",
+      "tipo": "noticia",
+      "escopo": "nacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC"],
+      "tags": ["epic-games-store", "promocao", "halloween"],
+      "dataFato": "2026-10-21",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Mixvale", "url": "https://www.mixvale.com.br/2026/10/21/epic-games-store-inicia-promocao-de-halloween-no-pc-ate-novembro/", "dominio": "mixvale.com.br" },
+      "fontesSecundarias": [
+        { "nome": "Drops de Jogos", "url": "https://dropsdejogos.uai.com.br/noticias/industria/ja-disponivel-promocao-de-halloween-da-epic-games-store-tem-descontos-de-ate-80/", "dominio": "dropsdejogos.uai.com.br" }
+      ],
+      "nota": 4.8,
+      "justificativa": "Promoção sazonal recorrente, com baixo ineditismo e impacto editorial limitado.",
+      "pesquisador": "radar-lancamentos-nacionais"
+    },
+    {
+      "slug": "stupid-never-dies-lancado-para-ps5-e-pc",
+      "titulo": "Stupid Never Dies é lançado para PS5 e PC",
+      "resumo": "A GPTRACK50, com a Sega como co-publisher, lançou em 21 de outubro de 2026 o RPG de ação 'Stupid Never Dies' para PC e PlayStation 5. O jogo é protagonizado por Davy, um zumbi fraco e tímido que busca reviver sua amada derrotando o Rei dos Monstros.",
+      "tipo": "lancamento",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PS5", "PC"],
+      "tags": ["sega", "rpg", "lancamento"],
+      "dataFato": "2026-10-21",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Gematsu", "url": "https://www.gematsu.com/2026/07/stupid-never-dies-launches-october-21", "dominio": "gematsu.com" },
+      "fontesSecundarias": [
+        { "nome": "Steam", "url": "https://store.steampowered.com/app/3486530/Stupid_Never_Dies/", "dominio": "store.steampowered.com" }
+      ],
+      "nota": 5.3,
+      "justificativa": "Lançamento de RPG de nicho com publisher relevante (Sega), mas sem grande apelo mainstream.",
+      "pesquisador": "radar-lancamentos-internacionais"
+    }
+  ],
+  "descartados": [
+    { "titulo": "Promoção 'Escolha do Jogador' na PS Store reduz preços de jogos de terror", "motivo": "Duplicata temática da outra promoção da PS Store ('Planeta das Ofertas') já contemplada; sem fonte secundária própria e de baixo ineditismo." },
+    { "titulo": "MPL Indonesia anuncia AIMS como parceiro oficial de trading para Season 18", "motivo": "Fato de alcance muito limitado para o público-alvo (liga regional da Indonésia) e sem fonte secundária que corrobore." }
+  ]
+}
