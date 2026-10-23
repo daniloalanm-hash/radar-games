@@ -1,0 +1,370 @@
+{
+  "categoria": "games",
+  "data": "2026-10-22",
+  "geradoEm": "2026-10-23T09:00:00-03:00",
+  "janela": { "inicio": "2026-10-21T21:00:00-03:00", "fim": "2026-10-22T21:00:00-03:00" },
+  "observacao": null,
+  "itens": [
+    {
+      "posicao": 1,
+      "slug": "ea-fecha-bioware-cancela-mass-effect-corta-400-vagas",
+      "titulo": "EA fecha a BioWare após 31 anos e cancela próximo Mass Effect",
+      "resumo": "A Electronic Arts anunciou em 21 de outubro de 2026 o fechamento da BioWare, estúdio canadense de Edmonton criador de Mass Effect, Dragon Age e Baldur's Gate, encerrando mais de 30 anos de atividade. A decisão veio com o cancelamento do próximo Mass Effect (anunciado em 2020) e um corte de cerca de 400 vagas (3% do quadro da EA), sendo cerca de 50 delas na própria BioWare. É o primeiro fechamento interno de estúdio desde que a EA concluiu, em agosto de 2026, sua aquisição privada de US$ 55 bilhões liderada pelo fundo soberano saudita PIF, Silver Lake e Affinity Partners.",
+      "tipo": "noticia",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": [],
+      "tags": ["ea", "bioware", "fechamento-de-estudio", "mass-effect", "demissoes"],
+      "dataFato": "2026-10-21",
+      "janelaEstendida": false,
+      "fonte": { "nome": "The Washington Post", "url": "https://www.washingtonpost.com/entertainment/video-games/2026/10/21/bioware-closed-by-ea-after-30-years-influential-genre-defining-games/", "dominio": "washingtonpost.com" },
+      "fontesSecundarias": [
+        { "nome": "GameSpot", "url": "https://www.gamespot.com/articles/ea-shuts-down-dragon-age-mass-effect-studio-bioware/", "dominio": "gamespot.com" },
+        { "nome": "PC Gamer", "url": "https://www.pcgamer.com/gaming-industry/rip-bioware-ea-has-shut-down-the-legendary-rpg-developer/", "dominio": "pcgamer.com" },
+        { "nome": "Deadline", "url": "https://deadline.com/2026/10/ea-cuts-400-jobs-shuts-down-bioware-1237170402/", "dominio": "deadline.com" },
+        { "nome": "Massively OP", "url": "https://massivelyop.com/2026/10/21/electronic-arts-officially-shuts-down-bioware-and-lays-of-400-workers-in-the-process/", "dominio": "massivelyop.com" },
+        { "nome": "Omelete", "url": "https://www.omelete.com.br/games/electronic-arts-demissoes-fechamento-bioware-mass-effect-dragon-age", "dominio": "omelete.com.br" }
+      ],
+      "nota": 9.8,
+      "justificativa": "Fechamento de um dos estúdios mais históricos e influentes da indústria (Mass Effect, Dragon Age, KOTOR), com corte de centenas de empregos e ligação direta ao novo controle acionário saudita da EA. Confirmado por múltiplas fontes internacionais de alto peso editorial e também pela imprensa brasileira.",
+      "pesquisador": "radar-empresas-internacionais"
+    },
+    {
+      "posicao": 2,
+      "slug": "wildlife-studios-adquire-pk-xd-afterverse",
+      "titulo": "Wildlife Studios adquire PK XD e portfólio da Afterverse, atingindo 6 bilhões de downloads",
+      "resumo": "A Wildlife Studios, primeiro unicórnio brasileiro de games, anunciou em 22 de outubro de 2026 a aquisição do jogo PK XD e outros títulos da Afterverse, estúdio criado pela Movile em 2019. Com a operação, o portfólio combinado da Wildlife chega a 6 bilhões de downloads no mundo; a Afterverse continuará operando de forma independente, sob os fundadores Guilherme Martins e Rodolfo Reis, usando a estrutura de distribuição e tecnologia da Wildlife. O valor da transação não foi divulgado.",
+      "tipo": "noticia",
+      "escopo": "nacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["Mobile"],
+      "tags": ["wildlife-studios", "aquisicao", "mobile", "mercado-brasileiro"],
+      "dataFato": "2026-10-22",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Mobile Time", "url": "https://www.mobiletime.com.br/noticias/22/10/2026/wildlife-compra-pk-xd/", "dominio": "mobiletime.com.br" },
+      "fontesSecundarias": [
+        { "nome": "Exame", "url": "https://exame.com/insight/primeiro-unicornio-de-games-do-brasil-compra-portfolio-de-empresa-irma-do-ifood/p", "dominio": "exame.com" },
+        { "nome": "Drops de Jogos", "url": "https://dropsdejogos.uai.com.br/developer/negocios/wildlife-studios-adquire-pk-xd-e-avanca-em-sua-estrategia-de-crescimento-por-aquisicoes/", "dominio": "dropsdejogos.uai.com.br" },
+        { "nome": "Gamers & Games", "url": "https://www.gamersegames.com.br/2026/10/22/wildlife-studios-adquire-pk-xd-e-outros-titulos-da-afterverse/", "dominio": "gamersegames.com.br" }
+      ],
+      "nota": 8.3,
+      "justificativa": "Aquisição corporativa de peso envolvendo a maior empresa de games do Brasil, com fonte primária datada e múltiplas confirmações da imprensa especializada nacional.",
+      "pesquisador": "radar-empresas-nacionais"
+    },
+    {
+      "posicao": 3,
+      "slug": "vct-pacific-2027-oito-parceiras-global-esports-sai",
+      "titulo": "VCT Pacific 2027 define oito organizações parceiras e reduz vagas; Global Esports sai do Valorant competitivo",
+      "resumo": "A Riot Games revelou em 22 de outubro de 2026 as oito organizações parceiras do VCT Pacific para 2027: Crazy Raccoon, Zeta Division, Gen.G, T1, Paper Rex, Rex Regum Qeon, Full Sense e GAM Esports, reduzindo o número de vagas de dez para oito. KIWOOM DRX, DetonatioN FocusMe, Global Esports e Team Secret ficaram fora; a Global Esports, apesar de ter vencido o VCT Pacific Stage 2 2026 e se qualificado para o Champions Shanghai, anunciou saída total do esporte competitivo, e a KIWOOM DRX dispensou o head coach e sete jogadores do elenco principal e de academy em consequência direta da decisão.",
+      "tipo": "esports",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC"],
+      "tags": ["valorant", "vct", "riot-games", "esports", "transferencias"],
+      "dataFato": "2026-10-22",
+      "janelaEstendida": false,
+      "fonte": { "nome": "The Philippine Star", "url": "https://www.philstar.com/sports/2026/10/22/2565015/global-esports-among-teams-exiting-vct-pacific-riot-unveils-partner-organizations-2027", "dominio": "philstar.com" },
+      "fontesSecundarias": [
+        { "nome": "Dot Esports", "url": "https://dotesports.com/valorant/guides/vct-2027-partner-teams", "dominio": "dotesports.com" },
+        { "nome": "FandomWire", "url": "https://fandomwire.com/riot-games-reveals-32-partnered-teams-vct-2027/", "dominio": "fandomwire.com" },
+        { "nome": "VLR.gg", "url": "https://www.vlr.gg/778910/krx-announces-mass-exodus-following-partnership-snub", "dominio": "vlr.gg" }
+      ],
+      "nota": 8.0,
+      "justificativa": "Fato estrutural de calendário e formato de uma das principais ligas de esports do mundo, com impacto direto em organizações tradicionais e desdobramento imediato em demissões de jogadores e staff.",
+      "pesquisador": "radar-esports"
+    },
+    {
+      "posicao": 4,
+      "slug": "riot-games-loud-mibr-vct-americas-2027-furia-fora",
+      "titulo": "Riot Games mantém LOUD e MIBR como parceiras do VCT Americas 2027-2028; FURIA fica de fora",
+      "resumo": "A Riot Games revelou em 22 de outubro de 2026 as 32 equipes parceiras do VCT 2027, mantendo LOUD e MIBR como representantes brasileiras na região Americas para o ciclo 2027-2028, com acesso a benefícios financeiros e classificação direta ao VCT Kickoff. A FURIA, parceira do ciclo anterior, não foi renovada e classificou a decisão como desapontadora, dizendo avaliar seu futuro no VALORANT competitivo.",
+      "tipo": "esports",
+      "escopo": "nacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC"],
+      "tags": ["valorant", "vct", "riot-games", "furia", "loud", "mibr"],
+      "dataFato": "2026-10-22",
+      "janelaEstendida": false,
+      "fonte": { "nome": "vZone", "url": "https://vzone.gg/noticia/com-loud-e-mibr-riot-games-anuncia-32-equipes-parceiras-do-vct-2027-veja-a-lista/", "dominio": "vzone.gg" },
+      "fontesSecundarias": [
+        { "nome": "Pichau Arena", "url": "https://www.pichauarena.com.br/valorant/furia-parceria-vct-2027/", "dominio": "pichauarena.com.br" }
+      ],
+      "nota": 7.6,
+      "justificativa": "Movimento com impacto financeiro e competitivo direto para três das principais organizações brasileiras de esports; entra na cota de conteúdo nacional pela relevância para o público local de Valorant.",
+      "pesquisador": "radar-empresas-nacionais"
+    },
+    {
+      "posicao": 5,
+      "slug": "peak-chega-ps5-xbox-series-switch-2-crossplay",
+      "titulo": "PEAK chega a PS5, Xbox Series e Switch 2 com crossplay",
+      "resumo": "O jogo cooperativo de escalada PEAK, da Aggro Crab e Landfall Games, foi lançado digitalmente em PS5, Xbox Series X/S e Nintendo Switch 2 em 22 de outubro de 2026, com suporte a crossplay com a versão de PC (Steam). Uma edição física para PS5, publicada pela Skybound Games por US$ 19,99, chega em 9 de dezembro de 2026.",
+      "tipo": "lancamento",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PS5", "Xbox Series", "Switch 2", "PC"],
+      "tags": ["lancamento", "indie", "crossplay", "multiplataforma"],
+      "dataFato": "2026-10-22",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Noisy Pixel", "url": "https://noisypixel.net/peak-ps5-switch-2-xbox-october-22-cross-play-physical-edition/", "dominio": "noisypixel.net" },
+      "fontesSecundarias": [
+        { "nome": "VGChartz", "url": "https://www.vgchartz.com/article/469375/peak-launches-october-22-for-switch-2-ps5-and-xbox-series/", "dominio": "vgchartz.com" },
+        { "nome": "Instant Gaming News", "url": "https://news.instant-gaming.com/en/articles/22481-peak-will-be-released-on-october-22-on-ps5-xbox-series-and-switch-2", "dominio": "instant-gaming.com" }
+      ],
+      "nota": 7.0,
+      "justificativa": "Lançamento multiplataforma de um dos maiores fenômenos indie recentes, com mais de 10 milhões de cópias vendidas na versão de PC, agora acessível a toda a base de consoles com crossplay.",
+      "pesquisador": "radar-lancamentos-internacionais"
+    },
+    {
+      "posicao": 6,
+      "slug": "clt-gta-brasileiro-acesso-antecipado",
+      "titulo": "CLT, \"GTA brasileiro\" do Uniday Studio, estreia em acesso antecipado",
+      "resumo": "O estúdio brasileiro Uniday Studio lançou CLT em acesso antecipado em 19 de outubro de 2026, jogo de ação em mundo aberto inspirado nos GTAs clássicos de perspectiva isométrica, ambientado na cidade fictícia de São Catarino. A versão de acesso antecipado traz apenas o modo Livre, disponível no site da Uniday Studio e no itch.io por US$ 4,99 (50% off do preço cheio de US$ 9,99).",
+      "tipo": "lancamento",
+      "escopo": "nacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC"],
+      "tags": ["jogo-brasileiro", "acesso-antecipado", "mundo-aberto", "indie"],
+      "dataFato": "2026-10-19",
+      "janelaEstendida": true,
+      "fonte": { "nome": "Flow Games", "url": "https://flowgames.gg/clt-gta-classico-brasileiro-e-lancado-em-early-access/", "dominio": "flowgames.gg" },
+      "fontesSecundarias": [
+        { "nome": "Uniday Studio", "url": "https://uniday.studio/games/247-clt-early-access", "dominio": "uniday.studio" }
+      ],
+      "nota": 6.9,
+      "justificativa": "Jogo nacional em acesso antecipado com forte apelo para o público brasileiro, apesar de o lançamento em si ter ocorrido pouco antes da janela estrita de 24h.",
+      "pesquisador": "radar-lancamentos-nacionais"
+    },
+    {
+      "posicao": 7,
+      "slug": "ea-respawn-dice-colaboracao-star-wars-battlefront-3",
+      "titulo": "EA confirma colaboração entre Respawn e DICE em projeto futuro, apontado como Star Wars Battlefront 3",
+      "resumo": "Em memorando interno divulgado em 21 e 22 de outubro de 2026, executivos da EA (Cam Weber e David Timson) anunciaram que os estúdios Respawn (Apex Legends) e DICE (Battlefield) vão colaborar em \"um projeto futuro\", sem citar o nome oficialmente. Múltiplas fontes consultadas pela Variety afirmam que o projeto é Star Wars Battlefront 3, que também teria recebido proposta concorrente da Bungie. O anúncio ocorreu no mesmo dia do fechamento da BioWare e dos cortes de 400 vagas na EA.",
+      "tipo": "rumor",
+      "escopo": "internacional",
+      "confiabilidade": "rumor",
+      "plataformas": [],
+      "tags": ["ea", "star-wars", "respawn", "dice", "rumor"],
+      "dataFato": "2026-10-22",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Push Square", "url": "https://www.pushsquare.com/news/2026/10/star-wars-battlefront-3-in-dev-at-dice-and-respawn-multiple-sources-say", "dominio": "pushsquare.com" },
+      "fontesSecundarias": [
+        { "nome": "Variety", "url": "https://variety.com/2026/digital/news/ea-layoffs-bioware-shutting-down-respawn-dice-star-wars-battlefront-3-1236918715/", "dominio": "variety.com" },
+        { "nome": "Star Wars News Net", "url": "https://www.starwarsnewsnet.com/2026/10/respawn-and-dice-studios-confirmed-to-be-working-on-star-wars-battlefront-3-bioware-shuttering.html", "dominio": "starwarsnewsnet.com" }
+      ],
+      "nota": 6.7,
+      "justificativa": "Rumor forte, baseado em memorando real da EA e múltiplas fontes de imprensa, sobre uma das franquias mais esperadas do mercado; mantido abaixo do topo por não ter confirmação oficial do nome do projeto.",
+      "pesquisador": "radar-empresas-internacionais"
+    },
+    {
+      "posicao": 8,
+      "slug": "fatal-fury-city-of-the-wolves-switch-2",
+      "titulo": "Fatal Fury: City of the Wolves chega ao Nintendo Switch 2",
+      "resumo": "A versão digital de Fatal Fury: City of the Wolves, da SNK, foi lançada no Nintendo Switch 2 em 22 de outubro de 2026, trazendo os personagens de DLC Manjiro Sano e Ken Ryuguji, de Tokyo Revengers. A versão física está marcada para 21 de janeiro de 2027, e o pré-pedido digital inclui o traje clássico de Mai Shiranui como bônus.",
+      "tipo": "lancamento",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["Switch 2"],
+      "tags": ["snk", "luta", "lancamento", "switch-2"],
+      "dataFato": "2026-10-22",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Gematsu", "url": "https://www.gematsu.com/2026/09/fatal-fury-city-of-the-wolves-coming-to-switch-2-on-october-22-alongside-dlc-characters-manjiro-sano-and-ken-ryuguji-from-tokyo-revengers", "dominio": "gematsu.com" },
+      "fontesSecundarias": [
+        { "nome": "SNK Corp", "url": "https://www.snk-corp.co.jp/us/press/2026/fatal-fury-city-of-the-wolves-roars-onto-nintendo-switch-2-grab-mai-shiranuis-classic-costume-as-a-fiery-preorder-bonus/", "dominio": "snk-corp.co.jp" }
+      ],
+      "nota": 6.3,
+      "justificativa": "Lançamento relevante para fãs de luta e para o catálogo em expansão do Switch 2, com tie-in de anime popular, mas de alcance menor que os destaques do topo.",
+      "pesquisador": "radar-lancamentos-internacionais"
+    },
+    {
+      "posicao": 9,
+      "slug": "hitman-absolution-switch-2-edition",
+      "titulo": "Hitman: Absolution — Nintendo Switch 2 Edition é lançado",
+      "resumo": "A Feral Interactive lançou Hitman: Absolution – Nintendo Switch 2 Edition em 22 de outubro de 2026, com resolução maior, preset de performance a 60fps, efeitos visuais melhorados e suporte ao Joy-Con como mouse. Donos da versão original de Switch podem baixar o upgrade gratuitamente por tempo limitado; a Limited Run Games anunciou edição física com pré-venda a partir de 30 de outubro.",
+      "tipo": "lancamento",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["Switch 2"],
+      "tags": ["remaster", "switch-2", "feral-interactive"],
+      "dataFato": "2026-10-22",
+      "janelaEstendida": false,
+      "fonte": { "nome": "GoNintendo", "url": "https://gonintendo.com/contents/66143-hitman-absolution-nintendo-switch-2-edition-launches-oct-22nd-2026-update", "dominio": "gonintendo.com" },
+      "fontesSecundarias": [
+        { "nome": "Nintendo Everything", "url": "https://nintendoeverything.com/hitman-absolution-nintendo-switch-2-edition-officially-announced/", "dominio": "nintendoeverything.com" },
+        { "nome": "Worth Playing", "url": "https://worthplaying.com/article/2026/10/15/news/151249-hitman-absolution-comes-to-nintendo-switch-2-next-week-limited-time-free-upgrade-for-switch-owners-details-improvements-trailer/", "dominio": "worthplaying.com" }
+      ],
+      "nota": 6.0,
+      "justificativa": "Remaster relevante para o catálogo do Switch 2, com modelo de upgrade gratuito temporário que interessa à comunidade, embora de impacto moderado frente aos demais destaques do dia.",
+      "pesquisador": "radar-lancamentos-internacionais"
+    },
+    {
+      "posicao": 10,
+      "slug": "riot-games-eventos-kda-true-damage-heartsteel-brasil",
+      "titulo": "Riot Games anuncia agenda de eventos de K/DA, True Damage e Heartsteel no Brasil",
+      "resumo": "A Riot Games Brasil anunciou em 22 de outubro de 2026 uma série de ativações presenciais ligadas ao universo musical de League of Legends entre fim de outubro e meados de novembro: aulas de dança gratuitas em São Paulo, Rio, Curitiba e Fortaleza, festas temáticas de Halloween em cinco capitais e uma pop-up store na Liberdade, em São Paulo. Quatro cosplayers brasileiras também foram escolhidas como representantes oficiais do K/DA na final do Worlds 2026, em Nova York.",
+      "tipo": "noticia",
+      "escopo": "nacional",
+      "confiabilidade": "confirmado",
+      "plataformas": [],
+      "tags": ["league-of-legends", "riot-games", "eventos", "kda"],
+      "dataFato": "2026-10-22",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Gamers & Games", "url": "https://www.gamersegames.com.br/2026/10/22/riot-games-anuncia-eventos-de-k-da-true-damage-e-heartsteel-no-brasil/", "dominio": "gamersegames.com.br" },
+      "fontesSecundarias": [
+        { "nome": "Arkade", "url": "https://arkade.com.br/riot-anuncia-eventos-musicais-de-league-of-legends-no-brasil-e-leva-o-k-da-brasileiro-para-a-final-do-worlds/", "dominio": "arkade.com.br" },
+        { "nome": "MMORPG BR", "url": "https://mmorpgbr.com.br/riot-games-prepara-eventos-de-k-da-true-damage-e-heartsteel-no-brasil/", "dominio": "mmorpgbr.com.br" }
+      ],
+      "nota": 5.9,
+      "justificativa": "Notícia nacional confirmada com detalhes concretos de datas e cidades, de interesse para a comunidade de League of Legends no Brasil; completa a cota nacional do dia.",
+      "pesquisador": "radar-lancamentos-nacionais"
+    }
+  ],
+  "tambemNoRadar": [
+    {
+      "slug": "side-adquire-roboto-entertainment-china",
+      "titulo": "Side adquire estúdio de arte Roboto Entertainment para expandir na China",
+      "resumo": "A Side, provedora de serviços para a indústria de games, anunciou em 22 de outubro de 2026 a aquisição da boutique de arte Roboto Entertainment, com sede em Chengdu, na China. O fundador Andrea Cordella assume como Head Global de Arte, e a aquisição marca a maior expansão da linha de serviços de arte da Side desde a compra da 5518 Studios em 2021.",
+      "tipo": "noticia",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": [],
+      "tags": ["side", "aquisicao", "outsourcing", "china"],
+      "dataFato": "2026-10-22",
+      "janelaEstendida": false,
+      "fonte": { "nome": "PocketGamer.biz", "url": "https://www.pocketgamer.biz/side-acquires-art-studio-roboto-entertainment-to-expand-presence-in-china/", "dominio": "pocketgamer.biz" },
+      "fontesSecundarias": [
+        { "nome": "GamesBeat", "url": "https://gamesbeat.com/side-opens-chengdu-studio-after-buying-boutique-art-house-roboto-entertainment/", "dominio": "gamesbeat.com" }
+      ],
+      "nota": 5.2,
+      "justificativa": "Aquisição relevante para o ecossistema de serviços terceirizados de games, mas de alcance menor que os grandes movimentos de publishers AAA do dia.",
+      "pesquisador": "radar-empresas-internacionais"
+    },
+    {
+      "slug": "planeta-das-ofertas-playstation-store-brasil",
+      "titulo": "Promoção \"Planeta das Ofertas\" começa na PlayStation Store Brasil",
+      "resumo": "A Sony iniciou em 21 de outubro de 2026 a campanha \"Planeta das Ofertas\" na PlayStation Store Brasil, com cerca de 1.800 jogos de PS4 e PS5 em desconto, válida até 4 de novembro às 23h59. Entre os destaques estão Resident Evil 2 (80% off), Final Fantasy VII Rebirth (70% off) e Cyberpunk 2077 (60% off).",
+      "tipo": "noticia",
+      "escopo": "nacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PS5", "PS4"],
+      "tags": ["playstation-store", "promocao", "sony"],
+      "dataFato": "2026-10-21",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Gamers & Games", "url": "https://www.gamersegames.com.br/2026/10/21/playstation-store-tem-centenas-de-jogos-de-ps4-e-ps5-em-promocao-por-tempo-limitado/", "dominio": "gamersegames.com.br" },
+      "fontesSecundarias": [
+        { "nome": "AntiHype", "url": "https://antihype.com.br/c/games/promocao-planeta-das-ofertas-ps-store-outubro-2026/", "dominio": "antihype.com.br" }
+      ],
+      "nota": 5.8,
+      "justificativa": "Fato concreto e verificável, mas é uma promoção recorrente de loja, de relevância moderada frente aos demais destaques nacionais do dia.",
+      "pesquisador": "radar-lancamentos-nacionais"
+    },
+    {
+      "slug": "stupid-never-dies-legendas-pt-br",
+      "titulo": "Stupid Never Dies é lançado com legendas em português brasileiro",
+      "resumo": "O RPG de ação Stupid Never Dies, da GPTRACK50 com publishing da SEGA, foi lançado em 21 de outubro de 2026 para PS5 e PC, com legendas em português do Brasil (áudio apenas em inglês). A edição Standard custa US$ 49,99 e a Glorious Idiot Deluxe Edition, US$ 59,99.",
+      "tipo": "lancamento",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PS5", "PC"],
+      "tags": ["sega", "lancamento", "localizacao"],
+      "dataFato": "2026-10-21",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Gamers & Games", "url": "https://www.gamersegames.com.br/2026/10/16/stupid-never-dies-chega-em-21-de-outubro-para-ps5-e-pc/", "dominio": "gamersegames.com.br" },
+      "fontesSecundarias": [
+        { "nome": "GameBlast", "url": "https://www.gameblast.com.br/2026/07/stupid-never-dies-sera-lancado-em-21-de-outubro-para-playstation-5-e-pc.html", "dominio": "gameblast.com.br" }
+      ],
+      "nota": 5.3,
+      "justificativa": "Lançamento internacional com localização em português relevante para o mercado nacional, mas sem dublagem completa e de nicho mais restrito.",
+      "pesquisador": "radar-lancamentos-nacionais"
+    },
+    {
+      "slug": "idxbox-showcase-outubro-2026",
+      "titulo": "ID@Xbox Showcase de outubro revela novos jogos e datas",
+      "resumo": "Em 21 de outubro de 2026, a Microsoft realizou um ID@Xbox Showcase anunciando títulos indie como Chronoscript: The Endless End, Love Is A Roguelike, Magenta Down e Red Kiss (day one no Game Pass), além de datas para Mouthwashing e The Wolf Among Us Remastered (29 de outubro) e Shrek 2 Remastered (novembro).",
+      "tipo": "noticia",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["Xbox Series", "PC"],
+      "tags": ["xbox", "indie", "evento", "game-pass"],
+      "dataFato": "2026-10-21",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Press Start", "url": "https://press-start.com.au/features/2026/10/21/everything-announced-at-the-october-2026-idxbox-showcase/", "dominio": "press-start.com.au" },
+      "fontesSecundarias": [],
+      "nota": 5.0,
+      "justificativa": "Evento relevante para o calendário de lançamentos indie do Xbox, com vários anúncios e datas concretas, mas sem um destaque isolado de grande impacto.",
+      "pesquisador": "radar-lancamentos-internacionais"
+    },
+    {
+      "slug": "ps-plus-extra-premium-outubro-dino-crisis-2-horizon",
+      "titulo": "PS Plus Extra e Premium de outubro trazem Dino Crisis 2 e Horizon Forbidden West",
+      "resumo": "A Sony confirmou a lista completa de jogos do PS Plus Extra e Premium de outubro de 2026, com Dino Crisis 2 entrando no catálogo Premium, Horizon Forbidden West retornando ao serviço e Mycopunk chegando como lançamento day one. A maior parte do catálogo já estava disponível a partir de 20 de outubro.",
+      "tipo": "noticia",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PS5", "PS4"],
+      "tags": ["ps-plus", "sony", "assinatura"],
+      "dataFato": "2026-10-20",
+      "janelaEstendida": true,
+      "fonte": { "nome": "GG.deals", "url": "https://gg.deals/subscription-news/ps-plus-extra-and-premium-october-2026-games-are-now-ready-to-download/", "dominio": "gg.deals" },
+      "fontesSecundarias": [
+        { "nome": "GameSpot", "url": "https://www.gamespot.com/articles/playstation-plus-extra-premium-games-for-october-2026-revealed/", "dominio": "gamespot.com" }
+      ],
+      "nota": 4.9,
+      "justificativa": "Relevante para assinantes do serviço, mas a divulgação principal ocorreu antes da janela estrita de 24h.",
+      "pesquisador": "radar-lancamentos-internacionais"
+    },
+    {
+      "slug": "trexx-deixa-team-liquid-free-agency",
+      "titulo": "trexx deixa o Team Liquid pela segunda vez e entra em free agency no Valorant",
+      "resumo": "Nikita \"trexx\" Cherednichenko anunciou em 21 de outubro de 2026 que vai deixar o Team Liquid pela segunda vez, com contrato expirando em 2 de novembro. Ele havia retornado à equipe em meados de 2025 e ajudou a Liquid a chegar à final europeia e se classificar para o Champions Shanghai 2026 como vice-campeão.",
+      "tipo": "noticia",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC"],
+      "tags": ["valorant", "team-liquid", "transferencia"],
+      "dataFato": "2026-10-21",
+      "janelaEstendida": false,
+      "fonte": { "nome": "VLR.gg", "url": "https://www.vlr.gg/778895/trexx-set-to-depart-team-liquid-for-the-second-time", "dominio": "vlr.gg" },
+      "fontesSecundarias": [],
+      "nota": 5.5,
+      "justificativa": "Movimentação de line-up relevante dentro do Valorant internacional, mas de impacto menor que os anúncios estruturais de parceria do VCT.",
+      "pesquisador": "radar-esports"
+    },
+    {
+      "slug": "keiko-deixa-nrg-agente-livre-restrito",
+      "titulo": "keiko deixa a NRG após uma temporada e vira agente livre restrito",
+      "resumo": "O jogador europeu keiko anunciou em 21 de outubro de 2026 que a NRG não vai renová-lo após o Champions Shanghai 2026, liberando-o como agente livre restrito. Ele havia substituído s0m após a aposentadoria deste e disputou os três eventos internacionais da temporada pela organização norte-americana.",
+      "tipo": "noticia",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC"],
+      "tags": ["valorant", "nrg", "transferencia"],
+      "dataFato": "2026-10-21",
+      "janelaEstendida": false,
+      "fonte": { "nome": "VLR.gg", "url": "https://www.vlr.gg/778864/keiko-to-leave-nrg-after-one-season-becomes-restricted-free-agent", "dominio": "vlr.gg" },
+      "fontesSecundarias": [
+        { "nome": "X (keikofps)", "url": "https://x.com/keikofps/status/2112989327030722767", "dominio": "x.com" }
+      ],
+      "nota": 5.4,
+      "justificativa": "Transferência relevante no cenário internacional de Valorant, com fonte primária do próprio jogador, mas de alcance limitado a fãs do cenário competitivo.",
+      "pesquisador": "radar-esports"
+    },
+    {
+      "slug": "wazabi-perde-tres-jogadores-cs2",
+      "titulo": "m0vski, BangBang e BacH deixam a WAZABI no CS2",
+      "resumo": "A organização dinamarquesa WAZABI anunciou em 22 de outubro de 2026 a saída de três jogadores do elenco principal de CS2 — m0vski, BangBang e BacH — que formavam o time ao lado de SaMsInG e No1r. A mudança de line-up foi registrada no sistema de transferências da HLTV.",
+      "tipo": "noticia",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC"],
+      "tags": ["cs2", "wazabi", "transferencia"],
+      "dataFato": "2026-10-22",
+      "janelaEstendida": false,
+      "fonte": { "nome": "HLTV", "url": "https://www.hltv.org/transfers", "dominio": "hltv.org" },
+      "fontesSecundarias": [],
+      "nota": 4.8,
+      "justificativa": "Transferência confirmada pela HLTV, mas de time de nível secundário no CS2, com impacto moderado no cenário competitivo.",
+      "pesquisador": "radar-esports"
+    }
+  ],
+  "descartados": []
+}
