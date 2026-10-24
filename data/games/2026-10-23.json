@@ -1,0 +1,401 @@
+{
+  "categoria": "games",
+  "data": "2026-10-23",
+  "geradoEm": "2026-10-23T21:30:00-03:00",
+  "janela": { "inicio": "2026-10-22T21:00:00-03:00", "fim": "2026-10-23T21:00:00-03:00" },
+  "observacao": null,
+  "itens": [
+    {
+      "posicao": 1,
+      "slug": "ea-fecha-bioware-cancela-mass-effect-trailer-vaza",
+      "titulo": "EA fecha a BioWare, cancela novo Mass Effect e trailer do projeto vaza na internet",
+      "resumo": "A Electronic Arts anunciou o fechamento da BioWare, estúdio de 31 anos criador de Mass Effect e Dragon Age, cancelando o próximo jogo da série e cortando cerca de 400 vagas, 3% da força global da empresa. Um dia depois, um trailer de cerca de dois minutos do projeto cancelado, internamente chamado 'Mass Effect Universe', vazou no Reddit e teve a autenticidade confirmada pelo jornalista Jason Schreier (Bloomberg), mostrando o retorno de Liara T'Soni em uma trama de espionagem sem Shepard.",
+      "tipo": "noticia",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": [],
+      "tags": ["ea", "bioware", "mass-effect", "demissoes", "cancelamento"],
+      "dataFato": "2026-10-21",
+      "janelaEstendida": true,
+      "fonte": { "nome": "GameSpot", "url": "https://www.gamespot.com/articles/ea-shuts-down-dragon-age-mass-effect-studio-bioware/", "dominio": "gamespot.com" },
+      "fontesSecundarias": [
+        { "nome": "Kotaku", "url": "https://kotaku.com/ea-to-shut-down-bioware-and-cancel-the-next-mass-effect-game-2000748374", "dominio": "kotaku.com" },
+        { "nome": "Engadget", "url": "https://www.engadget.com/2293402/ea-is-shutting-down-bioware-and-cutting-around-400-jobs/", "dominio": "engadget.com" },
+        { "nome": "Video Games Chronicle", "url": "https://www.videogameschronicle.com/news/mass-effect-universe-trailer-leaks-online-showcases-what-bioware-was-working-on-before-being-shut-down/", "dominio": "videogameschronicle.com" },
+        { "nome": "PC Gamer", "url": "https://www.pcgamer.com/games/mass-effect/someone-leaked-a-mass-effect-5-trailer-and-now-i-feel-even-worse-because-it-looks-really-good/", "dominio": "pcgamer.com" },
+        { "nome": "Kotaku", "url": "https://kotaku.com/mass-effect-5-universe-leaked-trailer-liara-bioware-2000748858", "dominio": "kotaku.com" }
+      ],
+      "nota": 9.5,
+      "justificativa": "Maior notícia da indústria na janela: fechamento de um estúdio histórico, cancelamento de franquia AAA e vazamento imediato do material em produção, com cobertura ampla e fontes de peso.",
+      "pesquisador": "radar-empresas-internacionais"
+    },
+    {
+      "posicao": 2,
+      "slug": "call-of-duty-modern-warfare-4-lancado-mundialmente",
+      "titulo": "Call of Duty: Modern Warfare 4 é lançado mundialmente",
+      "resumo": "Call of Duty: Modern Warfare 4, 23ª edição da franquia e capítulo final da subsérie Modern Warfare rebootada, foi lançado em 23 de outubro de 2026 como título standalone para PS5, Xbox Series X|S, PC e Nintendo Switch 2, sem versões para consoles de geração anterior. O jogo não entrará no Xbox Game Pass até o final de 2027 e recebeu recepção crítica muito positiva, com 94% de avaliações positivas no Steam.",
+      "tipo": "lancamento",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PS5", "Xbox Series", "PC", "Switch 2"],
+      "tags": ["call-of-duty", "lancamento", "fps"],
+      "dataFato": "2026-10-23",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Call of Duty Blog", "url": "https://www.callofduty.com/blog/2026/10/call-of-duty-intel-modern-warfare-4-launch-xbox-game-pass", "dominio": "callofduty.com" },
+      "fontesSecundarias": [
+        { "nome": "GamesRadar+", "url": "https://www.gamesradar.com/games/call-of-duty/call-of-duty-modern-warfare-4-campaign-launches-to-94-percent-positive-steam-reviews-way-ahead-of-black-ops-7-and-modern-warfare-3/", "dominio": "gamesradar.com" },
+        { "nome": "Game Informer", "url": "https://gameinformer.com/review/call-of-duty-modern-warfare-4/silver-bullet", "dominio": "gameinformer.com" }
+      ],
+      "nota": 8.8,
+      "justificativa": "Lançamento de uma das franquias mais populares do mundo, com fonte primária oficial e recepção crítica muito positiva, grande apelo para o público gamer.",
+      "pesquisador": "radar-lancamentos-internacionais"
+    },
+    {
+      "posicao": 3,
+      "slug": "pulsatrix-lanca-otherside-tapes-favela",
+      "titulo": "Pulsatrix Studios lança Otherside Tapes: Favela no Steam e Epic Games Store",
+      "resumo": "O estúdio brasileiro Pulsatrix Studios lançou oficialmente 'Otherside Tapes: Favela', jogo de terror em primeira pessoa no estilo found footage ambientado no Rio de Janeiro de 2006. O título é o primeiro de uma nova franquia antológica de terror da desenvolvedora e custa R$ 33,99, com desconto de lançamento para R$ 30,59.",
+      "tipo": "lancamento",
+      "escopo": "nacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC"],
+      "tags": ["lancamento", "terror", "estudio-brasileiro"],
+      "dataFato": "2026-10-22",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Arkade", "url": "https://arkade.com.br/otherside-tapes-favela-e-lancado-oficialmente-no-steam-e-na-epic-games-store/", "dominio": "arkade.com.br" },
+      "fontesSecundarias": [
+        { "nome": "Gamers & Games", "url": "https://www.gamersegames.com.br/2026/10/22/otherside-tapes-favela-e-lancado-oficialmente-no-steam-e-na-epic-games-store/", "dominio": "gamersegames.com.br" },
+        { "nome": "Última Ficha", "url": "https://ultimaficha.com.br/2026/10/22/otherside-tapes-favela/", "dominio": "ultimaficha.com.br" }
+      ],
+      "nota": 8.3,
+      "justificativa": "Lançamento de estúdio brasileiro com identidade cultural forte, cobertura confirmada por múltiplas fontes nacionais; reforça a cota de conteúdo nacional com item de qualidade.",
+      "pesquisador": "radar-empresas-nacionais"
+    },
+    {
+      "posicao": 4,
+      "slug": "ea-demite-full-circle-estudio-de-skate",
+      "titulo": "EA demite em massa funcionários da Full Circle, estúdio de Skate",
+      "resumo": "No mesmo pacote de reestruturação que fechou a BioWare, a EA demitiu um grande número de funcionários da Full Circle, estúdio responsável pelo jogo 'Skate', incluindo o diretor criativo John Epler, que confirmou publicamente a demissão em 22 de outubro. A EA afirmou que busca formar 'um time menor e mais focado' para o suporte de longo prazo do jogo live-service.",
+      "tipo": "noticia",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC", "PS5", "Xbox Series"],
+      "tags": ["ea", "demissoes", "skate", "full-circle"],
+      "dataFato": "2026-10-22",
+      "janelaEstendida": false,
+      "fonte": { "nome": "PSU", "url": "https://www.psu.com/news/skate-dev-full-circle-suffers-many-layoffs-in-latest-wave-of-ea-cuts/", "dominio": "psu.com" },
+      "fontesSecundarias": [
+        { "nome": "Handheld.guru", "url": "https://handheld.guru/ea-lays-off-many-staff-at-skate-studio-full-circle-as-part-of-wider-restructuring/", "dominio": "handheld.guru" },
+        { "nome": "This Week in Video Games", "url": "https://thisweekinvideogames.com/news/ea-shuts-bioware-cancels-mass-effect-and-sims-projects-makes-layoffs-on-skate-team/", "dominio": "thisweekinvideogames.com" }
+      ],
+      "nota": 7.2,
+      "justificativa": "Desdobramento relevante da crise na EA, afetando outro estúdio e jogo popular (Skate); fica atrás do item principal por ser consequência direta do mesmo pacote de cortes.",
+      "pesquisador": "radar-empresas-internacionais"
+    },
+    {
+      "posicao": 5,
+      "slug": "xbox-cloud-gaming-horas-sem-game-pass-brasil",
+      "titulo": "Xbox Cloud Gaming passa a vender horas de jogo sem exigir Game Pass no Brasil",
+      "resumo": "A Microsoft anunciou, em 22 de outubro de 2026, um novo modelo de Xbox Cloud Gaming no Brasil que permite comprar pacotes de horas para jogar via nuvem sem precisar manter assinatura do Game Pass. Os valores promocionais de lançamento são R$ 6,90 (10 horas), R$ 14,90 (25 horas) e R$ 21,90 (50 horas), disponíveis inicialmente para participantes do Xbox Insider.",
+      "tipo": "noticia",
+      "escopo": "nacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC", "Mobile"],
+      "tags": ["xbox", "cloud-gaming", "brasil", "game-pass"],
+      "dataFato": "2026-10-22",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Exame", "url": "https://exame.com/pop/xbox-anuncia-precos-do-cloud-gaming-por-hora-sem-game-pass-no-brasil-veja-os-valores/", "dominio": "exame.com" },
+      "fontesSecundarias": [
+        { "nome": "Central Xbox", "url": "https://centralxbox.com.br/2026/10/21/xbox-cloud-gaming-ganha-precos-em-reais-para-compra-de-horas-veja-os-valores/", "dominio": "centralxbox.com.br" },
+        { "nome": "Adrenaline", "url": "https://www.adrenaline.com.br/games/xbox/xbox-cloud-gaming-pacotes-horas-preco-us-3-99-reais-6-90-insiders-sem-game-pass/", "dominio": "adrenaline.com.br" }
+      ],
+      "nota": 7.8,
+      "justificativa": "Mudança de modelo de negócio relevante para o mercado brasileiro, com preços locais definidos; item nacional de alto impacto para o público gamer do país.",
+      "pesquisador": "radar-lancamentos-nacionais"
+    },
+    {
+      "posicao": 6,
+      "slug": "miyamoto-recebe-ordem-da-cultura-do-japao",
+      "titulo": "Shigeru Miyamoto é o primeiro profissional de games a receber a Ordem da Cultura do Japão",
+      "resumo": "O governo japonês anunciou em 22 de outubro de 2026 que Shigeru Miyamoto, Diretor Representante e Creative Fellow da Nintendo, receberá a Ordem da Cultura, a mais alta honra cultural do país, tornando-se o primeiro profissional da indústria de games a ser condecorado. A entrega será feita pelo Imperador em 3 de novembro de 2026, no Dia da Cultura.",
+      "tipo": "noticia",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": [],
+      "tags": ["nintendo", "miyamoto", "premiacao"],
+      "dataFato": "2026-10-22",
+      "janelaEstendida": false,
+      "fonte": { "nome": "My Nintendo News", "url": "https://mynintendonews.com/2026/10/23/shigeru-miyamoto-first-in-gaming-industry-to-receive-japans-order-of-culture-award/", "dominio": "mynintendonews.com" },
+      "fontesSecundarias": [
+        { "nome": "Automaton Media", "url": "https://automaton-media.com/en/news/shigeru-miyamoto-becomes-first-game-developer-to-receive-the-order-of-culture-japans-highest-cultural-honor/", "dominio": "automaton-media.com" },
+        { "nome": "GameDev.net", "url": "https://gamedev.net/news/nintendo-veteran-shigeru-miyamoto-to-receive-japans-order-of-culture-award-r6662/", "dominio": "gamedev.net" }
+      ],
+      "nota": 7.5,
+      "justificativa": "Marco histórico e simbólico para a indústria, reconhecimento inédito que eleva o status cultural dos games no Japão; grande apelo para fãs de Nintendo.",
+      "pesquisador": "radar-empresas-internacionais"
+    },
+    {
+      "posicao": 7,
+      "slug": "valorant-game-changers-championship-2026-sao-paulo",
+      "titulo": "VALORANT Game Changers Championship 2026 começa em São Paulo",
+      "resumo": "O VALORANT Game Changers Championship 2026, mundial exclusivamente feminino/inclusivo do game, teve início em 22 de outubro na Riot Games Arena São Paulo e segue até 1º de novembro, reunindo dez equipes internacionais. Os ingressos custam R$ 160 (fase de grupos/mata-mata) e R$ 210 (finais, de 30/10 a 1/11).",
+      "tipo": "esports",
+      "escopo": "nacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC"],
+      "tags": ["valorant", "esports", "game-changers", "brasil"],
+      "dataFato": "2026-10-22",
+      "janelaEstendida": false,
+      "fonte": { "nome": "The Spike", "url": "https://www.thespike.gg/valorant/news/valorant-game-changers-championship-2026-everything-you-need-to-know/9005", "dominio": "thespike.gg" },
+      "fontesSecundarias": [
+        { "nome": "VALORANT Esports", "url": "https://valorantesports.com/en-US/news/valorant-game-changers-championship-2026-everything-you-need-to-know", "dominio": "valorantesports.com" },
+        { "nome": "VLR.gg", "url": "https://www.vlr.gg/event/3134/game-changers-2026-championship-s-o-paulo", "dominio": "vlr.gg" }
+      ],
+      "nota": 7.3,
+      "justificativa": "Evento internacional de esports sediado no Brasil, com forte apelo de inclusão e visibilidade local; reforça a cota nacional com cobertura sólida.",
+      "pesquisador": "radar-lancamentos-nacionais"
+    },
+    {
+      "posicao": 8,
+      "slug": "cyberpunk-2077-update-2-5-edgerunners-2",
+      "titulo": "Cyberpunk 2077 recebe update 2.5 com conteúdo de Edgerunners 2 e dual-wield",
+      "resumo": "A CD Projekt Red lançou em 22 de outubro de 2026 a atualização gratuita 2.5 de Cyberpunk 2077, trazendo a missão secundária 'Clampdown' ligada ao anime Edgerunners 2, equipamento temático, novo perk de dual-wield de pistolas/revólveres, suporte a mods multiplataforma via mod.io e melhorias de qualidade de vida. A atualização está disponível para PC, PS5 e Xbox Series X|S.",
+      "tipo": "noticia",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC", "PS5", "Xbox Series"],
+      "tags": ["cyberpunk-2077", "atualizacao", "cdpr"],
+      "dataFato": "2026-10-22",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Push Square", "url": "https://pushsquare.com/news/2026/10/cyberpunk-2077-ps5-update-2-5-live-now-get-the-patch-notes-here", "dominio": "pushsquare.com" },
+      "fontesSecundarias": [
+        { "nome": "Nintendo Life", "url": "https://www.nintendolife.com/news/2026/10/cyberpunk-2077-edgerunners-2-update-2-5-officially-revealed-here-are-the-full-patch-notes", "dominio": "nintendolife.com" },
+        { "nome": "Adrenaline", "url": "https://www.adrenaline.com.br/games/cyberpunk-2077-vai-ganhar-novas-missoes-itens-e-dlss-4-5-no-update-2-5-edgerunners-2/", "dominio": "adrenaline.com.br" },
+        { "nome": "Game Overdrive", "url": "https://gameoverdrive.com.br/cyberpunk-2077-atualizacao-2-5-gratis-como-baixar/", "dominio": "gameoverdrive.com.br" },
+        { "nome": "Universo Nintendo", "url": "https://universonintendo.com/cyberpunk-2077-anuncia-atualizacao-2-5-com-conteudo-de-edgerunners-2-novos-recursos-e-melhorias/", "dominio": "universonintendo.com" }
+      ],
+      "nota": 6.8,
+      "justificativa": "Atualização gratuita de grande porte para um dos jogos mais populares da atualidade, com cobertura internacional e nacional consistente sobre o mesmo fato.",
+      "pesquisador": "radar-lancamentos-internacionais"
+    },
+    {
+      "posicao": 9,
+      "slug": "dplus-kia-vira-sobre-g2-worlds-2026",
+      "titulo": "Dplus KIA vira sobre G2 Esports na abertura da fase suíça do Mundial de LoL 2026",
+      "resumo": "Na abertura da fase suíça do Worlds 2026, a Dplus KIA (LCK) buscou uma virada dramática contra a cabeça de chave do LEC, G2 Esports, vencendo em 32 minutos após estar em desvantagem no início da partida. O resultado fez parte da primeira rodada do Main Event, que também marcou desempenho ruim da LPL no dia de abertura.",
+      "tipo": "esports",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC"],
+      "tags": ["league-of-legends", "worlds-2026", "esports"],
+      "dataFato": "2026-10-23",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Gosu Gamers", "url": "https://www.gosugamers.net/lol/news/79406-dplus-kia-pull-off-incredible-comeback-against-g2-esports-at-worlds-2026-swiss-stage", "dominio": "gosugamers.net" },
+      "fontesSecundarias": [
+        { "nome": "Dot Esports", "url": "https://dotesports.com/league-of-legends/news/worlds-2026-swiss-day-1-results", "dominio": "dotesports.com" },
+        { "nome": "Leaguepedia", "url": "https://lol.fandom.com/wiki/2026_Season_World_Championship/Main_Event", "dominio": "lol.fandom.com" }
+      ],
+      "nota": 6.5,
+      "justificativa": "Resultado de destaque na abertura do Mundial de League of Legends, um dos maiores eventos de esports do calendário; cobertura confirmada em múltiplas fontes especializadas.",
+      "pesquisador": "radar-esports"
+    },
+    {
+      "posicao": 10,
+      "slug": "imperial-vence-pain-final-upper-circuit-x-curitiba",
+      "titulo": "Imperial vence paiN e avança à final upper do Circuit X Curitiba #4",
+      "resumo": "Imperial derrotou paiN por 2-1 (Inferno 13-3, Anubis 14-16, Mirage 13-9) no Circuit X Curitiba #4, conquistando a quarta vitória consecutiva sobre o rival e avançando à final da chave de cima. Com a derrota, paiN cai para a chave baixa e enfrenta Galorys, enquanto Imperial encara BESTIA por vaga direta na grande final.",
+      "tipo": "esports",
+      "escopo": "nacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC"],
+      "tags": ["cs2", "esports", "imperial", "pain-gaming", "brasil"],
+      "dataFato": "2026-10-23",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Dust2", "url": "https://www.dust2.com.br/noticias/79207/imperial-vence-pain-e-vai-a-final-upper-do-circuit-x-curitiba-4", "dominio": "dust2.com.br" },
+      "fontesSecundarias": [
+        { "nome": "HLTV", "url": "https://www.hltv.org/matches/2399816/pain-vs-imperial-circuit-x-curitiba-season-4", "dominio": "hltv.org" }
+      ],
+      "nota": 6.2,
+      "justificativa": "Confronto relevante da cena nacional de CS2 entre duas das principais equipes brasileiras; completa a cota de conteúdo nacional no TOP 10.",
+      "pesquisador": "radar-esports"
+    }
+  ],
+  "tambemNoRadar": [
+    {
+      "slug": "obscurium-demo-steam-folclore-brasileiro",
+      "titulo": "Obscurium, jogo brasileiro de terror com lendas folclóricas, ganha demo no Steam",
+      "resumo": "A Wild Pepper Games, estúdio brasileiro, lançou em 23 de outubro de 2026 uma demo gratuita de Obscurium no Steam, roguelike de terror em primeira pessoa com combate por cartas contra criaturas do folclore nacional como Pisadeira, Capelobo e Caboclo d'Água. O lançamento completo está previsto para 2027, para PC, com suporte a português brasileiro e inglês.",
+      "tipo": "lancamento",
+      "escopo": "nacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC"],
+      "tags": ["lancamento", "terror", "folclore", "estudio-brasileiro"],
+      "dataFato": "2026-10-23",
+      "janelaEstendida": false,
+      "fonte": { "nome": "JWave", "url": "https://www.jwave.com.br/2026/10/obscurium-transforma-lendas-brasileiras-em-jogo-de-terror-e-ganha-demo-no-steam/", "dominio": "jwave.com.br" },
+      "fontesSecundarias": [],
+      "nota": 6.8,
+      "justificativa": "Boa curiosidade nacional, mas é apenas demo de um jogo ainda sem data de lançamento completo, com impacto menor que os itens do TOP 10.",
+      "pesquisador": "radar-lancamentos-nacionais"
+    },
+    {
+      "slug": "once-human-expansao-isles-of-abyss",
+      "titulo": "Once Human lança expansão gratuita 'Isles of Abyss'",
+      "resumo": "O jogo de sobrevivência free-to-play Once Human lançou globalmente em 22 de outubro de 2026 sua maior expansão gratuita até hoje, 'Isles of Abyss', trazendo construção de navios, cinco novas regiões oceânicas, exploração subaquática e o chefe 'The Sunken Lord'. A expansão chegou simultaneamente para PC, mobile, PS5 e Xbox Series X|S com cross-play e cross-progression.",
+      "tipo": "lancamento",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC", "PS5", "Xbox Series", "Mobile"],
+      "tags": ["once-human", "expansao", "survival"],
+      "dataFato": "2026-10-22",
+      "janelaEstendida": false,
+      "fonte": { "nome": "PlayStation Blog", "url": "https://blog.playstation.com/2026/10/21/once-humans-isles-of-abyss-expansion-launches-on-ps5-tomorrow/", "dominio": "blog.playstation.com" },
+      "fontesSecundarias": [
+        { "nome": "Inven Global", "url": "https://www.invenglobal.com/articles/27551/once-human-launches-ocean-expansion-isles-of-abyss", "dominio": "invenglobal.com" },
+        { "nome": "Xbox Achievements", "url": "https://www.xboxachievements.com/news/once-humans-free-isles-of-abyss-expansion-out-now/", "dominio": "xboxachievements.com" }
+      ],
+      "nota": 6.0,
+      "justificativa": "Expansão relevante para a base de jogadores do título, mas de nicho mais restrito que os destaques do TOP 10.",
+      "pesquisador": "radar-lancamentos-internacionais"
+    },
+    {
+      "slug": "eternal-fire-campea-draculan-season-7",
+      "titulo": "Eternal Fire é campeã do DraculaN Season 7 após virada sobre SINNERS",
+      "resumo": "Eternal Fire venceu a final do Digital Crusade DraculaN Season 7 contra SINNERS por 2-1 (Mirage 6-13, Cache 16-12 na prorrogação, Ancient 16-14 na prorrogação). O ucraniano Kvem foi destaque da final com 62 frags e rating 1.39, e o título aproxima a equipe de vaga no PGL Major Singapura 2026, ao mesmo tempo que elimina a SINNERS da disputa.",
+      "tipo": "esports",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC"],
+      "tags": ["cs2", "esports", "eternal-fire"],
+      "dataFato": "2026-10-23",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Dust2.us", "url": "https://www.dust2.us/news/79206/eternal-fire-hold-off-sinners-comeback-to-win-draculan-s7", "dominio": "dust2.us" },
+      "fontesSecundarias": [
+        { "nome": "HLTV", "url": "https://www.hltv.org/news/45785/eternal-fire-keep-singapore-major-dream-alive-with-draculan-s7-victory", "dominio": "hltv.org" }
+      ],
+      "nota": 5.8,
+      "justificativa": "Título relevante de torneio de nível médio em CS2; fica fora do TOP 10 por disputa de espaço com outros resultados de esports mais relevantes.",
+      "pesquisador": "radar-esports"
+    },
+    {
+      "slug": "mibr-gc-vence-fennel-gc-game-changers",
+      "titulo": "MIBR GC vence FENNEL GC e avança no Game Changers Championship em São Paulo",
+      "resumo": "A equipe brasileira MIBR GC venceu FENNEL GC por 2-0 (Summit 13-5, Ascent 13-5) na primeira rodada do Upper Bracket do VALORANT Game Changers Championship 2026, disputado na Riot Games Arena em São Paulo. Com a vitória, MIBR GC avança para enfrentar G2 Gozen na sequência do torneio, que distribui US$ 500 mil em prêmios.",
+      "tipo": "esports",
+      "escopo": "nacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC"],
+      "tags": ["valorant", "esports", "mibr", "brasil"],
+      "dataFato": "2026-10-22",
+      "janelaEstendida": false,
+      "fonte": { "nome": "VLR.gg", "url": "https://www.vlr.gg/773427/fennel-gc-vs-mibr-gc-game-changers-2026-championship-s-o-paulo-ur1", "dominio": "vlr.gg" },
+      "fontesSecundarias": [
+        { "nome": "VZone", "url": "https://vzone.gg/noticia/championship-2026-mibr-gc-estreia-com-vitoria-contra-fennel/", "dominio": "vzone.gg" },
+        { "nome": "Pichau Arena", "url": "https://www.pichauarena.com.br/valorant/mibr-estreia-vitoria-gcc-2026/", "dominio": "pichauarena.com.br" }
+      ],
+      "nota": 5.9,
+      "justificativa": "Resultado específico de uma partida do mesmo torneio já coberto em outro ângulo editorial (abertura do evento); fica como complemento no radar.",
+      "pesquisador": "radar-esports"
+    },
+    {
+      "slug": "flying-jack-lighthouse-of-madness-steam",
+      "titulo": "Flying Jack Creative Studio lança o indie brasileiro Lighthouse of Madness no Steam",
+      "resumo": "O estúdio brasileiro Flying Jack Creative Studio lançou 'Lighthouse of Madness' no Steam, um jogo de puzzle em primeira pessoa que mistura escape room e terror psicológico inspirado em H.P. Lovecraft. O jogo acompanha o faroleiro Dorian Cannon em uma ilha isolada em busca de uma equipe desaparecida.",
+      "tipo": "lancamento",
+      "escopo": "nacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC"],
+      "tags": ["lancamento", "indie", "terror", "estudio-brasileiro"],
+      "dataFato": "2026-10-21",
+      "janelaEstendida": true,
+      "fonte": { "nome": "Drops de Jogos", "url": "https://dropsdejogos.uai.com.br/noticias/indie/lancamento-lighthouse-of-madness-jogo-indie-brasileiro-chega-a-steam-nesta-semana/", "dominio": "dropsdejogos.uai.com.br" },
+      "fontesSecundarias": [],
+      "nota": 5.5,
+      "justificativa": "Lançamento indie nacional de nicho, com apenas uma fonte verificável e fora do pico da janela; fica fora do TOP 10 por menor alcance e repetição temática com outros itens de terror nacional já incluídos.",
+      "pesquisador": "radar-empresas-nacionais"
+    },
+    {
+      "slug": "side-adquire-roboto-entertainment-china",
+      "titulo": "Side adquire estúdio de arte Roboto Entertainment e expande presença na China",
+      "resumo": "A Side, fornecedora global de serviços de desenvolvimento de jogos, anunciou em 21 de outubro de 2026 a aquisição da Roboto Entertainment, estúdio boutique de arte sediado em Chengdu, China. O fundador da Roboto, Andrea Cordella, foi nomeado Global Head of Art da Side e liderará o novo estúdio da empresa em Chengdu.",
+      "tipo": "noticia",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": [],
+      "tags": ["aquisicao", "side", "mercado-b2b"],
+      "dataFato": "2026-10-21",
+      "janelaEstendida": true,
+      "fonte": { "nome": "GamesBeat", "url": "https://gamesbeat.com/side-opens-chengdu-studio-after-buying-boutique-art-house-roboto-entertainment/", "dominio": "gamesbeat.com" },
+      "fontesSecundarias": [
+        { "nome": "PocketGamer.biz", "url": "https://www.pocketgamer.biz/side-acquires-art-studio-roboto-entertainment-to-expand-presence-in-china/", "dominio": "pocketgamer.biz" },
+        { "nome": "Pulse2", "url": "https://pulse2.com/side-acquires-roboto-entertainment-and-appoints-andrea-cordella-global-head-of-art-to-expand-gaming-services-in-china/", "dominio": "pulse2.com" }
+      ],
+      "nota": 4.5,
+      "justificativa": "Notícia de bastidores B2B da indústria, com baixo apelo direto ao público gamer final.",
+      "pesquisador": "radar-empresas-internacionais"
+    },
+    {
+      "slug": "one-piece-grand-gourmet-lancamento",
+      "titulo": "ONE PIECE: Grand Gourmet chega a Switch, Switch 2, Steam e mobile",
+      "resumo": "ONE PIECE: Grand Gourmet, jogo de simulação em pixel art desenvolvido pela Kairosoft e publicado pela Bandai Namco em que Luffy e sua tripulação administram um restaurante flutuante, foi lançado em 23 de outubro de 2026 por US$ 19,99 em Nintendo Switch, Switch 2, Steam, iOS e Android.",
+      "tipo": "lancamento",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["Switch 2", "PC", "Mobile"],
+      "tags": ["one-piece", "lancamento", "mobile"],
+      "dataFato": "2026-10-23",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Bandai Namco Entertainment Europe", "url": "https://en.bandainamcoent.eu/one-piece/news/one-piece-grand-gourmet-serves-culinary-adventure-23-october-2026", "dominio": "bandainamcoent.eu" },
+      "fontesSecundarias": [
+        { "nome": "Steam", "url": "https://store.steampowered.com/app/3905010/ONE_PIECE_Grand_Gourmet/", "dominio": "store.steampowered.com" },
+        { "nome": "Game8", "url": "https://game8.co/articles/release-dates/one-piece-grand-gourmet-release-date-and-time", "dominio": "game8.co" }
+      ],
+      "nota": 4.8,
+      "justificativa": "Lançamento de nicho (simulação/gestão), com apelo limitado fora da base de fãs de ONE PIECE.",
+      "pesquisador": "radar-lancamentos-internacionais"
+    },
+    {
+      "slug": "1win-contrata-belchonokk-permanente",
+      "titulo": "1win confirma contratação definitiva de BELCHONOKK após acordo com PARIVISION",
+      "resumo": "A organização 1win anunciou a contratação permanente do rifle russo Andrey 'BELCHONOKK' Yasinskiy, após acerto com a PARIVISION sobre a transferência ao fim do período de empréstimo iniciado em agosto de 2026. O jogador, que havia sido banco na PARIVISION em junho e passou por TDK, teve como melhor resultado pela 1win um quarto de final na ESL Pro League Season 24.",
+      "tipo": "noticia",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC"],
+      "tags": ["cs2", "transferencia", "esports"],
+      "dataFato": "2026-10-23",
+      "janelaEstendida": false,
+      "fonte": { "nome": "HLTV", "url": "https://www.hltv.org/news/45781/belchonokk-joins-1win-permanently", "dominio": "hltv.org" },
+      "fontesSecundarias": [],
+      "nota": 4.0,
+      "justificativa": "Transferência de jogador de nicho, relevante apenas para fãs mais próximos da cena competitiva de CS2.",
+      "pesquisador": "radar-esports"
+    },
+    {
+      "slug": "riot-games-eventos-kpop-worlds-2026-brasil",
+      "titulo": "Riot Games Brasil anuncia série de eventos musicais K-pop ligados a Worlds 2026",
+      "resumo": "A operação brasileira da Riot Games anunciou uma série de eventos presenciais em cinco capitais (São Paulo, Belo Horizonte, Rio de Janeiro, Curitiba e Porto Alegre) entre outubro e novembro, inspirados nas bandas virtuais K/DA, True Damage e Heartsteel de League of Legends. A programação inclui festas temáticas, pop-up store em São Paulo e aulas de dança gratuitas, culminando na final do Worlds 2026 em Nova York.",
+      "tipo": "noticia",
+      "escopo": "nacional",
+      "confiabilidade": "confirmado",
+      "plataformas": [],
+      "tags": ["riot-games", "league-of-legends", "eventos", "brasil"],
+      "dataFato": "2026-10-22",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Gamers & Games", "url": "https://www.gamersegames.com.br/2026/10/22/riot-games-anuncia-eventos-de-k-da-true-damage-e-heartsteel-no-brasil/", "dominio": "gamersegames.com.br" },
+      "fontesSecundarias": [
+        { "nome": "Terra", "url": "https://www.terra.com.br/diversao/riot-games-traz-eventos-no-brasil-com-musica-e-cultura-k-pop,eb6a047c889a76aa5f8590c8fec7febfmfgvc4xh.html", "dominio": "terra.com.br" },
+        { "nome": "On Pop Life", "url": "https://onpoplife.com.br/riot-games-prepara-celebracao-musical-de-league-of-legends-com-ativacoes-pelo-brasil/", "dominio": "onpoplife.com.br" }
+      ],
+      "nota": 4.8,
+      "justificativa": "Ação promocional e de marketing, de interesse para fãs de LoL, mas com impacto jornalístico menor que notícias de produto ou competição.",
+      "pesquisador": "radar-empresas-nacionais"
+    }
+  ],
+  "descartados": [
+    {
+      "titulo": "Eternal Fire garante vaga na chave principal / pressiona corrida por Singapura (contexto Circuit)",
+      "motivo": "O próprio pesquisador classificou como redundante com o item 'Eternal Fire é campeã do DraculaN Season 7', tratando o mesmo fato sob outro ângulo; consolidado como duplicata."
+    }
+  ]
+}
