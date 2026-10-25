@@ -1,0 +1,358 @@
+{
+  "categoria": "games",
+  "data": "2026-10-24",
+  "geradoEm": "2026-10-24T21:30:00-03:00",
+  "janela": { "inicio": "2026-10-23T21:00:00-03:00", "fim": "2026-10-24T21:00:00-03:00" },
+  "observacao": null,
+  "itens": [
+    {
+      "posicao": 1,
+      "slug": "sindicatos-franceses-pressionam-microsoft-contra-fechamento-arkane-lyon",
+      "titulo": "Sindicatos franceses pressionam Microsoft contra fechamento da Arkane Lyon",
+      "resumo": "O jornal Le Monde detalhou a proposta da Microsoft de encerrar a Arkane Lyon, estúdio de 217 funcionários responsável por Marvel's Blade, com sindicatos franceses (NUPES, STJV) criticando a decisão em meio aos lucros bilionários da empresa. O período de consulta legal exigido pela lei francesa Florange termina em 13 de novembro de 2026, e o jornalista Jason Schreier afirmou haver 'múltiplos caminhos' ainda sendo explorados para salvar o estúdio.",
+      "tipo": "noticia",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": [],
+      "tags": ["microsoft", "xbox", "arkane", "demissoes", "fechamento-de-estudio"],
+      "dataFato": "2026-10-23",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Playday.one", "url": "https://playday.one/2026/10/23/le-monde-details-on-microsofts-desire-to-shutter-arkane-lyon/", "dominio": "playday.one" },
+      "fontesSecundarias": [
+        { "nome": "TweakTown", "url": "https://www.tweaktown.com/news/114262/arkane-lyon-has-until-november-13-to-find-a-buyer-before-xbox-shuts-it-down-leaving-marvels-blade-unfinished/index.html", "dominio": "tweaktown.com" }
+      ],
+      "nota": 8.7,
+      "justificativa": "Caso de alto impacto para a indústria, com consulta legal correndo contra o tempo e desdobramento institucional (sindicatos, lei Florange) que vai além do boato — maior peso jornalístico do dia.",
+      "pesquisador": "radar-empresas-internacionais"
+    },
+    {
+      "posicao": 2,
+      "slug": "valve-menciona-codinome-hlx-em-painel-sobre-audio",
+      "titulo": "Compositor da Valve menciona codinome 'HLX', ligado a Half-Life 3, em painel público",
+      "resumo": "O compositor da Valve, Mike Morasky, mencionou publicamente o termo 'HLX' durante um painel de perguntas e respostas no GameSoundCon 2026, em Burbank, ao comparar sistemas de áudio HDR entre 'Deadlock' e o codinome, amplamente especulado como o nome interno de um novo jogo da franquia Half-Life. Foi a primeira vez que um funcionário da Valve citou o termo publicamente, e um colega no painel reagiu com 'nice work' após o deslize; a empresa não confirmou nem negou o que o codinome representa.",
+      "tipo": "vazamento",
+      "escopo": "internacional",
+      "confiabilidade": "rumor",
+      "plataformas": [],
+      "tags": ["valve", "half-life", "vazamento", "codinome"],
+      "dataFato": "2026-10-23",
+      "janelaEstendida": false,
+      "fonte": { "nome": "GamesRadar+", "url": "https://www.gamesradar.com/games/fps/valve-dev-mentions-rumored-half-life-game-hlx-at-a-presentation-coworker-immediately-calls-him-out-nice-work/", "dominio": "gamesradar.com" },
+      "fontesSecundarias": [
+        { "nome": "GamingBible", "url": "https://www.gamingbible.com/news/half-life-3-speculation-reignites-valve-mentions-secret-project-203276-20261023", "dominio": "gamingbible.com" },
+        { "nome": "Khel Now", "url": "https://khelnow.com/gaming/valve-accidentally-mentioned-half-life-3-hlx-during-qa-conference-202610", "dominio": "khelnow.com" },
+        { "nome": "InvenGlobal", "url": "https://www.invenglobal.com/articles/27668/real-this-time-valve-developer-publicly-mentions-hlx-rumored-codename-for-half-life-3-for-the-first-time", "dominio": "invenglobal.com" }
+      ],
+      "nota": 8.3,
+      "justificativa": "Rumor de altíssimo impacto para a comunidade gamer — expectativa por Half-Life 3 é um dos maiores ganchos da indústria — confirmado por múltiplas fontes independentes como o mesmo episódio real, ainda que a natureza do fato continue sendo especulativa.",
+      "pesquisador": "radar-empresas-internacionais"
+    },
+    {
+      "posicao": 3,
+      "slug": "clt-gta-brasileiro-uniday-studio-acesso-antecipado",
+      "titulo": "CLT, 'GTA brasileiro' da Uniday Studio, evita concorrer com GTA 6 e vende direto pelo site",
+      "resumo": "CLT, jogo da Uniday Studio ambientado no fictício estado de São Catarino e inspirado nos primeiros GTA, chegou ao acesso antecipado em 19/10 por R$ 24,99 (de R$ 49,99), vendido exclusivamente pelo site oficial do estúdio para não competir diretamente com o lançamento de GTA 6, em 19/11. Quem comprar agora recebe uma chave gratuita para a versão Steam quando ela for disponibilizada.",
+      "tipo": "noticia",
+      "escopo": "nacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC"],
+      "tags": ["gta", "jogo-brasileiro", "acesso-antecipado", "uniday-studio"],
+      "dataFato": "2026-10-24",
+      "janelaEstendida": false,
+      "fonte": { "nome": "NC News", "url": "https://ncnews.com.br/2026/10/24/grand-theft-auto-6-chega-19-11-inspira-g/", "dominio": "ncnews.com.br" },
+      "fontesSecundarias": [
+        { "nome": "Flow Games", "url": "https://flowgames.gg/clt-gta-classico-brasileiro-e-lancado-em-early-access/", "dominio": "flowgames.gg" },
+        { "nome": "Acerto Games", "url": "https://acertogames.com.br/noticia/clt-gta-brasileiro-uniday-studio-acesso-antecipado-pc", "dominio": "acertogames.com.br" }
+      ],
+      "nota": 7.8,
+      "justificativa": "Produção nacional com forte apelo de público e gancho direto com a espera por GTA 6; estratégia de lançamento chamou atenção da imprensa especializada.",
+      "pesquisador": "radar-lancamentos-nacionais"
+    },
+    {
+      "posicao": 4,
+      "slug": "lck-varre-rodada-1-swiss-stage-worlds-2026-lpl-perde-tudo",
+      "titulo": "LCK vence todas as partidas da rodada 1 do Swiss Stage do Worlds 2026; LPL perde tudo",
+      "resumo": "Na abertura do Swiss Stage do Mundial de League of Legends 2026, as quatro equipes da LCK (Gen.G, Hanwha Life, Dplus KIA e T1) venceram suas partidas, enquanto as quatro representantes da LPL (Invictus Gaming, Top Esports, Bilibili Gaming e Anyone's Legend) perderam. BLG e Anyone's Legend caíram para equipes da LEC (Movistar KOI e Karmine Corp, respectivamente).",
+      "tipo": "esports",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC"],
+      "tags": ["league-of-legends", "worlds-2026", "lck", "lpl"],
+      "dataFato": "2026-10-23",
+      "janelaEstendida": true,
+      "fonte": { "nome": "Dot Esports", "url": "https://dotesports.com/league-of-legends/news/worlds-2026-swiss-day-1-results", "dominio": "dotesports.com" },
+      "fontesSecundarias": [
+        { "nome": "Esports.net", "url": "https://www.esports.net/news/gaming/worlds-2026-swiss-stage-round-1-results/", "dominio": "esports.net" },
+        { "nome": "Liquipedia", "url": "https://liquipedia.net/leagueoflegends/World_Championship/2026/Swiss_Stage", "dominio": "liquipedia.net" }
+      ],
+      "nota": 7.6,
+      "justificativa": "Resultado histórico e surpreendente no maior torneio de LoL do ano, com forte repercussão entre o público competitivo.",
+      "pesquisador": "radar-esports"
+    },
+    {
+      "posicao": 5,
+      "slug": "six-invitational-2027-venda-geral-ingressos-sao-paulo",
+      "titulo": "Ubisoft abre venda geral de ingressos para as finais do Six Invitational 2027 em São Paulo",
+      "resumo": "A Ubisoft abriu a venda geral de ingressos para as finais presenciais do Six Invitational 2027, principal torneio mundial de Rainbow Six Siege, que ocorrerá entre 12 e 14 de fevereiro de 2027 no Suhai Music Hall, em São Paulo. A fase de pré-venda havia esgotado, e os preços variam de R$ 20 a R$ 45 dependendo do dia e categoria.",
+      "tipo": "esports",
+      "escopo": "nacional",
+      "confiabilidade": "confirmado",
+      "plataformas": [],
+      "tags": ["rainbow-six-siege", "ubisoft", "six-invitational", "ingressos"],
+      "dataFato": "2026-10-23",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Gamers & Games", "url": "https://www.gamersegames.com.br/2026/10/23/six-invitational-2027-abre-venda-geral-de-ingressos-para-as-finais-presenciais-em-sao-paulo/", "dominio": "gamersegames.com.br" },
+      "fontesSecundarias": [
+        { "nome": "JWave", "url": "https://www.jwave.com.br/2026/10/six-invitational-2027-abre-venda-de-ingressos-para-finais-em-sao-paulo/", "dominio": "jwave.com.br" },
+        { "nome": "Última Ficha", "url": "https://ultimaficha.com.br/2026/10/23/rainbow-six-siege-six-invitational-2027-ingressos/", "dominio": "ultimaficha.com.br" }
+      ],
+      "nota": 7.2,
+      "justificativa": "Evento de peso para a cena de esports nacional, com pré-venda esgotada mostrando forte demanda do público brasileiro.",
+      "pesquisador": "radar-empresas-nacionais"
+    },
+    {
+      "posicao": 6,
+      "slug": "fortnite-confirma-colaboracao-one-piece-going-merry",
+      "titulo": "Fortnite confirma colaboração com One Piece em teaser com o navio Going Merry",
+      "resumo": "A conta oficial de Fortnite publicou um teaser de sete segundos mostrando o Going Merry navegando entre nuvens, confirmando a colaboração com One Piece. O crossover deve chegar durante a mini-temporada que encerra o Capítulo 7 do jogo, prevista para começar em 1º de novembro, mas a Epic ainda não revelou data exata, skins ou formato.",
+      "tipo": "lancamento",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC", "PS5", "Xbox Series", "Switch"],
+      "tags": ["fortnite", "one-piece", "crossover", "epic-games"],
+      "dataFato": "2026-10-24",
+      "janelaEstendida": false,
+      "fonte": { "nome": "OutputLag", "url": "https://outputlag.com/news/fortnite-one-piece-teaser-going-merry/", "dominio": "outputlag.com" },
+      "fontesSecundarias": [],
+      "nota": 7.0,
+      "justificativa": "Crossover de grande apelo popular em um dos jogos mais jogados do mundo, com forte repercussão nas redes apesar de detalhes ainda não confirmados.",
+      "pesquisador": "radar-lancamentos-internacionais"
+    },
+    {
+      "posicao": 7,
+      "slug": "factorio-recebe-patch-2-1-atualizacao-final",
+      "titulo": "Factorio recebe patch 2.1, sua atualização final após 14 anos de desenvolvimento",
+      "resumo": "A Wube Software lançou a versão estável do patch 2.1 de Factorio, marcado como a atualização final do jogo após 14 anos de desenvolvimento. O update foca em melhorias de logística espacial da expansão Space Age, permitindo que foguetes carreguem múltiplos itens diferentes em vez de apenas um tipo.",
+      "tipo": "noticia",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC", "Steam"],
+      "tags": ["factorio", "atualizacao", "wube-software"],
+      "dataFato": "2026-10-23",
+      "janelaEstendida": false,
+      "fonte": { "nome": "PC Gamer", "url": "https://www.pcgamer.com/games/survival-crafting/after-14-years-of-development-factorios-final-major-update-is-out-now/", "dominio": "pcgamer.com" },
+      "fontesSecundarias": [
+        { "nome": "OpenCritic", "url": "https://opencritic.com/news/38370/factorio-update-2-1-marks-the-end-of-an-era-for-the-beloved-factory-builder", "dominio": "opencritic.com" },
+        { "nome": "AllKeyShop", "url": "https://www.allkeyshop.com/blog/factorio-2-1-update-ends-major-development-news-r/", "dominio": "allkeyshop.com" }
+      ],
+      "nota": 6.9,
+      "justificativa": "Marco simbólico para um dos jogos de simulação mais respeitados da última década, com boa cobertura de imprensa especializada.",
+      "pesquisador": "radar-lancamentos-internacionais"
+    },
+    {
+      "posicao": 8,
+      "slug": "decreto-marco-legal-games-esports-atividade-esportiva-brasil",
+      "titulo": "Especialista detalha como decreto do Marco Legal dos Games formaliza esports como atividade esportiva no Brasil",
+      "resumo": "Carlos Gama, presidente do Instituto Latino-Americano de Esports, detalhou os impactos dos artigos 18 e 19 do Decreto nº 13.138/2026, que regulamenta o Marco Legal dos Jogos Eletrônicos e passa a reconhecer os esports como 'manifestação esportiva de natureza competitiva', permitindo o ingresso de organizações no Sistema Nacional do Esporte (Sinesp). O decreto foi assinado em 14 de outubro, mas a análise aprofundada de seus efeitos práticos foi publicada dentro da janela.",
+      "tipo": "noticia",
+      "escopo": "nacional",
+      "confiabilidade": "confirmado",
+      "plataformas": [],
+      "tags": ["legislacao", "esports", "marco-legal-dos-games", "brasil"],
+      "dataFato": "2026-10-23",
+      "janelaEstendida": false,
+      "fonte": { "nome": "iGaming Brazil", "url": "https://igamingbrazil.com/esports/2026/10/23/esports-sao-oficialmente-um-esporte-no-brasil-carlos-gama-explica-o-novo-decreto/", "dominio": "igamingbrazil.com" },
+      "fontesSecundarias": [],
+      "nota": 6.6,
+      "justificativa": "Tema institucional de impacto duradouro para organizações e federações de esports brasileiras, ainda que de apelo mais restrito ao público geral.",
+      "pesquisador": "radar-empresas-nacionais"
+    },
+    {
+      "posicao": 9,
+      "slug": "furia-vence-dendele-estreia-pgl-masters-bucharest-2026",
+      "titulo": "FURIA vence DENDELE na estreia da PGL Masters Bucharest 2026",
+      "resumo": "A FURIA derrotou a equipe brasileira DENDELE por 2-0 (13-8 em Ancient, 13-11 em Inferno) na rodada de abertura da PGL Masters Bucharest 2026, torneio Valve Tier 1 com premiação de US$ 1.250.000. FURIA foi a única representante sul-americana a vencer no primeiro dia, enquanto Legacy, 9z e a própria DENDELE perderam suas estreias.",
+      "tipo": "esports",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC", "Steam"],
+      "tags": ["counter-strike", "furia", "pgl-masters-bucharest", "cs2"],
+      "dataFato": "2026-10-24",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Dust2.com.br", "url": "https://www.dust2.com.br/noticias/79230/furia-bate-dendele-na-estreia-da-pgl-masters-bucharest", "dominio": "dust2.com.br" },
+      "fontesSecundarias": [
+        { "nome": "HLTV", "url": "https://www.hltv.org/matches/2399726/furia-vs-dendele-pgl-masters-bucharest-2026", "dominio": "hltv.org" },
+        { "nome": "Draft5", "url": "https://draft5.gg/partida/47235-FURIA-vs-DENDELE-CS-PGL-Masters-Bucharest-2026", "dominio": "draft5.gg" }
+      ],
+      "nota": 6.8,
+      "justificativa": "Vitória de time brasileiro de peso em torneio Tier 1, com boa repercussão na cena de Counter-Strike nacional e internacional.",
+      "pesquisador": "radar-esports"
+    },
+    {
+      "posicao": 10,
+      "slug": "gentle-mates-gc-elimina-team-liquid-brazil-game-changers-championship-2026",
+      "titulo": "Gentle Mates GC elimina Team Liquid Brazil nas quartas do Game Changers Championship 2026 em São Paulo",
+      "resumo": "A Gentle Mates GC venceu a Team Liquid Brazil, atual campeã, por 2-0 (13-10 em Summit, 13-6 em Split) nas quartas de final da chave superior do VCT Game Changers Championship 2026, sediado na Riot Games Arena em São Paulo. O torneio, com premiação de US$ 500 mil, segue até 1º de novembro.",
+      "tipo": "esports",
+      "escopo": "nacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC"],
+      "tags": ["valorant", "game-changers", "esports-feminino", "sao-paulo"],
+      "dataFato": "2026-10-23",
+      "janelaEstendida": true,
+      "fonte": { "nome": "VLR.gg", "url": "https://www.vlr.gg/773430/team-liquid-brazil-vs-gentle-mates-gc-game-changers-2026-championship-s-o-paulo-ubqf", "dominio": "vlr.gg" },
+      "fontesSecundarias": [
+        { "nome": "Liquipedia", "url": "https://liquipedia.net/valorant/VCT/2026/Game_Changers_Championship", "dominio": "liquipedia.net" }
+      ],
+      "nota": 6.5,
+      "justificativa": "Resultado de impacto na cena de Valorant feminino, com evento internacional sediado no Brasil, reforçando a cota nacional da edição.",
+      "pesquisador": "radar-esports"
+    }
+  ],
+  "tambemNoRadar": [
+    {
+      "slug": "coo-xbox-helen-chiang-deixa-microsoft-tres-meses",
+      "titulo": "COO da Xbox, Helen Chiang, deixa a Microsoft após apenas três meses no cargo",
+      "resumo": "Helen Chiang, nomeada primeira chief operating officer da Xbox em julho de 2026 como parte do 'reset' de marca liderado pelo CEO Asha Sharma, saiu da Microsoft após 21 anos na empresa. Sharma comunicou a saída em memorando interno sem detalhar os motivos; outros executivos absorverão as funções de Chiang.",
+      "tipo": "noticia",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": [],
+      "tags": ["xbox", "microsoft", "executivos"],
+      "dataFato": "2026-10-23",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Gematsu", "url": "https://www.gematsu.com/2026/10/xbox-chief-operating-officer-helen-chiang-steps-down-after-three-months", "dominio": "gematsu.com" },
+      "fontesSecundarias": [
+        { "nome": "Kotaku", "url": "https://kotaku.com/xboxs-chief-operating-officer-out-three-months-after-roles-creation-2000749324", "dominio": "kotaku.com" },
+        { "nome": "GamesRadar+", "url": "https://www.gamesradar.com/platforms/xbox/xbox-coo-and-ex-minecraft-boss-leaves-microsoft-after-just-3-months-in-the-role/", "dominio": "gamesradar.com" }
+      ],
+      "nota": 6.4,
+      "justificativa": "Movimentação executiva relevante na Xbox, mas de impacto mais interno à indústria do que ao público gamer final.",
+      "pesquisador": "radar-lancamentos-internacionais"
+    },
+    {
+      "slug": "top-esports-vence-anyones-legend-worlds-2026",
+      "titulo": "Top Esports vence Anyone's Legend em confronto interno da LPL no Swiss Stage do Worlds 2026",
+      "resumo": "Na rodada 2 do Swiss Stage do Mundial de LoL 2026, a Top Esports derrotou a Anyone's Legend em confronto interno da LPL, com 18 a 9 em abates. Com o resultado, TES subiu para 1-1 no torneio, enquanto AL caiu para 0-2 e ficou a uma derrota da eliminação.",
+      "tipo": "esports",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC"],
+      "tags": ["league-of-legends", "worlds-2026", "lpl"],
+      "dataFato": "2026-10-24",
+      "janelaEstendida": false,
+      "fonte": { "nome": "GosuGamers", "url": "https://www.gosugamers.net/lol/news/79408-top-esports-defeat-anyone-s-legend-in-bloody-lpl-showdown-at-worlds-2026-swiss-stage", "dominio": "gosugamers.net" },
+      "fontesSecundarias": [
+        { "nome": "Liquipedia", "url": "https://liquipedia.net/leagueoflegends/Match:ID_Wrd26Sws2L_0001", "dominio": "liquipedia.net" }
+      ],
+      "nota": 6.2,
+      "justificativa": "Resultado relevante mas de menor peso que a varredura geral da LCK sobre a LPL já destacada no TOP 10.",
+      "pesquisador": "radar-esports"
+    },
+    {
+      "slug": "liquid-derruba-mouz-pgl-masters-bucharest-2026",
+      "titulo": "Liquid derruba MOUZ, 2ª colocada no ranking, na abertura da PGL Masters Bucharest 2026",
+      "resumo": "A Team Liquid venceu a MOUZ por 2-1 (MOUZ 16-13 em Ancient; Liquid 16-12 em Inferno; Liquid 13-11 em Mirage) na partida de abertura da PGL Masters Bucharest 2026. NAF foi o destaque da série, com rating 1.12 e um 1v5 em Ancient.",
+      "tipo": "esports",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC", "Steam"],
+      "tags": ["counter-strike", "pgl-masters-bucharest", "cs2"],
+      "dataFato": "2026-10-24",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Dust2.us", "url": "https://www.dust2.us/news/79223/liquid-upset-second-ranked-mouz-in-pgl-masters-bucharest-2026-opener", "dominio": "dust2.us" },
+      "fontesSecundarias": [
+        { "nome": "HLTV", "url": "https://www.hltv.org/events/8048/pgl-bucharest-2026", "dominio": "hltv.org" }
+      ],
+      "nota": 6.0,
+      "justificativa": "Upset relevante no CS2, mas sem brasileiros envolvidos e com menor repercussão que a vitória da FURIA já no TOP 10.",
+      "pesquisador": "radar-esports"
+    },
+    {
+      "slug": "stillfront-nomeia-marcus-jacobs-novo-ceo",
+      "titulo": "Stillfront Group nomeia Marcus Jacobs, ex-executivo da King e EA, como novo CEO",
+      "resumo": "A publisher sueca Stillfront Group anunciou a nomeação de Marcus Jacobs, com mais de 25 anos na indústria (ex-King, EA e Embark Studios), como novo Presidente e CEO do grupo, efetivo a partir de 1º de novembro de 2026, sucedendo Alexis Bonte. O anúncio ocorre em meio a resultados financeiros em queda da companhia.",
+      "tipo": "noticia",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": [],
+      "tags": ["stillfront", "executivos", "mobile-games"],
+      "dataFato": "2026-10-22",
+      "janelaEstendida": true,
+      "fonte": { "nome": "Stillfront", "url": "https://www.stillfront.com/en/stillfront-appoints-marcus-jacobs-as-new-president-and-group-ceo/", "dominio": "stillfront.com" },
+      "fontesSecundarias": [
+        { "nome": "PocketGamer.biz", "url": "https://www.pocketgamer.biz/stillfront-names-former-king-executive-marcus-jacobs-as-ceo/", "dominio": "pocketgamer.biz" },
+        { "nome": "MobileGamer.biz", "url": "https://mobilegamer.biz/stillfronts-new-boss-is-former-ea-king-and-embark-exec-marcus-jacobs/", "dominio": "mobilegamer.biz" }
+      ],
+      "nota": 5.8,
+      "justificativa": "Notícia relevante para o mercado mobile, mas de apelo restrito ao público gamer geral.",
+      "pesquisador": "radar-empresas-internacionais"
+    },
+    {
+      "slug": "marvel-rivals-modo-cooperativo-path-to-doomsday",
+      "titulo": "NetEase lança modo cooperativo 'Path to Doomsday' em Marvel Rivals",
+      "resumo": "A NetEase lançou o modo PvE 'Path to Doomsday: Avengers Endgame' em Marvel Rivals, reunindo 50 jogadores simultâneos em uma batalha cooperativa contra Thanos, recriando momentos do filme 'Vingadores: Ultimato'. O modo roda por quatro semanas com sessões limitadas e recompensas gratuitas.",
+      "tipo": "lancamento",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC", "PS4", "PS5", "Xbox Series"],
+      "tags": ["marvel-rivals", "netease", "evento-in-game"],
+      "dataFato": "2026-10-24",
+      "janelaEstendida": false,
+      "fonte": { "nome": "GameTrader", "url": "https://www.gametrader.sg/blog/marvel-rivals-path-to-doomsday-pve-october-24-2026/", "dominio": "gametrader.sg" },
+      "fontesSecundarias": [
+        { "nome": "Gizmodo", "url": "https://gizmodo.com/the-next-marvel-rivals-event-makes-you-feel-like-youre-in-avengers-endgame-2000828256", "dominio": "gizmodo.com" }
+      ],
+      "nota": 5.6,
+      "justificativa": "Conteúdo gratuito de bom apelo para a base de jogadores de Marvel Rivals, mas sem o peso de outras notícias do dia.",
+      "pesquisador": "radar-empresas-internacionais"
+    },
+    {
+      "slug": "obscurium-demo-gratuita-steam-folclore-brasileiro",
+      "titulo": "Wild Pepper Games lança demo gratuita de Obscurium, roguelike inspirado no folclore brasileiro",
+      "resumo": "O estúdio brasileiro Wild Pepper Games lançou uma demo gratuita no Steam de Obscurium, roguelike deckbuilder de terror inspirado no folclore brasileiro (Pisadeira, Capelobo, Caboclo d'Água). O jogo completo está previsto para 2027, para PC, com textos em português do Brasil e inglês.",
+      "tipo": "lancamento",
+      "escopo": "nacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC"],
+      "tags": ["jogo-brasileiro", "roguelike", "folclore", "demo"],
+      "dataFato": "2026-10-23",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Gamers & Games", "url": "https://www.gamersegames.com.br/2026/10/23/obscurium-recebe-demo-gratuita-no-steam-e-leva-folclore-brasileiro-a-um-roguelike-sombrio/", "dominio": "gamersegames.com.br" },
+      "fontesSecundarias": [
+        { "nome": "JWave", "url": "https://www.jwave.com.br/2026/10/obscurium-transforma-lendas-brasileiras-em-jogo-de-terror-e-ganha-demo-no-steam/", "dominio": "jwave.com.br" },
+        { "nome": "Última Ficha", "url": "https://ultimaficha.com.br/2026/10/23/obscurium-demo-steam/", "dominio": "ultimaficha.com.br" }
+      ],
+      "nota": 5.5,
+      "justificativa": "Produção independente brasileira de nicho, com boa cobertura, mas de alcance mais limitado que os outros destaques nacionais do dia.",
+      "pesquisador": "radar-empresas-nacionais"
+    },
+    {
+      "slug": "hypnos-saida-early-access-versao-1-0",
+      "titulo": "Hypnos, jogo brasileiro de exploração surreal, confirma saída do Early Access em 29 de outubro",
+      "resumo": "A Redlock Studio anunciou que Hypnos, ambientado no universo Maze Chronicles, deixará o acesso antecipado da Steam em 29/10/2026 após cinco meses, trazendo campanha completa com 7 capítulos e 4 finais alternativos. Versões para PS5 e Xbox Series X|S foram confirmadas ainda para 2026.",
+      "tipo": "lancamento",
+      "escopo": "nacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC", "Switch"],
+      "tags": ["jogo-brasileiro", "early-access", "redlock-studio"],
+      "dataFato": "2026-10-22",
+      "janelaEstendida": true,
+      "fonte": { "nome": "Gamers & Games", "url": "https://www.gamersegames.com.br/2026/10/22/hypnos-deixa-o-steam-early-access-e-recebe-lancamento-1-0-em-29-de-outubro/", "dominio": "gamersegames.com.br" },
+      "fontesSecundarias": [
+        { "nome": "Aigis", "url": "https://aigis.com.br/hypnos-deixa-o-acesso-antecipado-do-steam-em-29-de-outubro/", "dominio": "aigis.com.br" },
+        { "nome": "Otaku Study", "url": "https://www.otakustudy.com/video-game/2026/10/hypnos-1-0-launch/", "dominio": "otakustudy.com" }
+      ],
+      "nota": 5.3,
+      "justificativa": "Produção nacional relevante para o nicho de jogos narrativos, mas com anúncio datado fora do dia-chave da janela.",
+      "pesquisador": "radar-lancamentos-nacionais"
+    }
+  ],
+  "descartados": [
+    { "titulo": "HAVIT fecha segunda participação na BGS 2026 com vendas esgotadas de periféricos", "motivo": "Notícia institucional de marca com impacto limitado ao público gamer, sem fonte secundária independente para corroborar os números internos informados pela própria empresa." },
+    { "titulo": "PlayStation Store mantém promoção 'Planeta das Ofertas' ativa no Brasil", "motivo": "Fato iniciado fora da janela (21/10), sem novidade ou atualização específica ocorrida em 23-24/10 além da continuidade da promoção já conhecida." },
+    { "titulo": "Jogo gratuito de point-and-click baseado em 'Knightmare' é anunciado", "motivo": "Apelo de nicho muito restrito ao público nostálgico britânico, com baixo impacto para o público gamer geral do Radar." },
+    { "titulo": "Nintendo Switch Sports Resort recebe patch 1.1.0", "motivo": "Fonte principal genérica (página de notícias, não uma matéria específica) sem detalhamento verificável do patch; impacto baixo." },
+    { "titulo": "PGL Masters Bucharest 2026 abre com oito confrontos (resumo consolidado)", "motivo": "Duplicata consolidada: os resultados de FURIA e Liquid já constam como itens próprios; os demais confrontos (Na'Vi, Vitality, Nemiga, BetBoom, MongolZ) não trouxeram fonte dedicada e impacto suficiente para item autônomo além do resumo geral." }
+  ]
+}
