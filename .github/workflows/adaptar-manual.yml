@@ -1,0 +1,138 @@
+name: Adaptar notícia colada
+
+# Disparado pela página /adaptar do site (via /api/adaptar). O id aparece no
+# nome da execução para a página conseguir acompanhar o andamento.
+run-name: "Adaptar notícia ${{ inputs.id }}"
+
+on:
+  workflow_dispatch:
+    inputs:
+      id:
+        description: "Identificador AAAAMMDD-HHMMSS-xxxx (gerado pelo site)"
+        required: true
+        type: string
+      texto:
+        description: "Texto da notícia original"
+        required: false
+        default: ""
+        type: string
+      fonte_url:
+        description: "Link da matéria original"
+        required: false
+        default: ""
+        type: string
+      fonte_nome:
+        description: "Nome do veículo"
+        required: false
+        default: ""
+        type: string
+
+permissions:
+  contents: write
+
+jobs:
+  adaptar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+
+    steps:
+      - name: Checkout do repositório
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+
+      - name: Configurar Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+          cache: "npm"
+
+      - name: Instalar dependências do projeto
+        run: npm ci
+
+      - name: Instalar o CLI do Claude Code
+        run: npm install -g @anthropic-ai/claude-code
+
+      - name: Configurar identidade do git para o commit automático
+        run: |
+          git config user.name "radar-bot"
+          git config user.email "radar-bot@users.noreply.github.com"
+
+      # Mesmo passo do radar diário: sem ninguém para aceitar o diálogo de
+      # confiança, o Claude Code ignoraria as regras de .claude/settings.json.
+      - name: Marcar workspace como confiável
+        run: |
+          node -e "
+            const fs = require('fs');
+            const path = require('os').homedir() + '/.claude.json';
+            let config = {};
+            if (fs.existsSync(path)) {
+              try { config = JSON.parse(fs.readFileSync(path, 'utf8')); } catch (e) { config = {}; }
+            }
+            config.projects = config.projects || {};
+            config.projects[process.env.GITHUB_WORKSPACE] = Object.assign(
+              {},
+              config.projects[process.env.GITHUB_WORKSPACE],
+              { hasTrustDialogAccepted: true }
+            );
+            fs.writeFileSync(path, JSON.stringify(config, null, 2));
+          "
+
+      # Os inputs entram por variável de ambiente, nunca interpolados no
+      # script: o texto colado pode ter aspas, crases ou $() à vontade.
+      - name: Validar id e gravar a entrada
+        env:
+          ID: ${{ inputs.id }}
+          TEXTO: ${{ inputs.texto }}
+          FONTE_URL: ${{ inputs.fonte_url }}
+          FONTE_NOME: ${{ inputs.fonte_nome }}
+        run: |
+          if [[ ! "$ID" =~ ^[0-9]{8}-[0-9]{6}-[a-z0-9]{4}$ ]]; then
+            echo "::error::id inválido"
+            exit 1
+          fi
+          node -e "
+            const fs = require('fs');
+            const id = process.env.ID;
+            fs.mkdirSync('.entrada', { recursive: true });
+            fs.writeFileSync('.entrada/' + id + '.json', JSON.stringify({
+              texto: process.env.TEXTO || '',
+              fonteUrl: process.env.FONTE_URL || '',
+              fonteNome: process.env.FONTE_NOME || '',
+              data: id.slice(0, 4) + '-' + id.slice(4, 6) + '-' + id.slice(6, 8),
+            }, null, 2));
+          "
+
+      # Autenticado pelo token da assinatura (CLAUDE_CODE_OAUTH_TOKEN), como
+      # o radar diário: não consome crédito de API.
+      - name: Adaptar com o redator
+        env:
+          CLAUDE_CODE_OAUTH_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+          ID: ${{ inputs.id }}
+        run: claude -p "/adaptar-texto $ID" --permission-mode acceptEdits
+
+      - name: Conferir o artigo
+        env:
+          ID: ${{ inputs.id }}
+        run: |
+          ARQUIVO="content/manual/$ID.md"
+          if [ ! -f "$ARQUIVO" ]; then
+            echo "::error::O redator não gravou $ARQUIVO."
+            exit 1
+          fi
+          npx tsx scripts/conferir-adaptacao.ts "$ARQUIVO"
+
+      # O push dispara o redeploy no Vercel. O pull antes evita conflito com
+      # o radar diário ou com outra adaptação rodando ao mesmo tempo.
+      - name: Publicar
+        env:
+          ID: ${{ inputs.id }}
+        run: |
+          git add "content/manual/$ID.md"
+          git commit -m "conteudo: adaptacao manual $ID"
+          for tentativa in 1 2 3; do
+            if git pull --rebase && git push; then exit 0; fi
+            sleep 5
+          done
+          echo "::error::Não consegui dar push depois de 3 tentativas."
+          exit 1
