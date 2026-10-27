@@ -1,0 +1,359 @@
+{
+  "categoria": "games",
+  "data": "2026-10-26",
+  "geradoEm": "2026-10-27T10:00:00-03:00",
+  "janela": { "inicio": "2026-10-25T21:00:00-03:00", "fim": "2026-10-26T21:00:00-03:00" },
+  "observacao": null,
+  "itens": [
+    {
+      "posicao": 1,
+      "slug": "microsoft-oferece-buyout-voluntario-a-60-mil-funcionarios",
+      "titulo": "Microsoft oferece buyout voluntário a 60 mil funcionários, Xbox entre as áreas afetadas",
+      "resumo": "A Microsoft anunciou em 26 de outubro de 2026 uma oferta voluntária de saída para cerca de 60 mil funcionários, aproximadamente 27% da força de trabalho global, abrangendo equipes nos EUA, Canadá, Índia e Reino Unido. As divisões Xbox, Windows, Copilot e Finanças estão entre as participantes; funcionários têm até início de dezembro para decidir, com saída efetiva em 31 de dezembro.",
+      "tipo": "noticia",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": [],
+      "tags": ["microsoft", "xbox", "demissoes", "reestruturacao"],
+      "dataFato": "2026-10-26",
+      "janelaEstendida": false,
+      "fonte": { "nome": "TechCrunch", "url": "https://techcrunch.com/2026/10/26/microsoft-offers-buyouts-to-around-60000-employees-reports-say/", "dominio": "techcrunch.com" },
+      "fontesSecundarias": [
+        { "nome": "Bloomberg", "url": "https://www.bloomberg.com/news/articles/2026-10-26/microsoft-to-offer-buyouts-to-60-000-workers-in-latest-cost-cut", "dominio": "bloomberg.com" },
+        { "nome": "GeekWire", "url": "https://www.geekwire.com/2026/microsoft-makes-new-voluntary-exit-offer-to-more-than-a-quarter-of-its-workforce-including-some-execs/", "dominio": "geekwire.com" }
+      ],
+      "nota": 9.3,
+      "justificativa": "Movimento corporativo de grande escala, com impacto direto na Xbox, confirmado por múltiplas fontes de peso no mesmo dia.",
+      "pesquisador": "radar-empresas-internacionais"
+    },
+    {
+      "posicao": 2,
+      "slug": "ence-anuncia-falencia-apos-13-anos-no-cs",
+      "titulo": "ENCE anuncia falência após 13 anos de história no CS",
+      "resumo": "A organização finlandesa ENCE anunciou em 26 de outubro de 2026 que entrará em processo de falência, por decisão do conselho administrativo, encerrando 13 anos de atividade no Counter-Strike. A receita da organização caiu drasticamente nos últimos dois anos, agravada pela venda do elenco principal para a Falcons em 2024 e pela ausência de eventos de alto nível desde então.",
+      "tipo": "esports",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC"],
+      "tags": ["cs2", "esports", "organizacao", "falencia"],
+      "dataFato": "2026-10-26",
+      "janelaEstendida": false,
+      "fonte": { "nome": "HLTV", "url": "https://www.hltv.org/news/45814/ence-file-for-bankruptcy", "dominio": "hltv.org" },
+      "fontesSecundarias": [
+        { "nome": "Dot Esports", "url": "https://dotesports.com/counter-strike/news/ence-bankruptcy-13-years-esports", "dominio": "dotesports.com" },
+        { "nome": "Inven Global", "url": "https://www.invenglobal.com/articles/27716/ence-files-for-bankruptcy-after-13-years", "dominio": "invenglobal.com" }
+      ],
+      "nota": 9.0,
+      "justificativa": "Fato institucional de peso no cenário competitivo, marcando o fim de uma organização histórica do CS, confirmado por múltiplas fontes especializadas.",
+      "pesquisador": "radar-esports"
+    },
+    {
+      "posicao": 3,
+      "slug": "furia-eliminada-pgl-masters-bucharest-2026",
+      "titulo": "FURIA é eliminada do PGL Masters Bucharest 2026 após derrota para Team Spirit",
+      "resumo": "Em 26 de outubro de 2026, a Team Spirit derrotou a FURIA por 2-1 na Swiss Stage da PGL Masters Bucharest 2026, eliminando a equipe brasileira do torneio após uma sequência de cinco vitórias consecutivas. A derrota veio após a FURIA já ter perdido para a NAVI por 2-0 na rodada anterior.",
+      "tipo": "esports",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC"],
+      "tags": ["cs2", "esports", "furia", "pgl"],
+      "dataFato": "2026-10-26",
+      "janelaEstendida": false,
+      "fonte": { "nome": "HLTV", "url": "https://www.hltv.org/news/45817/spirit-outlast-furia-to-reach-2-1-pool-in-bucharest", "dominio": "hltv.org" },
+      "fontesSecundarias": [
+        { "nome": "HLTV", "url": "https://www.hltv.org/news/45805/navi-rise-another-nine-places-on-the-vrs-after-taking-out-furia", "dominio": "hltv.org" },
+        { "nome": "Esports Bets", "url": "https://www.esportsbets.com/news/navi-ends-furias-five-match-win-streak-with-sweep-at-pgl-masters-bucharest/", "dominio": "esportsbets.com" }
+      ],
+      "nota": 8.5,
+      "justificativa": "Resultado concreto de equipe brasileira em torneio internacional de peso, com forte interesse do público nacional de CS2.",
+      "pesquisador": "radar-esports"
+    },
+    {
+      "posicao": 4,
+      "slug": "sucker-punch-demite-24-funcionarios-apos-ghost-of-yotei",
+      "titulo": "Sucker Punch (Sony) demite 24 funcionários após sucesso de Ghost of Yōtei",
+      "resumo": "O estúdio Sucker Punch Productions, da Sony, demitiu 24 funcionários em 26 de outubro de 2026, semanas após o lançamento da Ghost of Yōtei Complete Edition. A liderança justificou os cortes citando 'desafios do mercado' e necessidades da equipe para o próximo projeto, mesmo com o jogo tendo vendido milhões de cópias.",
+      "tipo": "noticia",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PS5"],
+      "tags": ["sony", "playstation", "demissoes", "ghost-of-yotei"],
+      "dataFato": "2026-10-26",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Aftermath", "url": "https://aftermath.site/sucker-punch-layoffs-sony-ghost-of-yotei/", "dominio": "aftermath.site" },
+      "fontesSecundarias": [
+        { "nome": "Game Informer", "url": "https://gameinformer.com/2026/10/26/report-ghost-of-yotei-developer-sucker-punch-hit-with-layoffs", "dominio": "gameinformer.com" },
+        { "nome": "Engadget", "url": "https://www.engadget.com/2297486/ghost-of-yotei-studio-sucker-punch-lays-off-24-workers/", "dominio": "engadget.com" }
+      ],
+      "nota": 8.0,
+      "justificativa": "Caso emblemático de demissão pós-sucesso comercial em estúdio first-party relevante da Sony, com múltiplas fontes confirmando.",
+      "pesquisador": "radar-empresas-internacionais"
+    },
+    {
+      "posicao": 5,
+      "slug": "fut-esports-elimina-vitality-playoffs-pgl-bucharest",
+      "titulo": "FUT Esports derrota Team Vitality e é a primeira equipe nos playoffs da PGL Masters Bucharest",
+      "resumo": "Em 26 de outubro de 2026, a FUT Esports venceu a Team Vitality (número 1 do mundo) por 2-1, encerrando a Swiss Stage com invencibilidade (3-0) e se tornando a primeira equipe classificada aos playoffs da PGL Masters Bucharest 2026. O espanhol SunPayus teve atuação decisiva, com virada no mapa decisivo após estar perdendo no lado CT.",
+      "tipo": "esports",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC"],
+      "tags": ["cs2", "esports", "pgl", "vitality"],
+      "dataFato": "2026-10-26",
+      "janelaEstendida": false,
+      "fonte": { "nome": "HLTV", "url": "https://www.hltv.org/news/45812/fut-sail-into-pgl-masters-playoffs-over-vitality", "dominio": "hltv.org" },
+      "fontesSecundarias": [
+        { "nome": "ESTNN", "url": "https://estnn.com/pgl-masters-bucharest-2026-fut-vitality-playoffs/", "dominio": "estnn.com" }
+      ],
+      "nota": 7.5,
+      "justificativa": "Upset relevante de torneio top-tier de CS2 contra o número 1 do ranking mundial.",
+      "pesquisador": "radar-esports"
+    },
+    {
+      "posicao": 6,
+      "slug": "microsoft-estende-prazo-comprador-arkane-lyon",
+      "titulo": "Microsoft estende prazo para encontrar comprador da Arkane Lyon até 13 de dezembro",
+      "resumo": "A Microsoft estendeu em um mês, de 13 de novembro para 13 de dezembro de 2026, o prazo para encontrar um comprador para a Arkane Lyon, estúdio francês que desenvolve Marvel's Blade, após pressão de sindicatos franceses. Aproximadamente 217 empregos estão em risco; a Microsoft afirmou que também explora um parceiro para apoiar a conclusão do jogo.",
+      "tipo": "noticia",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC", "Xbox Series"],
+      "tags": ["microsoft", "xbox", "arkane", "venda-de-estudio"],
+      "dataFato": "2026-10-26",
+      "janelaEstendida": false,
+      "fonte": { "nome": "GamingBolt", "url": "https://gamingbolt.com/arkane-lyons-deadline-to-find-a-new-buyer-has-been-pushed-back-to-december-13th", "dominio": "gamingbolt.com" },
+      "fontesSecundarias": [
+        { "nome": "This Week in Video Games", "url": "https://thisweekinvideogames.com/news/arkane-lyons-deadline-to-find-a-new-buyer-has-been-extended-by-a-month/", "dominio": "thisweekinvideogames.com" },
+        { "nome": "Kotaku", "url": "https://kotaku.com/arkane-devs-say-blade-is-nearly-finished-but-if-it-cant-find-a-buyer-soon-the-studio-will-close-2000749096", "dominio": "kotaku.com" }
+      ],
+      "nota": 7.2,
+      "justificativa": "Desdobramento relevante da reestruturação da Xbox, com impacto direto em empregos e em jogo aguardado.",
+      "pesquisador": "radar-empresas-internacionais"
+    },
+    {
+      "posicao": 7,
+      "slug": "cblol-trajetoria-bgs-parque-olimpico",
+      "titulo": "Trajetória do CBLOL: da BGS ao Parque Olímpico, consolidação da liga da Riot Games no Brasil",
+      "resumo": "Reportagem publicada em 25 de outubro de 2026 detalha a evolução do CBLOL desde 2012 até se tornar a terceira maior liga de League of Legends do mundo, atrás apenas de LEC e LCK, com a final do 2º split disputada na Arena Carioca 1, no Rio de Janeiro. O texto cita marcos como a parceria com a Globosat em 2017, o modelo de franquias de 2021 e o recorde de 459,8 mil espectadores simultâneos em 2024.",
+      "tipo": "noticia",
+      "escopo": "nacional",
+      "confiabilidade": "confirmado",
+      "plataformas": [],
+      "tags": ["cblol", "league-of-legends", "esports", "riot-games"],
+      "dataFato": "2026-10-25",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Olhar Digital", "url": "https://olhardigital.com.br/2026/10/25/games-e-consoles/cblol-da-bgs-ao-parque-olimpico-a-principal-liga-de-lol", "dominio": "olhardigital.com.br" },
+      "fontesSecundarias": [
+        { "nome": "Mais Esports", "url": "https://maisesports.com.br/cblol-2026-furia-elimina-a-loud-e-vai-a-final", "dominio": "maisesports.com.br" }
+      ],
+      "nota": 6.0,
+      "justificativa": "Conteúdo editorial relevante sobre a cena brasileira de esports, ocupando vaga da cota nacional por consistência e fonte confiável, apesar do baixo ineditismo.",
+      "pesquisador": "radar-empresas-nacionais"
+    },
+    {
+      "posicao": 8,
+      "slug": "auroch-digital-corta-25-da-equipe-apos-boltgun-2",
+      "titulo": "Auroch Digital corta 25% da equipe dias após lançar Boltgun 2",
+      "resumo": "A desenvolvedora britânica Auroch Digital (Warhammer 40,000: Boltgun 2, Starship Troopers: Ultimate Bug War!) anunciou em 26 de outubro de 2026 uma reestruturação que afeta cerca de 25% de seus funcionários, citando condições difíceis de mercado apesar da boa recepção crítica dos jogos. O suporte pós-lançamento de Boltgun 2 e Warhammer Survivors deve continuar normalmente.",
+      "tipo": "noticia",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC", "Steam"],
+      "tags": ["demissoes", "estudio-indie", "warhammer"],
+      "dataFato": "2026-10-26",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Insider Gaming", "url": "https://insider-gaming.com/auroch-digital-layoffs/", "dominio": "insider-gaming.com" },
+      "fontesSecundarias": [
+        { "nome": "Gematsu", "url": "https://www.gematsu.com/2026/10/auroch-digital-to-lay-off-25-percent-of-staff", "dominio": "gematsu.com" },
+        { "nome": "Inven Global", "url": "https://www.invenglobal.com/articles/27738/warhammer-40000-boltgun-2-developer-lays-off-25-of-staff-despite-critical-success", "dominio": "invenglobal.com" }
+      ],
+      "nota": 6.5,
+      "justificativa": "Caso representativo da crise de estúdios indie/mid-size mesmo após lançamentos bem recebidos pela crítica.",
+      "pesquisador": "radar-empresas-internacionais"
+    },
+    {
+      "posicao": 9,
+      "slug": "hunters-moon-lancado-exclusivo-ps5",
+      "titulo": "Hunter's Moon é lançado exclusivamente para PS5",
+      "resumo": "O jogo Hunter's Moon, de horror folclórico histórico em primeira pessoa desenvolvido pela Twin Swans e publicado pela Sony, foi lançado em 26 de outubro de 2026 exclusivamente para PS5. O título coloca o jogador no papel de Lilith Thorne, uma acusada de bruxaria fugindo de caçadores em uma vila inglesa, com mais de 100 personagens dublados.",
+      "tipo": "lancamento",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PS5"],
+      "tags": ["sony", "lancamento", "horror", "exclusivo"],
+      "dataFato": "2026-10-26",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Gematsu", "url": "https://www.gematsu.com/2026/09/first-person-historical-folk-horror-game-hunters-moon-announced-for-ps5", "dominio": "gematsu.com" },
+      "fontesSecundarias": [
+        { "nome": "Sneakz and Beatz", "url": "https://www.sneakzandbeatz.com/the-lane/hunters-moon-ps5-october-26-2026-twin-swans-witchfinder-stealth-horror-state-of-play", "dominio": "sneakzandbeatz.com" },
+        { "nome": "Gamestic", "url": "https://www.gamestic.net/2026/10/26/review-hunters-moon/", "dominio": "gamestic.net" }
+      ],
+      "nota": 6.8,
+      "justificativa": "Lançamento confirmado de exclusivo de peso no dia certo da janela, com cobertura de review simultânea.",
+      "pesquisador": "radar-lancamentos-internacionais"
+    },
+    {
+      "posicao": 10,
+      "slug": "ex-coo-xbox-helen-chiang-demitida-violacao-de-politicas",
+      "titulo": "Ex-COO da Xbox Helen Chiang teria sido demitida por 'violação de políticas'",
+      "resumo": "Segundo reportagem da Eurogamer corroborada pelo The Verge, Helen Chiang, primeira COO da Xbox e ex-líder do Minecraft, teria sido demitida por 'violação de políticas internas' após poucos meses no cargo, conforme detalhado em matéria publicada em 26 de outubro de 2026. A Microsoft não confirmou os motivos específicos, limitando-se a agradecer os anos de serviço de Chiang.",
+      "tipo": "noticia",
+      "escopo": "internacional",
+      "confiabilidade": "rumor",
+      "plataformas": [],
+      "tags": ["microsoft", "xbox", "lideranca"],
+      "dataFato": "2026-10-26",
+      "janelaEstendida": false,
+      "fonte": { "nome": "TheGamer", "url": "https://www.thegamer.com/xbox-coo-helen-chiang-fire-terminated-policy-violations/", "dominio": "thegamer.com" },
+      "fontesSecundarias": [
+        { "nome": "Pure Xbox", "url": "https://www.purexbox.com/news/2026/10/xboxs-newly-announced-coo-is-leaving-microsoft-after-21-years", "dominio": "purexbox.com" },
+        { "nome": "Windows Report", "url": "https://windowsreport.com/xbox-first-coo-helen-chiang-reportedly-terminated-over-policy-violations/", "dominio": "windowsreport.com" }
+      ],
+      "nota": 6.3,
+      "justificativa": "Mudança de liderança relevante na Xbox, mas motivo da saída ainda não confirmado oficialmente pela Microsoft, por isso classificado como rumor.",
+      "pesquisador": "radar-empresas-internacionais"
+    }
+  ],
+  "tambemNoRadar": [
+    {
+      "slug": "steam-instabilidade-next-fest-venda-halloween",
+      "titulo": "Steam enfrenta instabilidade e falha de login durante Next Fest e Venda de Halloween",
+      "resumo": "O Steam sofreu instabilidade generalizada na manhã de 26 de outubro de 2026, com usuários relatando falhas no carregamento de dados de conta e bloqueio de acesso a bibliotecas de jogos. O problema coincidiu com o encerramento do Steam Next Fest de outubro e o início da Venda de Halloween da plataforma, e foi resolvido horas depois.",
+      "tipo": "noticia",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC", "Steam"],
+      "tags": ["steam", "valve", "instabilidade"],
+      "dataFato": "2026-10-26",
+      "janelaEstendida": false,
+      "fonte": { "nome": "GamingBible", "url": "https://www.gamingbible.com/news/platform/steam/steam-down-october-26-2026-350151-20261026", "dominio": "gamingbible.com" },
+      "fontesSecundarias": [
+        { "nome": "TechRadar", "url": "https://www.techradar.com/news/live/steam-down-october-2026", "dominio": "techradar.com" },
+        { "nome": "Sportskeeda", "url": "https://tech.sportskeeda.com/gaming-news/news-is-steam-right-now-october-26-2026-outage-status-explored", "dominio": "sportskeeda.com" }
+      ],
+      "nota": 5.5,
+      "justificativa": "Evento operacional pontual na maior plataforma de distribuição de PC, de impacto limitado mas amplamente noticiado.",
+      "pesquisador": "radar-empresas-internacionais"
+    },
+    {
+      "slug": "navi-vitality-eliminam-themongolz-pgl-bucharest",
+      "titulo": "Vitality elimina The MongolZ e encerra sequência invicta no PGL Masters Bucharest",
+      "resumo": "A Team Vitality derrotou The MongolZ por 2-0 em 26 de outubro de 2026, encerrando uma sequência de cinco vitórias consecutivas da equipe mongol na PGL Masters Bucharest 2026. No mesmo dia, a MOUZ também venceu The MongolZ por 2-0, consolidando a eliminação da equipe da fase de grupos.",
+      "tipo": "esports",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC"],
+      "tags": ["cs2", "esports", "pgl", "themongolz"],
+      "dataFato": "2026-10-26",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Esports News UK", "url": "https://esports-news.co.uk/2026/10/26/vitality-end-themongolzs-five-match-run-with-2-0-win-at-pgl-masters-bucharest/", "dominio": "esports-news.co.uk" },
+      "fontesSecundarias": [
+        { "nome": "Liquipedia", "url": "https://liquipedia.net/counterstrike/PGL/2026/Masters", "dominio": "liquipedia.net" }
+      ],
+      "nota": 5.8,
+      "justificativa": "Resultado de torneio relevante, mas de menor impacto direto para o público nacional comparado aos outros resultados do dia.",
+      "pesquisador": "radar-esports"
+    },
+    {
+      "slug": "nuuvem-liquidacao-halloween-jogos-pc",
+      "titulo": "Nuuvem promove liquidação de Halloween com até 95% de desconto",
+      "resumo": "A Nuuvem, loja brasileira de distribuição digital de jogos para PC, lançou promoção de Halloween com itens a partir de menos de R$ 15 e descontos de até 95%, somando cerca de 1.525 itens no catálogo, com cupom adicional de 10%. A ação foi noticiada por veículos de games em 26 de outubro de 2026.",
+      "tipo": "noticia",
+      "escopo": "nacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC"],
+      "tags": ["nuuvem", "promocao", "halloween"],
+      "dataFato": "2026-10-26",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Mixvale", "url": "https://www.mixvale.com.br/2026/10/26/nuuvem-libera-jogos-de-pc-por-menos-de-r-15-no-halloween/", "dominio": "mixvale.com.br" },
+      "fontesSecundarias": [
+        { "nome": "Adrenaline", "url": "https://www.adrenaline.com.br/games/pc-games/jogos-de-pc-em-oferta-por-menos-de-r-15-no-halloween-nuuvem/", "dominio": "adrenaline.com.br" },
+        { "nome": "Diário da Mídia", "url": "https://diariodamidia.com.br/nuuvem-jogos-de-pc-por-menos-de-r-15-com-ate-95-de-desconto", "dominio": "diariodamidia.com.br" }
+      ],
+      "nota": 4.5,
+      "justificativa": "Fato comercial recorrente de loja brasileira, de baixo valor jornalístico, não competitivo com os destaques do TOP 10.",
+      "pesquisador": "radar-empresas-nacionais"
+    },
+    {
+      "slug": "steam-scream-v-promocao-halloween-brasil",
+      "titulo": "Promoção de Halloween 'Steam Scream V' começa no Brasil com até 90% off em jogos de terror",
+      "resumo": "A Steam lançou a promoção 'Steam Scream V' em 26 de outubro às 14h (horário de Brasília), com descontos de até 90% em jogos de terror para o mercado brasileiro, incluindo títulos como The Quarry, SOMA e Amnesia: The Dark Descent. A promoção segue até 2 de novembro de 2026.",
+      "tipo": "noticia",
+      "escopo": "nacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC", "Steam"],
+      "tags": ["steam", "promocao", "halloween"],
+      "dataFato": "2026-10-26",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Game Overdrive", "url": "https://gameoverdrive.com.br/promocao-halloween-steam-2026-comeca-14h-como-acompanhar/", "dominio": "gameoverdrive.com.br" },
+      "fontesSecundarias": [],
+      "nota": 4.2,
+      "justificativa": "Promoção sazonal recorrente, de relevância moderada para o público brasileiro, sem ineditismo.",
+      "pesquisador": "radar-lancamentos-nacionais"
+    },
+    {
+      "slug": "scramble-knights-online-xbox-game-pass",
+      "titulo": "Scramble Knights Online chega ao Xbox Game Pass em dia de lançamento",
+      "resumo": "A Funktronic Labs lançou Scramble Knights Online em 26 de outubro de 2026 como dia-um no Xbox Game Pass (Ultimate e PC Game Pass), disponível também via cloud gaming. O jogo é um RPG de ação cooperativo para até quatro jogadores, resultado de uma reformulação de um battle royale abandonado por questões de viabilidade de público.",
+      "tipo": "lancamento",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["Xbox Series", "PC"],
+      "tags": ["xbox-game-pass", "lancamento", "rpg"],
+      "dataFato": "2026-10-26",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Xbox Wire Brasil", "url": "https://news.xbox.com/pt-br/2026/10/23/proxima-semana-em-xbox-novos-jogos-de-26-a-30-de-outubro/", "dominio": "news.xbox.com" },
+      "fontesSecundarias": [
+        { "nome": "Tech Times", "url": "https://www.techtimes.com/articles/329346/20261021/scramble-knights-online-lands-game-pass-oct-26-battle-royale-cant-work-without-3000-players.htm", "dominio": "techtimes.com" },
+        { "nome": "GG.deals", "url": "https://gg.deals/subscription-news/xbox-game-pass-gets-a-quirky-new-co-op-rpg-today", "dominio": "gg.deals" }
+      ],
+      "nota": 5.0,
+      "justificativa": "Lançamento confirmado com entrada direta no Game Pass, relevante para assinantes, mas de perfil indie/nicho.",
+      "pesquisador": "radar-lancamentos-internacionais"
+    },
+    {
+      "slug": "honved-campeao-r6-south-breach-2026",
+      "titulo": "Honvéd conquista o título do R6 South Breach 2026 sobre Al-Ula",
+      "resumo": "A equipe húngara Honvéd derrotou o Al-Ula Club por 3-1 na grande final do R6 South Breach 2026, disputada em 25 de outubro de 2026, conquistando o título do torneio regional de Rainbow Six Siege. Honvéd chegou à decisão com campanha invicta.",
+      "tipo": "esports",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC"],
+      "tags": ["rainbow-six", "esports", "r6-south-breach"],
+      "dataFato": "2026-10-25",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Siege.gg", "url": "https://siege.gg/news/r6-south-breach-2026-finals-everything-you-need-to-know", "dominio": "siege.gg" },
+      "fontesSecundarias": [
+        { "nome": "Liquipedia", "url": "https://liquipedia.net/rainbowsix/South_Breach/2026", "dominio": "liquipedia.net" }
+      ],
+      "nota": 4.8,
+      "justificativa": "Resultado confirmado de torneio regional de R6, relevância moderada por ser circuito secundário.",
+      "pesquisador": "radar-esports"
+    },
+    {
+      "slug": "nintendo-switch-online-tres-jogos-game-boy",
+      "titulo": "Nintendo Switch Online adiciona três jogos de Game Boy em 27 de outubro",
+      "resumo": "A Nintendo confirmou que Pinball: Revenge of the 'Gator, Avenging Spirit e Mole Mania chegam ao catálogo Nintendo Classics do Nintendo Switch Online em 27 de outubro de 2026. Os três títulos ficam disponíveis a qualquer assinante do plano padrão, tanto no Switch quanto no Switch 2.",
+      "tipo": "lancamento",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["Switch", "Switch 2"],
+      "tags": ["nintendo", "nintendo-switch-online", "retro"],
+      "dataFato": "2026-10-27",
+      "janelaEstendida": true,
+      "fonte": { "nome": "My Nintendo News", "url": "https://mynintendonews.com/2026/10/23/3-game-boy-games-added-to-nintendo-classics/", "dominio": "mynintendonews.com" },
+      "fontesSecundarias": [
+        { "nome": "Nintendo Everything", "url": "https://nintendoeverything.com/nintendo-switch-online-adds-three-new-gba-games-in-october-2026-update/", "dominio": "nintendoeverything.com" },
+        { "nome": "Bleeding Cool", "url": "https://bleedingcool.com/games/nintendo-switch-online-adds-three-gba-games-for-october-2026/", "dominio": "bleedingcool.com" }
+      ],
+      "nota": 4.5,
+      "justificativa": "Atualização de catálogo relevante para a comunidade Nintendo, mas a data do fato extrapola levemente a janela estrita.",
+      "pesquisador": "radar-lancamentos-internacionais"
+    }
+  ],
+  "descartados": [
+    { "titulo": "Lançamento de PAO PAO, simulador cooperativo do estúdio ArtDock", "motivo": "Nacionalidade do estúdio como brasileiro não pôde ser confirmada; auditoria interna aponta que ArtDock seria moldavo, e nenhuma fonte disponível (Steam, Vzone, The Game Extras) menciona a origem geográfica do estúdio, impossibilitando classificar o item como escopo nacional." },
+    { "titulo": "GTA 6 ultrapassa US$ 630 milhões em pré-vendas globais", "motivo": "Fato datado de 22/10/2026, fora da janela de cobertura (25/10 21h a 26/10 21h), com defasagem de quatro dias que excede o critério de janela estendida." },
+    { "titulo": "Microsoft anuncia leque de 50 jogos chegando ao Xbox entre 26 e 30 de outubro", "motivo": "Duplicado com o item de Scramble Knights Online, que já cobre o lançamento específico do dia dentro da janela; o panorama semanal completo tem data de publicação (23/10) anterior à janela e não traz fato novo e exclusivo do dia 26/10." }
+  ]
+}
