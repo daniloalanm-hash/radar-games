@@ -29,6 +29,15 @@ describe("ArtigoMarkdown", () => {
     expect(html).toMatch(/<h2[^>]*>[\s\S]*?Subtítulo de contexto[\s\S]*?<\/h2>/);
   });
 
+  it("só o primeiro ## é h1; os ## seguintes (padrão do redator) viram h2", () => {
+    const html = renderToStaticMarkup(
+      <ArtigoMarkdown markdown={"## Título\n\n## Subtítulo\n\nTexto.\n\n## Seção"} />,
+    );
+    expect(html.match(/<h1/g)).toHaveLength(1);
+    expect(html).toMatch(/<h2[^>]*>(<span>)?Subtítulo(<\/span>)?<\/h2>/);
+    expect(html).toMatch(/<h2[^>]*>(<span>)?Seção(<\/span>)?<\/h2>/);
+  });
+
   it("converte negrito em <strong>", () => {
     expect(renderToStaticMarkup(<ArtigoMarkdown markdown={MD} />)).toContain(
       "<strong>negrito</strong>",
