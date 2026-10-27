@@ -60,6 +60,7 @@ Rode `npm run validate:data`.
 ```bash
 git add data/games/<HOJE>.json
 git commit -m "radar: edicao de <HOJE>"
+git pull --rebase
 git push
 ```
 

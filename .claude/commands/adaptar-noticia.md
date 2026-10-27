@@ -59,7 +59,7 @@ Faça WebFetch da fonte antes de escrever. Escolha imagem e vídeo seguindo o PA
 
 ## 4. Coletar
 
-Cada redator retorna `OK: <caminho> — <n> palavras. Imagem: <oficial|veiculo|nenhuma>. Vídeo: <sim|não>.` ou `FALHA: <motivo>`.
+Cada redator retorna `OK: <caminho> — <n> palavras. Formato: <noticia|atualizacao|esports|lista>. Imagem: <oficial|veiculo|nenhuma>. Vídeo: <sim|não>.` ou `FALHA: <motivo>`.
 
 Uma falha não interrompe as demais — registre e siga. Rastreie explicitamente:
 - **Posições com `OK`**: prosseguem à conferência do passo 5.
@@ -88,6 +88,7 @@ Faça `git add` **apenas dos arquivos que passaram na conferência do passo 5**,
 ```bash
 git add content/adaptacoes/<categoria>/<data>/<posicao-slug-1>.md content/adaptacoes/<categoria>/<data>/<posicao-slug-2>.md ...
 git commit -m "conteudo: adaptacoes de <data> (posicoes <lista-de-sucesso>)"
+git pull --rebase
 git push
 ```
 
