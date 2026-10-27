@@ -10,6 +10,8 @@ export interface Adaptacao {
   slug: string;
   titulo: string;
   fonteUrl: string;
+  /** Nome do veículo da fonte principal (artigos antigos não têm). */
+  fonteNome: string | null;
   plataformas: string[];
   /** Imagem escolhida para o artigo (opcional; artigos antigos não têm). */
   imagem: string | null;
@@ -21,7 +23,7 @@ export interface Adaptacao {
   markdown: string;
 }
 
-function urlHttps(valor: string | undefined): string | null {
+export function urlHttps(valor: string | undefined): string | null {
   if (!valor) return null;
   try {
     return new URL(valor).protocol === "https:" ? valor : null;
@@ -34,7 +36,7 @@ function urlHttps(valor: string | undefined): string | null {
 // escritos por um agente que controlamos, num formato que nós definimos
 // (uma chave por linha, sem aninhamento), então uma dependência de YAML
 // seria não-usada. Ver task brief.
-function separarFrontmatter(bruto: string): { campos: Record<string, string>; corpo: string } {
+export function separarFrontmatter(bruto: string): { campos: Record<string, string>; corpo: string } {
   const match = bruto.match(/^---\r?\n([\s\S]*?)\r?\n---\r?\n([\s\S]*)$/);
   if (!match) return { campos: {}, corpo: bruto.trim() };
 
@@ -91,6 +93,7 @@ export function carregarAdaptacao(
     posicao: Number(campos.posicao ?? 0),
     titulo: campos.titulo ?? slug,
     fonteUrl: campos.fonteUrl ?? "",
+    fonteNome: campos.fonteNome || null,
     plataformas: (campos.plataformas ?? "")
       .split(",")
       .map((p) => p.trim())
