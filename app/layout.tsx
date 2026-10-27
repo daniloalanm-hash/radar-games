@@ -17,9 +17,14 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
             <Link href="/" className="text-lg font-semibold tracking-tight">
               <span aria-hidden="true">📡</span> Radar Games
             </Link>
-            <Link href="/metodologia" className="text-sm text-suave hover:text-texto">
-              Metodologia
-            </Link>
+            <nav className="flex items-center gap-5 text-sm">
+              <Link href="/adaptar" className="text-suave hover:text-texto">
+                Adaptar notícia
+              </Link>
+              <Link href="/metodologia" className="text-suave hover:text-texto">
+                Metodologia
+              </Link>
+            </nav>
           </div>
         </header>
         <main className="mx-auto max-w-4xl px-4 py-8">{children}</main>
