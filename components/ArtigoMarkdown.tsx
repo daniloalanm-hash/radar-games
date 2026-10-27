@@ -62,11 +62,20 @@ export function ArtigoMarkdown({ markdown }: { markdown: string }) {
       {blocos.map((bloco, indice) => {
         const linhas = bloco.split(/\r?\n/);
 
+        // O primeiro "## " é o título do artigo; os seguintes são subtítulo e
+        // intertítulos (o redator usa "##" para todos, como no WordPress).
         if (bloco.startsWith("## ")) {
+          if (indice === 0) {
+            return (
+              <h1 key={indice} className="text-2xl font-bold leading-tight tracking-tight">
+                {comFormatacao(bloco.slice(3))}
+              </h1>
+            );
+          }
           return (
-            <h1 key={indice} className="text-2xl font-bold leading-tight tracking-tight">
+            <h2 key={indice} className="pt-2 text-lg font-semibold leading-snug">
               {comFormatacao(bloco.slice(3))}
-            </h1>
+            </h2>
           );
         }
 
