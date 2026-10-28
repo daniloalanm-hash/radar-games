@@ -59,7 +59,7 @@ Faça WebFetch da fonte antes de escrever. Escolha imagem e vídeo seguindo o PA
 
 ## 4. Coletar
 
-Cada redator retorna `OK: <caminho> — <n> palavras. Formato: <noticia|atualizacao|esports|lista>. Imagem: <oficial|veiculo|nenhuma>. Vídeo: <sim|não>.` ou `FALHA: <motivo>`.
+Cada redator retorna `OK: <caminho> — <n> palavras. Formato: <noticia|atualizacao|hardware|esports|lista>. Imagem: <oficial|veiculo|nenhuma>. Vídeo: <sim|não>.` ou `FALHA: <motivo>`.
 
 Uma falha não interrompe as demais — registre e siga. Rastreie explicitamente:
 - **Posições com `OK`**: prosseguem à conferência do passo 5.
