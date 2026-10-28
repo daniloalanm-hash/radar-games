@@ -99,9 +99,10 @@ export function paraWordPress(markdown: string): TextoWordPress {
       continue;
     }
 
-    const paragrafo = linhas.join(" ");
-    html.push(`<p>${inlineParaHtml(paragrafo)}</p>`);
-    texto.push(inlineParaTexto(paragrafo));
+    // Linhas seguidas no mesmo bloco (como no CTA: frase e link embaixo)
+    // continuam em linhas separadas no WordPress.
+    html.push(`<p>${linhas.map((l) => inlineParaHtml(l.trim())).join("<br>")}</p>`);
+    texto.push(linhas.map((l) => inlineParaTexto(l.trim())).join("\n"));
   }
 
   return { titulo, html: html.join("\n"), texto: texto.join("\n\n") };

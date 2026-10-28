@@ -6,7 +6,8 @@ import { separarFrontmatter } from "./adaptacoes";
 
 const CAMPOS_OBRIGATORIOS = ["titulo", "data", "slug"] as const;
 const CTA_TITULO = "**Quer aproveitar seus próximos jogos?**";
-const CTA_LINK = "[www.lojadosgifts.com.br](https://www.lojadosgifts.com.br)";
+// Aceita o CTA atual ([**www...**](https://www.lojadosgifts.com.br/)) e o antigo, sem negrito e sem barra.
+const CTA_LINK = /\[(\*\*)?www\.lojadosgifts\.com\.br(\*\*)?\]\(https:\/\/www\.lojadosgifts\.com\.br\/?\)/;
 
 export function conferirArtigo(bruto: string): string[] {
   const problemas: string[] = [];
@@ -31,10 +32,10 @@ export function conferirArtigo(bruto: string): string[] {
 
   const titulos = corpo.match(/^## .+$/gm) ?? [];
   if (titulos.length < 3) {
-    problemas.push("faltam subtítulo e intertítulos (menos de 3 linhas com ##)");
+    problemas.push("faltam intertítulos (menos de 3 linhas com ##, contando o título)");
   }
 
-  if (!corpo.includes(CTA_TITULO) || !corpo.includes(CTA_LINK)) {
+  if (!corpo.includes(CTA_TITULO) || !CTA_LINK.test(corpo)) {
     problemas.push("CTA da Loja dos Gifts ausente ou alterado");
   }
 
