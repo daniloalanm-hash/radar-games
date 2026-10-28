@@ -185,3 +185,57 @@ describe("painel", () => {
     expect(estadoDaExecucao(run("completed", "failure"), id).estado).toBe("falhou");
   });
 });
+
+describe("formato atual do blog (linha fina em negrito, CTA com emoji)", () => {
+  const palavras = Array.from({ length: 120 }, (_, i) => `termo${i}`).join(" ");
+  const NOVO = `---
+titulo: Miami Beach aprova negociações para campanha de marketing de GTA 6
+data: 2026-09-11
+categoria: games
+posicao: 1
+slug: miami-beach-campanha-gta-6
+fonteUrl: https://insider-gaming.com/x
+fonteNome: Insider Gaming
+plataformas:
+---
+
+## Miami Beach aprova negociações para campanha de marketing de GTA 6
+
+**Votação apertada de 4 a 3 libera início das conversas com a Rockstar**
+
+A cidade de **Miami Beach** deu o primeiro passo. ${palavras}
+
+## Uma ação discreta, sem o nome GTA em destaque
+
+${palavras}
+
+## Votação dividiu opiniões entre os políticos locais
+
+Você acha que campanhas assim ajudam o turismo local, ou concorda com os contrários?
+
+🎮 **Quer aproveitar seus próximos jogos?**
+
+Na **Loja dos Gifts**, você encontra **jogos, Gift Cards e créditos digitais** para PlayStation, Xbox, Nintendo, PC, mobile e outras plataformas.
+
+👉 **Acesse a Loja dos Gifts e confira as ofertas:**
+[**www.lojadosgifts.com.br**](https://www.lojadosgifts.com.br/)
+
+**Fonte:** Flow Games, via Insider Gaming
+`;
+
+  it("passa na conferência", () => {
+    expect(conferirArtigo(NOVO)).toEqual([]);
+  });
+
+  it("gera o HTML no formato do blog", () => {
+    const { titulo, html } = paraWordPress(NOVO.split("---\n").slice(2).join("---\n"));
+    expect(titulo).toBe("Miami Beach aprova negociações para campanha de marketing de GTA 6");
+    expect(html).toContain(
+      "<p><strong>Votação apertada de 4 a 3 libera início das conversas com a Rockstar</strong></p>",
+    );
+    expect(html).toContain(
+      '<p>👉 <strong>Acesse a Loja dos Gifts e confira as ofertas:</strong><br><a href="https://www.lojadosgifts.com.br/"><strong>www.lojadosgifts.com.br</strong></a></p>',
+    );
+    expect(html).toContain("<p><strong>Fonte:</strong> Flow Games, via Insider Gaming</p>");
+  });
+});
