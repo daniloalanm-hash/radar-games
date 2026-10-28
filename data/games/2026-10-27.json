@@ -1,0 +1,377 @@
+{
+  "categoria": "games",
+  "data": "2026-10-27",
+  "geradoEm": "2026-10-27T21:30:00-03:00",
+  "janela": { "inicio": "2026-10-26T21:00:00-03:00", "fim": "2026-10-27T21:00:00-03:00" },
+  "observacao": null,
+  "itens": [
+    {
+      "posicao": 1,
+      "slug": "rockstar-marca-votacao-sindical-para-lancamento-de-gta-vi",
+      "titulo": "Rockstar marca votação de sindicalização para coincidir com lançamento de GTA VI",
+      "resumo": "Trabalhadores da Rockstar Games no Reino Unido vão votar pelo reconhecimento sindical entre 12 e 26 de novembro, período que coincide com o lançamento console de Grand Theft Auto VI em 19 de novembro. Se aprovado, o IWGB Rockstar Game Workers Union se tornará o maior sindicato da indústria de games no Reino Unido, em paralelo a um processo judicial sobre acusações de union-busting após a demissão de 31 sindicalistas no ano anterior.",
+      "tipo": "noticia",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PS5", "Xbox Series", "PC"],
+      "tags": ["rockstar", "sindicato", "gta-vi", "trabalho"],
+      "dataFato": "2026-10-27",
+      "janelaEstendida": false,
+      "fonte": { "nome": "PC Gamer", "url": "https://www.pcgamer.com/games/grand-theft-auto/rockstar-will-hold-union-vote-right-on-top-of-grand-theft-auto-6-release/", "dominio": "pcgamer.com" },
+      "fontesSecundarias": [
+        { "nome": "Game Developer", "url": "https://www.gamedeveloper.com/business/rockstar-workers-to-vote-on-unionization-ahead-of-grand-theft-auto-vi-release", "dominio": "gamedeveloper.com" },
+        { "nome": "GameSpot", "url": "https://www.gamespot.com/articles/gta-6-developers-are-about-to-do-something-historic/", "dominio": "gamespot.com" }
+      ],
+      "nota": 8.5,
+      "justificativa": "Fato de forte carga simbólica e trabalhista, cruzando o lançamento mais aguardado da indústria com um movimento histórico de sindicalização no Reino Unido.",
+      "pesquisador": "radar-empresas-internacionais"
+    },
+    {
+      "posicao": 2,
+      "slug": "aleksib-condenado-por-fraude-fiscal-na-finlandia",
+      "titulo": "IGL da NAVI, Aleksib, é condenado por fraude fiscal agravada na Finlândia",
+      "resumo": "Um tribunal finlandês condenou Aleksi 'Aleksib' Virolainen, capitão da NAVI, a quatro meses de prisão com suspensão condicional e dois anos de condicional, por não declarar cerca de €53 mil recebidos da Valve em 2019 referentes a adesivos dos Majors IEM Katowice e StarLadder Berlin, gerando €28 mil em impostos não pagos. O jogador pode recorrer até 26 de novembro de 2026.",
+      "tipo": "noticia",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": [],
+      "tags": ["csgo", "navi", "justica", "esports"],
+      "dataFato": "2026-10-27",
+      "janelaEstendida": false,
+      "fonte": { "nome": "HLTV", "url": "https://www.hltv.org/news/45828/aleksib-convicted-of-aggravated-tax-fraud", "dominio": "hltv.org" },
+      "fontesSecundarias": [
+        { "nome": "Dust2", "url": "https://www.dust2.com.br/noticias/79330/aleksib-e-condenado-em-caso-de-sonegacao-de-impostos", "dominio": "dust2.com.br" },
+        { "nome": "Dot Esports", "url": "https://dotesports.com/counter-strike/news/aleksib-convicted-aggravated-tax-fraud-cs", "dominio": "dotesports.com" }
+      ],
+      "nota": 8.0,
+      "justificativa": "Caso judicial envolvendo um dos capitães mais conhecidos do CS, com desdobramento legal concreto e bem documentado por fontes de peso.",
+      "pesquisador": "radar-esports"
+    },
+    {
+      "posicao": 3,
+      "slug": "sucker-punch-demite-24-funcionarios-apos-ghost-of-yotei",
+      "titulo": "Sucker Punch demite 24 funcionários após sucesso de Ghost of Yōtei",
+      "resumo": "A Sucker Punch Productions, estúdio da Sony responsável por Ghost of Yōtei, demitiu 24 funcionários em 26 de outubro de 2026 — mais de 10% de um quadro estimado em menos de 200 pessoas. O corte ocorre mesmo após o jogo se tornar o título mais vendido da Sony em 2026, superando Ghost of Tsushima, e poucas semanas após o lançamento bem recebido da expansão Echoes of Sekigahara; a liderança citou 'condições de mercado' e necessidades da equipe para o próximo projeto.",
+      "tipo": "noticia",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PS5"],
+      "tags": ["sony", "demissoes", "ghost-of-yotei", "playstation"],
+      "dataFato": "2026-10-26",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Engadget", "url": "https://www.engadget.com/2297486/ghost-of-yotei-studio-sucker-punch-lays-off-24-workers/", "dominio": "engadget.com" },
+      "fontesSecundarias": [
+        { "nome": "Aftermath", "url": "https://aftermath.site/sucker-punch-layoffs-sony-ghost-of-yotei/", "dominio": "aftermath.site" },
+        { "nome": "GodisaGeek", "url": "https://godisageek.com/2026/10/sucker-punch-layoffs-ghost-yotei/", "dominio": "godisageek.com" },
+        { "nome": "GamesBeat", "url": "https://gamesbeat.com/ghost-of-yotei-developer-sucker-punch-productions-lays-off-24-staffers/", "dominio": "gamesbeat.com" }
+      ],
+      "nota": 7.8,
+      "justificativa": "Caso emblemático de demissões mesmo após sucesso comercial recorde, reforçando a instabilidade estrutural da indústria mesmo em estúdios de alto desempenho.",
+      "pesquisador": "radar-empresas-internacionais"
+    },
+    {
+      "posicao": 4,
+      "slug": "evo-brazil-2027-anuncia-lineup-e-premiacao-de-r-1-milhao",
+      "titulo": "Evo Brazil 2027 confirma lineup de oito jogos e premiação mínima de R$ 1 milhão",
+      "resumo": "A Evo Brazil 2027, primeira edição brasileira do maior torneio mundial de jogos de luta, divulgou em 27 de outubro os oito jogos oficiais — Street Fighter 6, Mortal Kombat 1, Tekken 8, Guilty Gear -Strive-, Fatal Fury: City of the Wolves, The King of Fighters XV, Avatar Legends: The Fighting Game e Marvel Tōkon: Fighting Souls — com premiação mínima garantida de R$ 1 milhão. O evento ocorrerá entre 26 e 28 de março de 2027 no Expo Center Norte, em São Paulo, com inscrições de competidores e venda de ingressos abertas no mesmo dia.",
+      "tipo": "esports",
+      "escopo": "nacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC", "PS5", "Xbox Series"],
+      "tags": ["evo", "jogos-de-luta", "esports", "brasil"],
+      "dataFato": "2026-10-27",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Arkade", "url": "https://arkade.com.br/evo-brazil-2027-revela-line-up-de-games-e-mais-informacoes-sobre-sua-edicao-de-estreia-agendado-para-marco", "dominio": "arkade.com.br" },
+      "fontesSecundarias": [
+        { "nome": "Olhar Digital", "url": "https://olhardigital.com.br/2026/10/27/games-e-consoles/evo-brazil-2027-anuncia-jogos-e-premiacao-de-r1-milhao/", "dominio": "olhardigital.com.br" },
+        { "nome": "Critical Hits", "url": "https://criticalhits.com.br/games/evo-brazil-2027-tera-oito-jogos-e-premio-de-r-1-milhao-em-sao-paulo/", "dominio": "criticalhits.com.br" },
+        { "nome": "Adrenaline", "url": "https://www.adrenaline.com.br/games/evo-brazil-2027/", "dominio": "adrenaline.com.br" },
+        { "nome": "Flow Games", "url": "https://flowgames.gg/evo-brazil-2027-sera-disputada-em-sao-paulo-em-marco/", "dominio": "flowgames.gg" },
+        { "nome": "eInerd", "url": "https://www.einerd.com/evo-brazil-2027-sao-paulo-jogos-ingressos-premiacao/", "dominio": "einerd.com" }
+      ],
+      "nota": 7.7,
+      "justificativa": "Fato concreto e amplamente noticiado no Brasil, com datas, local e premiação definidos para o maior evento de jogos de luta já sediado no país.",
+      "pesquisador": "radar-empresas-nacionais"
+    },
+    {
+      "posicao": 5,
+      "slug": "nacon-confirma-fechamento-de-spiders-e-midgar-studio",
+      "titulo": "Nacon confirma em relatório anual o fechamento dos estúdios Spiders e Midgar Studio",
+      "resumo": "A Nacon formalizou em relatório anual, datado de 26 de outubro de 2026, o fechamento de três entidades — Spiders (GreedFall, Steelrising), Midgar Studio (Edge of Eternity) e Nacon Tech — no âmbito de recuperação judicial supervisionada por tribunal. O quadro de funcionários da Nacon caiu de 1.125 para 814 entre março e setembro de 2026, refletindo a crise financeira da controladora Bigben Interactive.",
+      "tipo": "noticia",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC", "PS5", "Xbox Series"],
+      "tags": ["nacon", "fechamento-de-estudio", "demissoes"],
+      "dataFato": "2026-10-26",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Xboxygen", "url": "https://www.xboxygen.com/News/372246-nacon-fait-le-bilan-de-sa-crise-trois-entites-fermees-311-salaries-en-moins-et-un-chiffre-daffaires-en-chute", "dominio": "xboxygen.com" },
+      "fontesSecundarias": [
+        { "nome": "Playfront", "url": "https://playfront.de/en/nacon-schliesst-spiders-und-midgar-studio-ueber-300-entlassungen-beim-publisher/", "dominio": "playfront.de" },
+        { "nome": "ActuGaming", "url": "https://www.actugaming.net/midgar-studio-ferme-definitivement-ses-portes-mais-nacon-prevoit-toujours-de-sortir-edge-of-memories-812176/", "dominio": "actugaming.net" }
+      ],
+      "nota": 6.3,
+      "justificativa": "Confirmação formal e detalhada de uma crise já conhecida, com números concretos sobre o tamanho do corte, mas os fechamentos em si já haviam ocorrido meses antes.",
+      "pesquisador": "radar-empresas-internacionais"
+    },
+    {
+      "posicao": 6,
+      "slug": "warhorse-studios-confirma-ataque-cibernetico",
+      "titulo": "Warhorse Studios confirma ataque cibernético aos seus sistemas",
+      "resumo": "A Warhorse Studios, desenvolvedora da série Kingdom Come: Deliverance, confirmou em 27 de outubro ter sido vítima de um ataque cibernético com acesso não autorizado a sistemas e dados da empresa. O CEO Martin Frývaldský classificou o caso como 'incidente sério' e disse que a empresa trabalha com especialistas para avaliar a extensão da invasão, sem detalhar ainda quais dados foram comprometidos.",
+      "tipo": "noticia",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": [],
+      "tags": ["seguranca", "ciberataque", "kingdom-come"],
+      "dataFato": "2026-10-27",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Game Developer", "url": "https://www.gamedeveloper.com/programming/warhorse-studios-hit-by-an-undetailed-cybersecurity-incident", "dominio": "gamedeveloper.com" },
+      "fontesSecundarias": [
+        { "nome": "PC Gamer", "url": "https://www.pcgamer.com/gaming-industry/kingdom-come-lord-of-the-rings-studio-warhorse-hit-by-a-cyberattack/", "dominio": "pcgamer.com" },
+        { "nome": "Shacknews", "url": "https://www.shacknews.com/article/151157/warhorse-studios-cyberattack", "dominio": "shacknews.com" }
+      ],
+      "nota": 6.0,
+      "justificativa": "Incidente de segurança relevante envolvendo estúdio conhecido, mas ainda sem detalhes concretos sobre escopo e dados afetados.",
+      "pesquisador": "radar-empresas-internacionais"
+    },
+    {
+      "posicao": 7,
+      "slug": "epic-games-atualiza-eula-para-permitir-treinamento-de-ia",
+      "titulo": "Epic Games anuncia mudança no EULA para permitir treinamento de IA com outputs da Unreal Engine",
+      "resumo": "Tim Sweeney, CEO da Epic Games, anunciou que a empresa vai atualizar seu contrato de licença para remover a restrição que impede o treinamento de IA com outputs gerados pela Unreal Engine e pelo MetaHuman. A mudança ocorre em resposta a questionamentos sobre contradição, já que a Epic age contra clones de jogos feitos com IA enquanto usa a tecnologia internamente; desenvolvedores individuais ainda poderão restringir o uso de IA em seus próprios projetos.",
+      "tipo": "noticia",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC"],
+      "tags": ["epic-games", "unreal-engine", "inteligencia-artificial"],
+      "dataFato": "2026-10-27",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Game Developer", "url": "https://www.gamedeveloper.com/programming/epic-is-updating-the-eula-to-allow-ai-training-on-outputs-from-unreal-engine-and-metahuman", "dominio": "gamedeveloper.com" },
+      "fontesSecundarias": [
+        { "nome": "TechPowerUp", "url": "https://www.techpowerup.com/354186/epic-games-will-soon-train-ai-on-unreal-engine-outputs", "dominio": "techpowerup.com" }
+      ],
+      "nota": 6.8,
+      "justificativa": "Mudança de política com impacto direto sobre a comunidade de desenvolvedores que usa a engine mais popular da indústria, em meio ao debate sobre IA generativa.",
+      "pesquisador": "radar-empresas-internacionais"
+    },
+    {
+      "posicao": 8,
+      "slug": "pokemon-unite-anuncia-fim-do-servico-para-marco-de-2027",
+      "titulo": "Pokémon Unite confirma fim do serviço online global para março de 2027",
+      "resumo": "A The Pokémon Company anunciou em 27 de outubro que o Pokémon Unite terá seus servidores encerrados em 23 de março de 2027, afetando Nintendo Switch, Android e iOS. Desde o mesmo dia já foram suspensas as vendas de Gemas Aeos e novas assinaturas do Clube UNITE, com uma atualização final prevista para 12 de novembro.",
+      "tipo": "noticia",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["Switch", "Mobile"],
+      "tags": ["pokemon", "encerramento-de-servico", "nintendo"],
+      "dataFato": "2026-10-27",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Pokémon Unite", "url": "https://unite.pokemon.com/pt-br/news/unite-end-of-service/", "dominio": "unite.pokemon.com" },
+      "fontesSecundarias": [
+        { "nome": "Omelete", "url": "https://www.omelete.com.br/games/pokemon-unite-anuncia-encerramento-dos-servidores", "dominio": "omelete.com.br" },
+        { "nome": "Última Ficha", "url": "https://ultimaficha.com.br/2026/10/27/pokemon-unite-fim-do-servico-marco-2027/", "dominio": "ultimaficha.com.br" },
+        { "nome": "Arkade", "url": "https://arkade.com.br/pokemon-unite-sera-encerrado-em-marco-de-2027-apos-quase-seis-anos-online/", "dominio": "arkade.com.br" }
+      ],
+      "nota": 6.5,
+      "justificativa": "Fim de serviço de um jogo com base de jogadores relevante no Brasil, com fonte primária oficial e ampla cobertura nacional sobre um fato internacional.",
+      "pesquisador": "radar-lancamentos-nacionais"
+    },
+    {
+      "posicao": 9,
+      "slug": "legacy-e-eliminada-da-pgl-masters-bucharest-pela-mongolz",
+      "titulo": "Legacy é eliminada da PGL Masters Bucharest 2026 pela The MongolZ",
+      "resumo": "A organização brasileira Legacy sofreu sua terceira derrota no torneio, perdendo por 2-0 para a The MongolZ (13-8 no Mirage e 13-8 no Inferno) em 27 de outubro de 2026, e foi eliminada da PGL Masters Bucharest com apenas uma vitória na campanha, sobre a DENDELE. Garidmagnai 'bLitz' Byambasuren foi eleito o melhor jogador da partida.",
+      "tipo": "esports",
+      "escopo": "nacional",
+      "confiabilidade": "confirmado",
+      "plataformas": [],
+      "tags": ["csgo", "legacy", "pgl-bucharest", "brasil"],
+      "dataFato": "2026-10-27",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Dust2", "url": "https://www.dust2.com.br/noticias/79332/legacy-sofre-3-derrota-e-se-despede-da-pgl-masters-bucharest", "dominio": "dust2.com.br" },
+      "fontesSecundarias": [],
+      "nota": 6.0,
+      "justificativa": "Resultado competitivo de uma das poucas organizações brasileiras no cenário internacional de CS, relevante para a cota nacional, ainda que de impacto pontual.",
+      "pesquisador": "radar-esports"
+    },
+    {
+      "posicao": 10,
+      "slug": "ps-store-brasil-amplia-planeta-das-ofertas-days-gone",
+      "titulo": "PlayStation Store Brasil amplia descontos na promoção Planeta das Ofertas",
+      "resumo": "A campanha 'Planeta das Ofertas' da PlayStation Store no Brasil, ativa de 21 de outubro a 4 de novembro, teve novo corte de preço em 26 de outubro: Days Gone Remastered (PS5) caiu 60%, de R$ 249,50 para R$ 99,80. A promoção reúne mais de 3.700 itens, incluindo toda a série Resident Evil com até 80% de desconto.",
+      "tipo": "noticia",
+      "escopo": "nacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PS5"],
+      "tags": ["playstation-store", "promocao", "brasil"],
+      "dataFato": "2026-10-26",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Mixvale", "url": "https://www.mixvale.com.br/2026/10/26/days-gone-remastered-cai-para-r-9980-na-playstation-store/", "dominio": "mixvale.com.br" },
+      "fontesSecundarias": [
+        { "nome": "Adrenaline", "url": "https://www.adrenaline.com.br/games/playstation/jogos-de-playstation-em-oferta-na-promocao-planeta-das-ofertas-ate-90-de-desconto/", "dominio": "adrenaline.com.br" },
+        { "nome": "Folha do Leste", "url": "https://folhadoleste.com.br/playstation-store-promocao-jogos-outubro-2026/", "dominio": "folhadoleste.com.br" }
+      ],
+      "nota": 5.3,
+      "justificativa": "Notícia de preço/promoção confirmada no mercado nacional, promovida ao TOP 10 para completar a cota de pelo menos três itens de escopo nacional do dia.",
+      "pesquisador": "radar-lancamentos-nacionais"
+    }
+  ],
+  "tambemNoRadar": [
+    {
+      "slug": "atari-nomeia-matt-hall-evp-de-mobile",
+      "titulo": "Atari nomeia Matt Hall, criador de Crossy Road, como EVP de Mobile",
+      "resumo": "A Atari anunciou a nomeação de Matt Hall, cofundador da Hipster Whale e criador de Crossy Road, como Vice-Presidente Executivo de Mobile, reportando diretamente ao CEO Wade Rosen. Hall ficará responsável pela estratégia cross-platform da Atari entre PC, consoles, web e mobile, após a aquisição da Hipster Whale pela empresa em 2026.",
+      "tipo": "noticia",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["Mobile"],
+      "tags": ["atari", "executivos", "mobile"],
+      "dataFato": "2026-10-27",
+      "janelaEstendida": false,
+      "fonte": { "nome": "GamesPress", "url": "https://www.gamespress.com/ATARI-NAMES-CROSSY-ROAD-CREATOR-MATT-HALL-EVP-OF-MOBILE", "dominio": "gamespress.com" },
+      "fontesSecundarias": [
+        { "nome": "Games Market", "url": "https://www.gamesmarket.global/atari-names-matt-hall-evp-of-mobile/", "dominio": "gamesmarket.global" }
+      ],
+      "nota": 5.2,
+      "justificativa": "Movimento de liderança relevante para a estratégia mobile da Atari, mas de impacto mais corporativo do que diretamente ligado a jogos ou lançamentos.",
+      "pesquisador": "radar-empresas-internacionais"
+    },
+    {
+      "slug": "ps-plus-adiciona-lote-final-de-outubro",
+      "titulo": "PS Plus adiciona lote final de outubro: Tales of Arise, Poppy Playtime 2 e Monster Energy Supercross 25",
+      "resumo": "A Sony liberou a terceira e última leva de jogos do PS Plus Extra/Premium de outubro de 2026, trazendo Tales of Arise - Beyond the Dawn Edition, Poppy Playtime: Chapter 2 e Monster Energy Supercross 25 ao catálogo. Com isso, o roteiro mensal de adições é encerrado.",
+      "tipo": "noticia",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PS5", "PS4"],
+      "tags": ["playstation", "ps-plus", "catalogo"],
+      "dataFato": "2026-10-27",
+      "janelaEstendida": false,
+      "fonte": { "nome": "OpenCritic", "url": "https://opencritic.com/news/38545/ps-plus-officially-adds-its-final-3-games-for-october-2026", "dominio": "opencritic.com" },
+      "fontesSecundarias": [
+        { "nome": "Game Rant", "url": "https://gamerant.com/ps-plus-october-2026-extra-premium-games-tales-of-arise-poppy-playtime/", "dominio": "gamerant.com" },
+        { "nome": "Push Square", "url": "https://www.pushsquare.com/news/2026/10/9-ps-plus-extra-premium-games-for-october-2026-announced", "dominio": "pushsquare.com" }
+      ],
+      "nota": 6.7,
+      "justificativa": "Atualização de catálogo relevante para assinantes, mas de impacto editorial recorrente e sem fato inédito de peso.",
+      "pesquisador": "radar-lancamentos-internacionais"
+    },
+    {
+      "slug": "nintendo-switch-online-adiciona-tres-jogos-de-game-boy",
+      "titulo": "Nintendo Switch Online adiciona três jogos clássicos de Game Boy",
+      "resumo": "A Nintendo atualizou a biblioteca de Game Boy do Nintendo Switch Online com os títulos Avenging Spirit (1992), Mole Mania (1997) e Pinball: Revenge of the 'Gator (1990). A adição exige apenas a assinatura padrão do serviço, sem necessidade do pacote de expansão.",
+      "tipo": "lancamento",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["Switch", "Switch 2"],
+      "tags": ["nintendo", "switch-online", "retro"],
+      "dataFato": "2026-10-27",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Nintendo Life", "url": "https://www.nintendolife.com/news/2026/10/nintendo-expands-switch-onlines-game-boy-library-with-three-more-titles", "dominio": "nintendolife.com" },
+      "fontesSecundarias": [
+        { "nome": "Nintendo Everything", "url": "https://nintendoeverything.com/nintendo-switch-online-adds-3-game-boy-games-in-october-2026-update/", "dominio": "nintendoeverything.com" },
+        { "nome": "Bleeding Cool", "url": "https://bleedingcool.com/games/nintendo-switch-online-adds-three-gba-games-for-october-2026/", "dominio": "bleedingcool.com" }
+      ],
+      "nota": 6.0,
+      "justificativa": "Atualização de catálogo retrô bem recebida pela comunidade, mas de impacto moderado e caráter recorrente.",
+      "pesquisador": "radar-lancamentos-internacionais"
+    },
+    {
+      "slug": "vitality-elimina-navi-e-avanca-aos-playoffs-da-pgl-bucharest",
+      "titulo": "Vitality elimina NAVI e avança aos playoffs da PGL Masters Bucharest 2026",
+      "resumo": "A Vitality derrotou a NAVI por 2-0 (13-2 no Inferno, 13-9 no Dust2) em 27 de outubro de 2026, avançando aos playoffs da PGL Masters Bucharest com campanha de 3-1. William 'mezii' Merriman foi eleito o melhor jogador da série, atuando como capitão parcial.",
+      "tipo": "esports",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": [],
+      "tags": ["csgo", "vitality", "navi", "pgl-bucharest"],
+      "dataFato": "2026-10-27",
+      "janelaEstendida": false,
+      "fonte": { "nome": "HLTV", "url": "https://www.hltv.org/news/45834/vitality-crush-navi-to-make-bucharest-playoffs", "dominio": "hltv.org" },
+      "fontesSecundarias": [
+        { "nome": "HLTV (página da partida)", "url": "https://www.hltv.org/matches/2399747/vitality-vs-natus-vincere-pgl-masters-bucharest-2026", "dominio": "hltv.org" }
+      ],
+      "nota": 6.2,
+      "justificativa": "Resultado relevante de um dos principais torneios de CS do período, mas sem ineditismo fora do calendário competitivo normal.",
+      "pesquisador": "radar-esports"
+    },
+    {
+      "slug": "hunters-moon-lanca-exclusivo-para-ps5",
+      "titulo": "Hunter's Moon, novo jogo de horror folclórico da Twin Swans, lança exclusivo para PS5",
+      "resumo": "A Twin Swans, estúdio formado por desenvolvedores de The Stanley Parable, lançou Hunter's Moon em 26 de outubro de 2026, exclusivo para PlayStation 5. O jogo é um stealth-horror narrativo ambientado na Inglaterra do século XVII, no qual a jogadora controla Lilith Thorne, mulher acusada de bruxaria fugindo de um caçador de bruxas.",
+      "tipo": "lancamento",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PS5"],
+      "tags": ["lancamento", "horror", "playstation"],
+      "dataFato": "2026-10-26",
+      "janelaEstendida": true,
+      "fonte": { "nome": "Sneakz & Beatz", "url": "https://www.sneakzandbeatz.com/the-lane/hunters-moon-ps5-october-26-2026-twin-swans-witchfinder-stealth-horror-state-of-play", "dominio": "sneakzandbeatz.com" },
+      "fontesSecundarias": [
+        { "nome": "Noisy Pixel", "url": "https://noisypixel.net/hunters-moon-folk-horror-ps5-october-26/", "dominio": "noisypixel.net" },
+        { "nome": "Gematsu", "url": "https://www.gematsu.com/2026/09/first-person-historical-folk-horror-game-hunters-moon-announced-for-ps5", "dominio": "gematsu.com" }
+      ],
+      "nota": 5.8,
+      "justificativa": "Lançamento de nicho com boa recepção prévia, mas de alcance comercial e mediático limitado frente aos destaques do dia.",
+      "pesquisador": "radar-lancamentos-internacionais"
+    },
+    {
+      "slug": "remothered-red-nuns-legacy-encerra-trilogia",
+      "titulo": "Remothered: Red Nun's Legacy encerra trilogia de survival horror",
+      "resumo": "Remothered: Red Nun's Legacy, capítulo final da trilogia de survival horror com temática neo-giallo italiana, foi lançado em 27 de outubro de 2026 para PC, PlayStation 5, Xbox Series X|S e Switch 2. O jogo traz mecânicas de retrocognição, habilidades de espelho e manipulação de traças, mantendo o retorno ao horror de sobrevivência clássico da franquia.",
+      "tipo": "lancamento",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC", "PS5", "Xbox Series", "Switch 2"],
+      "tags": ["lancamento", "survival-horror", "remothered"],
+      "dataFato": "2026-10-27",
+      "janelaEstendida": false,
+      "fonte": { "nome": "WorthPlaying", "url": "https://worthplaying.com/article/2026/10/27/news/151286-tuesday-october-27-2026-shipping-announcements/", "dominio": "worthplaying.com" },
+      "fontesSecundarias": [],
+      "nota": 5.0,
+      "justificativa": "Lançamento multiplataforma de franquia de nicho, com cobertura ainda limitada a uma única fonte verificada.",
+      "pesquisador": "radar-lancamentos-internacionais"
+    },
+    {
+      "slug": "fluxo-w7m-leva-arena-gamer-ao-festival-bb-nos-esportes",
+      "titulo": "Fluxo W7M leva arena gamer gratuita com Free Fire ao Festival BB Nos Esportes em Maceió",
+      "resumo": "A organização brasileira Fluxo W7M anunciou que levará uma arena gamer gratuita ao Festival BB Nos Esportes, em Maceió (AL), nos dias 30 e 31 de outubro. O espaço terá competições de Free Fire com o influenciador Amoroso, partidas abertas e experiências interativas com Just Dance.",
+      "tipo": "esports",
+      "escopo": "nacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["Mobile"],
+      "tags": ["fluxo-w7m", "free-fire", "ativacao-de-marca", "brasil"],
+      "dataFato": "2026-10-27",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Cada Minuto", "url": "https://www.cadaminuto.com.br/noticia/2026/10/27/fluxo-w7m-leva-arena-gamer-gratuita-ao-festival-bb-nos-esportes-em-maceio", "dominio": "cadaminuto.com.br" },
+      "fontesSecundarias": [
+        { "nome": "AL1", "url": "https://al1.com.br/noticias/noticias/209893-fluxo-w7m-leva-arena-gamer-gratuita-ao-festival-bb-nos-esportes-em-maceio", "dominio": "al1.com.br" },
+        { "nome": "Gazeta Web", "url": "https://www.gazetaweb.com/noticias/esportes/fluxo-w7m-leva-arena-gamer-gratuita-ao-festival-bb-nos-esportes-em-maceio-945170", "dominio": "gazetaweb.com" }
+      ],
+      "nota": 5.0,
+      "justificativa": "Ação de ativação de marca confirmada de organização nacional relevante, porém de impacto regional e pontual.",
+      "pesquisador": "radar-empresas-nacionais"
+    },
+    {
+      "slug": "wildlife-studios-abre-inscricoes-para-evento-sobre-ia",
+      "titulo": "Wildlife Studios abre inscrições para evento gratuito sobre uso de IA em design de jogos",
+      "resumo": "A Wildlife Studios abriu em 26 de outubro as inscrições para o evento online gratuito 'Design Crafted with AI', marcado para 17 de novembro, voltado a profissionais de design interessados na indústria de games. Integrantes do time criativo da empresa vão apresentar como usam ferramentas de IA no processo de criação visual dos jogos.",
+      "tipo": "noticia",
+      "escopo": "nacional",
+      "confiabilidade": "confirmado",
+      "plataformas": [],
+      "tags": ["wildlife-studios", "inteligencia-artificial", "evento", "brasil"],
+      "dataFato": "2026-10-26",
+      "janelaEstendida": false,
+      "fonte": { "nome": "J Wave", "url": "https://www.jwave.com.br/2026/10/wildlife-studios-abre-inscricoes-para-evento-gratuito-sobre-ia-nos-games/", "dominio": "jwave.com.br" },
+      "fontesSecundarias": [],
+      "nota": 4.2,
+      "justificativa": "Fato confirmado envolvendo estúdio brasileiro relevante, mas de baixo impacto corporativo por se tratar de evento de capacitação.",
+      "pesquisador": "radar-empresas-nacionais"
+    }
+  ],
+  "descartados": [
+    { "titulo": "ENCE declara falência após 13 anos de esports", "motivo": "já publicado na edição de 2026-10-26" }
+  ]
+}
