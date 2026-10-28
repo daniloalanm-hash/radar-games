@@ -99,7 +99,12 @@ export function ArtigoMarkdown({ markdown }: { markdown: string }) {
 
         return (
           <p key={indice} className="leading-relaxed text-suave">
-            {comFormatacao(bloco.replace(/\r?\n/g, " "))}
+            {linhas.map((linha, i) => (
+              <span key={i}>
+                {i > 0 && <br />}
+                {comFormatacao(linha)}
+              </span>
+            ))}
           </p>
         );
       })}
