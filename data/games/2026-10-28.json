@@ -1,0 +1,323 @@
+{
+  "categoria": "games",
+  "data": "2026-10-28",
+  "geradoEm": "2026-10-28T21:00:00-03:00",
+  "janela": { "inicio": "2026-10-27T21:00:00-03:00", "fim": "2026-10-28T21:00:00-03:00" },
+  "observacao": null,
+  "itens": [
+    {
+      "posicao": 1,
+      "slug": "funcionarios-ea-relatam-moral-terrivel-apos-fechamento-bioware",
+      "titulo": "Funcionários da EA relatam moral \"terrível\" após fechamento da BioWare e pressão por IA generativa",
+      "resumo": "Funcionários atuais e ex-funcionários da Electronic Arts, falando anonimamente, descreveram um ambiente de moral baixíssima após as demissões de cerca de 400 pessoas e o fechamento do estúdio BioWare, citando pressão da liderança para uso de ferramentas de IA generativa e cortes considerados impessoais. Os relatos vieram à tona dias após o fechamento da BioWare e o cancelamento do próximo Mass Effect, parte da reestruturação pós-aquisição da EA por um consórcio liderado pelo fundo saudita PIF.",
+      "tipo": "noticia",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": [],
+      "tags": ["ea", "bioware", "demissoes", "ia-generativa"],
+      "dataFato": "2026-10-28",
+      "janelaEstendida": false,
+      "fonte": { "nome": "OpenCritic", "url": "https://opencritic.com/news/38577/ea-morale-reportedly-plummets-amidst-layoffs-and-genai-pushes", "dominio": "opencritic.com" },
+      "fontesSecundarias": [
+        { "nome": "Nintendo Life", "url": "https://www.nintendolife.com/news/2026/10/morale-has-been-terrible-ea-workers-criticise-publishers-cost-cutting-after-latest-layoffs", "dominio": "nintendolife.com" },
+        { "nome": "GamesRadar+", "url": "https://www.gamesradar.com/games/ea-morale-hits-a-new-low-amid-ai-push-and-bioware-closure-a-cold-dead-place-thats-slowly-decaying-as-leadership-pilfers-every-last-cent/", "dominio": "gamesradar.com" },
+        { "nome": "PC Gamer", "url": "https://www.pcgamer.com/gaming-industry/rip-bioware-ea-has-shut-down-the-legendary-rpg-developer/", "dominio": "pcgamer.com" },
+        { "nome": "Variety", "url": "https://variety.com/2026/digital/news/ea-layoffs-bioware-shutting-down-respawn-dice-star-wars-battlefront-3-1236918715/", "dominio": "variety.com" }
+      ],
+      "nota": 8.8,
+      "justificativa": "Maior repercussão do dia sobre a crise na EA: une o fechamento da BioWare (catalisador) aos relatos internos mais recentes sobre moral e pressão por IA, com múltiplas fontes especializadas confirmando dentro da janela de 24h.",
+      "pesquisador": "radar-empresas-internacionais"
+    },
+    {
+      "posicao": 2,
+      "slug": "governo-sp-desclassifica-jogos-indie-proac-denuncia-drops-de-jogos",
+      "titulo": "Governo de SP desclassifica dois jogos indie do Proac após denúncia do Drops de Jogos",
+      "resumo": "A Secretaria de Cultura e Economia Criativas de São Paulo desclassificou os jogos \"Entre as Estrelas\" e \"Espadachim de Carvão, o Jogo\" do edital Proac 2026, em documento assinado pela diretora Liana Crocco. A ação seguiu denúncia do site Drops de Jogos sobre possível concentração de recursos entre empresas com endereços próximos na região das Perdizes, em São Paulo.",
+      "tipo": "noticia",
+      "escopo": "nacional",
+      "confiabilidade": "confirmado",
+      "plataformas": [],
+      "tags": ["fomento", "indie", "proac", "brasil"],
+      "dataFato": "2026-10-28",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Drops de Jogos", "url": "https://dropsdejogos.uai.com.br/noticias/indie/exclusivo-governo-tarcisio-desclassifica-dois-jogos-indie-do-proac-apos-denuncia-do-drops-de-jogos/", "dominio": "dropsdejogos.uai.com.br" },
+      "fontesSecundarias": [],
+      "nota": 8.3,
+      "justificativa": "Furo exclusivo de veículo especializado nacional, com desdobramento administrativo concreto e documentado de alto impacto para a cena indie e o fomento público a jogos no Brasil.",
+      "pesquisador": "radar-lancamentos-nacionais"
+    },
+    {
+      "posicao": 3,
+      "slug": "valorant-confirmado-esports-world-cup-2027-loud-parceira",
+      "titulo": "Valorant é confirmado na Esports World Cup 2027 e VCT reformula circuito; LOUD segue parceira",
+      "resumo": "A Riot Games confirmou a terceira participação consecutiva de Valorant na Esports World Cup, em 2027, e anunciou que o VCT eliminará os slots garantidos de franquias a partir da nova temporada, adotando promoção, relegação e qualificatórios abertos. A LOUD, bicampeã mundial de Valorant com formações diferentes, segue como parceira e abre a temporada 2027 no VCT Americas Kickoff, sediado em São Paulo em janeiro.",
+      "tipo": "esports",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC"],
+      "tags": ["valorant", "riot-games", "esports-world-cup", "loud", "vct"],
+      "dataFato": "2026-10-28",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Esports World Cup", "url": "https://esportsworldcup.com/en/press-releases/valorant-returns-to-ewc-2027", "dominio": "esportsworldcup.com" },
+      "fontesSecundarias": [
+        { "nome": "Gamers & Games", "url": "https://www.gamersegames.com.br/2026/10/27/valorant-e-confirmado-na-esports-world-cup-2027-com-novo-formato-de-circuito/", "dominio": "gamersegames.com.br" },
+        { "nome": "iGaming Brazil", "url": "https://igamingbrazil.com/esports/2026/10/28/riot-games-garante-valorant-na-esports-world-cup-2027-e-anuncia-mudancas-no-circuito/", "dominio": "igamingbrazil.com" },
+        { "nome": "On Pop Life", "url": "https://onpoplife.com.br/valorant-e-confirmado-na-esports-world-cup-2027-e-loud-chega-como-campea-mundial/", "dominio": "onpoplife.com.br" },
+        { "nome": "Esports.gg", "url": "https://esports.gg/news/valorant/valorant-confirmed-ewc-2027/", "dominio": "esports.gg" }
+      ],
+      "nota": 8.0,
+      "justificativa": "Mudança estrutural relevante para todo o circuito de Valorant, com impacto direto sobre a organização brasileira LOUD e etapa do calendário 2027 sediada em São Paulo; mesma história trazida por três pesquisadores, consolidada em um único item.",
+      "pesquisador": "radar-esports"
+    },
+    {
+      "posicao": 4,
+      "slug": "microsoft-oferece-buyout-voluntario-60-mil-funcionarios-xbox",
+      "titulo": "Microsoft oferece buyout voluntário a 60 mil funcionários, incluindo divisão Xbox",
+      "resumo": "A Microsoft estendeu um programa de saída voluntária a aproximadamente 60 mil funcionários, cerca de 27% da força de trabalho global, incluindo equipes dos EUA, Canadá, Índia e Reino Unido, em meio a reestruturação ligada a investimentos pesados em IA. Os funcionários têm até início de dezembro para decidir, com saída efetiva em 31 de dezembro de 2026.",
+      "tipo": "noticia",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["Xbox Series"],
+      "tags": ["microsoft", "xbox", "demissoes", "ia"],
+      "dataFato": "2026-10-26",
+      "janelaEstendida": true,
+      "fonte": { "nome": "CNBC", "url": "https://www.cnbc.com/2026/10/26/microsoft-msft-voluntary-buyouts.html", "dominio": "cnbc.com" },
+      "fontesSecundarias": [
+        { "nome": "GeekWire", "url": "https://www.geekwire.com/2026/microsoft-makes-new-voluntary-exit-offer-to-more-than-a-quarter-of-its-workforce-including-some-execs/", "dominio": "geekwire.com" },
+        { "nome": "PC Gamer", "url": "https://pcgamer.com/gaming-industry/microsoft-is-looking-to-cut-more-than-25-percent-of-its-workforce", "dominio": "pcgamer.com" }
+      ],
+      "nota": 7.6,
+      "justificativa": "Impacto direto sobre a divisão Xbox, com repercussão contínua em veículos de games dentro da janela, embora o anúncio original seja de dois dias antes.",
+      "pesquisador": "radar-empresas-internacionais"
+    },
+    {
+      "posicao": 5,
+      "slug": "nintendo-indie-world-showcase-outubro-2026",
+      "titulo": "Nintendo Indie World Showcase revela mais de 20 jogos para Switch e Switch 2",
+      "resumo": "A Nintendo realizou em 28 de outubro de 2026 um Indie World Showcase revelando mais de 20 jogos indie para Switch e Switch 2, incluindo City of None (do co-criador de Celeste), Threads of Time, Kitsune: The Journey of Adashino e Super Battle Golf. Demos gratuitas de títulos como Haunted Paws e Petal Runner já estão disponíveis na eShop.",
+      "tipo": "lancamento",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["Switch", "Switch 2", "PC"],
+      "tags": ["nintendo", "indie", "eshop"],
+      "dataFato": "2026-10-28",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Nintendo Life", "url": "https://www.nintendolife.com/guides/nintendo-indie-world-showcase-october-2026-every-announcement-game-reveal-and-trailer", "dominio": "nintendolife.com" },
+      "fontesSecundarias": [
+        { "nome": "GameSpot", "url": "https://www.gamespot.com/articles/nintendo-indie-world-october-2026-showcase-all-the-biggest-announcements/", "dominio": "gamespot.com" },
+        { "nome": "Game Informer", "url": "https://gameinformer.com/recap/2026/10/28/everything-shown-at-the-october-2026-nintendo-indie-world-showcase", "dominio": "gameinformer.com" }
+      ],
+      "nota": 7.8,
+      "justificativa": "Evento oficial da Nintendo com dezenas de anúncios relevantes para o público indie, amplamente coberto por veículos especializados.",
+      "pesquisador": "radar-lancamentos-internacionais"
+    },
+    {
+      "posicao": 6,
+      "slug": "evo-brazil-2027-line-up-premiacao",
+      "titulo": "Evo Brazil 2027 revela line-up com oito jogos e premiação mínima de R$ 1 milhão",
+      "resumo": "A RTS, organizadora da Evo, revelou o line-up completo da primeira edição brasileira do torneio, marcada para 26 a 28 de março de 2027 no Expo Center Norte, em São Paulo. O evento contará com oito jogos competitivos, incluindo Street Fighter 6, Tekken 8 e Mortal Kombat 1, e premiação mínima garantida de R$ 1 milhão; inscrições e venda de ingressos abriram no mesmo dia.",
+      "tipo": "esports",
+      "escopo": "nacional",
+      "confiabilidade": "confirmado",
+      "plataformas": [],
+      "tags": ["evo", "jogos-de-luta", "brasil", "esports"],
+      "dataFato": "2026-10-27",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Olhar Digital", "url": "https://olhardigital.com.br/2026/10/27/games-e-consoles/evo-brazil-2027-anuncia-jogos-e-premiacao-de-r1-milhao/", "dominio": "olhardigital.com.br" },
+      "fontesSecundarias": [
+        { "nome": "Drops de Jogos", "url": "https://dropsdejogos.uai.com.br/noticias/industria/evo-brazil-2027-revela-line-up-de-games-e-mais-informacoes-sobre-sua-edicao-de-estreia/", "dominio": "dropsdejogos.uai.com.br" },
+        { "nome": "EventHubs", "url": "https://www.eventhubs.com/news/2026/oct/27/evo-brazil-2027-game-lineup/", "dominio": "eventhubs.com" }
+      ],
+      "nota": 7.3,
+      "justificativa": "Primeira edição nacional de um evento global relevante para o ecossistema de jogos de luta, com data, local e premiação já confirmados.",
+      "pesquisador": "radar-empresas-nacionais"
+    },
+    {
+      "posicao": 7,
+      "slug": "mibr-gc-vence-sk-nebula-game-changers-championship",
+      "titulo": "MIBR GC vence SK Nebula no VALORANT Game Changers Championship",
+      "resumo": "A equipe brasileira MIBR GC venceu a SK Nebula por 2 a 0 (13-0 em Summit e 13-4 em Lotus) na chave inferior do Game Changers Championship de Valorant, mantendo-se viva no torneio mundial. A jogadora waved liderou o desempenho ofensivo da equipe na partida eliminatória.",
+      "tipo": "esports",
+      "escopo": "nacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC"],
+      "tags": ["valorant", "mibr", "game-changers", "esports"],
+      "dataFato": "2026-10-28",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Vavel Brasil", "url": "https://www.vavel.com/br/esports-br/2026/10/28/1277160-mibr-gc-atropela-sk-nebula-e-segue-vivo-no-game-changers-championship.html", "dominio": "vavel.com" },
+      "fontesSecundarias": [],
+      "nota": 7.0,
+      "justificativa": "Resultado esportivo concreto e datado de equipe brasileira em torneio mundial de Valorant, confirmado com placares detalhados.",
+      "pesquisador": "radar-lancamentos-nacionais"
+    },
+    {
+      "posicao": 8,
+      "slug": "phantom-blade-zero-lancamento-pc-steam",
+      "titulo": "Phantom Blade Zero chega ao PC via Steam",
+      "resumo": "Phantom Blade Zero, action RPG em Unreal Engine 5 que mistura wuxia clássico com combate frenético, foi lançado em 28 de outubro de 2026 no Steam para PC, com versão para PS5 chegando no dia seguinte. O título ocupa cerca de 145 GB de espaço em disco.",
+      "tipo": "lancamento",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC", "PS5"],
+      "tags": ["phantom-blade-zero", "lancamento", "action-rpg"],
+      "dataFato": "2026-10-28",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Steam", "url": "https://store.steampowered.com/app/4115450/Phantom_Blade_Zero/", "dominio": "store.steampowered.com" },
+      "fontesSecundarias": [
+        { "nome": "NotebookCheck", "url": "https://www.notebookcheck.net/Phantom-Blade-Zero-confirms-October-release-date-on-PS5-and-PC.1368567.0.html", "dominio": "notebookcheck.net" }
+      ],
+      "nota": 6.9,
+      "justificativa": "Lançamento de jogo AAA bastante aguardado, com confirmação direta na loja e cobertura especializada.",
+      "pesquisador": "radar-lancamentos-internacionais"
+    },
+    {
+      "posicao": 9,
+      "slug": "switch-2-zelda-40-anos-chega-brasil",
+      "titulo": "Nintendo Switch 2 edição 40 anos de Zelda chega às lojas brasileiras em 29 de outubro",
+      "resumo": "A Nintendo confirmou que a edição especial Nintendo Switch 2 – The Legend of Zelda – 40th Anniversary chega ao varejo brasileiro em 29 de outubro de 2026, por R$ 4.749 (R$ 4.416 no Pix). O pacote inclui console temático, Pro Controller e case, mas não o jogo Ocarina of Time, que chega separadamente em 5 de novembro; os estoques de pré-venda já haviam se esgotado rapidamente no país.",
+      "tipo": "lancamento",
+      "escopo": "nacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["Switch 2"],
+      "tags": ["nintendo", "switch-2", "zelda", "hardware"],
+      "dataFato": "2026-10-27",
+      "janelaEstendida": false,
+      "fonte": { "nome": "MixVale", "url": "https://www.mixvale.com.br/2026/10/27/nintendo-confirma-edicao-de-40-anos-de-zelda-do-switch-2-para-29-de/", "dominio": "mixvale.com.br" },
+      "fontesSecundarias": [
+        { "nome": "Game OverDrive", "url": "https://gameoverdrive.com.br/nintendo-switch-2-zelda-preco-data-brasil/", "dominio": "gameoverdrive.com.br" },
+        { "nome": "Game OverDrive", "url": "https://gameoverdrive.com.br/switch-2-zelda-esgota-brasil-nintendo-reposicao/", "dominio": "gameoverdrive.com.br" }
+      ],
+      "nota": 6.8,
+      "justificativa": "Lançamento de hardware com preço e data confirmados especificamente para o mercado brasileiro, completando a cota de itens nacionais do dia.",
+      "pesquisador": "radar-lancamentos-nacionais"
+    },
+    {
+      "posicao": 10,
+      "slug": "witchbrook-data-lancamento-janeiro-2027",
+      "titulo": "Witchbrook ganha data de lançamento: 28 de janeiro de 2027",
+      "resumo": "Durante o Indie World Showcase, a Chucklefish e a co-desenvolvedora Robotality confirmaram que o aguardado life sim de bruxas Witchbrook chega em 28 de janeiro de 2027 para PS5, Xbox Series X/S, Switch, Switch 2 e PC. O jogo já havia sofrido atrasos anteriores, com teaser original datando de 2016.",
+      "tipo": "noticia",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PS5", "Xbox Series", "Switch", "Switch 2", "PC"],
+      "tags": ["witchbrook", "indie", "life-sim"],
+      "dataFato": "2026-10-28",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Game Informer", "url": "https://gameinformer.com/2026/10/28/cozy-magical-sim-witchbrook-gets-a-january-release-date", "dominio": "gameinformer.com" },
+      "fontesSecundarias": [
+        { "nome": "PC Gamer", "url": "https://www.pcgamer.com/games/rpg/witchbrook-is-delayed-again-now-set-for-release-in-2027/", "dominio": "pcgamer.com" },
+        { "nome": "Gamereactor", "url": "https://www.gamereactor.eu/witchbrook-finally-gets-a-release-date-january-28-2027/", "dominio": "gamereactor.eu" }
+      ],
+      "nota": 6.6,
+      "justificativa": "Jogo bastante aguardado pela comunidade, data oficial confirmada em evento Nintendo, com ampla cobertura especializada.",
+      "pesquisador": "radar-lancamentos-internacionais"
+    }
+  ],
+  "tambemNoRadar": [
+    {
+      "slug": "tim-sweeney-ataca-valve-steam-atrasou-games",
+      "titulo": "Tim Sweeney (Epic) ataca Valve: \"Steam tem atrasado os games por anos\"",
+      "resumo": "O CEO da Epic Games, Tim Sweeney, declarou que a Valve atrasou os games por anos ao prender desenvolvedores no ecossistema fechado do Steamworks, impedindo comunicação cross-platform entre jogadores. A declaração, feita em meio a críticas sobre a taxa de 30% da Steam, recebeu uma nota da comunidade no X contestando a afirmação.",
+      "tipo": "noticia",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC"],
+      "tags": ["epic-games", "valve", "steam"],
+      "dataFato": "2026-10-27",
+      "janelaEstendida": false,
+      "fonte": { "nome": "PC Gamer", "url": "https://www.pcgamer.com/software/platforms/epic-games-chief-tim-sweeney-claims-valve-has-held-gaming-back-for-years/", "dominio": "pcgamer.com" },
+      "fontesSecundarias": [
+        { "nome": "TheGamer", "url": "https://www.thegamer.com/tim-sweeneys-steam-beef-continues/", "dominio": "thegamer.com" },
+        { "nome": "Proven Gamer", "url": "https://provengamer.com/2026/10/27/epics-tim-sweeney-says-valve-has-held-gaming-back-for-years-and-got-community-noted-for-it/", "dominio": "provengamer.com" }
+      ],
+      "nota": 5.8,
+      "justificativa": "Episódio recorrente da rivalidade Epic x Valve, relevante para o setor mas sem impacto estrutural imediato.",
+      "pesquisador": "radar-empresas-internacionais"
+    },
+    {
+      "slug": "sword-of-the-sea-xbox-switch-2",
+      "titulo": "Sword of the Sea chega ao Xbox Series e Switch 2 em 29 de outubro",
+      "resumo": "Anunciado no Indie World Showcase de 28 de outubro, o jogo de surfe atmosférico Sword of the Sea, da Giant Squid, chega ao Xbox Series X/S e Nintendo Switch 2 em 29 de outubro de 2026, expandindo o lançamento original de agosto de 2025 em PS5 e PC.",
+      "tipo": "lancamento",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["Xbox Series", "Switch 2"],
+      "tags": ["sword-of-the-sea", "indie", "giant-squid"],
+      "dataFato": "2026-10-28",
+      "janelaEstendida": false,
+      "fonte": { "nome": "GoNintendo", "url": "https://gonintendo.com/contents/66560-sword-of-the-sea-heads-to-switch-2-oct-29th-2026", "dominio": "gonintendo.com" },
+      "fontesSecundarias": [
+        { "nome": "VGChartz", "url": "https://www.vgchartz.com/article/469503/sword-of-the-sea-launches-october-29-for-switch-2-and-xbox-series/", "dominio": "vgchartz.com" },
+        { "nome": "Instant Gaming News", "url": "https://news.instant-gaming.com/en/articles/22668-upd-giant-squid-s-stunning-sword-of-the-sea-is-coming-to-xbox-and-switch-2-on-october-29", "dominio": "instant-gaming.com" }
+      ],
+      "nota": 5.7,
+      "justificativa": "Expansão de plataformas de jogo bem avaliado, anunciada em evento oficial, mas de impacto menor que os destaques do dia.",
+      "pesquisador": "radar-lancamentos-internacionais"
+    },
+    {
+      "slug": "ps-plus-essential-novembro-2026",
+      "titulo": "Sony anuncia jogos do PS Plus Essential de novembro de 2026",
+      "resumo": "A Sony revelou que Dead Island 2, Tomb Raider IV–VI Remastered e Monster Train 2 serão os jogos do PS Plus Essential em novembro de 2026, disponíveis para resgate de 3 de novembro a 1º de dezembro. Dead Island 2 e a coletânea de Tomb Raider chegam a PS4 e PS5, enquanto Monster Train 2 é exclusivo de PS5.",
+      "tipo": "noticia",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PS5", "PS4"],
+      "tags": ["playstation", "ps-plus", "assinatura"],
+      "dataFato": "2026-10-28",
+      "janelaEstendida": false,
+      "fonte": { "nome": "PSX Brasil", "url": "https://psxbrasil.com.br/ps-plus-essential-novembro-de-2026/", "dominio": "psxbrasil.com.br" },
+      "fontesSecundarias": [
+        { "nome": "E-Nerd", "url": "https://www.einerd.com/ps-plus-essential-novembro-2026-dead-island-2-tomb-raider-monster-train-2/", "dominio": "einerd.com" },
+        { "nome": "Game OverDrive", "url": "https://gameoverdrive.com.br/ps-plus-novembro-2026-jogos/", "dominio": "gameoverdrive.com.br" }
+      ],
+      "nota": 5.6,
+      "justificativa": "Anúncio oficial relevante para assinantes, mas de menor ineditismo frente aos destaques corporativos e de lançamento do dia.",
+      "pesquisador": "radar-lancamentos-nacionais"
+    },
+    {
+      "slug": "g2-esports-saida-valyn-igl",
+      "titulo": "G2 Esports confirma saída do IGL valyn",
+      "resumo": "O G2 Esports anunciou o fim do vínculo com o IGL Jacob \"valyn\" Batio após três anos, destacando oito participações internacionais consecutivas e quatro títulos da VCT Americas. Eduardo \"Sato\" Nagahama deve substituí-lo no ciclo de parceria 2027-2028.",
+      "tipo": "esports",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC"],
+      "tags": ["valorant", "g2-esports", "transferencia"],
+      "dataFato": "2026-10-27",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Insider Gaming", "url": "https://insider-gaming.com/valyn-g2-departure-valorant/", "dominio": "insider-gaming.com" },
+      "fontesSecundarias": [
+        { "nome": "Inven Global", "url": "https://www.invenglobal.com/articles/27773/g2-valorant-parts-ways-with-igl-valyn-after-three-years", "dominio": "invenglobal.com" }
+      ],
+      "nota": 5.5,
+      "justificativa": "Transferência relevante de IGL histórico da região Américas, mas de impacto pontual no cenário competitivo.",
+      "pesquisador": "radar-esports"
+    },
+    {
+      "slug": "astralis-recoloca-jabbi-roster-ativa-major",
+      "titulo": "Astralis recoloca jabbi na roster ativa para evitar perder vaga no Major de Singapura",
+      "resumo": "A Astralis anunciou que Jakob \"jabbi\" Nygaard retorna à linha ativa como substituto de Nikita \"cmtry\" Samolotov pelo restante do Stake Ranked Episode 5, em Barcelona. A mudança visa evitar um cenário do sistema de ranking da Valve que poderia tornar a equipe inelegível para o convite do PGL Major de Singapura.",
+      "tipo": "esports",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC"],
+      "tags": ["cs2", "astralis", "major"],
+      "dataFato": "2026-10-27",
+      "janelaEstendida": false,
+      "fonte": { "nome": "HLTV", "url": "https://www.hltv.org/news/45836/jabbi-returns-to-astralis-for-stake-ranked-to-help-salvage-major-invite", "dominio": "hltv.org" },
+      "fontesSecundarias": [
+        { "nome": "Insider Gaming", "url": "https://insider-gaming.com/astralis-restores-jabbi-to-cs-roster/", "dominio": "insider-gaming.com" }
+      ],
+      "nota": 5.4,
+      "justificativa": "Caso técnico de regras de elegibilidade de Major, relevante para o cenário de CS2 mas de escopo restrito ao time e à liga.",
+      "pesquisador": "radar-esports"
+    }
+  ],
+  "descartados": [
+    { "titulo": "PlayStation Store amplia promoção Escolha do Jogador até 5 de novembro", "motivo": "campanha iniciada em 7 de outubro, fora da janela de referência; sem fato novo dentro do recorte." },
+    { "titulo": "PS Plus Extra e Premium de outubro trazem Mafia: The Old Country e Horizon Forbidden West", "motivo": "jogos adicionados em 20 de outubro, fora mesmo da janela estendida de 48h." },
+    { "titulo": "Tencent amplia participação no mercado de cloud gaming sul-coreano via Krafton e Shift Up", "motivo": "análise de mercado sem fonte secundária independente e sem fato pontual claramente datado na janela." },
+    { "titulo": "Xbox lança atualização de console de outubro com Mythic Achievements", "motivo": "atualização de produto de menor relevância editorial frente aos demais candidatos do dia; sem espaço no recorte final." },
+    { "titulo": "CS2: Valve lança atualização com modo oculto Big Head e nova arma LAR", "motivo": "conteúdo de engajamento sem fonte secundária e sem peso competitivo direto; sem espaço no recorte final." }
+  ]
+}
