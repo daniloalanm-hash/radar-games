@@ -1,0 +1,354 @@
+{
+  "categoria": "games",
+  "data": "2026-10-29",
+  "geradoEm": "2026-10-29T21:30:00-03:00",
+  "janela": { "inicio": "2026-10-28T21:00:00-03:00", "fim": "2026-10-29T21:00:00-03:00" },
+  "observacao": null,
+  "itens": [
+    {
+      "posicao": 1,
+      "slug": "edge-magazine-revela-detalhes-e-screenshots-de-gta-6",
+      "titulo": "Edge Magazine revela novos detalhes e screenshots de GTA 6",
+      "resumo": "A Edge Magazine publicou uma matéria especial de 16 páginas com entrevistas exclusivas da Rockstar North sobre GTA 6, liberada gratuitamente online em 29 de outubro de 2026. O material traz mais de dez novos screenshots e detalhes sobre o mapa de Leonida, o sistema de 'Criminal Profile', transporte público e comportamento de NPCs, a cerca de três semanas do lançamento previsto para 19 de novembro em PS5 e Xbox Series X|S.",
+      "tipo": "noticia",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PS5", "Xbox Series"],
+      "tags": ["gta-6", "rockstar", "lancamento"],
+      "dataFato": "2026-10-29",
+      "janelaEstendida": false,
+      "fonte": { "nome": "dnyuz", "url": "https://dnyuz.com/2026/10/29/gta-6-edge-magazine-reveals-new-screenshots-and-gameplay-features/", "dominio": "dnyuz.com" },
+      "fontesSecundarias": [
+        { "nome": "GTABoom", "url": "https://www.gtaboom.com/gta-6-is-getting-the-full-edge-magazine-treatment-before-november-19-f9ec", "dominio": "gtaboom.com" },
+        { "nome": "Yahoo Tech", "url": "https://tech.yahoo.com/gaming/articles/edge-magazine-went-rockstar-see-150000430.html", "dominio": "tech.yahoo.com" }
+      ],
+      "nota": 9.3,
+      "justificativa": "GTA 6 é o lançamento mais aguardado do ano, e a cobertura com acesso exclusivo à Rockstar North, poucas semanas antes do lançamento, tem altíssimo impacto para o público gamer.",
+      "pesquisador": "radar-lancamentos-internacionais"
+    },
+    {
+      "posicao": 2,
+      "slug": "krafton-netflix-serie-live-action-pubg-donald-glover",
+      "titulo": "Krafton e Netflix anunciam série live-action de PUBG com Donald Glover",
+      "resumo": "A Krafton e a Netflix anunciaram em 29 de outubro de 2026 o desenvolvimento de uma série live-action baseada em PUBG: Battlegrounds, com Donald Glover dirigindo, estrelando, escrevendo e produzindo executivamente o projeto junto do irmão Stephen Glover. A produção também contará com Michael Schaefer (NEON TV), Fam Udeorji (Gilga) e executivos da LV3H, subsidiária de conteúdo da Krafton.",
+      "tipo": "noticia",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": [],
+      "tags": ["pubg", "krafton", "netflix", "adaptacao"],
+      "dataFato": "2026-10-29",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Gematsu", "url": "https://www.gematsu.com/2026/10/pubg-live-action-series-in-development-at-netflix", "dominio": "gematsu.com" },
+      "fontesSecundarias": [
+        { "nome": "GameDev.net", "url": "https://gamedev.net/news/donald-glover-to-direct-star-in-netflix-adaptation-of-pubg-battlegrounds-r6818/", "dominio": "gamedev.net" },
+        { "nome": "Game Developer", "url": "https://www.gamedeveloper.com/business/netflix-adapts-krafton-pubg-to-be-written-and-led-by-donald-glover", "dominio": "gamedeveloper.com" }
+      ],
+      "nota": 8.5,
+      "justificativa": "Adaptação de grande franquia de games com nome de peso de Hollywood à frente é notícia de forte apelo para o público gamer e além.",
+      "pesquisador": "radar-empresas-internacionais"
+    },
+    {
+      "posicao": 3,
+      "slug": "phantom-blade-zero-lanca-mundialmente-ps5-pc",
+      "titulo": "Phantom Blade Zero lança mundialmente para PS5 e PC com legendas em português",
+      "resumo": "O RPG de ação wuxia Phantom Blade Zero, da S-GAME, foi lançado mundialmente em 29 de outubro de 2026 para PS5 e PC, com nota 88 no Metacritic e elogios de IGN, Push Square e TheSixthAxis, ainda que alguns reviews apontem stuttering e falhas de textura. No Brasil, o jogo chegou com interface e legendas em português, mas sem dublagem, por R$ 229,90 (Padrão) ou R$ 279,90 (Deluxe Digital).",
+      "tipo": "lancamento",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PS5", "PC"],
+      "tags": ["lancamento", "rpg", "acao"],
+      "dataFato": "2026-10-29",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Metacritic", "url": "https://www.metacritic.com/game/phantom-blade-zero/", "dominio": "metacritic.com" },
+      "fontesSecundarias": [
+        { "nome": "PlayStation LifeStyle", "url": "https://www.playstationlifestyle.net/2026/10/26/ps5-rpg-phantom-blade-zero-awesome-reviews", "dominio": "playstationlifestyle.net" },
+        { "nome": "NotebookCheck", "url": "https://www.notebookcheck.net/Phantom-Blade-Zero-emerges-as-potential-Game-of-the-Year-contender-despite-technical-shortcomings.1433848.0.html", "dominio": "notebookcheck.net" },
+        { "nome": "GameOverdrive", "url": "https://gameoverdrive.com.br/phantom-blade-zero-data-horario-lancamento-tamanho-pre-load-2/", "dominio": "gameoverdrive.com.br" }
+      ],
+      "nota": 8.3,
+      "justificativa": "Lançamento de grande RPG de ação com boa recepção crítica e disponibilidade em português no mercado brasileiro.",
+      "pesquisador": "radar-lancamentos-internacionais"
+    },
+    {
+      "posicao": 4,
+      "slug": "furia-vence-betboom-quartas-pgl-masters-bucharest",
+      "titulo": "FURIA vence a BetBoom e avança nas quartas da PGL Masters Bucharest 2026",
+      "resumo": "A FURIA, única equipe brasileira a avançar na PGL Masters Bucharest 2026 de CS2, venceu a BetBoom por 2 a 0 nas quartas de final, em partida disputada às 14h de 29 de outubro. Foi o quarto confronto entre as equipes em outubro, com a FURIA vencedora em todos os encontros do mês.",
+      "tipo": "esports",
+      "escopo": "nacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC"],
+      "tags": ["cs2", "furia", "pgl", "esports"],
+      "dataFato": "2026-10-29",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Draft5", "url": "https://draft5.gg/noticia/furia-enfrenta-a-betboom-nas-quartas-de-final-da-pgl-masters-bucharest-veja-os-confrontos", "dominio": "draft5.gg" },
+      "fontesSecundarias": [
+        { "nome": "Pichau Arena", "url": "https://www.pichauarena.com.br/csgo/cs2/playoffs-pgl-bucharest-2026/", "dominio": "pichauarena.com.br" }
+      ],
+      "nota": 8.0,
+      "justificativa": "Avanço de equipe brasileira de CS2 em torneio internacional de peso tem forte apelo para o público gamer nacional; cota Brasil.",
+      "pesquisador": "radar-esports"
+    },
+    {
+      "posicao": 5,
+      "slug": "microsoft-receita-xbox-cai-q1-fy2027",
+      "titulo": "Microsoft reporta quinta queda trimestral seguida de receita do Xbox",
+      "resumo": "A Microsoft divulgou em 28 de outubro de 2026 os resultados do primeiro trimestre do ano fiscal 2027: a receita total do Xbox foi de US$ 5,38 bilhões, queda de 2% em relação ao ano anterior, com hardware caindo 14% e conteúdo/serviços caindo 2%. É o quinto trimestre consecutivo de declínio, embora menor que a queda de 10% do trimestre anterior, e a empresa prevê crescimento de receita de conteúdo e serviços no próximo trimestre.",
+      "tipo": "noticia",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["Xbox Series"],
+      "tags": ["xbox", "microsoft", "financeiro"],
+      "dataFato": "2026-10-28",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Tech Times", "url": "https://www.techtimes.com/articles/329697/20261029/xbox-q1-fy2027-earnings-breakdown-what-538-billion-quarter-slowing-hardware-losses-say-about.htm", "dominio": "techtimes.com" },
+      "fontesSecundarias": [
+        { "nome": "Shacknews", "url": "https://www.shacknews.com/article/151182/microsoft-msft-xbox-hardware-revenue-q1-fy27", "dominio": "shacknews.com" },
+        { "nome": "Simulation Daily", "url": "https://simulationdaily.com/news/microsoft-financial-results-q1-fy2027-xbox/", "dominio": "simulationdaily.com" }
+      ],
+      "nota": 7.8,
+      "justificativa": "Resultado financeiro relevante sobre a trajetória do Xbox no mercado de consoles, com dados objetivos e fonte confiável.",
+      "pesquisador": "radar-empresas-internacionais"
+    },
+    {
+      "posicao": 6,
+      "slug": "governo-tarcisio-desclassifica-jogos-indie-proac",
+      "titulo": "Governo Tarcísio desclassifica dois jogos indie do edital ProAC após denúncia",
+      "resumo": "A Secretaria de Cultura e Economia Criativa do governo de São Paulo desclassificou os projetos 'Entre as Estrelas' e 'Espadachim de Carvão, o Jogo', da Split Studio e Split Service, do edital ProAC de jogos indie, após reportagem do Drops de Jogos apontar que as empresas selecionadas compartilhavam endereços próximos no bairro de Perdizes (SP). O documento de desclassificação, de 13 páginas, foi assinado pela diretora de fomento cultural Liana Crocco e envolve recursos de R$ 6 milhões do edital.",
+      "tipo": "noticia",
+      "escopo": "nacional",
+      "confiabilidade": "confirmado",
+      "plataformas": [],
+      "tags": ["proac", "indie", "fomento", "brasil"],
+      "dataFato": "2026-10-28",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Drops de Jogos", "url": "https://dropsdejogos.uai.com.br/noticias/indie/exclusivo-governo-tarcisio-desclassifica-dois-jogos-indie-do-proac-apos-denuncia-do-drops-de-jogos/", "dominio": "dropsdejogos.uai.com.br" },
+      "fontesSecundarias": [
+        { "nome": "Drops de Jogos", "url": "https://dropsdejogos.uai.com.br/noticias/indie/exclusivo-tres-desenvolvedoras-indie-brasileiras-classificadas-no-proac-estao-em-enderecos-proximos/", "dominio": "dropsdejogos.uai.com.br" },
+        { "nome": "Drops de Jogos", "url": "https://dropsdejogos.uai.com.br/noticias/indie/split-studio-responde-a-reportagem-do-drops-de-jogos-sobre-proac-do-governo-tarcisio/", "dominio": "dropsdejogos.uai.com.br" }
+      ],
+      "nota": 7.5,
+      "justificativa": "Caso de fomento público a jogos indie com repercussão de irregularidade, relevante para o ecossistema de desenvolvimento brasileiro; furo do próprio veículo que trouxe a denúncia.",
+      "pesquisador": "radar-empresas-nacionais"
+    },
+    {
+      "posicao": 7,
+      "slug": "worlds-2026-top-esports-karmine-corp-avancam-fase-suica",
+      "titulo": "Top Esports e Karmine Corp vencem no Dia 6 da Fase Suíça do Worlds 2026",
+      "resumo": "No Dia 6 da Fase Suíça do Worlds 2026 de League of Legends, a Top Esports (LPL) venceu a Bilibili Gaming por 2 a 1 após estar atrás no confronto, tornando-se a quinta equipe classificada para as quartas de final. No mesmo dia, a Karmine Corp (LEC) venceu a CTBC Flying Oyster por 2 a 0, mantendo viva sua chance de classificação, enquanto a BLG ficou com uma última chance na chave 2-2.",
+      "tipo": "esports",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC"],
+      "tags": ["lol", "worlds", "esports"],
+      "dataFato": "2026-10-29",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Dot Esports", "url": "https://dotesports.com/league-of-legends/news/worlds-2026-swiss-day-6-results", "dominio": "dotesports.com" },
+      "fontesSecundarias": [
+        { "nome": "OP.GG Esports", "url": "https://esports.op.gg/matches/32736/tes-vs-blg-2026-10-29", "dominio": "esports.op.gg" },
+        { "nome": "Liquipedia", "url": "https://liquipedia.net/leagueoflegends/World_Championship/2026/Swiss_Stage", "dominio": "liquipedia.net" }
+      ],
+      "nota": 7.3,
+      "justificativa": "Resultados decisivos do Worlds, o maior torneio de League of Legends, com definição de vagas nas quartas de final.",
+      "pesquisador": "radar-esports"
+    },
+    {
+      "posicao": 8,
+      "slug": "xbox-ceo-demanda-consoles-supera-oferta",
+      "titulo": "CEO da Xbox afirma que demanda por consoles supera oferta, apesar de queda nas vendas",
+      "resumo": "Asha Sharma, CEO da Xbox, declarou em chamada de resultados em 29 de outubro de 2026 que a demanda por consoles Xbox Series X|S supera a oferta disponível, mesmo com a receita de hardware caindo 14% ano a ano. A afirmação gerou ceticismo entre analistas e checagens de mercado que não indicam escassez relevante nas lojas; a Microsoft citou expansão de programa de recondicionamento de consoles como resposta.",
+      "tipo": "noticia",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["Xbox Series"],
+      "tags": ["xbox", "microsoft", "hardware"],
+      "dataFato": "2026-10-29",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Game Developer", "url": "https://www.gamedeveloper.com/console/xbox-ceo-says-console-demand-is-outstripping-supply-as-sales-continue-to-drop", "dominio": "gamedeveloper.com" },
+      "fontesSecundarias": [
+        { "nome": "Insider Gaming", "url": "https://insider-gaming.com/xbox-ceo-asha-sharma-says-xbox-demand-outpaces-supply/", "dominio": "insider-gaming.com" },
+        { "nome": "TweakTown", "url": "https://www.tweaktown.com/news/114377/xbox-ceo-claims-theres-more-demand-than-consoles-available-despite-14-percent-hardware-sales-drop/index.html", "dominio": "tweaktown.com" }
+      ],
+      "nota": 6.8,
+      "justificativa": "Complementa o resultado financeiro do Xbox com uma declaração controversa do CEO, gerando debate no mercado, mas de menor peso factual isolado.",
+      "pesquisador": "radar-empresas-internacionais"
+    },
+    {
+      "posicao": 9,
+      "slug": "epic-games-gift-cards-fortnite-brasil",
+      "titulo": "Epic Games lança gift cards de Fortnite no Brasil",
+      "resumo": "A Epic Games anunciou em 28 de outubro de 2026 o lançamento de cartões-presente de Fortnite no mercado brasileiro, em opções físicas e digitais com valores entre R$ 35 e R$ 500. Os cartões funcionam como crédito de conta Epic, permitindo compra de V-Bucks, itens do Fortnite Club e jogos/DLCs na Epic Games Store, resgatáveis via QR code ou pelo site epicgames.com/redeem.",
+      "tipo": "noticia",
+      "escopo": "nacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC"],
+      "tags": ["fortnite", "epic-games", "brasil"],
+      "dataFato": "2026-10-28",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Arkade", "url": "https://arkade.com.br/fortnite-lanca-novos-gift-cards-de-fortnite-no-brasil-em-opcoes-fisicas-e-digitais-a-partir-de-r-35/", "dominio": "arkade.com.br" },
+      "fontesSecundarias": [
+        { "nome": "República DG", "url": "https://republicadg.com.br/fortnite-lanca-gift-cards-no-brasil-e-amplia-as-opcoes-para-compra-de-v-bucks/", "dominio": "republicadg.com.br" },
+        { "nome": "Gamers Games", "url": "https://www.gamersegames.com.br/2026/10/28/fortnite-lanca-novos-gift-cards-no-brasil-em-versoes-fisicas-e-digitais/", "dominio": "gamersegames.com.br" }
+      ],
+      "nota": 6.0,
+      "justificativa": "Ação comercial específica para o mercado brasileiro, de interesse prático para jogadores de Fortnite no país, mas de impacto limitado.",
+      "pesquisador": "radar-empresas-nacionais"
+    },
+    {
+      "posicao": 10,
+      "slug": "ps-plus-novembro-2026-dead-island-2-tomb-raider",
+      "titulo": "PlayStation Plus anuncia jogos mensais de novembro de 2026",
+      "resumo": "A Sony anunciou em 28 de outubro de 2026 os jogos mensais do PS Plus Essential para novembro: Dead Island 2, Tomb Raider IV-VI Remastered e Monster Train 2 (exclusivo PS5). Os títulos ficam disponíveis para resgate entre 3 e 30 de novembro de 2026 para assinantes de todas as categorias do serviço, incluindo no Brasil.",
+      "tipo": "noticia",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PS5", "PS4"],
+      "tags": ["ps-plus", "playstation", "assinatura"],
+      "dataFato": "2026-10-28",
+      "janelaEstendida": false,
+      "fonte": { "nome": "PlayStation Blog", "url": "https://blog.playstation.com/2026/10/28/playstation-plus-monthly-games-for-november-dead-island-2-tomb-raider-iv-vi-remastered-monster-train-2/", "dominio": "blog.playstation.com" },
+      "fontesSecundarias": [
+        { "nome": "GameSpot", "url": "https://www.gamespot.com/articles/playstation-plus-essential-free-games-for-november-2026/", "dominio": "gamespot.com" },
+        { "nome": "GG.deals", "url": "https://gg.deals/subscription-news/ps-plus-essential-november-2026-lineup", "dominio": "gg.deals" },
+        { "nome": "PlayStation Blog Brasil", "url": "https://blog.br.playstation.com/2026/10/28/jogos-mensais-playstation-plus-para-novembro-dead-island-2-tomb-raider-iv-vi-remastered-monster-train-2/", "dominio": "blog.br.playstation.com" }
+      ],
+      "nota": 6.5,
+      "justificativa": "Anúncio recorrente de catálogo de assinatura, relevante para o público mas sem fator de ineditismo ou impacto excepcional.",
+      "pesquisador": "radar-lancamentos-internacionais"
+    }
+  ],
+  "tambemNoRadar": [
+    {
+      "slug": "ff7-remake-intergrade-xbox-game-pass",
+      "titulo": "Final Fantasy VII Remake Intergrade chega ao Xbox Game Pass",
+      "resumo": "Em 29 de outubro de 2026, quatro títulos foram adicionados ao Xbox Game Pass: Final Fantasy VII Remake Intergrade, Mouthwashing, Plants vs. Zombies: Replanted e Terrible Lizards, disponíveis em console, PC e Cloud, incluindo para assinantes brasileiros.",
+      "tipo": "lancamento",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["Xbox Series", "PC", "Cloud"],
+      "tags": ["xbox-game-pass", "final-fantasy"],
+      "dataFato": "2026-10-29",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Pure Xbox", "url": "https://www.purexbox.com/news/2026/10/20plus-xbox-games-are-available-today-and-its-also-a-big-day-for-game-pass-october-29", "dominio": "purexbox.com" },
+      "fontesSecundarias": [
+        { "nome": "Xbox Wire Brasil", "url": "https://news.xbox.com/pt-br/2026/10/20/xbox-game-pass-outubro-2026-wave-2/", "dominio": "news.xbox.com" }
+      ],
+      "nota": 6.2,
+      "justificativa": "Boa adição ao catálogo do Game Pass, mas é notícia recorrente de serviço de assinatura sem fator de exclusividade.",
+      "pesquisador": "radar-lancamentos-internacionais"
+    },
+    {
+      "slug": "sword-of-the-sea-switch-2-xbox-series",
+      "titulo": "Sword of the Sea chega ao Nintendo Switch 2 e Xbox Series",
+      "resumo": "Sword of the Sea, jogo de surf com espada da Giant Squid (criadores de Abzu e Journey), foi lançado em 29 de outubro de 2026 para Nintendo Switch 2 e Xbox Series X|S, após lançamento original em PS5 e PC em agosto de 2025.",
+      "tipo": "lancamento",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["Switch 2", "Xbox Series"],
+      "tags": ["lancamento", "indie"],
+      "dataFato": "2026-10-29",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Gematsu", "url": "https://www.gematsu.com/2026/10/sword-of-the-sea-coming-to-xbox-series-switch-2-on-october-29", "dominio": "gematsu.com" },
+      "fontesSecundarias": [
+        { "nome": "GamingBolt", "url": "https://gamingbolt.com/sword-of-the-sea-launches-on-october-29th-for-nintendo-switch-2", "dominio": "gamingbolt.com" }
+      ],
+      "nota": 5.8,
+      "justificativa": "Chegada de jogo bem avaliado a novas plataformas, mas sem ineditismo (já havia lançado em 2025 em outras plataformas).",
+      "pesquisador": "radar-lancamentos-internacionais"
+    },
+    {
+      "slug": "xsolla-adquire-gamepix",
+      "titulo": "Xsolla adquire GamePix para unir distribuição de jogos web e pagamentos globais",
+      "resumo": "A Xsolla anunciou publicamente em 29 de outubro de 2026 a aquisição da GamePix, plataforma de distribuição de jogos de navegador com catálogo de mais de 10 mil títulos e comunidade de 4 mil desenvolvedores (a transação havia sido concluída em agosto de 2026). O objetivo é combinar a infraestrutura de pagamentos da Xsolla com a distribuição web da GamePix, incluindo suporte a jogos criados com IA.",
+      "tipo": "noticia",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC"],
+      "tags": ["aquisicao", "publisher", "pagamentos"],
+      "dataFato": "2026-10-29",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Xsolla", "url": "https://xsolla.prezly.com/xsolla-acquires-gamepix-to-build-a-complete-platform-for-web-and-ai-created-video-games", "dominio": "xsolla.prezly.com" },
+      "fontesSecundarias": [
+        { "nome": "GamesBeat", "url": "https://gamesbeat.com/xsolla-acquires-gamepix-to-build-platform-for-web-and-ai-created-games/", "dominio": "gamesbeat.com" },
+        { "nome": "citybiz", "url": "https://www.citybiz.co/article/926452/xsolla-acquires-gamepix-to-expand-global-web-gaming-and-ai-powered-distribution/", "dominio": "citybiz.co" }
+      ],
+      "nota": 5.5,
+      "justificativa": "Movimento de consolidação de mercado relevante para o setor, mas de interesse mais corporativo do que para o público gamer final.",
+      "pesquisador": "radar-empresas-internacionais"
+    },
+    {
+      "slug": "nintendo-indie-world-showcase-outubro-2026",
+      "titulo": "Nintendo Indie World Showcase de outubro traz Witchbrook, Spirit Crossing e mais",
+      "resumo": "A Nintendo exibiu em 28 de outubro de 2026 um Indie World Showcase com anúncios de data para Witchbrook (28 de janeiro de 2027) e Spirit Crossing (16 de novembro de 2026), além de novidades sobre Slime Rancher 2 e Tenjutsu, entre outros títulos indie para Switch e Switch 2.",
+      "tipo": "noticia",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["Switch", "Switch 2"],
+      "tags": ["nintendo", "indie", "showcase"],
+      "dataFato": "2026-10-28",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Game Informer", "url": "https://gameinformer.com/recap/2026/10/28/everything-shown-at-the-october-2026-nintendo-indie-world-showcase", "dominio": "gameinformer.com" },
+      "fontesSecundarias": [],
+      "nota": 5.7,
+      "justificativa": "Showcase de jogos indie com anúncios relevantes para o público, mas de apelo mais nichado que os destaques do TOP 10.",
+      "pesquisador": "radar-lancamentos-internacionais"
+    },
+    {
+      "slug": "sony-playstation-partner-awards-2026-japan-asia",
+      "titulo": "Sony anuncia PlayStation Partner Awards 2026 Japan Asia para 3 de dezembro",
+      "resumo": "A Sony anunciou em 29 de outubro de 2026 que a 32ª edição do PlayStation Partner Awards (Japão/Ásia) ocorrerá em 3 de dezembro de 2026, com transmissão ao vivo e abertura de votação popular em algumas categorias.",
+      "tipo": "noticia",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PS5"],
+      "tags": ["playstation", "premiacao"],
+      "dataFato": "2026-10-29",
+      "janelaEstendida": false,
+      "fonte": { "nome": "PlayStation Blog Japão", "url": "https://blog.ja.playstation.com/2026/10/29/20261029-pspawards-event-announcement-s/", "dominio": "blog.ja.playstation.com" },
+      "fontesSecundarias": [
+        { "nome": "VGChartz", "url": "https://www.vgchartz.com/article/469522/playstation-partner-awards-2026-japan-asia-set-for-december-3/", "dominio": "vgchartz.com" }
+      ],
+      "nota": 4.2,
+      "justificativa": "Anúncio de agenda de evento regional (Japão/Ásia), de baixo impacto imediato para o público gamer geral.",
+      "pesquisador": "radar-empresas-internacionais"
+    },
+    {
+      "slug": "mandatory-forma-roster-valorant",
+      "titulo": "Mandatory forma roster completo de Valorant com Veqaj, Kicks e runneR",
+      "resumo": "A organização Mandatory anunciou a formação de seu elenco de Valorant em 29 de outubro de 2026, reunindo Veqaj (ex-FNATIC), Kicks (ex-Team Liquid), runneR, starxo e MiniBoo, com Larsson como head coach, dentro da janela de transferências pós-temporada 2026.",
+      "tipo": "noticia",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC"],
+      "tags": ["valorant", "transferencias", "esports"],
+      "dataFato": "2026-10-29",
+      "janelaEstendida": false,
+      "fonte": { "nome": "VLR.gg", "url": "https://www.vlr.gg/transfers", "dominio": "vlr.gg" },
+      "fontesSecundarias": [],
+      "nota": 5.0,
+      "justificativa": "Movimento de transferência relevante para o cenário de Valorant, mas de alcance mais restrito ao público competitivo.",
+      "pesquisador": "radar-esports"
+    },
+    {
+      "slug": "aurora-gaming-entra-valorant-derke-trexx",
+      "titulo": "Aurora Gaming entra no Valorant com Derke, trexx, Boo e chiwa",
+      "resumo": "A Aurora Gaming oficializou sua entrada no cenário competitivo de Valorant em 28 de outubro de 2026, anunciando a contratação de Derke, trexx, Boo e chiwa, formando um dos elencos não-parceiros mais fortes do mundo, durante a janela de transferências pós-temporada 2026.",
+      "tipo": "noticia",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC"],
+      "tags": ["valorant", "transferencias", "esports"],
+      "dataFato": "2026-10-28",
+      "janelaEstendida": false,
+      "fonte": { "nome": "VLR.gg", "url": "https://www.vlr.gg/transfers", "dominio": "vlr.gg" },
+      "fontesSecundarias": [],
+      "nota": 5.3,
+      "justificativa": "Formação de elenco de peso com Derke é relevante para a cena de Valorant, mas de alcance restrito ao público competitivo.",
+      "pesquisador": "radar-esports"
+    }
+  ],
+  "descartados": [
+    { "titulo": "EA encerra BioWare e cancela o próximo Mass Effect", "motivo": "fato ocorrido em 21/10/2026, fora da janela de 24-48h mesmo com janela estendida; sem fonte específica comprovando desdobramento novo e substancial em 29/10" },
+    { "titulo": "G2 Esports encerra parceria com valyn", "motivo": "fato de menor impacto editorial frente aos demais candidatos de esports, com fonte única (VLR.gg) sem cobertura jornalística adicional" }
+  ]
+}
