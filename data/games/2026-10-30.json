@@ -1,0 +1,301 @@
+{
+  "categoria": "games",
+  "data": "2026-10-30",
+  "geradoEm": "2026-10-30T21:30:00-03:00",
+  "janela": { "inicio": "2026-10-29T21:00:00-03:00", "fim": "2026-10-30T21:00:00-03:00" },
+  "observacao": null,
+  "itens": [
+    {
+      "posicao": 1,
+      "slug": "krafton-anuncia-serie-live-action-de-pubg-na-netflix-com-donald-glover",
+      "titulo": "Krafton anuncia série live-action de PUBG na Netflix com Donald Glover",
+      "resumo": "A Krafton anunciou em 30/10 que está desenvolvendo uma série live-action baseada em PUBG: Battlegrounds em parceria com a Netflix. Donald Glover (vencedor de Emmy e Globo de Ouro) atuará como roteirista, diretor, protagonista e produtor executivo, com Stephen Glover também na equipe de roteiro e produção executiva. Nenhuma data de lançamento, elenco adicional ou sinopse foi divulgada.",
+      "tipo": "noticia",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": [],
+      "tags": ["pubg", "krafton", "netflix", "adaptacao", "serie"],
+      "dataFato": "2026-10-30",
+      "janelaEstendida": false,
+      "fonte": { "nome": "GamesPress (Krafton)", "url": "https://www.gamespress.com/en-GB/KRAFTON-ANNOUNCES-PUBG-LIVE-ACTION-SERIES-IN-DEVELOPMENT-AT-NETFLIX", "dominio": "gamespress.com" },
+      "fontesSecundarias": [
+        { "nome": "Deadline", "url": "https://deadline.com/2026/10/pubg-donald-glover-live-action-series-game-netflix-1237207739/", "dominio": "deadline.com" },
+        { "nome": "The Week", "url": "https://www.theweek.in/news/entertainment/2026/10/30/pubg-netflix-live-action-series.html", "dominio": "theweek.in" }
+      ],
+      "nota": 8.5,
+      "justificativa": "Comunicado oficial da Krafton com grande repercussão internacional: adaptação de um dos jogos mais jogados do mundo com nome de peso de Hollywood à frente.",
+      "pesquisador": "radar-empresas-internacionais"
+    },
+    {
+      "posicao": 2,
+      "slug": "ffxiv-evercold-adiado-para-fevereiro-de-2027-revela-job-zephyr",
+      "titulo": "FFXIV: Evercold tem data confirmada para fevereiro de 2027 e revela segundo job na Fan Fest de Tóquio",
+      "resumo": "Durante o keynote da Tokyo Fan Festival 2026, em 30 de outubro, a Square Enix anunciou que a expansão Evercold de Final Fantasy XIV foi adiada para 23 de fevereiro de 2027 (acesso antecipado em 19 de fevereiro), cerca de quatro semanas após a janela original de janeiro. Foi revelado também o segundo novo job, Zephyr, um DPS à distância que usa besta e um companheiro aviário, além do tank Bastion com escudos duplos.",
+      "tipo": "noticia",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC", "PS5", "PS4"],
+      "tags": ["final-fantasy-xiv", "square-enix", "expansao", "mmorpg"],
+      "dataFato": "2026-10-30",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Simulation Daily", "url": "https://simulationdaily.com/news/final-fantasy-xiv-evercold-release-date/", "dominio": "simulationdaily.com" },
+      "fontesSecundarias": [
+        { "nome": "Fullcleared", "url": "https://fullcleared.com/news/ffxiv-evercold-gets-a-date-reveals-crossbow-job-zephyr/", "dominio": "fullcleared.com" },
+        { "nome": "MMOHuts", "url": "https://mmohuts.com/news/final-fantasy-xiv-evercold-moves-to-february-2027-zephyr-job-revealed", "dominio": "mmohuts.com" }
+      ],
+      "nota": 8,
+      "justificativa": "Anúncio direto de evento oficial da Square Enix sobre um dos MMOs mais relevantes do mercado, com data confirmada e revelação de conteúdo inédito.",
+      "pesquisador": "radar-lancamentos-internacionais"
+    },
+    {
+      "posicao": 3,
+      "slug": "asleep-ato-1-fica-gratuito-na-steam-para-celebrar-marco-legal-dos-games",
+      "titulo": "Asleep: Ato 1, jogo brasileiro, fica gratuito na Steam para celebrar o Marco Legal dos Games",
+      "resumo": "O estúdio brasileiro Black Hole Games, em parceria com a publisher CriticalLeap, liberou \"Asleep: Ato 1\" de graça na Steam das 14h de 30/10 às 15h de 2/11 (horário de Brasília), celebrando a regulamentação do Marco Legal dos Games (decreto assinado por Lula em 14/10/2026, que regulamenta a Lei nº 14.852/2024 e criou a plataforma Game Brasil). Quem resgatar o jogo de terror psicológico ambientado no Nordeste dos anos 1990 mantém o título permanentemente na biblioteca.",
+      "tipo": "noticia",
+      "escopo": "nacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC", "Steam"],
+      "tags": ["jogo-brasileiro", "marco-legal-dos-games", "steam", "terror"],
+      "dataFato": "2026-10-30",
+      "janelaEstendida": false,
+      "fonte": { "nome": "ConectaGeek", "url": "https://conectageek.com.br/asleep-ato-1-ficara-gratuito-no-steam-para-celebrar-novo-marco-da-industria-brasileira-de-games/", "dominio": "conectageek.com.br" },
+      "fontesSecundarias": [
+        { "nome": "A Cidade On", "url": "https://www.acidadeon.com/tudoep/epgames/noticias/asleep-ato-1-ficara-gratuito-no-steam-por-72-horas/", "dominio": "acidadeon.com" },
+        { "nome": "Gameplay Scassi", "url": "https://gameplayscassi.com.br/noticias/steam-coloca-jogo-brasileiro-de-graca-para-resgate/135158/", "dominio": "gameplayscassi.com.br" },
+        { "nome": "República DG", "url": "https://republicadg.com.br/jogo-de-terror-brasileiro-asleep-ato-1-fica-de-graca-no-steam-por-tempo-limitado/", "dominio": "republicadg.com.br" },
+        { "nome": "GGames", "url": "https://ggames.com.br/noticias/asleep-ato-1-gratuito-steam/", "dominio": "ggames.com.br" },
+        { "nome": "Mixvale", "url": "https://www.mixvale.com.br/2026/10/16/asleep-ato-1-libera-resgate-gratuito-na-steam-ate-2-de-novembro/", "dominio": "mixvale.com.br" }
+      ],
+      "nota": 7.8,
+      "justificativa": "Boa notícia para o público nacional, conectando um estúdio brasileiro a uma política pública relevante para o setor, com ampla cobertura de veículos locais.",
+      "pesquisador": "radar-lancamentos-nacionais"
+    },
+    {
+      "posicao": 4,
+      "slug": "nemiga-e-furia-decidem-final-da-pgl-masters-bucharest-2026",
+      "titulo": "FURIA e Nemiga decidem final da PGL Masters Bucharest após eliminarem MOUZ e Vitality",
+      "resumo": "A FURIA derrotou a MOUZ por 2-1 (Dust2 13-6, Mirage 9-13, Cache 13-9) e a Nemiga superou a Vitality por 2-0 (Cache 13-8, Dust2 13-11) — esta última sem o capitão Dan \"apEX\" Madesclaire, em licença-paternidade — nas semifinais da PGL Masters Bucharest 2026, disputadas em 30/10. As duas equipes se enfrentam na grande final, marcada para sábado, 31 de outubro, às 8h (horário de Brasília), em formato MD5.",
+      "tipo": "esports",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC"],
+      "tags": ["cs2", "furia", "pgl-masters-bucharest", "nemiga", "vitality"],
+      "dataFato": "2026-10-30",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Dust2", "url": "https://www.dust2.com.br/noticias/79458/furia-elimina-mouz-e-classifica-para-final-da-pgl-masters-bucharest", "dominio": "dust2.com.br" },
+      "fontesSecundarias": [
+        { "nome": "HLTV", "url": "https://www.hltv.org/news/45859/pgl-masters-bucharest-semi-finals-as-they-happened", "dominio": "hltv.org" },
+        { "nome": "Hotspawn", "url": "https://www.hotspawn.com/counter-strike/news/furia-outlast-mouz-to-reach-back-to-back-finals-at-pgl-masters-bucharest-2026", "dominio": "hotspawn.com" },
+        { "nome": "Dust2 (Vitality eliminada)", "url": "https://www.dust2.com.br/noticias/79450/sem-apex-vitality-e-eliminada-da-pgl-masters-bucharest", "dominio": "dust2.com.br" }
+      ],
+      "nota": 7.9,
+      "justificativa": "Avanço da FURIA à final de um Masters de CS2 é de alto interesse para o público brasileiro de esports, e o resultado completa o quadro da decisão do torneio.",
+      "pesquisador": "radar-esports"
+    },
+    {
+      "posicao": 5,
+      "slug": "xbox-ceo-admite-escassez-de-consoles-apos-resultados-trimestrais",
+      "titulo": "Xbox CEO admite escassez de consoles após resultados do 1º trimestre fiscal",
+      "resumo": "Após divulgação dos resultados trimestrais da Microsoft, a CEO da Xbox, Asha Sharma, declarou em 29/10 que as vendas de consoles \"permanecem limitadas pela oferta\", com demanda superior à disponibilidade. A receita de hardware Xbox caiu 2% ano a ano no trimestre (melhora frente à queda de 10% do trimestre anterior), enquanto a receita de PC cresceu em dois dígitos e Minecraft e World of Warcraft bateram recordes.",
+      "tipo": "noticia",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["Xbox Series", "PC"],
+      "tags": ["xbox", "microsoft", "hardware", "resultados-financeiros"],
+      "dataFato": "2026-10-29",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Insider Gaming", "url": "https://insider-gaming.com/xbox-ceo-asha-sharma-says-xbox-demand-outpaces-supply/", "dominio": "insider-gaming.com" },
+      "fontesSecundarias": [
+        { "nome": "Xbox Achievements", "url": "https://www.xboxachievements.com/news/xbox-ceo-declining-console-sales-due-to-supply-issues/", "dominio": "xboxachievements.com" },
+        { "nome": "FandomWire", "url": "https://fandomwire.com/xbox-boss-sharma-addresses-decline-in-console-sales/", "dominio": "fandomwire.com" }
+      ],
+      "nota": 7.3,
+      "justificativa": "Declaração direta da CEO da Xbox sobre resultados financeiros e situação de oferta de hardware, com impacto relevante para consumidores que buscam o console.",
+      "pesquisador": "radar-empresas-internacionais"
+    },
+    {
+      "posicao": 6,
+      "slug": "celeste-e-towerfall-retirados-da-xbox-store-em-boicote-bds-a-microsoft",
+      "titulo": "Celeste e TowerFall são retirados da Xbox Store em boicote BDS contra a Microsoft",
+      "resumo": "Maddy Thorson, fundadora da Maddy Makes Games, confirmou em 29/10 que os jogos Celeste e TowerFall foram retirados deliberadamente da Xbox Store em apoio ao boicote BDS contra a Microsoft, motivado por críticas aos serviços de nuvem e IA da empresa fornecidos a forças militares israelenses. Os jogos continuam disponíveis em PlayStation, Nintendo Switch e lojas de PC não controladas pela Microsoft.",
+      "tipo": "noticia",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["Xbox Series", "PC", "PS5", "Switch"],
+      "tags": ["microsoft", "xbox", "boicote", "bds", "celeste"],
+      "dataFato": "2026-10-29",
+      "janelaEstendida": false,
+      "fonte": { "nome": "VGTimes", "url": "https://vgtimes.com/gaming-news/172888-celeste-and-towerfall-pulled-from-xbox-store-in-bds-boycott-of-microsoft.html", "dominio": "vgtimes.com" },
+      "fontesSecundarias": [
+        { "nome": "This Week in Video Games", "url": "https://thisweekinvideogames.com/news/celeste-and-towerfall-pulled-from-xbox/", "dominio": "thisweekinvideogames.com" },
+        { "nome": "iXBT Games", "url": "https://ixbt.games/en/news/2026/10/29/celeste-i-towerfall-udalili-iz-xbox-v-znak-podderzki-boikota-microsoft-iz-za-sviazei-s-izrailem.html", "dominio": "ixbt.games" }
+      ],
+      "nota": 7.2,
+      "justificativa": "Decisão de peso simbólico e político de uma desenvolvedora respeitada, com repercussão em veículos internacionais e precedente para outros estúdios indie.",
+      "pesquisador": "radar-empresas-internacionais"
+    },
+    {
+      "posicao": 7,
+      "slug": "lyara-jogo-brasileiro-da-bolha-game-studio-estreia-na-steam",
+      "titulo": "Lyara, jogo da Bolha Game Studio, estreia na Steam",
+      "resumo": "O estúdio brasileiro Bolha Game Studio (Indaiatuba, SP) lançou Lyara na Steam em 30 de outubro de 2026, um platformer 2D de precisão com puzzles e narrativa sobre autodescoberta, com dublagem, interface e legendas 100% em português do Brasil. O jogo teve apoio do programa ProAC do governo de São Paulo, foi exibido antes na gamescom latam 2026 e chega ao preço promocional de R$ 33,29 (10% off), com demo gratuita e suporte a controle.",
+      "tipo": "lancamento",
+      "escopo": "nacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC", "Steam"],
+      "tags": ["jogo-brasileiro", "indie", "platformer", "lancamento"],
+      "dataFato": "2026-10-30",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Folha do Leste", "url": "https://folhadoleste.com.br/lyara-jogo-brasileiro-bolha-game-studio-steam/", "dominio": "folhadoleste.com.br" },
+      "fontesSecundarias": [],
+      "nota": 6.8,
+      "justificativa": "Lançamento de estúdio indie brasileiro com apoio de programa estadual de incentivo, relevante para a cota nacional, embora de alcance limitado.",
+      "pesquisador": "radar-lancamentos-nacionais"
+    },
+    {
+      "posicao": 8,
+      "slug": "warhorse-studios-confirma-ciberataque",
+      "titulo": "Warhorse Studios (Embracer/Fellowship) confirma ciberataque",
+      "resumo": "A Warhorse Studios, desenvolvedora de Kingdom Come: Deliverance 2 e subsidiária da Fellowship Entertainment (spin-off da Embracer), confirmou ter sofrido um \"ataque sério\", com acesso não autorizado a sistemas e dados da empresa. O CEO Martin Frývaldský declarou que a prioridade é apurar a extensão da invasão; até 30/10 não houve atualização pública além do comunicado inicial, e não se sabe se dados de um RPG não anunciado de Lord of the Rings foram comprometidos.",
+      "tipo": "noticia",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC", "PS5", "Xbox Series"],
+      "tags": ["warhorse-studios", "ciberataque", "embracer", "kingdom-come-deliverance"],
+      "dataFato": "2026-10-27",
+      "janelaEstendida": true,
+      "fonte": { "nome": "Game Developer", "url": "https://www.gamedeveloper.com/programming/warhorse-studios-hit-by-an-undetailed-cybersecurity-incident", "dominio": "gamedeveloper.com" },
+      "fontesSecundarias": [
+        { "nome": "PC Gamer", "url": "https://www.pcgamer.com/gaming-industry/kingdom-come-lord-of-the-rings-studio-warhorse-hit-by-a-cyberattack/", "dominio": "pcgamer.com" },
+        { "nome": "Shacknews", "url": "https://www.shacknews.com/article/151157/warhorse-studios-cyberattack", "dominio": "shacknews.com" }
+      ],
+      "nota": 6.7,
+      "justificativa": "Ciberataque a estúdio de peso (Kingdom Come: Deliverance 2) ainda sem atualização pública na janela, o que limita o ineditismo do fato dentro do dia.",
+      "pesquisador": "radar-empresas-internacionais"
+    },
+    {
+      "posicao": 9,
+      "slug": "gamers-club-masters-vii-comeca-em-sorocaba-diretor-fala-sobre-aposentadoria-de-fallen",
+      "titulo": "Gamers Club Masters VII começa em Sorocaba e diretor de esports comenta aposentadoria de FalleN",
+      "resumo": "A Gamers Club deu início em 29/10/2026 à Gamers Club Masters VII em Sorocaba (SP), com oito equipes disputando R$ 150 mil em premiação e pontos para o Major de Singapura; no primeiro dia, Imperial, paiN, DENDELE e Turma do Pagode venceram suas partidas de grupo. No evento, o diretor nacional de esports Cadu Albuquerque declarou que \"precisamos criar novos ídolos\" ao comentar a aposentadoria de Gabriel \"FalleN\" Toledo, prevista para o final de 2026.",
+      "tipo": "esports",
+      "escopo": "nacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC"],
+      "tags": ["cs2", "gamers-club", "fallen", "esports-nacional"],
+      "dataFato": "2026-10-29",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Dust2", "url": "https://www.dust2.com.br/noticias/79440/veja-como-terminou-o-primeiro-dia-de-gc-masters-vii", "dominio": "dust2.com.br" },
+      "fontesSecundarias": [
+        { "nome": "Mais Esports", "url": "https://maisesports.com.br/campeonatos/cs-go-gamers-club-masters-vii-2026", "dominio": "maisesports.com.br" },
+        { "nome": "Draft5", "url": "https://draft5.gg/noticia/precisamos-criar-novos-idolos-afirma-diretor-nacional-dos-esports-ao-citar-aposentadoria-de-fallen", "dominio": "draft5.gg" }
+      ],
+      "nota": 6.5,
+      "justificativa": "Evento de CS2 relevante para a cena brasileira, reforçado por declaração institucional sobre o futuro do esporte após a saída de um dos maiores nomes do país.",
+      "pesquisador": "radar-empresas-nacionais"
+    },
+    {
+      "posicao": 10,
+      "slug": "raw-power-games-perde-financiamento-e-corre-risco-de-fechar",
+      "titulo": "Raw Power Games (Chronicles: Medieval) perde financiamento e corre risco de fechar",
+      "resumo": "O estúdio indie Raw Power Games anunciou em 30/10, via X, que perdeu o financiamento necessário para continuar operando, colocando em risco a conclusão de Chronicles: Medieval, RPG medieval de mundo aberto cujo Early Access estava \"dentro do alcance\". O estúdio não revelou a origem do financiamento retirado, mas afirmou estar em conversas para encontrar uma saída.",
+      "tipo": "noticia",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC"],
+      "tags": ["raw-power-games", "chronicles-medieval", "financiamento", "estudio-indie"],
+      "dataFato": "2026-10-30",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Inven Global", "url": "https://www.invenglobal.com/articles/27961/chronicles-medieval-studio-raw-power-games-loses-funding-warns-it-may-close-before-early-access", "dominio": "invenglobal.com" },
+      "fontesSecundarias": [
+        { "nome": "Insider Gaming", "url": "https://insider-gaming.com/chronicles-medieval-developer-at-risk-of-closure-before-release/", "dominio": "insider-gaming.com" },
+        { "nome": "Multiplayer.it", "url": "https://multiplayer.it/notizie/chronicles-medieval-rischia-la-chiusura-raw-power-games-ha-finito-i-soldi.html", "dominio": "multiplayer.it" }
+      ],
+      "nota": 6.2,
+      "justificativa": "História relevante para o cenário indie, mostrando dificuldades financeiras recorrentes no setor, ainda que de menor alcance que os demais destaques do dia.",
+      "pesquisador": "radar-empresas-internacionais"
+    }
+  ],
+  "tambemNoRadar": [
+    {
+      "slug": "queens-domain-chega-a-ps5-xbox-series-switch-2-e-pc",
+      "titulo": "Queen's Domain chega a PS5, Xbox Series, Switch 2 e PC",
+      "resumo": "O RPG de ação em primeira pessoa inspirado em King's Field, desenvolvido pela Freshly Baked Games e publicado pela Future Friends Games, foi lançado em 30 de outubro de 2026 para PS5, Xbox Series, Nintendo Switch 2 e PC (Steam). O jogo propõe exploração de mundo interconectado com mais de 50 armas corpo-a-corpo e mais de 100 inimigos e chefes.",
+      "tipo": "lancamento",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PS5", "Xbox Series", "Switch 2", "PC"],
+      "tags": ["lancamento", "rpg", "indie"],
+      "dataFato": "2026-10-30",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Gematsu", "url": "https://www.gematsu.com/2026/09/queens-domain-launches-october-30-for-ps5-xbox-series-switch-2-and-pc", "dominio": "gematsu.com" },
+      "fontesSecundarias": [],
+      "nota": 6.0,
+      "justificativa": "Lançamento multiplataforma relevante para fãs de RPG de nicho, mas de alcance limitado frente aos destaques do dia.",
+      "pesquisador": "radar-lancamentos-internacionais"
+    },
+    {
+      "slug": "phantom-blade-zero-e-lancado-para-ps5-e-pc",
+      "titulo": "Phantom Blade Zero é lançado para PS5 e PC",
+      "resumo": "O action RPG de Wuxia Phantom Blade Zero, desenvolvido pelo estúdio chinês S-Game, foi lançado em 29 de outubro de 2026 para PlayStation 5 e PC, trazendo cerca de 40 horas de conteúdo e sistema de combate baseado em artes marciais chinesas.",
+      "tipo": "lancamento",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PS5", "PC"],
+      "tags": ["lancamento", "action-rpg", "wuxia"],
+      "dataFato": "2026-10-29",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Game Informer", "url": "https://gameinformer.com/opinion/2026/10/30/the-video-games-and-more-you-should-play-this-weekend-october-30-2026", "dominio": "gameinformer.com" },
+      "fontesSecundarias": [],
+      "nota": 6.5,
+      "justificativa": "Lançamento aguardado de action RPG com boa expectativa de crítica, mas fonte principal é uma lista de recomendações, não cobertura dedicada.",
+      "pesquisador": "radar-lancamentos-internacionais"
+    },
+    {
+      "slug": "asylum-chega-aos-consoles",
+      "titulo": "ASYLUM chega aos consoles (PS5, PS4, Xbox Series, Switch)",
+      "resumo": "O jogo de aventura e horror sobrenatural ASYLUM, desenvolvido pela Senscape e publicado pela SOEDESCO, chegou aos consoles em 30 de outubro de 2026 (PS5, PS4, Xbox Series e Switch), após estrear em PC em março de 2025. O lançamento coincide com o período de Halloween e oferece cerca de 10 horas de jogo com trilha sonora inspirada em filmes de horror dos anos 80.",
+      "tipo": "lancamento",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PS5", "PS4", "Xbox Series", "Switch"],
+      "tags": ["lancamento", "horror", "halloween"],
+      "dataFato": "2026-10-30",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Gematsu", "url": "https://www.gematsu.com/2026/09/asylum-for-ps5-xbox-series-ps4-and-switch-launches-october-30", "dominio": "gematsu.com" },
+      "fontesSecundarias": [
+        { "nome": "Pure Xbox", "url": "https://purexbox.com/news/2026/10/15-xbox-games-are-out-today-including-a-spooky-platformer-inspired-by-90s-classics-october-30", "dominio": "purexbox.com" }
+      ],
+      "nota": 5.3,
+      "justificativa": "Chegada tardia aos consoles de um jogo já lançado em PC, com apelo sazonal de Halloween, mas sem ineditismo relevante.",
+      "pesquisador": "radar-lancamentos-internacionais"
+    },
+    {
+      "slug": "loud-anuncia-parceria-com-max-titanium",
+      "titulo": "LOUD anuncia parceria com Max Titanium para equipes de e-sports e Kings League",
+      "resumo": "A LOUD fechou parceria com a Max Titanium, marca brasileira de suplementação esportiva, cobrindo todas as equipes competitivas da organização (Free Fire, LoL, Valorant, Rainbow Six, Brawl Stars, Fortnite) e também o LOUD Sports Club na Kings League. O acordo prevê trocas de experiência entre jogadores de e-sports e atletas patrocinados pela marca.",
+      "tipo": "noticia",
+      "escopo": "nacional",
+      "confiabilidade": "confirmado",
+      "plataformas": [],
+      "tags": ["loud", "patrocinio", "esports-nacional"],
+      "dataFato": "2026-10-29",
+      "janelaEstendida": false,
+      "fonte": { "nome": "J. Wave", "url": "https://www.jwave.com.br/2026/10/loud-anuncia-parceria-com-max-titanium-para-equipes-de-e-sports-e-kings-league/", "dominio": "jwave.com.br" },
+      "fontesSecundarias": [
+        { "nome": "GGames", "url": "https://ggames.com.br/esports/loud-parceria-max-titanium-esports-kings-league/", "dominio": "ggames.com.br" },
+        { "nome": "On Pop Life", "url": "https://onpoplife.com.br/max-titanium-fecha-parceria-com-a-loud-e-aproxima-o-universo-dos-games-do-esporte-de-alta-performance/", "dominio": "onpoplife.com.br" }
+      ],
+      "nota": 5.8,
+      "justificativa": "Parceria comercial relevante para o ecossistema de esports nacional, mas de impacto limitado para o público gamer em geral.",
+      "pesquisador": "radar-esports"
+    }
+  ],
+  "descartados": [
+    { "titulo": "Gamescom Asia x Thailand Game Show 2026 abre em Bangkok", "motivo": "Fonte única e genérica (lista de notícias do dia), sem cobertura dedicada ao evento nem fatos concretos além da abertura." },
+    { "titulo": "15 jogos lançados no Xbox em 30 de outubro, com destaque para Bobo and the Chest of Nightmares", "motivo": "Lista genérica de lançamentos sem fato jornalístico específico de maior relevância; os lançamentos individuais mais notáveis (Queen's Domain, ASYLUM) já foram cobertos separadamente." },
+    { "titulo": "Novo trailer de história de The Wolf Among Us Remastered mostra redesenho de Bigby", "motivo": "Fonte principal é uma retrospectiva semanal de trailers (sem data específica clara para o fato em si) e não há fontes secundárias dedicadas ao trailer." },
+    { "titulo": "PT Sports usa Dawn Bulls como roster reserva de Dota 2 para torneios de novembro", "motivo": "Fonte única, de veículo de baixa relevância editorial, e fato de impacto limitado para o público geral." }
+  ]
+}
