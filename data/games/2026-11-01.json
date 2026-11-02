@@ -1,0 +1,342 @@
+{
+  "categoria": "games",
+  "data": "2026-11-01",
+  "geradoEm": "2026-11-02T09:00:00-03:00",
+  "janela": { "inicio": "2026-10-31T21:00:00-03:00", "fim": "2026-11-01T21:00:00-03:00" },
+  "observacao": null,
+  "itens": [
+    {
+      "posicao": 1,
+      "slug": "furia-campea-pgl-masters-bucharest-2026",
+      "titulo": "FURIA conquista a PGL Masters Bucharest 2026, segundo título seguido",
+      "resumo": "A FURIA venceu a Nemiga Gaming por 3-2 na grande final da PGL Masters Bucharest 2026, revertendo a série após perder o primeiro mapa, e faturou US$ 450 mil (R$ 2,4 milhões) em seu segundo título consecutivo na temporada de CS2. Mareks \"YEKINDAR\" Gaļinskis foi eleito MVP do torneio com rating de 1.56, conquistando o primeiro prêmio individual da carreira, enquanto a Nemiga levou US$ 200 mil pelo vice-campeonato.",
+      "tipo": "esports",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC"],
+      "tags": ["cs2", "furia", "esports", "campeonato"],
+      "dataFato": "2026-10-31",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Dust2", "url": "https://www.dust2.com.br/noticias/79496/furia-e-campea-da-pgl-masters-bucharest", "dominio": "dust2.com.br" },
+      "fontesSecundarias": [
+        { "nome": "Dot Esports", "url": "https://dotesports.com/counter-strike/news/fallen-furia-pgl-bucharest-2026-win", "dominio": "dotesports.com" },
+        { "nome": "HLTV", "url": "https://www.hltv.org/news/45870/furia-secure-second-consecutive-trophy-with-pgl-masters-bucharest-victory", "dominio": "hltv.org" },
+        { "nome": "HLTV", "url": "https://www.hltv.org/news/45871/yekindar-wins-career-first-mvp-at-pgl-masters", "dominio": "hltv.org" },
+        { "nome": "KeenGamer", "url": "https://www.keengamer.com/articles/features/reportages/pgl-masters-bucharest-2026-results-furia-win-grand-final/", "dominio": "keengamer.com" }
+      ],
+      "nota": 9.0,
+      "justificativa": "Maior conquista de uma equipe brasileira de esports no dia, com impacto financeiro e simbólico relevante e forte apelo ao público gamer nacional e internacional.",
+      "pesquisador": "radar-esports"
+    },
+    {
+      "posicao": 2,
+      "slug": "dan-greenawalt-se-aposenta-microsoft-fusao-turn-10-playground",
+      "titulo": "Criador da Forza se aposenta da Microsoft após fusão do Turn 10 com Playground Games",
+      "resumo": "Dan Greenawalt, chefe do Turn 10 Studios e cocriador da franquia Forza, anunciou aposentadoria da Microsoft após 27 anos de carreira. O anúncio ocorre logo após o Turn 10 ser incorporado à Playground Games, agora renomeada \"Playground Games Redmond\".",
+      "tipo": "noticia",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": [],
+      "tags": ["microsoft", "forza", "turn-10", "playground-games"],
+      "dataFato": "2026-10-30",
+      "janelaEstendida": true,
+      "fonte": { "nome": "Pure Xbox", "url": "https://www.purexbox.com/news/2026/10/turn-10-director-departs-microsoft-as-forza-studio-merges-with-playground-games", "dominio": "purexbox.com" },
+      "fontesSecundarias": [
+        { "nome": "PC Gamer", "url": "https://www.pcgamer.com/games/racing/forza-co-creator-dan-greenawalt-is-reportedly-leaving-microsoft/", "dominio": "pcgamer.com" },
+        { "nome": "Shacknews", "url": "https://www.shacknews.com/article/151197/turn-10-studios-dan-greenawalt-retires", "dominio": "shacknews.com" }
+      ],
+      "nota": 7.8,
+      "justificativa": "Saída de uma figura histórica da Xbox em meio a uma reestruturação de estúdios, com impacto direto no futuro da franquia Forza.",
+      "pesquisador": "radar-lancamentos-internacionais"
+    },
+    {
+      "posicao": 3,
+      "slug": "kru-blaze-campea-valorant-game-changers-2026-sao-paulo",
+      "titulo": "KRÜ Blaze vence final do VALORANT Game Changers Championship 2026 em São Paulo",
+      "resumo": "A KRÜ Blaze, da Argentina, venceu a Gentle Mates GC por 3-2 na final do VALORANT Game Changers Championship 2026, disputada na Riot Games Arena em São Paulo, tornando-se a primeira campeã latino-americana do torneio. As brasileiras Team Liquid Visa e MIBR GC tiveram as piores colocações da história do campeonato (4º e 5º lugares); a partir de 2027 a decisão passa a ser integrada ao VALORANT Champions, em Austin.",
+      "tipo": "esports",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC"],
+      "tags": ["valorant", "riot-games", "esports", "game-changers"],
+      "dataFato": "2026-11-01",
+      "janelaEstendida": false,
+      "fonte": { "nome": "J-WAVE", "url": "https://www.jwave.com.br/2026/11/valorant-kru-blaze-conquista-titulo-mundial-do-game-changers-2026-em-sao-paulo/", "dominio": "jwave.com.br" },
+      "fontesSecundarias": [
+        { "nome": "Vavel Brasil", "url": "https://vavel.com/br/esports-br/2026/11/02/1277721-kru-blaze-faz-historia-vence-gentle-mates-gc-e-e-a-grande-campea-do-game-changers-championship-2026.html", "dominio": "vavel.com" },
+        { "nome": "Sheep Esports", "url": "https://www.sheepesports.com/en/articles/krue-blaze-crowned-game-changers-championship-2026-champions-after-win-over-gentle-mates-gc/en", "dominio": "sheepesports.com" },
+        { "nome": "VLR.gg", "url": "https://www.vlr.gg/773436/gentle-mates-gc-vs-kr-blaze-game-changers-2026-championship-s-o-paulo-gf", "dominio": "vlr.gg" }
+      ],
+      "nota": 7.5,
+      "justificativa": "Final histórica sediada no Brasil com primeiro título mundial do torneio para a região LATAM, apesar das equipes brasileiras não terem avançado.",
+      "pesquisador": "radar-empresas-nacionais"
+    },
+    {
+      "posicao": 4,
+      "slug": "fechamento-nagoshi-studio-netease-gang-of-dragon",
+      "titulo": "NetEase fecha Nagoshi Studio após corte de verba para Gang of Dragon",
+      "resumo": "O Nagoshi Studio, fundado por Toshihiro Nagoshi (criador de Yakuza) e financiado pela NetEase Games, foi dissolvido por resolução dos acionistas em 31 de outubro de 2026. O fechamento ocorre após a NetEase cortar o financiamento em março de 2026, ao descobrir que \"Gang of Dragon\" exigiria pelo menos US$ 44,4 milhões adicionais para ser concluído; o futuro do jogo, revelado no The Game Awards 2025, permanece incerto.",
+      "tipo": "noticia",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC"],
+      "tags": ["netease", "nagoshi", "estudio", "fechamento"],
+      "dataFato": "2026-10-31",
+      "janelaEstendida": false,
+      "fonte": { "nome": "VGChartz", "url": "https://www.vgchartz.com/article/469546/netease-games-shuts-down-nagoshi-studio/", "dominio": "vgchartz.com" },
+      "fontesSecundarias": [
+        { "nome": "Beebom", "url": "https://beebom.com/nagoshi-studio-shuts-down-gang-of-dragon-future-uncertain/", "dominio": "beebom.com" },
+        { "nome": "Inven Global", "url": "https://www.invenglobal.com/articles/28014/nagoshi-studio-dissolves-future-of-ma-dong-seok-starrer-gang-of-dragon-uncertain", "dominio": "invenglobal.com" }
+      ],
+      "nota": 7.2,
+      "justificativa": "Fechamento de estúdio ligado a um nome histórico da indústria japonesa, com impacto direto sobre o futuro de um jogo já anunciado publicamente.",
+      "pesquisador": "radar-empresas-internacionais"
+    },
+    {
+      "posicao": 5,
+      "slug": "gc-masters-vii-dendele-campea-sorocaba",
+      "titulo": "GC Masters VII: Gamers Club celebra 10 anos com final em Sorocaba e vitória da DENDELE",
+      "resumo": "A Gamers Club, empresa brasileira de CS2 que completa 10 anos em 2026, realizou a final presencial da Gamers Club Masters VII em seu estúdio em Sorocaba (SP). A equipe DENDELE venceu a Imperial por 3-0, levando o prêmio de R$ 90 mil; João \"koala\" Pfeffer foi eleito MVP do torneio.",
+      "tipo": "esports",
+      "escopo": "nacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC"],
+      "tags": ["cs2", "gamers-club", "esports", "brasil"],
+      "dataFato": "2026-11-01",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Dust2", "url": "https://www.dust2.com.br/noticias/79551/koala-e-mvp-da-gc-masters-vii", "dominio": "dust2.com.br" },
+      "fontesSecundarias": [
+        { "nome": "Dust2", "url": "https://www.dust2.com.br/noticias/75061/gc-masters-retorna-com-edicao-presencial-e-r-150-mil-em-premiacao", "dominio": "dust2.com.br" },
+        { "nome": "Exame", "url": "https://exame.com/tecnologia/plataforma-completa-10-anos-com-3-milhoes-de-jogadores-na-base-e-parceria-com-intel-e-netflix/", "dominio": "exame.com" }
+      ],
+      "nota": 6.8,
+      "justificativa": "Marco relevante para a cena nacional de CS2, com evento presencial que celebra 10 anos de uma das maiores plataformas de esports do Brasil.",
+      "pesquisador": "radar-empresas-nacionais"
+    },
+    {
+      "posicao": 6,
+      "slug": "pikmin-day-direct-demo-pikmin-4-switch-2",
+      "titulo": "Nintendo oficializa Pikmin Day com Direct, demo de Pikmin 4 e nova série animada",
+      "resumo": "A Nintendo estabeleceu 1º de novembro como \"Pikmin Day\" em referência à disposição dos Pikmin vermelho, azul e amarelo do primeiro jogo, formando \"11.1\". Shigeru Miyamoto apresentou um Direct surpresa anunciando uma demo gratuita de \"Pikmin 4 — Nintendo Switch 2 Edition + Dandori Academy\" disponível em 2 de novembro (lançamento completo em 12/11), além da série animada \"Hello! Pikmin\" e uma atualização para Pikmin Bloom.",
+      "tipo": "lancamento",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["Switch 2", "Mobile"],
+      "tags": ["nintendo", "pikmin", "direct", "demo"],
+      "dataFato": "2026-11-01",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Nintendo Life", "url": "https://www.nintendolife.com/news/2026/11/round-up-pikmin-day-2026-updates-demo-and-new-animated-shorts", "dominio": "nintendolife.com" },
+      "fontesSecundarias": [
+        { "nome": "Game Informer", "url": "https://gameinformer.com/2026/10/31/shigeru-miyamoto-proclaims-november-1-is-pikmin-day-pikmin-4-demo-coming-to-switch-2", "dominio": "gameinformer.com" },
+        { "nome": "Kotaku", "url": "https://kotaku.com/shigeru-miyamoto-declares-november-1st-pikmin-day-in-surprise-nintendo-direct-2000751948", "dominio": "kotaku.com" },
+        { "nome": "Gamereactor", "url": "https://www.gamereactor.eu/nintendo-makes-it-official-november-1-is-now-pikmin-day/", "dominio": "gamereactor.eu" },
+        { "nome": "Stevivor", "url": "https://stevivor.com/news/pikmin-4-switch-2-edition-demo-arrives-2-november-after-miyamoto-declares-pikmin/", "dominio": "stevivor.com" }
+      ],
+      "nota": 6.7,
+      "justificativa": "Ação de marketing com anúncio de produto real (demo e lançamento de Pikmin 4) e cobertura ampla, mas de impacto moderado fora da base de fãs Nintendo.",
+      "pesquisador": "radar-lancamentos-internacionais"
+    },
+    {
+      "posicao": 7,
+      "slug": "gta-6-pre-download-12-novembro-brasil",
+      "titulo": "GTA 6 terá pré-download liberado a partir de 12 de novembro no Brasil",
+      "resumo": "A Rockstar confirmou que o pré-download de GTA 6 (edições Standard e Ultimate) começa à meia-noite de 12 de novembro, horário de Brasília, nas versões PS5, PS5 Pro, Xbox Series X e Series S, uma semana antes do lançamento mundial em 19 de novembro. O jogo deve ocupar cerca de 210 GB na edição Standard do PS5, e compradores de mídia física no Brasil também recebem código de pré-download em vez de disco.",
+      "tipo": "lancamento",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PS5", "Xbox Series"],
+      "tags": ["gta-6", "rockstar", "pre-download", "lancamento"],
+      "dataFato": "2026-10-31",
+      "janelaEstendida": false,
+      "fonte": { "nome": "GameOverdrive", "url": "https://gameoverdrive.com.br/gta-6-veja-quando-download-sera-liberado-ps5-xbox/", "dominio": "gameoverdrive.com.br" },
+      "fontesSecundarias": [
+        { "nome": "Mixvale", "url": "https://www.mixvale.com.br/2026/10/31/gta-6-tera-pre-download-liberado-a-partir-de-12-de-novembro-de-2026/", "dominio": "mixvale.com.br" }
+      ],
+      "nota": 6.5,
+      "justificativa": "Detalhe logístico muito aguardado pelo público brasileiro antes do lançamento mais esperado do ano, mas de caráter informativo/operacional.",
+      "pesquisador": "radar-lancamentos-nacionais"
+    },
+    {
+      "posicao": 8,
+      "slug": "take-two-calendario-novembro-resultados-sindicato-gta-6",
+      "titulo": "Take-Two terá novembro marcado por balanço, votação sindical na Rockstar e corte de preço-alvo",
+      "resumo": "A Take-Two Interactive confirmou que divulgará os resultados do segundo trimestre fiscal de 2027 em 9 de novembro, dez dias antes do lançamento de GTA VI, com balanço que ainda não refletirá as vendas do jogo. No mesmo período, funcionários britânicos da Rockstar Games votarão entre 12 e 26 de novembro sobre reconhecimento sindical pelo IWGB, e o Bank of America já havia reduzido o preço-alvo da ação de US$ 368 para US$ 330 por preocupações com a normalização de vendas pós-lançamento.",
+      "tipo": "noticia",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PS5", "Xbox Series"],
+      "tags": ["take-two", "rockstar", "sindicato", "mercado-financeiro"],
+      "dataFato": "2026-11-01",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Game Developer", "url": "https://www.gamedeveloper.com/business/rockstar-workers-to-vote-on-unionization-ahead-of-grand-theft-auto-vi-release", "dominio": "gamedeveloper.com" },
+      "fontesSecundarias": [
+        { "nome": "ad-hoc-news", "url": "https://www.ad-hoc-news.de/boerse/news/unternehmensnachrichten/take-two-s-november-calendar-earnings-a-union-ballot-and-the-gta-vi-question-behind-both/70441086", "dominio": "ad-hoc-news.de" },
+        { "nome": "New Game Network", "url": "https://www.newgamenetwork.com/rockstar-union-vote-november/", "dominio": "newgamenetwork.com" }
+      ],
+      "nota": 6.8,
+      "justificativa": "Cruza três frentes relevantes (financeiro, trabalhista e mercado) em torno do lançamento mais esperado do ano, de interesse para quem acompanha a indústria além do jogo em si.",
+      "pesquisador": "radar-empresas-internacionais"
+    },
+    {
+      "posicao": 9,
+      "slug": "krafton-netflix-serie-pubg-donald-glover",
+      "titulo": "Krafton anuncia série live-action de PUBG em parceria com a Netflix e Donald Glover",
+      "resumo": "A Krafton, por meio de sua subsidiária de entretenimento LV3H, anunciou uma série live-action baseada em \"PUBG: Battlegrounds\" em parceria com a Netflix. Donald Glover atuará como roteirista, diretor, protagonista e produtor executivo do projeto, que marca a expansão da franquia para o audiovisual.",
+      "tipo": "noticia",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": [],
+      "tags": ["krafton", "pubg", "netflix", "adaptacao"],
+      "dataFato": "2026-10-31",
+      "janelaEstendida": false,
+      "fonte": { "nome": "SBS News", "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008823485", "dominio": "news.sbs.co.kr" },
+      "fontesSecundarias": [
+        { "nome": "Korea JoongAng Daily", "url": "https://koreajoongangdaily.com/business/netflix-to-develop-liveaction-pubg-series-led-by-donald-glovernbsp/12948527", "dominio": "koreajoongangdaily.com" },
+        { "nome": "GosuGamers", "url": "https://www.gosugamers.net/news/79450-netflix-is-making-a-live-action-pubg-tv-series-with-donald-glover-and-krafton", "dominio": "gosugamers.net" }
+      ],
+      "nota": 6.3,
+      "justificativa": "Expansão de franquia de jogo para audiovisual com nome de peso em Hollywood, mas impacto direto limitado para quem joga.",
+      "pesquisador": "radar-empresas-internacionais"
+    },
+    {
+      "posicao": 10,
+      "slug": "furia-estreia-iem-beijing-criticas-esl-logistica",
+      "titulo": "FURIA estreia no IEM Beijing contra a FaZe em meio a críticas de FalleN à logística da ESL",
+      "resumo": "A FURIA, vinda de dois títulos consecutivos em outubro, estreou no IEM Beijing 2026 contra a FaZe Clan na madrugada de 2 de novembro (horário de Brasília). Gabriel \"FalleN\" Toledo criticou publicamente a ESL no X pela falta de suporte de transporte quando a equipe chegou à China por volta das 23h, horas após vencer a final da PGL Masters Bucharest.",
+      "tipo": "esports",
+      "escopo": "nacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC"],
+      "tags": ["cs2", "furia", "iem-beijing", "esl"],
+      "dataFato": "2026-11-01",
+      "janelaEstendida": true,
+      "fonte": { "nome": "HLTV", "url": "https://www.hltv.org/news/45759/iem-beijing-groups-and-opening-matchups-set", "dominio": "hltv.org" },
+      "fontesSecundarias": [
+        { "nome": "Skin.Club Community", "url": "https://community.skin.club/en/news/fallen-criticizes-esl-over-lack-of-arrival-support-at-iem-beijing-2026", "dominio": "community.skin.club" },
+        { "nome": "Dust2", "url": "https://www.dust2.com.br/noticias/79080/furia-e-legacy-conhecem-adversarias-em-estreia-na-iem-beijing", "dominio": "dust2.com.br" }
+      ],
+      "nota": 6.0,
+      "justificativa": "Combina a estreia em novo torneio importante com bastidores que geram engajamento entre fãs de CS2, fechando a cota de conteúdo nacional no TOP 10.",
+      "pesquisador": "radar-esports"
+    }
+  ],
+  "tambemNoRadar": [
+    {
+      "slug": "crimson-desert-enhanced-teste-gratuito-5-horas",
+      "titulo": "Crimson Desert Enhanced ganha teste gratuito de 5 horas em PS5 e Xbox",
+      "resumo": "A Pearl Abyss lançou um teste gratuito de cinco horas de \"Crimson Desert Enhanced\" para PS5 e Xbox Series X|S, com progresso que pode ser transferido caso o jogador compre o jogo completo depois.",
+      "tipo": "lancamento",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PS5", "Xbox Series"],
+      "tags": ["pearl-abyss", "crimson-desert", "demo"],
+      "dataFato": "2026-10-31",
+      "janelaEstendida": false,
+      "fonte": { "nome": "TBreak", "url": "https://tbreak.com/crimson-desert-enhanced-free-trial-ps5-xbox/", "dominio": "tbreak.com" },
+      "fontesSecundarias": [
+        { "nome": "Instant Gaming News", "url": "https://news.instant-gaming.com/en/articles/22793-crimson-desert-enhanced-offers-5-hours-of-free-play-on-consoles-right-now", "dominio": "news.instant-gaming.com" },
+        { "nome": "iXBT Games", "url": "https://ixbt.games/en/news/2026/10/31/crimson-desert-polucila-besplatnuiu-probnuiu-versiiu-na-ps5-i-xbox-s-perenosom-progressa.html", "dominio": "ixbt.games" }
+      ],
+      "nota": 5.8,
+      "justificativa": "Boa oportunidade para o público experimentar um lançamento recente, mas sem repercussão ampla fora de nichos específicos.",
+      "pesquisador": "radar-lancamentos-internacionais"
+    },
+    {
+      "slug": "fromsoftware-desativa-multiplayer-dark-souls-2-3",
+      "titulo": "FromSoftware desativa temporariamente multiplayer de Dark Souls 2 e 3 em todas as plataformas",
+      "resumo": "A FromSoftware anunciou a desativação temporária dos serviços online de Dark Souls 2 e Dark Souls 3 (co-op, invasões PvP e mensagens assíncronas) em PC, PlayStation e Xbox, citando um \"problema de servidor\" não especificado.",
+      "tipo": "noticia",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC", "PS5", "Xbox Series"],
+      "tags": ["fromsoftware", "dark-souls", "servidor"],
+      "dataFato": "2026-10-30",
+      "janelaEstendida": true,
+      "fonte": { "nome": "PC Gamer", "url": "https://www.pcgamer.com/games/dark-souls/fromsoftware-temporarily-shuts-down-dark-souls-2-and-3-multiplayer-over-server-issue", "dominio": "pcgamer.com" },
+      "fontesSecundarias": [
+        { "nome": "Inven Global", "url": "https://www.invenglobal.com/articles/27960/fromsoftware-takes-dark-souls-ii-and-dark-souls-iii-servers-offline-on-all-platforms", "dominio": "invenglobal.com" },
+        { "nome": "GameRant", "url": "https://gamerant.com/dark-souls-2-3-online-servers-down-features-disabled/", "dominio": "gamerant.com" }
+      ],
+      "nota": 5.5,
+      "justificativa": "Afeta jogos antigos ainda com base ativa de jogadores, mas sem detalhes sobre a causa ou prazo de retorno.",
+      "pesquisador": "radar-lancamentos-internacionais"
+    },
+    {
+      "slug": "asleep-ato-1-gratis-steam-scream-fest",
+      "titulo": "Jogo brasileiro de terror Asleep: Ato 1 segue grátis na Steam até 2 de novembro",
+      "resumo": "Asleep: Ato 1, jogo de terror psicológico desenvolvido pelo estúdio piauiense Black Hole Games e publicado pela Nuuvem, está disponível para resgate gratuito permanente na Steam entre 30 de outubro e 2 de novembro. A promoção ocorre durante o Steam Scream Fest, que também traz desconto em outros títulos brasileiros de terror.",
+      "tipo": "noticia",
+      "escopo": "nacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC"],
+      "tags": ["jogo-brasileiro", "steam", "terror", "promocao"],
+      "dataFato": "2026-11-02",
+      "janelaEstendida": true,
+      "fonte": { "nome": "J-WAVE", "url": "https://www.jwave.com.br/2026/10/halloween-tem-jogo-brasileiro-gratis-na-steam-descontos-e-demos-de-terror/", "dominio": "jwave.com.br" },
+      "fontesSecundarias": [
+        { "nome": "Mixvale", "url": "https://www.mixvale.com.br/2026/10/16/asleep-ato-1-libera-resgate-gratuito-na-steam-ate-2-de-novembro/", "dominio": "mixvale.com.br" }
+      ],
+      "nota": 5.3,
+      "justificativa": "Boa notícia para a cena de desenvolvimento nacional, mas com alcance limitado e prazo de promoção já conhecido desde outubro.",
+      "pesquisador": "radar-lancamentos-nacionais"
+    },
+    {
+      "slug": "riot-games-pop-up-kda-liberdade-sao-paulo",
+      "titulo": "Riot Games leva pop-up store das bandas virtuais de League of Legends à Liberdade, em São Paulo",
+      "resumo": "A Riot Games Brasil confirmou uma loja pop-up imersiva inspirada nas bandas virtuais K/DA, True Damage e Heartsteel (universo de League of Legends) na Loja Meruru, no bairro da Liberdade em São Paulo, no feriado de 2 de novembro, das 13h às 17h.",
+      "tipo": "noticia",
+      "escopo": "nacional",
+      "confiabilidade": "confirmado",
+      "plataformas": [],
+      "tags": ["riot-games", "league-of-legends", "evento", "brasil"],
+      "dataFato": "2026-11-02",
+      "janelaEstendida": true,
+      "fonte": { "nome": "Rolling Stone Brasil", "url": "https://rollingstone.com.br/rs-gaming/riot-games-divulga-programacao-de-loja-pop-up-imersiva-na-liberdade/", "dominio": "rollingstone.com.br" },
+      "fontesSecundarias": [
+        { "nome": "Gamers & Games", "url": "https://www.gamersegames.com.br/2026/10/22/riot-games-anuncia-eventos-de-k-da-true-damage-e-heartsteel-no-brasil/", "dominio": "gamersegames.com.br" },
+        { "nome": "Geek Pop News", "url": "https://geekpopnews.com.br/riot-games-leva-bandas-virtuais-de-lol-a-liberdade-em-evento-gratis/", "dominio": "geekpopnews.com.br" }
+      ],
+      "nota": 4.8,
+      "justificativa": "Ação de marketing pontual e localizada, de interesse para fãs em São Paulo, mas sem alcance nacional amplo.",
+      "pesquisador": "radar-lancamentos-nacionais"
+    },
+    {
+      "slug": "ps-store-planeta-das-ofertas-brasil",
+      "titulo": "PlayStation Store Brasil mantém promoção Planeta das Ofertas até 4 de novembro",
+      "resumo": "A Sony mantém ativa no Brasil a campanha \"Planeta das Ofertas\" na PS Store, iniciada em 21 de outubro e válida até 4 de novembro às 23h59, com cerca de 3.762 itens em desconto para PS4 e PS5.",
+      "tipo": "noticia",
+      "escopo": "nacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PS4", "PS5"],
+      "tags": ["playstation", "promocao", "ps-store"],
+      "dataFato": "2026-10-21",
+      "janelaEstendida": true,
+      "fonte": { "nome": "Mixvale", "url": "https://www.mixvale.com.br/2026/10/21/playstation-store-estreia-promocao-planeta-das-ofertas-com-descontos-em-jogos-de-ps5-e-ps4-ate-novembro/", "dominio": "mixvale.com.br" },
+      "fontesSecundarias": [
+        { "nome": "GameOverdrive", "url": "https://gameoverdrive.com.br/ps-store-planeta-das-ofertas-outubro-2026-melhores-jogos/", "dominio": "gameoverdrive.com.br" },
+        { "nome": "Última Ficha", "url": "https://ultimaficha.com.br/2026/10/21/playstation-store-promocao-planeta-descontos/", "dominio": "ultimaficha.com.br" }
+      ],
+      "nota": 4.5,
+      "justificativa": "Promoção útil para consumidores, mas iniciada há mais de uma semana e sem fato novo na data de referência.",
+      "pesquisador": "radar-lancamentos-nacionais"
+    },
+    {
+      "slug": "wildlife-studios-evento-ia-jogos-mobile",
+      "titulo": "Wildlife Studios abre inscrições para evento online sobre IA em jogos mobile",
+      "resumo": "A Wildlife Studios, maior publisher de jogos mobile do Brasil, anunciou um evento online gratuito sobre design e uso prático de inteligência artificial no desenvolvimento de jogos mobile, marcado para 17 de novembro. As inscrições, abertas desde 26 de outubro, seguem disponíveis até 3 de novembro.",
+      "tipo": "noticia",
+      "escopo": "nacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["Mobile"],
+      "tags": ["wildlife-studios", "inteligencia-artificial", "evento"],
+      "dataFato": "2026-10-26",
+      "janelaEstendida": true,
+      "fonte": { "nome": "Gaming Era", "url": "https://gamingera.biz/wildlife-studios-evento-online-design-ia-jogos-mobile/", "dominio": "gamingera.biz" },
+      "fontesSecundarias": [],
+      "nota": 4.2,
+      "justificativa": "Notícia institucional de interesse para profissionais da indústria, mas de baixo apelo ao público gamer em geral e com fato gerador fora da janela principal.",
+      "pesquisador": "radar-empresas-nacionais"
+    }
+  ],
+  "descartados": []
+}
