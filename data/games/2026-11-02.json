@@ -1,0 +1,331 @@
+{
+  "categoria": "games",
+  "data": "2026-11-02",
+  "geradoEm": "2026-11-02T21:30:00-03:00",
+  "janela": { "inicio": "2026-11-01T21:00:00-03:00", "fim": "2026-11-02T21:00:00-03:00" },
+  "observacao": null,
+  "itens": [
+    {
+      "posicao": 1,
+      "slug": "furia-sai-do-valorant-misto-e-reorganiza-presenca-no-jogo",
+      "titulo": "FURIA sai do VALORANT misto e remaneja elenco feminino de CS para o game",
+      "resumo": "A FURIA confirmou que não seguirá na cena competitiva mista de VALORANT em 2027, após não ser selecionada entre as 8 parceiras da Riot Games para o VCT Americas 2027-2028 (vaga que ficou com LOUD e MIBR); todo o elenco masculino (artzin, basic, C0M, koalanoob, Shyy, shaW) tornou-se free agent em 2 de novembro. No mesmo movimento de reestruturação, a organização confirmou que sua equipe feminina de Counter-Strike deixará o CS para competir exclusivamente em VALORANT, com Bruna \"bizinha\" Marvila como a única do elenco com experiência prévia no jogo. A FURIA disse que dará notícias sobre sua presença na cena inclusiva de VALORANT em breve.",
+      "tipo": "esports",
+      "escopo": "nacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC"],
+      "tags": ["furia", "valorant", "counter-strike", "esports", "reestruturacao"],
+      "dataFato": "2026-11-02",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Insider Gaming", "url": "https://insider-gaming.com/entire-furia-valorant-roster-enters-free-agency/", "dominio": "insider-gaming.com" },
+      "fontesSecundarias": [
+        { "nome": "Dust2", "url": "https://www.dust2.com.br/noticias/76949/furia-feminina-deixa-cs-e-vai-competir-no-valorant", "dominio": "dust2.com.br" },
+        { "nome": "Dot Esports", "url": "https://dotesports.com/general/news/furia-leaves-valorant-vct", "dominio": "dotesports.com" },
+        { "nome": "VZone", "url": "https://vzone.gg/noticia/furia-deixa-valorant-misto/", "dominio": "vzone.gg" },
+        { "nome": "Itatiaia", "url": "https://www.itatiaia.com.br/esportes/esports/bizinha-explica-saida-da-furia-do-cs2-e-migracao-para-o-valorant-muitas-vao-sair/", "dominio": "itatiaia.com.br" }
+      ],
+      "nota": 8.3,
+      "justificativa": "Movimento importante de uma das maiores organizações brasileiras de esports, com impacto direto em dois elencos (masculino e feminino) e repercussão em múltiplos veículos nacionais e internacionais.",
+      "pesquisador": "radar-empresas-nacionais"
+    },
+    {
+      "posicao": 2,
+      "slug": "nagoshi-studio-netease-encerra-atividades",
+      "titulo": "NetEase encerra o Nagoshi Studio após corte de financiamento de Gang of Dragon",
+      "resumo": "A Nagoshi Studio, fundada pelo criador de Yakuza, Toshiro Nagoshi, e financiada pela NetEase, foi oficialmente extinta por resolução dos acionistas em 31 de outubro de 2026, com publicação formal do encerramento na gazeta governamental japonesa Kanpo. A NetEase havia cortado o financiamento após descobrir que o jogo em desenvolvimento, Gang of Dragon (anunciado no The Game Awards 2025), precisaria de mais 7 bilhões de ienes (US$ 44,4 milhões) para ser concluído.",
+      "tipo": "noticia",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": [],
+      "tags": ["netease", "fechamento-de-estudio", "yakuza", "industria"],
+      "dataFato": "2026-11-01",
+      "janelaEstendida": false,
+      "fonte": { "nome": "VGChartz", "url": "https://www.vgchartz.com/article/469546/netease-games-shuts-down-nagoshi-studio/", "dominio": "vgchartz.com" },
+      "fontesSecundarias": [
+        { "nome": "GosuGamers", "url": "https://www.gosugamers.net/entertainment/news/79465-netease-shuts-down-gang-of-dragon-developer-nagoshi-studio", "dominio": "gosugamers.net" },
+        { "nome": "Final Weapon", "url": "https://finalweapon.net/2026/11/01/nagoshi-studio-officially-closed/", "dominio": "finalweapon.net" }
+      ],
+      "nota": 7.8,
+      "justificativa": "Fechamento de estúdio ligado a um nome relevante da indústria (criador de Yakuza) e a uma publisher grande (NetEase), com confirmação oficial em documento governamental.",
+      "pesquisador": "radar-empresas-internacionais"
+    },
+    {
+      "posicao": 3,
+      "slug": "itchio-paginas-jogos-ia-dobram-volume",
+      "titulo": "Itch.io é inundado por jogos gerados por IA e dobra volume diário de páginas novas",
+      "resumo": "A plataforma Itch.io reportou em 2 de novembro de 2026 que o número de novas páginas de jogos criadas por dia dobrou nos últimos dois meses, ultrapassando 6.000 páginas diárias, atribuído majoritariamente a jogos gerados por IA. O filtro 'No AI' da plataforma reduz drasticamente os resultados visíveis, mas é pouco eficaz porque a marcação de conteúdo IA não é obrigatória; apesar do aumento de listagens, downloads e compras não cresceram na mesma proporção.",
+      "tipo": "noticia",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC"],
+      "tags": ["inteligencia-artificial", "itch-io", "industria", "desenvolvimento-independente"],
+      "dataFato": "2026-11-02",
+      "janelaEstendida": false,
+      "fonte": { "nome": "PC Gamer", "url": "https://www.pcgamer.com/gaming-industry/game-development/its-not-just-steam-new-game-pages-created-per-day-on-itch-io-has-doubled-in-the-last-two-months-with-ai-slop-the-likely-culprit/", "dominio": "pcgamer.com" },
+      "fontesSecundarias": [
+        { "nome": "Game Developer", "url": "https://www.gamedeveloper.com/pc/number-of-game-pages-doubles-on-itch-io-as-ai-clones-flood-the-store", "dominio": "gamedeveloper.com" },
+        { "nome": "Aftermath", "url": "https://aftermath.site/itch-ai-games-pc-slop/", "dominio": "aftermath.site" }
+      ],
+      "nota": 7.2,
+      "justificativa": "Tema de grande relevância para a indústria e para desenvolvedores independentes, com dados concretos sobre o impacto da IA generativa em plataformas de distribuição.",
+      "pesquisador": "radar-empresas-internacionais"
+    },
+    {
+      "posicao": 4,
+      "slug": "furia-vence-faze-navi-manda-falcons-chave-baixa-iem-beijing",
+      "titulo": "FURIA vence a FaZe e NAVI manda Falcons para chave baixa na abertura da IEM Beijing 2026",
+      "resumo": "No primeiro dia da IEM Beijing 2026 (CS2), a FURIA venceu a FaZe Clan por 2-1 no Grupo A, enquanto a Natus Vincere derrotou a Falcons por 2-0 (13-5 na Ancient, 13-11 na Mirage), mandando a equipe saudita para a chave baixa. Outros resultados do dia incluíram Liquid 2-0 Aurora, HEROIC 2-0 B8 e MOUZ 2-0 TYLOO.",
+      "tipo": "esports",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC"],
+      "tags": ["counter-strike", "furia", "iem-beijing", "esports"],
+      "dataFato": "2026-11-02",
+      "janelaEstendida": false,
+      "fonte": { "nome": "HLTV", "url": "https://www.hltv.org/news/45889/navi-send-falcons-to-lower-bracket-as-first-day-of-iem-beijing-comes-to-a-close", "dominio": "hltv.org" },
+      "fontesSecundarias": [
+        { "nome": "HLTV", "url": "https://www.hltv.org/news/45883/liquid-crush-aurora-in-iem-beijing-opener", "dominio": "hltv.org" }
+      ],
+      "nota": 7.0,
+      "justificativa": "Resultado de CS2 com participação direta de uma organização brasileira em torneio de peso (IEM Beijing), relevante para o público de esports.",
+      "pesquisador": "radar-esports"
+    },
+    {
+      "posicao": 5,
+      "slug": "mayday-the-survival-island-lanca-steam-pequi-studios",
+      "titulo": "Mayday: The Survival Island, de estúdio goiano, chega à Steam",
+      "resumo": "O jogo de sobrevivência em mundo aberto, desenvolvido pela Pequi Studios (equipe de três pessoas de Goiânia-GO), foi lançado na Steam em 2 de novembro de 2026. O título conta com 24 ilhas desenhadas manualmente em pixel art e possui localização completa em português do Brasil, incluindo dublagem e legendas.",
+      "tipo": "lancamento",
+      "escopo": "nacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC"],
+      "tags": ["lancamento", "jogo-brasileiro", "sobrevivencia", "indie"],
+      "dataFato": "2026-11-02",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Steam", "url": "https://store.steampowered.com/app/1686230/Mayday_The_Survival_Island/?l=brazilian", "dominio": "store.steampowered.com" },
+      "fontesSecundarias": [
+        { "nome": "Gamers & Games", "url": "https://www.gamersegames.com.br/2026/09/04/mayday-the-survival-island-chega-ao-steam-em-2-de-novembro/", "dominio": "gamersegames.com.br" },
+        { "nome": "Game Reporter", "url": "https://www.gamereporter.com.br/mayday-the-survival-island-chega-a-steam-em-novembro/", "dominio": "gamereporter.com.br" }
+      ],
+      "nota": 6.8,
+      "justificativa": "Lançamento de jogo brasileiro independente com localização completa, representando a produção nacional de jogos no dia.",
+      "pesquisador": "radar-lancamentos-nacionais"
+    },
+    {
+      "posicao": 6,
+      "slug": "pikmin-4-switch-2-edition-demo-lancado",
+      "titulo": "Nintendo lança demo de Pikmin 4 – Switch 2 Edition com Dandori Academy",
+      "resumo": "A Nintendo lançou em 2 de novembro de 2026 um demo gratuito de 'Pikmin 4 – Nintendo Switch 2 Edition + Dandori Academy', incluindo a área Sun-speckled Terrace e dois estágios do modo Dandori Academy, com transferência de save para o jogo completo. O lançamento completo está marcado para 12 de novembro de 2026, anunciado durante o inédito 'Pikmin Day Direct'.",
+      "tipo": "lancamento",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["Switch 2"],
+      "tags": ["nintendo", "pikmin", "demo", "switch-2"],
+      "dataFato": "2026-11-02",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Nintendo Life", "url": "https://www.nintendolife.com/news/2026/11/round-up-pikmin-day-2026-updates-demo-and-new-animated-shorts", "dominio": "nintendolife.com" },
+      "fontesSecundarias": [
+        { "nome": "Nintendo Everything", "url": "https://nintendoeverything.com/nintendo-just-released-a-pikmin-day-direct/", "dominio": "nintendoeverything.com" },
+        { "nome": "Nintendo", "url": "https://www.nintendo.com/ph/news/article/2rEnV1upGBSSjSrFkBYPXV", "dominio": "nintendo.com" }
+      ],
+      "nota": 6.7,
+      "justificativa": "Lançamento de demo de franquia relevante da Nintendo, com evento dedicado (Pikmin Day Direct) e antecipação do lançamento completo em poucos dias.",
+      "pesquisador": "radar-lancamentos-internacionais"
+    },
+    {
+      "posicao": 7,
+      "slug": "poppins-convocada-mundial-feminino-cs2-wec26",
+      "titulo": "Poppins é convocada para representar o Brasil no Mundial feminino de CS2",
+      "resumo": "Nadjila 'Poppins' Sanchez Rodrigues, de 20 anos e atualmente na MIBR Feminino, foi convocada para representar o Brasil no World Esports Championship 2026 (CS2 feminino), ao lado de OL6A, Dani, GaBi e Yungher. O torneio ocorre entre 15 e 20 de dezembro em Banten, na Indonésia, reunindo representantes de 12 países.",
+      "tipo": "noticia",
+      "escopo": "nacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC"],
+      "tags": ["counter-strike", "esports-feminino", "selecao-brasileira", "wec26"],
+      "dataFato": "2026-11-02",
+      "janelaEstendida": false,
+      "fonte": { "nome": "DGABC", "url": "https://www.dgabc.com.br/Noticia/4366403/de-sao-bernardo-poppins-representara-o-brasil-no-mundial-de-counter-strike-2-feminino", "dominio": "dgabc.com.br" },
+      "fontesSecundarias": [],
+      "nota": 6.2,
+      "justificativa": "Convocação de atleta brasileira para representação nacional em torneio internacional de CS2 feminino, com relevância para o cenário de esports do país.",
+      "pesquisador": "radar-esports"
+    },
+    {
+      "posicao": 8,
+      "slug": "sapu-reborn-guara-studios-lanca-steam",
+      "titulo": "SAPU: Reborn, da brasileira Guara Studios, é lançado na Steam",
+      "resumo": "O plataformer 2D pixel-art SAPU: Reborn, desenvolvido e publicado pela brasileira Guara Studios, foi lançado na Steam em 2 de novembro de 2026, com 25 fases, mecânicas de dash e wall jump, e suporte integral a português do Brasil em áudio e legendas.",
+      "tipo": "lancamento",
+      "escopo": "nacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC"],
+      "tags": ["lancamento", "jogo-brasileiro", "plataforma", "indie"],
+      "dataFato": "2026-11-02",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Steam", "url": "https://store.steampowered.com/app/5407580/SAPU-Reborn/", "dominio": "store.steampowered.com" },
+      "fontesSecundarias": [
+        { "nome": "Indústria de Jogos", "url": "https://www.industriadejogos.com.br/jogo/lancamentos/", "dominio": "industriadejogos.com.br" }
+      ],
+      "nota": 5.8,
+      "justificativa": "Lançamento indie brasileiro com localização completa, reforçando a cota de conteúdo nacional da edição.",
+      "pesquisador": "radar-lancamentos-nacionais"
+    },
+    {
+      "posicao": 9,
+      "slug": "afil-games-kitties-on-planets-xbox-pc",
+      "titulo": "Estúdio brasileiro Afil Games lança Kitties on Planets no Xbox e PC",
+      "resumo": "A Afil Games, estúdio brasileiro de jogos casuais, anunciou o lançamento de Kitties on Planets para 3 de novembro de 2026, disponível em Xbox Series X|S, Xbox One e PC. O título é um quebra-cabeça com dois gatos astronautas de habilidades complementares; participação no Game Pass não foi confirmada até a publicação.",
+      "tipo": "lancamento",
+      "escopo": "nacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["Xbox Series", "Xbox One", "PC"],
+      "tags": ["lancamento", "jogo-brasileiro", "quebra-cabeca", "xbox"],
+      "dataFato": "2026-11-01",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Folha do Leste", "url": "https://folhadoleste.com.br/kitties-on-planets-jogo-brasileiro-gatos-astronautas-xbox/", "dominio": "folhadoleste.com.br" },
+      "fontesSecundarias": [
+        { "nome": "Xbox News", "url": "https://news.xbox.com/pt-br/2026/10/30/proxima-semana-em-xbox-novos-jogos-de-2-a-6-de-novembro/", "dominio": "news.xbox.com" },
+        { "nome": "O Tempo", "url": "https://www.otempo.com.br/tecnologia-e-games/2026/11/2/xbox-recebe-mais-de-30-jogos-na-primeira-semana-de-novembro-veja-a-lista", "dominio": "otempo.com.br" }
+      ],
+      "nota": 5.3,
+      "justificativa": "Lançamento de estúdio brasileiro com presença em múltiplas plataformas, mas de alcance e impacto moderados.",
+      "pesquisador": "radar-empresas-nacionais"
+    },
+    {
+      "posicao": 10,
+      "slug": "suprema-corte-eua-audiencia-apple-epic-games",
+      "titulo": "Suprema Corte dos EUA marca audiência sobre desacato da Apple no caso Epic Games",
+      "resumo": "A Suprema Corte dos EUA definiu 11 de janeiro de 2027 como data para argumentos orais na apelação da Apple sobre a decisão de desacato civil no processo Epic Games v. Apple, relacionado às comissões cobradas sobre links de pagamento alternativos no Fortnite/App Store. Epic Games tem até 13 de novembro de 2026 para responder ao recurso da Apple, que terá até 14 de dezembro para a tréplica.",
+      "tipo": "noticia",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": [],
+      "tags": ["apple", "epic-games", "justica", "fortnite"],
+      "dataFato": "2026-11-02",
+      "janelaEstendida": false,
+      "fonte": { "nome": "9to5Mac", "url": "https://9to5mac.com/2026/11/02/scotus-sets-hearing-date-for-apples-appeal-in-epic-games-case/", "dominio": "9to5mac.com" },
+      "fontesSecundarias": [],
+      "nota": 5.5,
+      "justificativa": "Desdobramento jurídico relevante de longa disputa entre Apple e Epic Games, com impacto potencial nas políticas de loja de apps, ainda que de caráter processual.",
+      "pesquisador": "radar-empresas-internacionais"
+    }
+  ],
+  "tambemNoRadar": [
+    {
+      "slug": "xbox-game-pass-confirma-saida-14-jogos-novembro",
+      "titulo": "Xbox Game Pass confirma saída de 14 jogos em novembro, incluindo GoldenEye 007 e Wreckfest",
+      "resumo": "A Microsoft confirmou a lista de jogos que deixarão o Xbox Game Pass em novembro de 2026: Football Manager 26 sai em 10/11, e outros 13 títulos — incluindo GoldenEye 007, Wreckfest, Dragon Ball Xenoverse 2 e Moonlighter — saem em 15/11.",
+      "tipo": "noticia",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["Xbox Series", "PC"],
+      "tags": ["xbox-game-pass", "microsoft", "catalogo"],
+      "dataFato": "2026-11-02",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Pure Xbox", "url": "https://www.purexbox.com/news/2026/11/14-games-are-leaving-xbox-game-pass-in-early-november-2026", "dominio": "purexbox.com" },
+      "fontesSecundarias": [],
+      "nota": 5.0,
+      "justificativa": "Notícia de catálogo relevante para assinantes, mas de impacto pontual e recorrente mensalmente.",
+      "pesquisador": "radar-lancamentos-internacionais"
+    },
+    {
+      "slug": "schell-games-demite-40-por-cento-equipe",
+      "titulo": "Schell Games demite cerca de 40% da equipe em segunda rodada de cortes",
+      "resumo": "O estúdio americano de VR Schell Games (criador de 'I Expect You to Die') anunciou em 2 de novembro de 2026 a demissão de aproximadamente 40% de seus funcionários, reduzindo a equipe de cerca de 125 para 75 pessoas. É o segundo corte do estúdio em poucos meses, após uma redução de 10% em agosto de 2026.",
+      "tipo": "noticia",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": [],
+      "tags": ["demissoes", "realidade-virtual", "industria"],
+      "dataFato": "2026-11-02",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Road to VR", "url": "https://roadtovr.com/schell-games-vr-layoffs-50-staff-2026/", "dominio": "roadtovr.com" },
+      "fontesSecundarias": [
+        { "nome": "UploadVR", "url": "https://uploadvr.com/schell-games-lays-off-large-portion-of-staff", "dominio": "uploadvr.com" }
+      ],
+      "nota": 6.4,
+      "justificativa": "Corte significativo de pessoal em estúdio de VR relevante, mas de alcance menor para o público geral comparado aos itens do TOP 10.",
+      "pesquisador": "radar-lancamentos-internacionais"
+    },
+    {
+      "slug": "sony-atualizacao-ps5-combate-jailbreak-antes-gta-vi",
+      "titulo": "Sony lança atualização de sistema do PS5 para combater jailbreak antes de GTA VI",
+      "resumo": "A Sony Interactive Entertainment distribuiu a atualização de firmware do PS5 (versão 26.07-14.22.00), descrita como correções de segurança no software do sistema, em movimento associado ao combate ao jailbreak mais recente do console antes do lançamento de Grand Theft Auto VI.",
+      "tipo": "noticia",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PS5"],
+      "tags": ["playstation", "firmware", "seguranca", "gta-vi"],
+      "dataFato": "2026-11-01",
+      "janelaEstendida": false,
+      "fonte": { "nome": "PlayStation LifeStyle", "url": "https://www.playstationlifestyle.net/2026/11/02/ps5-system-software-firmware-update-november-2-2026", "dominio": "playstationlifestyle.net" },
+      "fontesSecundarias": [],
+      "nota": 4.5,
+      "justificativa": "Atualização de firmware rotineira, com motivação de segurança mencionada por apenas uma fonte, sem detalhes técnicos adicionais.",
+      "pesquisador": "radar-empresas-internacionais"
+    },
+    {
+      "slug": "bridgelands-pyliot-early-access-postergado",
+      "titulo": "Bridgelands, da brasileira Pyliot, tem Early Access postergado",
+      "resumo": "O roguelite de ação Bridgelands, da desenvolvedora brasileira Pyliot, estava previsto para entrar em Early Access na Steam em 2 de novembro de 2026, mas o lançamento foi postergado porque a build enviada à Steam ficou mais de duas semanas em análise sem aprovação. A demo do jogo continua disponível enquanto a equipe não define nova data.",
+      "tipo": "noticia",
+      "escopo": "nacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC"],
+      "tags": ["jogo-brasileiro", "early-access", "roguelite"],
+      "dataFato": "2026-11-02",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Steam", "url": "https://store.steampowered.com/app/3856950/", "dominio": "store.steampowered.com" },
+      "fontesSecundarias": [
+        { "nome": "Pyliot Itch.io", "url": "https://pyliot.itch.io/bridgelands-demo", "dominio": "pyliot.itch.io" }
+      ],
+      "nota": 4.8,
+      "justificativa": "Notícia de adiamento de lançamento indie, relevante para o público nacional mas de menor impacto geral que os demais itens nacionais do dia.",
+      "pesquisador": "radar-lancamentos-nacionais"
+    },
+    {
+      "slug": "100-thieves-vencem-fire-last-chance-vaga-major-singapura",
+      "titulo": "100 Thieves vencem FiRe Last Chance e garantem última vaga das Américas no Major de Singapura",
+      "resumo": "A 100 Thieves conquistou o torneio FiRe Last Chance em 1º de novembro, garantindo a última vaga disponível das Américas para o PGL Major Singapore, superando concorrentes como HOTU e fnatic na disputa pelo convite.",
+      "tipo": "esports",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC"],
+      "tags": ["counter-strike", "pgl-major", "100-thieves"],
+      "dataFato": "2026-11-01",
+      "janelaEstendida": false,
+      "fonte": { "nome": "HLTV", "url": "https://www.hltv.org/news/45880/100-thieves-win-fire-last-chance-to-book-last-singapore-major-spot", "dominio": "hltv.org" },
+      "fontesSecundarias": [
+        { "nome": "HLTV", "url": "https://www.hltv.org/news/45705/pgl-major-singapore-race-as-it-happened", "dominio": "hltv.org" }
+      ],
+      "nota": 5.6,
+      "justificativa": "Resultado relevante para a corrida ao Major de CS2, mas de interesse mais restrito ao público de esports especializado.",
+      "pesquisador": "radar-esports"
+    },
+    {
+      "slug": "valve-vrs-novembro-define-convites-major-singapura",
+      "titulo": "Valve libera atualização de VRS de novembro que define ranking para convites do Major de Singapura",
+      "resumo": "A Valve divulgou a atualização mensal do Valve Ranking System (VRS) de novembro, que trava o ranking usado para distribuir os convites ao PGL Major Singapore. A disputa pelo 18º convite europeu ficou entre HOTU, 100 Thieves e fnatic, enquanto 1win confirmou vaga na Stage 2 em 1º de novembro.",
+      "tipo": "noticia",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC"],
+      "tags": ["valve", "counter-strike", "pgl-major", "ranking"],
+      "dataFato": "2026-11-02",
+      "janelaEstendida": false,
+      "fonte": { "nome": "HLTV", "url": "https://www.hltv.org/news/45890/valve-release-major-deciding-november-vrs-update", "dominio": "hltv.org" },
+      "fontesSecundarias": [
+        { "nome": "HLTV", "url": "https://www.hltv.org/news/45705/pgl-major-singapore-race-as-it-happened", "dominio": "hltv.org" }
+      ],
+      "nota": 5.4,
+      "justificativa": "Notícia técnica sobre ranking que interessa principalmente ao público mais engajado com a cena competitiva de CS2.",
+      "pesquisador": "radar-esports"
+    }
+  ],
+  "descartados": [
+    { "titulo": "GameSpot detalha panorama dos maiores lançamentos de novembro de 2026", "motivo": "Matéria de recapitulação sem fato novo específico da janela; conteúdo de calendário já coberto por outros itens de lançamento." },
+    { "titulo": "Monster Hunter Now inicia segunda parte do evento de Halloween 2026", "motivo": "Baixo impacto e relevância editorial para a janela, evento recorrente de live-service sem repercussão significativa." },
+    { "titulo": "1win conquista o título da Moscow Cyber Games", "motivo": "Fato do dia 01/11, de interesse nichado e menor relevância frente aos demais itens de esports da janela; redundante com a cobertura da corrida ao Major já contemplada." },
+    { "titulo": "Jee retorna ao line-up da TYLOO para a IEM Beijing", "motivo": "Notícia de alcance muito restrito (mudança pontual de line-up) e sem fonte secundária, com relevância insuficiente para a edição." }
+  ]
+}
