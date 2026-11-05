@@ -1,0 +1,336 @@
+{
+  "categoria": "games",
+  "data": "2026-11-04",
+  "geradoEm": "2026-11-05T09:00:00-03:00",
+  "janela": { "inicio": "2026-11-03T21:00:00-03:00", "fim": "2026-11-04T21:00:00-03:00" },
+  "observacao": null,
+  "itens": [
+    {
+      "posicao": 1,
+      "slug": "ubisoft-disputa-compra-arkane-studios-da-microsoft",
+      "titulo": "Ubisoft disputa compra da Arkane Studios com outras empresas",
+      "resumo": "A Bloomberg revelou que a Ubisoft e ao menos duas outras empresas não identificadas fizeram ofertas para comprar a Arkane Studios da Microsoft. A Xbox também avalia uma alternativa de venda da gestão do estúdio (management buyout), com decisão esperada até dezembro de 2026 e o futuro de Marvel's Blade dependendo do desfecho.",
+      "tipo": "noticia",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": [],
+      "tags": ["publisher", "aquisicao", "microsoft", "ubisoft"],
+      "dataFato": "2026-11-03",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Bloomberg", "url": "https://www.bloomberg.com/news/articles/2026-11-03/xbox-s-arkane-studios-attracts-multiple-bidders-including-ubisoft", "dominio": "bloomberg.com" },
+      "fontesSecundarias": [
+        { "nome": "Insider Gaming", "url": "https://insider-gaming.com/ubisoft-others-have-looked-into-buying-arkane-studios/", "dominio": "insider-gaming.com" },
+        { "nome": "TrueAchievements", "url": "https://www.trueachievements.com/news/ubisoft-reportedly-makes-bid-to-purchase-xbox-studio-arkane", "dominio": "trueachievements.com" }
+      ],
+      "nota": 8.5,
+      "justificativa": "Movimento corporativo de alto impacto envolvendo Microsoft e Ubisoft, com desfecho ainda incerto e fonte primária de peso (Bloomberg) confirmada.",
+      "pesquisador": "radar-empresas-internacionais"
+    },
+    {
+      "posicao": 2,
+      "slug": "the-elder-scrolls-vi-recebe-subtitulo-sentinel",
+      "titulo": "The Elder Scrolls VI ganha subtítulo oficial: Sentinel",
+      "resumo": "Durante vídeo de celebração dos 40 anos da Bethesda, Todd Howard confirmou que o próximo capítulo da franquia se chamará oficialmente The Elder Scrolls VI: Sentinel, nome referente à capital do deserto de Alik'r, em Hammerfell. Nenhuma data de lançamento ou plataformas foram anunciadas.",
+      "tipo": "noticia",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": [],
+      "tags": ["bethesda", "rpg", "anuncio"],
+      "dataFato": "2026-11-03",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Game Informer", "url": "https://gameinformer.com/2026/11/03/the-elder-scrolls-vi-has-an-official-subtitle-and-its-sentinel", "dominio": "gameinformer.com" },
+      "fontesSecundarias": [
+        { "nome": "GameSpot", "url": "https://www.gamespot.com/articles/the-elder-scrolls-6-is-officially-titled-sentinel/", "dominio": "gamespot.com" }
+      ],
+      "nota": 8,
+      "justificativa": "Anúncio de marca de um dos jogos mais aguardados da indústria, com grande interesse do público gamer, mesmo sem detalhes de gameplay ou data.",
+      "pesquisador": "radar-empresas-internacionais"
+    },
+    {
+      "posicao": 3,
+      "slug": "black-friday-playstation-store-brasil-2026",
+      "titulo": "Black Friday da PlayStation Store começa no Brasil com até 75% de desconto",
+      "resumo": "A PlayStation Store Brasil iniciou em 4 de novembro de 2026 sua campanha de Black Friday, com descontos de até 75% em milhares de jogos, DLCs e expansões para PS5, PS4 e PS VR2. A promoção segue até 30 de novembro, com atualização de catálogo prevista para o dia 16.",
+      "tipo": "noticia",
+      "escopo": "nacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PS5", "PS4", "PS VR2"],
+      "tags": ["promocao", "black-friday", "playstation"],
+      "dataFato": "2026-11-04",
+      "janelaEstendida": false,
+      "fonte": { "nome": "PlayStation Blog Brasil", "url": "https://blog.br.playstation.com/2026/11/03/ofertas-black-friday-playstation-2026/", "dominio": "blog.br.playstation.com" },
+      "fontesSecundarias": [
+        { "nome": "Mixvale", "url": "https://www.mixvale.com.br/2026/11/04/black-friday-da-playstation-store-comeca-nesta-quarta-feira-4-com-descontos-de-ate-75-no-brasil/", "dominio": "mixvale.com.br" },
+        { "nome": "Game Overdrive", "url": "https://gameoverdrive.com.br/black-friday-ps-store-2026-descontos-jogos/", "dominio": "gameoverdrive.com.br" }
+      ],
+      "nota": 7.8,
+      "justificativa": "Fato confirmado pela fonte oficial da Sony, com impacto direto e imediato no bolso do consumidor brasileiro.",
+      "pesquisador": "radar-lancamentos-nacionais"
+    },
+    {
+      "posicao": 4,
+      "slug": "furia-perde-mongolz-iem-beijing-2026",
+      "titulo": "FURIA perde para The MongolZ e cai para as quartas de final da IEM Beijing",
+      "resumo": "Em 4 de novembro de 2026, a FURIA perdeu por 2-1 para The MongolZ na fase superior da chave de playoffs da IEM Beijing 2026 de CS2. Com o resultado, a equipe brasileira caiu para a chave de quartas de final, onde enfrentará a BetBoom na sexta-feira (6/11), enquanto The MongolZ avançou direto às semifinais.",
+      "tipo": "esports",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC"],
+      "tags": ["cs2", "furia", "iem-beijing"],
+      "dataFato": "2026-11-04",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Dust2", "url": "https://www.dust2.com.br/noticias/79632/furia-perde-chance-de-ir-as-semis-da-iem-beijing", "dominio": "dust2.com.br" },
+      "fontesSecundarias": [
+        { "nome": "Dust2", "url": "https://www.dust2.com.br/noticias/79633/furia-conhece-adversaria-nas-quartas-da-iem-beijing", "dominio": "dust2.com.br" },
+        { "nome": "HLTV", "url": "https://www.hltv.org/matches/2400005/the-mongolz-vs-furia-iem-beijing-2026", "dominio": "hltv.org" }
+      ],
+      "nota": 7.5,
+      "justificativa": "Resultado concreto e verificado do principal time brasileiro de CS2 em evento internacional de peso, com forte interesse do público nacional de esports.",
+      "pesquisador": "radar-esports"
+    },
+    {
+      "posicao": 5,
+      "slug": "bloodrush-undying-wish-data-lancamento",
+      "titulo": "BloodRush: Undying Wish, de estúdio brasileiro, ganha data de lançamento com dublagem em português",
+      "resumo": "A Lightmancer Studios, estúdio brasileiro independente, anunciou que BloodRush: Undying Wish deixará o acesso antecipado em 3 de dezembro, chegando a PS5, Xbox Series X|S, Xbox One, Switch, Switch 2 e PC. O jogo recebeu mais de 30 atualizações durante o acesso antecipado e ganhará dublagem em português.",
+      "tipo": "noticia",
+      "escopo": "nacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PS5", "Xbox Series", "Xbox One", "Switch", "Switch 2", "PC"],
+      "tags": ["estudio-brasileiro", "lancamento", "dublagem-pt-br"],
+      "dataFato": "2026-11-04",
+      "janelaEstendida": false,
+      "fonte": { "nome": "GameBlast", "url": "https://www.gameblast.com.br/2026/11/bloodrush-undying-wish-sera-lancado-3-dezembro-pc-consoles.html", "dominio": "gameblast.com.br" },
+      "fontesSecundarias": [
+        { "nome": "Gamers & Games", "url": "https://www.gamersegames.com.br/2026/11/04/bloodrush-undying-wish-sera-lancado-em-3-de-dezembro-para-pc-e-consoles/", "dominio": "gamersegames.com.br" }
+      ],
+      "nota": 7.3,
+      "justificativa": "Anúncio concreto e datado de estúdio brasileiro multiplataforma, com dublagem em português confirmada, boa relevância para o público nacional.",
+      "pesquisador": "radar-lancamentos-nacionais"
+    },
+    {
+      "posicao": 6,
+      "slug": "valve-atraso-aprovacoes-steam-ia",
+      "titulo": "Valve admite atraso nas aprovações de jogos no Steam em meio a enxurrada de submissões com IA",
+      "resumo": "A Valve publicou aviso informando que o tempo de aprovação de novos jogos no Steam subiu de 3-5 dias para até 12 dias úteis, citando aumento significativo nas submissões para revisão de loja e builds. Análises independentes apontam que quase 50% dos jogos lançados no Steam em outubro de 2026 usaram conteúdo gerado por IA.",
+      "tipo": "noticia",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC"],
+      "tags": ["steam", "valve", "ia"],
+      "dataFato": "2026-11-04",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Game Developer", "url": "https://www.gamedeveloper.com/business/valve-warns-of-slower-steam-approval-process-due-to-flood-of-new-games", "dominio": "gamedeveloper.com" },
+      "fontesSecundarias": [
+        { "nome": "Digital Trends", "url": "https://www.digitaltrends.com/gaming/steam-is-drowning-in-new-games-and-valve-is-dropping-tougher-restrictions/", "dominio": "digitaltrends.com" }
+      ],
+      "nota": 7,
+      "justificativa": "Impacto estrutural relevante na maior plataforma de distribuição de PC, afetando toda a cadeia de lançamentos indie e levantando debate sobre IA generativa.",
+      "pesquisador": "radar-empresas-internacionais"
+    },
+    {
+      "posicao": 7,
+      "slug": "fnatic-dispensa-crashies-desmo-szed-valorant",
+      "titulo": "Fnatic dispensa crashies, Desmo e Szed em reestruturação para 2027",
+      "resumo": "A Fnatic confirmou a saída do iniciador Austin \"crashies\" Roberts em 4 de novembro de 2026, além do assistente técnico Casper \"Desmo\" Rasmussen e do treinador de performance Philipp \"Szed\" Schickor, dispensados em 3 de novembro. A organização, que não conseguiu se qualificar para nenhum evento internacional de Valorant em 2026, fica com apenas três jogadores no elenco ativo enquanto se reestrutura para 2027.",
+      "tipo": "noticia",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC"],
+      "tags": ["valorant", "fnatic", "esports"],
+      "dataFato": "2026-11-04",
+      "janelaEstendida": false,
+      "fonte": { "nome": "VLR.gg", "url": "https://www.vlr.gg/784188/crashies-desmo-szed-depart-fnatic", "dominio": "vlr.gg" },
+      "fontesSecundarias": [
+        { "nome": "Liquipedia", "url": "https://liquipedia.net/valorant/Fnatic", "dominio": "liquipedia.net" }
+      ],
+      "nota": 6.8,
+      "justificativa": "Movimentação relevante de organização tradicional de Valorant, confirmada na fonte primária da cena, mas de impacto mais restrito ao público de esports.",
+      "pesquisador": "radar-esports"
+    },
+    {
+      "posicao": 8,
+      "slug": "gog-anuncia-primeiro-showcase-18-anos",
+      "titulo": "GOG anuncia primeiro showcase da história para celebrar 18º aniversário",
+      "resumo": "A GOG.com, loja digital DRM-free hoje independente da CD Projekt, anunciou seu primeiro GOG Showcase, marcado para 5 de novembro de 2026, celebrando 18 anos da plataforma com revelações de jogos e atualizações de recursos. É o primeiro grande movimento da loja desde que foi vendida a seu cofundador Michał Kiciński no fim de 2025.",
+      "tipo": "noticia",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC"],
+      "tags": ["gog", "evento", "pc"],
+      "dataFato": "2026-11-04",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Video Games Chronicle", "url": "https://www.videogameschronicle.com/news/gog-announces-first-ever-games-showcase/", "dominio": "videogameschronicle.com" },
+      "fontesSecundarias": [
+        { "nome": "Noisy Pixel", "url": "https://noisypixel.net/gog-showcase-november-5-new-games-platform-updates/", "dominio": "noisypixel.net" }
+      ],
+      "nota": 6.5,
+      "justificativa": "Reposicionamento relevante de marca histórica do PC gaming, mas é anúncio de evento futuro, não o evento em si.",
+      "pesquisador": "radar-empresas-internacionais"
+    },
+    {
+      "posicao": 9,
+      "slug": "gen-g-vence-lyon-semifinais-worlds-2026",
+      "titulo": "Gen.G vence LYON por 3-0 e avança às semifinais do Worlds 2026 de LoL",
+      "resumo": "Em 4 de novembro de 2026, a Gen.G derrotou a LYON por 3-0 em melhor de cinco, nas quartas de final do Campeonato Mundial de League of Legends 2026, garantindo vaga nas semifinais. O resultado seguiu a eliminação da Top Esports pela Invictus Gaming (3-1) no dia anterior.",
+      "tipo": "esports",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC"],
+      "tags": ["league-of-legends", "worlds-2026", "gen-g"],
+      "dataFato": "2026-11-04",
+      "janelaEstendida": false,
+      "fonte": { "nome": "ESTNN", "url": "https://estnn.com/worlds-2026-quarterfinals-schedule-matchups/", "dominio": "estnn.com" },
+      "fontesSecundarias": [
+        { "nome": "Liquipedia", "url": "https://liquipedia.net/leagueoflegends/World_Championship/2026/Knockout_Stage", "dominio": "liquipedia.net" }
+      ],
+      "nota": 6.3,
+      "justificativa": "Resultado relevante do principal campeonato de LoL do ano, confirmado por fonte especializada e Liquipedia.",
+      "pesquisador": "radar-esports"
+    },
+    {
+      "posicao": 10,
+      "slug": "satisfactory-crossplay-pc-ps5-xbox",
+      "titulo": "Satisfactory ganha crossplay entre PC, PS5 e Xbox",
+      "resumo": "A Coffee Stain Studios lançou em 4 de novembro uma atualização que adiciona suporte a crossplay no Satisfactory entre Steam, Epic Games Store, PlayStation 5 e Xbox Series X/S, usando Epic Online Services. A mesma atualização trouxe servidores dedicados alugáveis em parceria com a Indifferent Broccoli.",
+      "tipo": "noticia",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC", "PS5", "Xbox Series"],
+      "tags": ["satisfactory", "crossplay", "atualizacao"],
+      "dataFato": "2026-11-04",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Shacknews", "url": "https://www.shacknews.com/article/151264/satisfactory-pc-console-crossplay-update", "dominio": "shacknews.com" },
+      "fontesSecundarias": [
+        { "nome": "SteamDB", "url": "https://steamdb.info/patchnotes/26281294/", "dominio": "steamdb.info" }
+      ],
+      "nota": 6,
+      "justificativa": "Atualização que amplia a base de jogadores conectados de um título popular de simulação/fábrica, de impacto moderado mas positivo para a comunidade.",
+      "pesquisador": "radar-lancamentos-internacionais"
+    }
+  ],
+  "tambemNoRadar": [
+    {
+      "slug": "tripwire-presents-expande-publishing-indies",
+      "titulo": "Tripwire Presents expande divisão de publishing focada em indies pequenos",
+      "resumo": "A Tripwire Presents, braço de publishing da Tripwire Interactive (subsidiária da Embracer), anunciou expansão do negócio para oferecer suporte escalável a desenvolvedores independentes menores, cobrindo pré-lançamento, Early Access e pós-lançamento. A iniciativa já lista cinco jogos, incluindo The Boss Gangster: Criminal Empire e Mars Attracts.",
+      "tipo": "noticia",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC"],
+      "tags": ["publisher", "embracer", "indie"],
+      "dataFato": "2026-11-04",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Game Developer", "url": "https://www.gamedeveloper.com/business/tripwire-interactive-expands-publishing-business-to-focus-on-smaller-developers-and-games", "dominio": "gamedeveloper.com" },
+      "fontesSecundarias": [
+        { "nome": "WorthPlaying", "url": "https://worthplaying.com/article/2026/11/4/news/151352-tripwire-presents-expands-publishing-business-in-support-of-smaller-independent-developers-and-games-introduces-five-titles/", "dominio": "worthplaying.com" }
+      ],
+      "nota": 5.5,
+      "justificativa": "Movimento corporativo relevante para o ecossistema indie, mas de impacto moderado frente aos destaques do dia.",
+      "pesquisador": "radar-empresas-internacionais"
+    },
+    {
+      "slug": "gen-g-libera-ash-efina-peri-valorant",
+      "titulo": "Gen.G libera Ash, Efina e o treinador peri em Valorant",
+      "resumo": "A Gen.G confirmou em 3 de novembro de 2026 a liberação do jogador Ash, da jogadora/analista Efina e do treinador peri, com os contratos expirando ao fim da temporada 2026. O movimento integra a onda de reestruturações de elencos de Valorant antes da temporada 2027.",
+      "tipo": "noticia",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC"],
+      "tags": ["valorant", "gen-g", "esports"],
+      "dataFato": "2026-11-03",
+      "janelaEstendida": false,
+      "fonte": { "nome": "VLR.gg", "url": "https://www.vlr.gg/784057/gen-g-releases-ash-efina-and-coach-peri", "dominio": "vlr.gg" },
+      "fontesSecundarias": [],
+      "nota": 5.2,
+      "justificativa": "Fato confirmado na fonte de referência da cena, mas de impacto menor que a reestruturação da Fnatic.",
+      "pesquisador": "radar-esports"
+    },
+    {
+      "slug": "world-of-warcraft-forever-lancamento-global",
+      "titulo": "World of Warcraft: Forever é lançado globalmente",
+      "resumo": "A Blizzard lançou mundialmente em 4 de novembro World of Warcraft: Forever, novo braço do MMO ambientado em Azeroth com progressão até o nível 60, três novas zonas, mais de 1.000 novas missões, nove masmorras e duas raides inéditas. O acesso está incluso para quem já possui assinatura ou tempo de jogo ativo do WoW.",
+      "tipo": "lancamento",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC"],
+      "tags": ["wow", "mmo", "blizzard"],
+      "dataFato": "2026-11-04",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Blizzard News", "url": "https://news.blizzard.com/en-us/article/24315820/world-of-warcraft-forever-goes-live-globally-november-4", "dominio": "news.blizzard.com" },
+      "fontesSecundarias": [
+        { "nome": "PC Gamer", "url": "https://www.pcgamer.com/games/world-of-warcraft/forever-release-date-launch-times/", "dominio": "pcgamer.com" }
+      ],
+      "nota": 5,
+      "justificativa": "Lançamento relevante de MMO consolidado, porém de nicho frente a outros destaques internacionais do dia.",
+      "pesquisador": "radar-lancamentos-internacionais"
+    },
+    {
+      "slug": "kitties-on-planets-afil-games-xbox",
+      "titulo": "Kitties on Planets, jogo brasileiro da Afil Games, chega ao Xbox",
+      "resumo": "A Afil Games, estúdio brasileiro independente, lançou Kitties on Planets em 3 de novembro de 2026 para Xbox Series X|S, Xbox One e PC. O jogo é um quebra-cabeça single-player com dois gatos astronautas de habilidades complementares.",
+      "tipo": "lancamento",
+      "escopo": "nacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["Xbox Series", "Xbox One", "PC"],
+      "tags": ["estudio-brasileiro", "indie", "xbox"],
+      "dataFato": "2026-11-03",
+      "janelaEstendida": true,
+      "fonte": { "nome": "Folha do Leste", "url": "https://folhadoleste.com.br/kitties-on-planets-jogo-brasileiro-gatos-astronautas-xbox/", "dominio": "folhadoleste.com.br" },
+      "fontesSecundarias": [
+        { "nome": "Xbox News PT-BR", "url": "https://news.xbox.com/pt-br/2026/10/30/proxima-semana-em-xbox-novos-jogos-de-2-a-6-de-novembro/", "dominio": "news.xbox.com" }
+      ],
+      "nota": 4.8,
+      "justificativa": "Lançamento efetivo de estúdio brasileiro, porém de baixo porte e cobertura limitada.",
+      "pesquisador": "radar-lancamentos-nacionais"
+    },
+    {
+      "slug": "solo-leveling-arise-overdrive-ps5-xbox",
+      "titulo": "Solo Leveling: Arise Overdrive chega a PS5 e Xbox Series",
+      "resumo": "A Netmarble lançou oficialmente as versões para PlayStation 5 e Xbox Series X|S de Solo Leveling: Arise Overdrive, com disponibilidade a partir de 4 de novembro (UTC). O jogo de ação baseado no webtoon oferece combate cooperativo para até quatro jogadores e o modo Monarch Combat.",
+      "tipo": "lancamento",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PS5", "Xbox Series"],
+      "tags": ["solo-leveling", "netmarble", "anime"],
+      "dataFato": "2026-11-04",
+      "janelaEstendida": false,
+      "fonte": { "nome": "GamesPress", "url": "https://www.gamespress.com/en-US/SOLO-LEVELING-ARISE-OVERDRIVE-NOW-AVAILABLE-ON-PLAYSTATION-5-AND-XBOX-", "dominio": "gamespress.com" },
+      "fontesSecundarias": [
+        { "nome": "Inven Global", "url": "https://www.invenglobal.com/articles/28113/solo-leveling-arise-overdrive-launches-on-consoles", "dominio": "invenglobal.com" }
+      ],
+      "nota": 4.5,
+      "justificativa": "Primeiro console port de franquia popular de webtoon/anime, relevância moderada para o público geral.",
+      "pesquisador": "radar-lancamentos-internacionais"
+    },
+    {
+      "slug": "voidbreaker-versao-1-0-game-pass",
+      "titulo": "VOID/BREAKER deixa o acesso antecipado e chega em versão 1.0",
+      "resumo": "O roguelite de tiro em primeira pessoa VOID/BREAKER, da Stubby Games e Playstack, saiu do acesso antecipado em 4 de novembro e lançou a versão 1.0 para PS5, Xbox Series X/S e PC, chegando também ao Xbox Game Pass no dia de lançamento.",
+      "tipo": "lancamento",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PS5", "Xbox Series", "PC"],
+      "tags": ["roguelite", "game-pass", "fps"],
+      "dataFato": "2026-11-04",
+      "janelaEstendida": false,
+      "fonte": { "nome": "VGChartz", "url": "https://www.vgchartz.com/article/469237/voidbreaker-launches-november-4-for-ps5-and-xbox-series-pc-and-game-pass/", "dominio": "vgchartz.com" },
+      "fontesSecundarias": [
+        { "nome": "WorthPlaying", "url": "https://worthplaying.com/article/2026/10/1/news/151130-voidbreaker-leaving-early-access-comes-to-ps5-xbox-series-xs-and-pc-in-november-details-launch-content-trailer/", "dominio": "worthplaying.com" }
+      ],
+      "nota": 4.3,
+      "justificativa": "Lançamento de jogo de nicho, relevante por entrar no Game Pass no dia 1, mas de alcance limitado.",
+      "pesquisador": "radar-lancamentos-internacionais"
+    }
+  ],
+  "descartados": [
+    { "titulo": "Xsolla confirma aquisição da plataforma GamePix", "motivo": "fonte principal (yelzkizi.org) inacessível e não reconhecida como veículo de imprensa; sem fontes secundárias e sem confirmação em busca externa" },
+    { "titulo": "Hex Seculum, novo RPG da brasileira Crit42 Studio, chega à Steam", "motivo": "repercussão e escala muito limitadas frente a outros lançamentos nacionais do dia; não entrou por critério de ranking, não por falta de fonte" },
+    { "titulo": "Gnome Miners, publicado pela brasileira The Bueno Lab", "motivo": "repercussão e escala muito limitadas; sem reviews ou cobertura além da própria loja" },
+    { "titulo": "Stamperor! The Jester's Decree, da Moon Mind Studio", "motivo": "data do fato (2026-11-05) fora da janela de referência (fecha em 2026-11-04 21h)" },
+    { "titulo": "Black Friday Nuuvem 2026", "motivo": "início da campanha em 2026-11-03 às 13h, fora da janela principal, e redundante com cobertura de Black Friday já contemplada pelo item da PlayStation Store" },
+    { "titulo": "Mayday: The Survival Island, da Pequi Studios", "motivo": "data do fato (2026-11-02) fora da janela estendida de 48h" },
+    { "titulo": "Campanha publicitária de GTA 6 em São Paulo", "motivo": "fato de marketing de baixo impacto editorial, sem novidade substancial sobre o jogo" },
+    { "titulo": "Final Fantasy XIV: Evercold abre pré-vendas", "motivo": "fato central (adiamento) ocorreu em 2026-10-31, fora da janela; abertura de pré-venda é evento secundário de baixo impacto" }
+  ]
+}
