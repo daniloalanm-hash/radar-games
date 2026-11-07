@@ -1,0 +1,314 @@
+{
+  "categoria": "games",
+  "data": "2026-11-06",
+  "geradoEm": "2026-11-06T21:30:00-03:00",
+  "janela": { "inicio": "2026-11-05T21:00:00-03:00", "fim": "2026-11-06T21:00:00-03:00" },
+  "observacao": null,
+  "itens": [
+    {
+      "posicao": 1,
+      "slug": "zelda-ocarina-of-time-remake-switch-2",
+      "titulo": "Remake de The Legend of Zelda: Ocarina of Time chega ao Switch 2",
+      "resumo": "A Nintendo lançou em 5 de novembro de 2026 o remake exclusivo de 'The Legend of Zelda: Ocarina of Time' para Switch 2, com visuais refeitos, dublagem completa, trilha orquestral e novo esquema de câmera e movimento. O jogo custa US$ 59,99 na versão digital e US$ 69,99 na física, e traz um recurso que reconhece melodias de ocarina cantaroladas no microfone do console.",
+      "tipo": "lancamento",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["Switch 2"],
+      "tags": ["nintendo", "remake", "exclusivo", "lancamento"],
+      "dataFato": "2026-11-05",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Gematsu", "url": "https://www.gematsu.com/2026/09/the-legend-of-zelda-ocarina-of-time-remake-launches-november-5", "dominio": "gematsu.com" },
+      "fontesSecundarias": [
+        { "nome": "Game Informer", "url": "https://gameinformer.com/nintendo-direct/2026/06/09/the-nintendo-switch-2-remake-of-the-legend-of-zelda-ocarina-of-time", "dominio": "gameinformer.com" },
+        { "nome": "Make Tech Easier", "url": "https://maketecheasier.com/zelda-ocarina-of-time-switch-2-remake/", "dominio": "maketecheasier.com" }
+      ],
+      "nota": 9.2,
+      "justificativa": "Lançamento de maior impacto da janela: remake de um dos jogos mais aclamados da história, exclusivo que ajuda a vender o novo console da Nintendo, com data, preço e detalhes de recursos confirmados em múltiplas fontes especializadas.",
+      "pesquisador": "radar-lancamentos-internacionais"
+    },
+    {
+      "posicao": 2,
+      "slug": "silver-lake-pif-negociam-compra-da-unity",
+      "titulo": "Silver Lake e PIF negociam compra bilionária da Unity Software",
+      "resumo": "A Reuters revelou que Silver Lake (que já detém cerca de 8% da Unity) e o fundo soberano saudita PIF mantiveram conversas recentes para tirar a Unity Software da bolsa, em transação avaliada em cerca de US$ 25 bilhões, acima do valor de mercado atual de US$ 21,5 bilhões. As ações da Unity saltaram mais de 15% após o relato; nenhum acordo foi fechado e a negociação segue preliminar, meses depois de o PIF concluir a compra da EA.",
+      "tipo": "noticia",
+      "escopo": "internacional",
+      "confiabilidade": "rumor",
+      "plataformas": [],
+      "tags": ["unity", "aquisicao", "m&a", "motor-de-jogo"],
+      "dataFato": "2026-11-05",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Reuters (via StreetInsider)", "url": "https://www.streetinsider.com/Reuters/Exclusive-Silver+Lake,+PIF+have+held+recent+talks+to+buy+gaming+software+provider+Unity,+sources+say/27301956.html", "dominio": "streetinsider.com" },
+      "fontesSecundarias": [
+        { "nome": "MassivelyOP", "url": "https://massivelyop.com/2026/11/06/saudi-arabian-investment-fund-and-silver-lake-are-reportedly-looking-to-buy-out-unity-next/", "dominio": "massivelyop.com" },
+        { "nome": "Yahoo Finance Singapore", "url": "https://sg.finance.yahoo.com/news/unity-shares-jump-report-takeover-005227947.html", "dominio": "sg.finance.yahoo.com" },
+        { "nome": "Kotaku", "url": "https://kotaku.com/unity-buyout-saudi-arabia-pif-ea-silver-lake-engine-controversy-2000754368", "dominio": "kotaku.com" }
+      ],
+      "nota": 8.8,
+      "justificativa": "Possível consolidação bilionária envolvendo o motor de jogo mais usado pela indústria indie global, com furo da Reuters e forte reação do mercado; penalizado levemente por ainda ser rumor sem acordo fechado.",
+      "pesquisador": "radar-empresas-internacionais"
+    },
+    {
+      "posicao": 3,
+      "slug": "ubisoft-oferta-arkane-lyon-microsoft",
+      "titulo": "Ubisoft faz oferta para comprar Arkane Lyon da Microsoft",
+      "resumo": "A Ubisoft apresentou proposta para adquirir a Arkane Lyon (Dishonored, Deathloop), estúdio que a Microsoft havia anunciado fechar em julho; ao menos três empresas disputam a aquisição, segundo a Bloomberg. O prazo original de 13 de novembro para decisão foi estendido em um mês, para meados de dezembro, e a Microsoft também avalia vender o estúdio para a própria gestão.",
+      "tipo": "noticia",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": [],
+      "tags": ["ubisoft", "microsoft", "aquisicao", "arkane"],
+      "dataFato": "2026-11-05",
+      "janelaEstendida": false,
+      "fonte": { "nome": "The FPS Review", "url": "https://www.thefpsreview.com/2026/11/05/ubisoft-has-reportedly-put-in-a-bid-to-buy-arkane-lyon-from-microsoft/", "dominio": "thefpsreview.com" },
+      "fontesSecundarias": [
+        { "nome": "Games.gg", "url": "https://games.gg/news/ubisoft-makes-bid-for-potential-arkane-lyon-acquisition/", "dominio": "games.gg" },
+        { "nome": "Xboxygen", "url": "https://www.xboxygen.com/News/372963-ubisoft-veut-racheter-arkane-lyon-a-xbox-au-moins-deux-autres-offres-sont-sur-la-table", "dominio": "xboxygen.com" }
+      ],
+      "nota": 7.8,
+      "justificativa": "Movimento corporativo concreto sobre o destino de um estúdio histórico, com prazos e disputa entre múltiplas empresas verificáveis em fontes independentes.",
+      "pesquisador": "radar-empresas-internacionais"
+    },
+    {
+      "posicao": 4,
+      "slug": "times-brasileiros-major-osaka-rainbow-six-siege",
+      "titulo": "Cinco times brasileiros disputam o Major Osaka de Rainbow Six Siege",
+      "resumo": "O Major Osaka de Tom Clancy's Rainbow Six Siege, organizado pela Ubisoft/BLAST, começou em 5 de novembro de 2026 no Japão, reunindo as 20 melhores equipes do segundo semestre. Cinco organizações brasileiras disputam o título: FaZe Clan, Fluxo W7M, LOS, Team Liquid Alienware e Dplus, com o torneio servindo também como última chance de classificação direta para o Six Invitational 2027, sediado em São Paulo.",
+      "tipo": "esports",
+      "escopo": "nacional",
+      "confiabilidade": "confirmado",
+      "plataformas": [],
+      "tags": ["rainbow-six-siege", "esports", "ubisoft", "brasil"],
+      "dataFato": "2026-11-05",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Arkade", "url": "https://arkade.com.br/major-osaka-de-tom-clancys-rainbow-six-siege-comecou-nesta-quinta-com-cinco-times-brasileiros", "dominio": "arkade.com.br" },
+      "fontesSecundarias": [
+        { "nome": "Strafe", "url": "https://www.strafe.com/br/news/read/major-de-osaka-de-r6-comeca-com-fa-ze-favorita-e-cinco-elencos-brasileiros/", "dominio": "strafe.com" },
+        { "nome": "On Poplife", "url": "https://onpoplife.com.br/rainbow-six-siege-cinco-equipes-brasileiras-disputam-o-titulo-do-major-osaka-2026-no-japao/", "dominio": "onpoplife.com.br" }
+      ],
+      "nota": 7.5,
+      "justificativa": "Grande representatividade brasileira em torneio internacional relevante, com classificação direta ao Six Invitational 2027 em São Paulo em jogo, fato bem documentado em fontes nacionais.",
+      "pesquisador": "radar-empresas-nacionais"
+    },
+    {
+      "posicao": 5,
+      "slug": "sony-eleva-projecao-lucro-playstation",
+      "titulo": "Sony eleva projeção anual após lucro recorde da divisão PlayStation",
+      "resumo": "A Sony divulgou resultados do segundo trimestre fiscal com lucro operacional total de ¥622,3 bilhões (alta de 45%) e elevou a previsão anual de lucro operacional da divisão de Jogos e Serviços de Rede em ¥40 bilhões, para ¥700 bilhões, citando forte desempenho de software de terceiros e serviços de rede. A previsão geral da empresa também subiu, com vendas anuais projetadas em ¥13 trilhões.",
+      "tipo": "noticia",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PS5"],
+      "tags": ["sony", "playstation", "financeiro", "resultados"],
+      "dataFato": "2026-11-05",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Securities.io", "url": "https://www.securities.io/sony-raises-annual-forecast-as-q2-operating-profit-jumps-45/", "dominio": "securities.io" },
+      "fontesSecundarias": [
+        { "nome": "Grafa", "url": "https://grafa.com/en/news/united-states/sony-q2-fy2026-earnings-profit-forecast-raised", "dominio": "grafa.com" },
+        { "nome": "GuruFocus", "url": "https://www.gurufocus.com/news/9174050/sony-group-sony-reports-44-surge-in-q2-net-profit-raises-annual-forecast", "dominio": "gurufocus.com" }
+      ],
+      "nota": 7.3,
+      "justificativa": "Resultado financeiro oficial e datado de uma das maiores fabricantes de hardware do mundo, com impacto direto na estratégia da divisão PlayStation.",
+      "pesquisador": "radar-empresas-internacionais"
+    },
+    {
+      "posicao": 6,
+      "slug": "nintendo-switch-2-vendas-caem-primeiro-semestre",
+      "titulo": "Nintendo reporta queda de 37,4% nas vendas do Switch 2 no semestre",
+      "resumo": "A Nintendo divulgou relatório financeiro mostrando que o Switch 2 vendeu 6,49 milhões de unidades no primeiro semestre do ano fiscal (até 30/09), queda de 37,4% frente aos 10,36 milhões do mesmo período do ano anterior, atribuída ao aumento de preço e custos de memória. O console acumula 26,35 milhões de unidades vendidas desde o lançamento, enquanto as vendas de software do Switch 2 cresceram 18,8%.",
+      "tipo": "noticia",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["Switch 2"],
+      "tags": ["nintendo", "switch-2", "financeiro", "hardware"],
+      "dataFato": "2026-11-05",
+      "janelaEstendida": false,
+      "fonte": { "nome": "My Nintendo News", "url": "https://mynintendonews.com/2026/11/05/nintendo-switch-2-has-now-sold-26-35-million-and-nintendo-switch-has-sold-157-20-million/", "dominio": "mynintendonews.com" },
+      "fontesSecundarias": [
+        { "nome": "Nintendo Life", "url": "https://www.nintendolife.com/news/2026/11/switch-2-surpasses-26-million-units-sold-hardware-sales-down-by-37-4percent", "dominio": "nintendolife.com" },
+        { "nome": "TechSpot", "url": "https://www.techspot.com/news/114458-nintendo-switch-2-sales-down-41-500-price.html", "dominio": "techspot.com" }
+      ],
+      "nota": 7.1,
+      "justificativa": "Dado financeiro oficial sobre desempenho de hardware de uma das 'Big Three', com implicações estratégicas sobre preço e custo de componentes; relevante, mas de impacto mais analítico que imediato para o público geral.",
+      "pesquisador": "radar-empresas-internacionais"
+    },
+    {
+      "posicao": 7,
+      "slug": "furia-eliminada-iem-beijing-2026",
+      "titulo": "FURIA é eliminada da IEM Beijing 2026 nas quartas de final",
+      "resumo": "A equipe brasileira FURIA perdeu para a BetBoom por 2 a 1 nas quartas de final da IEM Beijing 2026 de CS2, em 6 de novembro, com parciais de 13-5 (Ancient, BetBoom), 13-10 (Dust2, FURIA) e 16-14 (Nuke, BetBoom na prorrogação). A FURIA terminou na 5ª/6ª colocação e recebeu US$ 87,5 mil do prize pool total de US$ 1,25 milhão, encerrando uma sequência de cinco vitórias seguidas sobre o adversário.",
+      "tipo": "esports",
+      "escopo": "nacional",
+      "confiabilidade": "confirmado",
+      "plataformas": [],
+      "tags": ["furia", "cs2", "esports", "iem-beijing"],
+      "dataFato": "2026-11-06",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Mixvale", "url": "https://www.mixvale.com.br/2026/11/06/iem-beijing-2026-furia-perde-para-a-betboom-por-2-a-1-e-cai-nas-quartas-no-torneio-de-cs2/", "dominio": "mixvale.com.br" },
+      "fontesSecundarias": [
+        { "nome": "Draft5", "url": "https://draft5.gg/partida/47382-FURIA-vs-BETBOOM-IEM-Beijing-2026", "dominio": "draft5.gg" },
+        { "nome": "HLTV", "url": "https://www.hltv.org/matches/2400007/furia-vs-betboom-iem-beijing-2026", "dominio": "hltv.org" }
+      ],
+      "nota": 7.0,
+      "justificativa": "Resultado de esports de equipe brasileira de destaque em torneio internacional de peso, com fato confirmado em múltiplas fontes especializadas; boa relevância para a cota de conteúdo nacional.",
+      "pesquisador": "radar-lancamentos-nacionais"
+    },
+    {
+      "posicao": 8,
+      "slug": "blg-elimina-dplus-kia-semifinal-worlds-2026",
+      "titulo": "BLG varre Dplus KIA e avança à semifinal do Worlds 2026",
+      "resumo": "Bilibili Gaming (BLG) venceu Dplus KIA por 3-0 nas quartas de final do Worlds 2026 de League of Legends, eliminando o quarto cabeça de chave da LCK, que havia chegado invicto à fase. BLG se junta a Gen.G e Invictus Gaming na semifinal, com o adversário definido entre T1 e Karmine Corp.",
+      "tipo": "esports",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": [],
+      "tags": ["league-of-legends", "worlds-2026", "esports"],
+      "dataFato": "2026-11-06",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Yahoo Sports", "url": "https://sports.yahoo.com/articles/worlds-2026-bilibili-gaming-sweep-003420700.html", "dominio": "sports.yahoo.com" },
+      "fontesSecundarias": [
+        { "nome": "Sheep Esports", "url": "https://www.sheepesports.com/en/articles/blg-sweep-dplus-kia-to-reach-the-worlds-2026-semifinals/en", "dominio": "sheepesports.com" },
+        { "nome": "Dot Esports", "url": "https://dotesports.com/league-of-legends/news/worlds-2026-knockout-day-3-results", "dominio": "dotesports.com" }
+      ],
+      "nota": 6.9,
+      "justificativa": "Resultado de peso no maior torneio de League of Legends do ano, com confirmação em múltiplas fontes especializadas em esports.",
+      "pesquisador": "radar-esports"
+    },
+    {
+      "posicao": 9,
+      "slug": "fabula-rasa-arvore-adiado-dezembro",
+      "titulo": "Fabula Rasa, da ARVORE, é adiado de novembro para 3 de dezembro",
+      "resumo": "O estúdio brasileiro ARVORE anunciou em 6 de novembro o adiamento do lançamento de Fabula Rasa, jogo de realidade virtual com personagens movidos por IA, que sairia em 12 de novembro e passou para 3 de dezembro de 2026. Segundo a desenvolvedora, a mudança visa dar à equipe mais tempo para aprimorar a experiência antes do lançamento ao público.",
+      "tipo": "noticia",
+      "escopo": "nacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["Meta Quest 3", "Meta Quest 3S"],
+      "tags": ["arvore", "realidade-virtual", "adiamento", "brasil"],
+      "dataFato": "2026-11-06",
+      "janelaEstendida": false,
+      "fonte": { "nome": "J Wave", "url": "https://www.jwave.com.br/2026/11/fabula-rasa-e-adiado-para-dezembro-jogo-brasileiro-de-realidade-virtual-ganha-nova-data/", "dominio": "jwave.com.br" },
+      "fontesSecundarias": [],
+      "nota": 6.5,
+      "justificativa": "Fato concreto e datado envolvendo estúdio brasileiro relevante no cenário de realidade virtual, confirmado diretamente pela fonte, ainda que de alcance mais nichado.",
+      "pesquisador": "radar-lancamentos-nacionais"
+    },
+    {
+      "posicao": 10,
+      "slug": "stellar-blade-complete-edition-switch-2-bayonetta",
+      "titulo": "Stellar Blade: Complete Edition chega ao Switch 2 com DLC de Bayonetta",
+      "resumo": "'Stellar Blade: Complete Edition' foi lançado em 5 de novembro de 2026 para Nintendo Switch 2, trazendo o jogo completo em cartucho, as colaborações prévias com Nier: Automata e Goddess of Victory: Nikke, além de um novo DLC de colaboração com Bayonetta (traje 'nano suit') disponível simultaneamente em PS5 e PC. O preço é de US$ 59,99.",
+      "tipo": "lancamento",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["Switch 2", "PS5", "PC"],
+      "tags": ["stellar-blade", "lancamento", "dlc", "crossover"],
+      "dataFato": "2026-11-05",
+      "janelaEstendida": false,
+      "fonte": { "nome": "RPG Site", "url": "https://www.rpgsite.net/news/21333-stellar-blade-complete-edition-switch-2-release-date-bayonetta-dlc", "dominio": "rpgsite.net" },
+      "fontesSecundarias": [
+        { "nome": "GoNintendo", "url": "https://gonintendo.com/contents/64764-stellar-blade-complete-edition-hits-switch-2-nov-5th-2026-with-bayonetta-nano-suit", "dominio": "gonintendo.com" },
+        { "nome": "GamesPress", "url": "https://www.gamespress.com/STELLAR-BLADE-COMPLETE-EDITION-CONFIRMS-NOVEMBER-5-RELEASE-DATE-ON-NIN", "dominio": "gamespress.com" }
+      ],
+      "nota": 6.8,
+      "justificativa": "Lançamento multiplataforma relevante com colaboração inédita (traje de Bayonetta), afetando três plataformas simultaneamente, bem documentado em fontes especializadas.",
+      "pesquisador": "radar-lancamentos-internacionais"
+    }
+  ],
+  "tambemNoRadar": [
+    {
+      "slug": "bodycam-reissad-atualizacao-modo-zumbi",
+      "titulo": "Bodycam, da Reissad Studio, anuncia atualização v0.9 com retorno do modo Zumbi",
+      "resumo": "A Reissad Studio, estúdio brasileiro desenvolvedor de Bodycam, anunciou em 5 de novembro a atualização v0.9 'The Dead & Damned', que chega em 13 de novembro com retorno do modo Zumbi, novo modo 'Zombie Trenches', cooperativo para até 4 jogadores e integração com o simulador de drones FPV TRYP. O jogo está em Early Access no Steam para PC.",
+      "tipo": "noticia",
+      "escopo": "nacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC"],
+      "tags": ["bodycam", "early-access", "brasil", "atualizacao"],
+      "dataFato": "2026-11-05",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Folha do Leste", "url": "https://folhadoleste.com.br/bodycam-modo-zumbi-atualizacao-novembro-2026/", "dominio": "folhadoleste.com.br" },
+      "fontesSecundarias": [],
+      "nota": 6.0,
+      "justificativa": "Anúncio concreto de atualização de estúdio brasileiro em jogo popular de Early Access, mas de alcance mais nichado frente aos destaques do dia.",
+      "pesquisador": "radar-lancamentos-nacionais"
+    },
+    {
+      "slug": "titan-esports-dispensa-elenco-valorant",
+      "titulo": "Titan Esports Club dispensa jogadores e comissão técnica de Valorant",
+      "resumo": "A Titan Esports Club anunciou a saída dos jogadores Haodong e lucas, além do head coach AfteR, do assistente 3water e do coach Muggle, após eliminação na Semana 2 do China Threshold. A equipe perdeu a chance de parceria convidada na VCT CN 2027 e agora disputará a VCNT, precisando de top-2 para acessar o China Kickoff.",
+      "tipo": "noticia",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": [],
+      "tags": ["valorant", "esports", "reestruturacao"],
+      "dataFato": "2026-11-06",
+      "janelaEstendida": false,
+      "fonte": { "nome": "VLR.gg", "url": "https://www.vlr.gg/785473/titan-esports-club-parts-with-haodong-lucas-after-3water-muggle", "dominio": "vlr.gg" },
+      "fontesSecundarias": [],
+      "nota": 5.8,
+      "justificativa": "Reestruturação relevante de uma organização chinesa de Valorant, mas de alcance mais regional e menor apelo para o público brasileiro.",
+      "pesquisador": "radar-esports"
+    },
+    {
+      "slug": "free-fire-world-series-2026-bangkok",
+      "titulo": "Free Fire World Series Global Finals 2026 começa em Bangkok",
+      "resumo": "A fase eliminatória (knockout) da Free Fire World Series Global Finals 2026 teve início em Bangkok, Tailândia, reunindo 24 times classificados de 11 torneios regionais, com premiação total de US$ 1,2 milhão. O evento, que vai até 28 de novembro, é considerado o principal campeonato mundial do jogo neste ano.",
+      "tipo": "esports",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["Mobile"],
+      "tags": ["free-fire", "esports", "mobile"],
+      "dataFato": "2026-11-06",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Liquipedia", "url": "https://liquipedia.net/freefire/Free_Fire_World_Series/2026", "dominio": "liquipedia.net" },
+      "fontesSecundarias": [
+        { "nome": "Free Fire Mania", "url": "https://www.freefiremania.com.br/news/free-fire-reveals-official-schedule-for-the-2026-world-championship.html", "dominio": "freefiremania.com.br" }
+      ],
+      "nota": 5.7,
+      "justificativa": "Abertura de um dos maiores campeonatos mundiais de Free Fire, com forte presença histórica de times brasileiros, mas sem fato específico de destaque nacional nesta data.",
+      "pesquisador": "radar-esports"
+    },
+    {
+      "slug": "ps-plus-premium-metro-redux-bonus-novembro",
+      "titulo": "PS Plus Premium recebe Metro Redux como bônus surpresa de novembro",
+      "resumo": "A versão nativa para PS5 de 'Metro Redux' (bundle remasterizado de Metro 2033 e Metro: Last Light) foi adicionada sem anúncio prévio ao catálogo PS Plus Premium, notada pelos assinantes nos primeiros dias de novembro de 2026. A adição antecede o lançamento de Metro 2039, previsto para fevereiro de 2027.",
+      "tipo": "noticia",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PS5"],
+      "tags": ["playstation", "ps-plus", "catalogo"],
+      "dataFato": "2026-11-06",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Push Square", "url": "https://www.pushsquare.com/news/2026/11/bonus-ps-plus-premium-game-is-out-now-for-ps5", "dominio": "pushsquare.com" },
+      "fontesSecundarias": [
+        { "nome": "OpenCritic", "url": "https://opencritic.com/news/39070/surprise-bonus-games-added-to-ps-plus-premium-for-november-2026", "dominio": "opencritic.com" },
+        { "nome": "Game Rant", "url": "https://gamerant.com/ps-plus-premium-november-2026-games-metro-redux/", "dominio": "gamerant.com" }
+      ],
+      "nota": 5.5,
+      "justificativa": "Relevante para assinantes do PS Plus Premium, mas é atualização discreta de catálogo sem anúncio oficial, de impacto moderado.",
+      "pesquisador": "radar-lancamentos-internacionais"
+    },
+    {
+      "slug": "escape-academy-2-lancamento-game-pass",
+      "titulo": "Escape Academy 2: Back 2 School é lançado para PC, PS5 e Xbox com chegada ao Game Pass",
+      "resumo": "'Escape Academy 2: Back 2 School' foi lançado em 5 de novembro de 2026 para PC (Steam), PS5 e Xbox Series, trazendo uma experiência de escape room em mundo aberto com suporte a cooperativo de dois jogadores local e online, chegando simultaneamente ao catálogo do Xbox Game Pass.",
+      "tipo": "lancamento",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC", "PS5", "Xbox Series"],
+      "tags": ["game-pass", "lancamento", "cooperativo"],
+      "dataFato": "2026-11-05",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Xbox Wire", "url": "https://news.xbox.com/en-us/2026/11/03/xbox-game-pass-november-2026-wave-1/", "dominio": "news.xbox.com" },
+      "fontesSecundarias": [
+        { "nome": "Nux Game Guides", "url": "https://nuxgameguides.com/originals/all-november-2026-video-game-releases/", "dominio": "nuxgameguides.com" }
+      ],
+      "nota": 5.3,
+      "justificativa": "Lançamento de nicho com boa cobertura multiplataforma e presença em serviço de assinatura relevante, mas impacto moderado frente aos grandes destaques da semana.",
+      "pesquisador": "radar-lancamentos-internacionais"
+    }
+  ],
+  "descartados": [
+    { "titulo": "Xbox Game Pass recebe nova leva de jogos na primeira semana de novembro", "motivo": "Mesma história do lançamento de Escape Academy 2 no Game Pass, tratada como item único em 'tambemNoRadar' para evitar duplicata." }
+  ]
+}
