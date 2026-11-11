@@ -1,0 +1,347 @@
+{
+  "categoria": "games",
+  "data": "2026-11-10",
+  "geradoEm": "2026-11-10T21:30:00-03:00",
+  "janela": { "inicio": "2026-11-09T21:00:00-03:00", "fim": "2026-11-10T21:00:00-03:00" },
+  "observacao": null,
+  "itens": [
+    {
+      "posicao": 1,
+      "slug": "fortis-games-fecha-440-demissoes-oktagon",
+      "titulo": "Fortis Games encerra operações e demite 440 pessoas, incluindo a brasileira Oktagon Games",
+      "resumo": "A publisher mobile Fortis Games, formada em 2022 por Steven Chiang, Shawn Foust e Calvin Lau com financiamento da Las Vegas Sands Corp, encerrou abruptamente suas operações em 10/11/2026 após a Sands cortar o investimento e rescindir todos os contratos mundialmente. Cerca de 440 funcionários perdem o emprego, incluindo os da brasileira Oktagon Games (Londrina, PR), uma das três fundadoras da empresa, e jogos como Twilight Towers, Bloom & Breakfast e Mergemon Wilds são descontinuados.",
+      "tipo": "noticia",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["Mobile"],
+      "tags": ["publisher", "demissoes", "fechamento", "brasil"],
+      "dataFato": "2026-11-10",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Insider Gaming", "url": "https://insider-gaming.com/fortis-games-shuts-down-440-jobs-expected-lost/", "dominio": "insider-gaming.com" },
+      "fontesSecundarias": [
+        { "nome": "Drops de Jogos (UAI)", "url": "https://dropsdejogos.uai.com.br/noticias/industria/estudio-considerado-global-fortis-games-fechou-provocando-a-demissao-de-440-pessoas", "dominio": "dropsdejogos.uai.com.br" },
+        { "nome": "GamesBeat", "url": "https://gamesbeat.com/fortis-games-closes-down-affecting-440-jobs/", "dominio": "gamesbeat.com" },
+        { "nome": "Mobile Gamer Biz", "url": "https://mobilegamer.biz/fortis-games-appears-to-have-closed-with-over-400-staff-likely-affected/", "dominio": "mobilegamer.biz" }
+      ],
+      "nota": 8.8,
+      "justificativa": "Fechamento abrupto de publisher global com forte impacto no mercado mobile e repercussão direta no Brasil, via estúdio de Londrina (PR) entre os afetados. Múltiplas fontes confirmam o fato e o volume de demissões.",
+      "pesquisador": "radar-empresas-internacionais"
+    },
+    {
+      "posicao": 2,
+      "slug": "fluxo-pausa-divisao-counter-strike",
+      "titulo": "Fluxo pausa divisão de Counter-Strike e libera parte do elenco",
+      "resumo": "A organização brasileira Fluxo anunciou oficialmente a pausa de suas operações em CS2, mantendo sob contrato apenas exit, dav1deuS e o coach Juve, enquanto zevy, kye e Ltz foram liberados. A decisão cita mudanças no formato e remuneração dos Majors da Valve, queda nos ganhos de stickers e a perda do patrocinador Lottu, após uma temporada sem classificação para Majors.",
+      "tipo": "esports",
+      "escopo": "nacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC"],
+      "tags": ["counter-strike", "esports", "organizacao", "brasil"],
+      "dataFato": "2026-11-10",
+      "janelaEstendida": false,
+      "fonte": { "nome": "HLTV", "url": "https://www.hltv.org/news/45962/official-fluxo-pauses-cs-division", "dominio": "hltv.org" },
+      "fontesSecundarias": [
+        { "nome": "Dust2", "url": "https://www.dust2.com.br/noticias/79808/fluxo-desmonta-time-e-vai-pausar-investimento-no-counter-strike", "dominio": "dust2.com.br" },
+        { "nome": "Dust2", "url": "https://www.dust2.com.br/noticias/79813/fluxo-confirma-pausa-e-explica-situacao-de-jogadores", "dominio": "dust2.com.br" }
+      ],
+      "nota": 8.3,
+      "justificativa": "Movimento relevante na cena brasileira de CS2, confirmado por fonte oficial (HLTV) e com forte repercussão nacional, reforçando a cota de conteúdo nacional de qualidade.",
+      "pesquisador": "radar-esports"
+    },
+    {
+      "posicao": 3,
+      "slug": "gta-6-trailer-dualsense-pre-carregamento",
+      "titulo": "GTA 6 ganha trailer com recursos exclusivos do DualSense e libera pré-carregamento",
+      "resumo": "A PlayStation divulgou novo trailer de Grand Theft Auto VI destacando recursos exclusivos do DualSense no PS5, como feedback háptico em combate, vibração contextual e transmissão de comunicações policiais pelo alto-falante do controle. A Sony também liberou o pré-carregamento do jogo, que chega em 19 de novembro.",
+      "tipo": "noticia",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PS5"],
+      "tags": ["gta6", "rockstar", "playstation", "lancamento"],
+      "dataFato": "2026-11-10",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Video Games Chronicle", "url": "https://www.videogameschronicle.com/news/new-gta-6-trailer-showcases-ps5-exclusive-dualsense-features/", "dominio": "videogameschronicle.com" },
+      "fontesSecundarias": [],
+      "nota": 8.5,
+      "justificativa": "GTA 6 é o lançamento mais aguardado do ano; novo material oficial a dez dias do lançamento tem altíssimo interesse do público gamer, com fonte de alto peso editorial.",
+      "pesquisador": "radar-lancamentos-internacionais"
+    },
+    {
+      "posicao": 4,
+      "slug": "sony-cancela-fairgames-haven-studios",
+      "titulo": "Sony cancela o shooter live-service Fairgame$, mas Haven Studios é mantida sem demissões",
+      "resumo": "A Sony Interactive Entertainment cancelou Fairgame$, shooter multiplayer da Haven Studios revelado no PlayStation Showcase de 2023, após resultados mistos de feedback e retenção em testes beta recentes. A Haven Studios não terá cortes de emprego e passará a funcionar como equipe de suporte a outros projetos da PlayStation Studios.",
+      "tipo": "noticia",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PS5", "PC"],
+      "tags": ["playstation", "cancelamento", "live-service"],
+      "dataFato": "2026-11-10",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Push Square", "url": "https://www.pushsquare.com/news/2026/11/sony-cancels-fairgames-after-years-of-work-on-ps5-live-service-shooter", "dominio": "pushsquare.com" },
+      "fontesSecundarias": [
+        { "nome": "Bloomberg", "url": "https://www.bloomberg.com/news/articles/2026-11-10/playstation-cancels-online-shooting-title-fairgames", "dominio": "bloomberg.com" },
+        { "nome": "Gematsu", "url": "https://www.gematsu.com/2026/11/fairgame-canceled", "dominio": "gematsu.com" }
+      ],
+      "nota": 7.6,
+      "justificativa": "Mais um cancelamento de live-service na Sony após anos de desenvolvimento, confirmado por múltiplas fontes de peso, incluindo Bloomberg.",
+      "pesquisador": "radar-empresas-internacionais"
+    },
+    {
+      "posicao": 5,
+      "slug": "ubisoft-disputa-compra-arkane-studios",
+      "titulo": "Ubisoft entra na disputa por comprar a Arkane Studios da Microsoft",
+      "resumo": "A Microsoft busca vender a Arkane Studios (Dishonored, Marvel's Blade) e recebeu ao menos três propostas, incluindo da Ubisoft, segundo reportagem de Jason Schreier na Bloomberg. O prazo para fechar negócio foi prorrogado de 13 de novembro para 13 de dezembro de 2026, com expectativa de que a Arkane conclua Marvel's Blade sob o novo proprietário.",
+      "tipo": "noticia",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": [],
+      "tags": ["microsoft", "ubisoft", "aquisicao", "arkane"],
+      "dataFato": "2026-11-10",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Push Square", "url": "https://www.pushsquare.com/news/2026/11/ubisoft-one-of-multiple-companies-to-bid-for-dishonored-dev-arkane", "dominio": "pushsquare.com" },
+      "fontesSecundarias": [],
+      "nota": 7.4,
+      "justificativa": "Movimento relevante no mercado de aquisições de estúdios AAA, com reportagem apoiada em furo da Bloomberg (Jason Schreier).",
+      "pesquisador": "radar-empresas-internacionais"
+    },
+    {
+      "posicao": 6,
+      "slug": "skydance-games-demissoes-warner-bros",
+      "titulo": "Skydance Games confirma demissões após fusão com Warner Bros. Discovery",
+      "resumo": "Pouco mais de um mês após a fusão entre Paramount/Skydance e Warner Bros. Discovery, a divisão combinada Skydance Games confirmou uma rodada de demissões e anunciou que vai reduzir a escala de alguns projetos. Publicações de funcionários demitidos indicam ao menos 25 pessoas afetadas na área de ambientação (environment art).",
+      "tipo": "noticia",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": [],
+      "tags": ["demissoes", "warner-bros", "skydance", "fusao"],
+      "dataFato": "2026-11-10",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Shacknews", "url": "https://www.shacknews.com/article/151306/skydance-games-layoffs", "dominio": "shacknews.com" },
+      "fontesSecundarias": [
+        { "nome": "Deadline", "url": "https://deadline.com/2026/11/skydance-games-layoffs-1237217870/", "dominio": "deadline.com" },
+        { "nome": "Variety", "url": "https://variety.com/2026/gaming/news/skydance-games-warner-bros-layoffs-1236943276/", "dominio": "variety.com" }
+      ],
+      "nota": 7.2,
+      "justificativa": "Mais um episódio de instabilidade corporativa pós-fusão na indústria, com cobertura ampla por veículos de peso (Deadline, Variety).",
+      "pesquisador": "radar-lancamentos-internacionais"
+    },
+    {
+      "posicao": 7,
+      "slug": "furia-drop-house-neymar-kings-league",
+      "titulo": "FURIA lança \"Drop House\" com itens usados por Neymar na Kings League",
+      "resumo": "A FURIA lançou em 10/11/2026 o projeto \"Drop House\", vendendo peças de roupa usadas por Neymar (presidente do time) em edições limitadas disponíveis por apenas 24 horas, com produção da JFR Lab. O primeiro item, uma camiseta branca a R$ 339, foi revelado durante a vitória da Furia FC por 7x3 sobre a Dibrados na Kings Cup Brazil 2026, e os lançamentos seguirão semanalmente até o fim do torneio.",
+      "tipo": "noticia",
+      "escopo": "nacional",
+      "confiabilidade": "confirmado",
+      "plataformas": [],
+      "tags": ["furia", "kings-league", "neymar", "marketing"],
+      "dataFato": "2026-11-10",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Itatiaia", "url": "https://www.itatiaia.com.br/esportes/esports/furia-lanca-drop-house-com-pecas-usadas-por-neymar-a-venda-por-24-horas/", "dominio": "itatiaia.com.br" },
+      "fontesSecundarias": [],
+      "nota": 6.8,
+      "justificativa": "Ação de marketing de alto apelo popular que mistura esports e entretenimento, reforçando presença nacional no radar.",
+      "pesquisador": "radar-empresas-nacionais"
+    },
+    {
+      "posicao": 8,
+      "slug": "football-manager-27-game-pass",
+      "titulo": "Football Manager 27 é lançado com entrada simultânea no Xbox Game Pass",
+      "resumo": "Football Manager 27 foi lançado em 10 de novembro de 2026 para PC, PS5 e Xbox Series X|S, chegando no mesmo dia ao Xbox Game Pass Ultimate e PC Game Pass. É a quinta entrada consecutiva da franquia a debutar diretamente no serviço de assinatura da Microsoft.",
+      "tipo": "lancamento",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC", "PS5", "Xbox Series X"],
+      "tags": ["football-manager", "game-pass", "lancamento"],
+      "dataFato": "2026-11-10",
+      "janelaEstendida": false,
+      "fonte": { "nome": "The Xbox Hub", "url": "https://www.thexboxhub.com/football-manager-27-console-kicks-off-on-xbox-game-pass-day-one/", "dominio": "thexboxhub.com" },
+      "fontesSecundarias": [
+        { "nome": "Metacritic", "url": "https://www.metacritic.com/game/football-manager-27/", "dominio": "metacritic.com" }
+      ],
+      "nota": 6.9,
+      "justificativa": "Lançamento de franquia popular com forte presença multiplataforma e entrada direta no Game Pass, de interesse amplo do público gamer.",
+      "pesquisador": "radar-lancamentos-internacionais"
+    },
+    {
+      "posicao": 9,
+      "slug": "pgl-evento-2027-mongolia",
+      "titulo": "PGL muda evento de CS2 de 2027 da China para a Mongólia",
+      "resumo": "A PGL anunciou a realocação de seu quarto evento de CS2 em 2027, originalmente previsto para a China, para Ulaanbaatar, na Mongólia, com autorização especial da Valve. O torneio distribuirá US$ 1 milhão em prêmios mais US$ 300 mil em bônus de ranking VRS, reunindo 16 equipes entre 17 e 25 de abril de 2027.",
+      "tipo": "esports",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC"],
+      "tags": ["counter-strike", "pgl", "esports", "calendario"],
+      "dataFato": "2026-11-10",
+      "janelaEstendida": false,
+      "fonte": { "nome": "HLTV", "url": "https://www.hltv.org/news/45959/pgl-moves-2027-event-from-china-to-mongolia", "dominio": "hltv.org" },
+      "fontesSecundarias": [
+        { "nome": "Dust2", "url": "https://www.dust2.us/news/79823/pgl-announces-2027-1-million-tournament-in-mongolia", "dominio": "dust2.us" },
+        { "nome": "TalkEsport", "url": "https://www.talkesport.com/news/cs2/pgl-ulaanbaatar-2027-cs2-mongolia-china-move/", "dominio": "talkesport.com" }
+      ],
+      "nota": 6.3,
+      "justificativa": "Notícia relevante para o calendário competitivo de CS2 em 2027, confirmada por fonte primária do cenário (HLTV) e replicada por outros veículos especializados.",
+      "pesquisador": "radar-esports"
+    },
+    {
+      "posicao": 10,
+      "slug": "cblol-2026-novo-formato-tres-etapas",
+      "titulo": "CBLOL 2026 confirma três etapas e novo formato após fim da LTA Sul",
+      "resumo": "A Riot Games detalhou a reestruturação do CBLOL para 2026 como liga independente após o fim da Liga das Américas (LTA), mantendo oito equipes e adotando três etapas anuais: a \"Copa CBLOL\" (MD1 com playoffs em double elimination) e duas etapas seguintes em round-robin MD3 com Fearless Draft. O novo calendário aumenta em 57% o número total de partidas em relação ao Split 1 de 2025.",
+      "tipo": "noticia",
+      "escopo": "nacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC"],
+      "tags": ["cblol", "league-of-legends", "riot-games", "formato"],
+      "dataFato": "2026-11-09",
+      "janelaEstendida": true,
+      "fonte": { "nome": "LoL Esports", "url": "https://lolesports.com/pt-BR/news/tudo-sobre-o-cblol-2026", "dominio": "lolesports.com" },
+      "fontesSecundarias": [
+        { "nome": "Itatiaia", "url": "https://www.itatiaia.com.br/esportes/esports/o-cblol-vai-voltar-em-2026-e-dar-fim-a-lta-sul-veja-o-que-sabemos/", "dominio": "itatiaia.com.br" },
+        { "nome": "Mais Esports", "url": "https://maisesports.com.br/cblol-2026-riot-eliminara-o-torneio-cross-conference-entre-sul-e-norte", "dominio": "maisesports.com.br" }
+      ],
+      "nota": 6.1,
+      "justificativa": "Mudança estrutural relevante para a principal liga nacional de League of Legends, confirmada por fonte oficial da Riot Games; completa a cota de conteúdo nacional no TOP 10.",
+      "pesquisador": "radar-esports"
+    }
+  ],
+  "tambemNoRadar": [
+    {
+      "slug": "krafton-lucro-recorde-terceiro-trimestre-2026",
+      "titulo": "Krafton reporta lucro operacional recorde no terceiro trimestre de 2026",
+      "resumo": "A Krafton anunciou resultados do terceiro trimestre de 2026 em 10 de novembro, com receita de KRW 971,4 bilhões e lucro operacional de KRW 225 bilhões no trimestre. O acumulado dos primeiros nove meses do ano atingiu KRW 3,633 trilhões em receita e KRW 1,1975 trilhão em lucro operacional, alta de 51% e 14% ano a ano, ambos recordes históricos para o período.",
+      "tipo": "noticia",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": [],
+      "tags": ["krafton", "resultados-financeiros", "pubg"],
+      "dataFato": "2026-11-10",
+      "janelaEstendida": false,
+      "fonte": { "nome": "ANI News", "url": "https://www.aninews.in/news/business/krafton-announces-third-quarter-2026-results20261110163634/", "dominio": "aninews.in" },
+      "fontesSecundarias": [
+        { "nome": "The Tribune", "url": "https://www.tribuneindia.com/news/advertorial-disclaimer/krafton-announces-third-quarter-2026-results", "dominio": "tribuneindia.com" }
+      ],
+      "nota": 6.0,
+      "justificativa": "Resultado financeiro relevante para o setor, mas de apelo mais corporativo do que direto ao público gamer; fica fora do TOP 10 por espaço.",
+      "pesquisador": "radar-empresas-internacionais"
+    },
+    {
+      "slug": "virtus-pro-contrata-patsi-cs2",
+      "titulo": "Virtus.pro contrata Patsi em definitivo para o CS2",
+      "resumo": "A Virtus.pro anunciou a contratação permanente de Robert \"Patsi\" Isyanov, que havia atuado como stand-in no WINLINE MPKBK CIS LAN Season 9 e conquistou o título com rating médio de 1.27. Ele substitui Dias \"F0R3VER\" Kutubay, movido ao banco por questões de saúde, com debut previsto na CCT 2026 EU Series 13.",
+      "tipo": "noticia",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC"],
+      "tags": ["counter-strike", "virtus-pro", "transferencia"],
+      "dataFato": "2026-11-10",
+      "janelaEstendida": false,
+      "fonte": { "nome": "HLTV", "url": "https://www.hltv.org/news/45957/virtuspro-sign-patsi", "dominio": "hltv.org" },
+      "fontesSecundarias": [
+        { "nome": "RUR", "url": "https://rur.rs/2026/11/10/patsi-potpisuje-za-virtus-pro-nakon-osvojenog-turnira", "dominio": "rur.rs" }
+      ],
+      "nota": 5.8,
+      "justificativa": "Movimentação de roster relevante para a cena de CS2, mas de impacto mais restrito ao público especializado do que os itens do TOP 10.",
+      "pesquisador": "radar-esports"
+    },
+    {
+      "slug": "shrek-2-remastered-lancamento",
+      "titulo": "Shrek 2 Remastered chega a seis plataformas com co-op para 4 jogadores",
+      "resumo": "Shrek 2 Remastered, da Aspyr, foi lançado em 10 de novembro de 2026 para PS5, Xbox Series X|S, Nintendo Switch 2, Switch e PC. O remaster traz gráficos melhorados, modo foto e suporte a até quatro jogadores em co-op local, online e misto, por US$ 29,99.",
+      "tipo": "lancamento",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PS5", "Xbox Series X", "Switch 2", "Switch", "PC"],
+      "tags": ["remaster", "aspyr", "lancamento"],
+      "dataFato": "2026-11-10",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Noisy Pixel", "url": "https://noisypixel.net/shrek-2-remastered-november-10-2026/", "dominio": "noisypixel.net" },
+      "fontesSecundarias": [
+        { "nome": "KeenGamer", "url": "https://www.keengamer.com/articles/news/shrek-2-remastered-announced-launches-november-10/", "dominio": "keengamer.com" }
+      ],
+      "nota": 5.9,
+      "justificativa": "Lançamento de interesse nostálgico com boa cobertura multiplataforma, mas impacto menor que os destaques do TOP 10.",
+      "pesquisador": "radar-lancamentos-internacionais"
+    },
+    {
+      "slug": "nintendo-switch-2-atualizacao-23-5-0",
+      "titulo": "Nintendo libera atualização 23.5.0 para o Switch 2 com correção de brecha de jailbreak",
+      "resumo": "A Nintendo lançou em 9 de novembro de 2026 o firmware 23.5.0 para Switch 2 e Switch, adicionando suporte futuro para envio de presentes na eShop entre membros da família, novas opções de acessibilidade na configuração inicial e suporte a português de Portugal no texto-para-fala. A atualização também teria corrigido um exploit de jailbreak recentemente descoberto no console.",
+      "tipo": "noticia",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["Switch 2", "Switch"],
+      "tags": ["nintendo", "firmware", "seguranca"],
+      "dataFato": "2026-11-09",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Nintendo Life", "url": "https://www.nintendolife.com/news/2026/11/nintendo-switch-2-system-update-23-5-0-is-now-live-here-are-the-full-patch-notes", "dominio": "nintendolife.com" },
+      "fontesSecundarias": [
+        { "nome": "Gematsu", "url": "https://www.gematsu.com/2026/11/switch-2-and-switch-system-updates-version-23-5-0-now-available", "dominio": "gematsu.com" }
+      ],
+      "nota": 5.6,
+      "justificativa": "Atualização de sistema relevante para a base instalada do Switch 2, mas de menor impacto noticioso do que os destaques do TOP 10.",
+      "pesquisador": "radar-lancamentos-internacionais"
+    },
+    {
+      "slug": "ffws-global-finals-2026-loud-snickers",
+      "titulo": "LOUD SNICKERS lidera abertura da fase de grupos do FFWS Global Finals 2026",
+      "resumo": "Na fase de Knockout do Free Fire World Series Global Finals 2026, disputada em Bangkok desde 6 de novembro, a equipe brasileira LOUD SNICKERS terminou na liderança geral após o primeiro dia de competição entre as 24 equipes participantes. O torneio distribui prêmio total de US$ 1,2 milhão, com a grande final marcada para 28 de novembro.",
+      "tipo": "esports",
+      "escopo": "nacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["Mobile"],
+      "tags": ["free-fire", "esports", "loud", "brasil"],
+      "dataFato": "2026-11-09",
+      "janelaEstendida": true,
+      "fonte": { "nome": "Esportsverse", "url": "https://www.esportsverse.live/tournaments/free-fire/free-fire-world-series-global-finals-2026", "dominio": "esportsverse.live" },
+      "fontesSecundarias": [
+        { "nome": "Sportsdunia", "url": "https://www.sportsdunia.com/esports/free-fire-ffws-global-final-2026-day-1-points-table", "dominio": "sportsdunia.com" },
+        { "nome": "Escharts", "url": "https://escharts.com/news/ffws-global-finals-2026-start-viewership", "dominio": "escharts.com" }
+      ],
+      "nota": 6.4,
+      "justificativa": "Bom desempenho de time brasileiro em torneio internacional de peso, mas o fato central (liderança do primeiro dia) está na borda da janela e já perdeu atualidade com a competição avançando.",
+      "pesquisador": "radar-esports"
+    },
+    {
+      "slug": "glims-lancamento-matheuzera-games",
+      "titulo": "Lançamento de Glims, jogo brasileiro da Matheuzera Games",
+      "resumo": "O jogo Glims, desenvolvido pelo estúdio brasileiro Matheuzera Games, foi lançado em 10 de novembro de 2026 no Steam. É um título free-to-play de \"pets de batalha\" que vivem na área de trabalho do jogador, com mecânicas de auto-battler, customização de personagens e exploração de masmorras.",
+      "tipo": "lancamento",
+      "escopo": "nacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC"],
+      "tags": ["indie", "lancamento", "brasil"],
+      "dataFato": "2026-11-10",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Steam", "url": "https://store.steampowered.com/app/5183740/Glims/", "dominio": "store.steampowered.com" },
+      "fontesSecundarias": [],
+      "nota": 5.0,
+      "justificativa": "Lançamento indie nacional de nicho, relevante para a cena local mas com alcance limitado perante os demais destaques do dia.",
+      "pesquisador": "radar-lancamentos-nacionais"
+    }
+  ],
+  "descartados": [
+    {
+      "titulo": "LOUD negocia contratação do ADC argentino \"ceo\" para o CBLOL 2027",
+      "motivo": "Rumor de mercado sem confirmação oficial (fonte original é especulativa, via Sheep Esports), com impacto insuficiente para superar a penalidade de confiabilidade frente aos itens confirmados do dia."
+    },
+    {
+      "titulo": "Schell Games corta 40% da equipe em segunda rodada de demissões no ano",
+      "motivo": "Fato datado de 2 de novembro de 2026, fora da janela de referência mesmo com extensão, sem desdobramento novo ocorrido dentro do período coberto."
+    },
+    {
+      "titulo": "Watch Eye, horror brasileiro da SpaceZeta Games chega ao Steam",
+      "motivo": "Data do fato (11/11/2026) é posterior ao fim da janela de referência (10/11/2026 21h)."
+    },
+    {
+      "titulo": "Nuuvem amplia descontos de Black Friday com até 91% off em jogos de PC",
+      "motivo": "Notícia promocional recorrente de loja, sem fato noticioso específico que justifique inclusão frente aos demais candidatos do dia."
+    },
+    {
+      "titulo": "Hope in the City ganha novo trailer e é lançado para Xbox e PC",
+      "motivo": "Fonte única de baixo peso editorial e sem repercussão em outros veículos, lançamento de alcance limitado."
+    }
+  ]
+}
