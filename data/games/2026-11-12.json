@@ -1,0 +1,343 @@
+{
+  "categoria": "games",
+  "data": "2026-11-12",
+  "geradoEm": "2026-11-12T21:30:00-03:00",
+  "janela": { "inicio": "2026-11-11T21:00:00-03:00", "fim": "2026-11-12T21:00:00-03:00" },
+  "observacao": null,
+  "itens": [
+    {
+      "posicao": 1,
+      "slug": "xbox-confirma-wolfenstein-3-e-novo-doom-em-producao",
+      "titulo": "Xbox confirma Wolfenstein 3 em produção na MachineGames e novo Doom na id Software",
+      "resumo": "Nas celebrações dos 25 anos do Xbox, a CEO Asha Sharma anunciou que Wolfenstein 3 está oficialmente em produção na MachineGames, quase dez anos após Wolfenstein 2 (2017). No mesmo evento, a id Software confirmou um novo jogo dirigido por Hugo Martin (diretor de Doom: The Dark Ages), que especialistas como Tom Warren (The Verge) apontam ser um novo título da franquia Doom, ainda sem nome oficial.",
+      "tipo": "noticia",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["Xbox Series", "PC"],
+      "tags": ["xbox", "bethesda", "wolfenstein", "doom", "id-software"],
+      "dataFato": "2026-11-12",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Pure Xbox", "url": "https://www.purexbox.com/news/2026/11/xbox-ceo-announces-major-new-bethesda-games-in-the-works-including-wolfenstein-3", "dominio": "purexbox.com" },
+      "fontesSecundarias": [
+        { "nome": "Nintendo Life", "url": "https://www.nintendolife.com/news/2026/11/doom-developer-id-software-confirms-its-working-on-a-new-game", "dominio": "nintendolife.com" },
+        { "nome": "Kotaku", "url": "https://kotaku.com/id-software-says-its-working-on-its-next-game-directed-by-dooms-hugo-martin-2000756358", "dominio": "kotaku.com" }
+      ],
+      "nota": 9.0,
+      "justificativa": "Duplo anúncio de peso vindo diretamente da Xbox sobre dois projetos muito aguardados pelo público (Wolfenstein 3 e novo Doom), com confirmação oficial e cobertura ampla. Alto impacto para o público gamer e ineditismo relevante.",
+      "pesquisador": "radar-empresas-internacionais"
+    },
+    {
+      "posicao": 2,
+      "slug": "furia-vence-vitality-13-0-blast-rivals-semifinal",
+      "titulo": "FURIA aplica 13-0 histórico na Vitality e garante vaga direta na semifinal da BLAST Rivals",
+      "resumo": "A FURIA venceu a Team Vitality por 2-1 na fase de grupos da BLAST Rivals 2026 Season 2, em Hong Kong, fechando a série com um 13-0 no mapa Mirage — primeira vez na história da Vitality que a equipe sofre esse placar no CS2, e também a primeira vez que o AWPer ZywOo esteve do lado perdedor de um 13-0. O resultado garantiu à FURIA o primeiro lugar do Grupo A e vaga direta na semifinal, enquanto a Vitality cai para o mata-mata.",
+      "tipo": "esports",
+      "escopo": "nacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC"],
+      "tags": ["csgo", "furia", "blast-rivals", "esports"],
+      "dataFato": "2026-11-12",
+      "janelaEstendida": false,
+      "fonte": { "nome": "HLTV", "url": "https://www.hltv.org/matches/2400201/furia-vs-vitality-blast-rivals-2026-season-2", "dominio": "hltv.org" },
+      "fontesSecundarias": [
+        { "nome": "Vavel Brasil", "url": "https://www.vavel.com/br/esports-br/2026/11/12/1279000-furia-cs-atropela-vitality-com-13-a-0-historico-e-garante-vaga-direta-na-semifinal-da-blast-rivals.html", "dominio": "vavel.com" },
+        { "nome": "Arena Esports", "url": "https://arenaesports.com.br/counter-strike/com-direito-a-13-a-0-furia-vence-vitality-e-vai-direto-as-semis-da-blast-rivals-fall-2026/", "dominio": "arenaesports.com.br" },
+        { "nome": "Mais Esports", "url": "https://maisesports.com.br/partidas/furia-2026-11-12", "dominio": "maisesports.com.br" }
+      ],
+      "nota": 8.8,
+      "justificativa": "Resultado histórico (primeiro 13-0 sofrido pela Vitality no CS2) de equipe brasileira de ponta, com forte apelo para o público gamer nacional e ampla cobertura confirmada. Conta como item nacional pela presença e protagonismo da FURIA.",
+      "pesquisador": "radar-esports"
+    },
+    {
+      "posicao": 3,
+      "slug": "skydance-games-demissoes-fusao-warner-bros",
+      "titulo": "Skydance Games confirma demissões um mês após fusão com Warner Bros. Discovery",
+      "resumo": "A Skydance Games, divisão formada após a aquisição da Warner Bros. Discovery por US$ 110 bilhões pela Paramount Skydance, confirmou em 9 de novembro o corte de ao menos 25 a 30 vagas nas equipes de Skydance Interactive e Paramount Games, citando redução de projetos. A repercussão do caso continuou nos dias seguintes, com cobertura de veículos como Deadline e PC Gamer.",
+      "tipo": "noticia",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": [],
+      "tags": ["skydance", "warner-bros", "demissoes", "industria"],
+      "dataFato": "2026-11-09",
+      "janelaEstendida": true,
+      "fonte": { "nome": "PC Gamer", "url": "https://www.pcgamer.com/gaming-industry/a-month-after-paramount-acquired-warner-bros-discovery-its-merged-game-division-is-laying-people-off/", "dominio": "pcgamer.com" },
+      "fontesSecundarias": [
+        { "nome": "Deadline", "url": "https://deadline.com/2026/11/skydance-games-layoffs-1237217870/", "dominio": "deadline.com" },
+        { "nome": "Aftermath", "url": "https://aftermath.site/skydance-games-layoffs/", "dominio": "aftermath.site" }
+      ],
+      "nota": 7.8,
+      "justificativa": "Tema relevante para o setor (consolidação pós-fusão e seus impactos em empregos), mas o fato central é de 9/11, fora da janela estrita, entrando por repercussão contínua.",
+      "pesquisador": "radar-empresas-internacionais"
+    },
+    {
+      "posicao": 4,
+      "slug": "pain-gaming-maestro-head-lol-retorno-brtt",
+      "titulo": "paiN Gaming anuncia Maestro como head de League of Legends e retorno de brTT",
+      "resumo": "A paiN Gaming anunciou em 11 de novembro de 2026 que Lucas 'Maestro' Pierre, ex-técnico da INTZ e bicampeão do CBLOL, assume como Head de League of Legends, respondendo por CBLOL, Academy e categorias de base. Felipe 'brTT' Gonçalves, hexacampeão do CBLOL e ícone da organização, retorna como Diretor de Cultura e Desenvolvimento Competitivo, em função de bastidores.",
+      "tipo": "esports",
+      "escopo": "nacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC"],
+      "tags": ["lol", "cblol", "pain-gaming", "esports"],
+      "dataFato": "2026-11-11",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Mkt Esportivo", "url": "https://www.mktesportivo.com/2026/11/pain-gaming-anuncia-maestro-como-head-de-lol-e-confirma-retorno-de-brtt/", "dominio": "mktesportivo.com" },
+      "fontesSecundarias": [
+        { "nome": "Mais Esports", "url": "https://maisesports.com.br/cblol-2026-pain-gaming-anuncia-brtt-e-maestro-em-funcoes-de-planejamento-de-equipe", "dominio": "maisesports.com.br" },
+        { "nome": "Pichau Arena", "url": "https://www.pichauarena.com.br/lol/pain-gaming-anuncia-maestro-brtt/", "dominio": "pichauarena.com.br" }
+      ],
+      "nota": 7.5,
+      "justificativa": "Movimentação relevante no cenário competitivo brasileiro de League of Legends, com retorno simbólico de brTT, ícone da cena nacional, reforçando a cota de conteúdo nacional.",
+      "pesquisador": "radar-empresas-nacionais"
+    },
+    {
+      "posicao": 5,
+      "slug": "ex-id-software-funda-hidden-horses-danger-pay",
+      "titulo": "Ex-funcionários da id Software fundam estúdio independente Hidden Horses",
+      "resumo": "Cerca de 20 ex-funcionários da id Software, demitidos nos cortes da Microsoft em julho de 2026, anunciaram a formação da Hidden Horses, estúdio independente de propriedade dos próprios funcionários. O estúdio revelou seu primeiro jogo, Danger Pay, um FPS single-player de arena ambientado em um game show mortal com host de IA, inspirado em Smash TV e no filme The Running Man, com financiamento parcial via Kickstarter.",
+      "tipo": "noticia",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC"],
+      "tags": ["id-software", "estudio-independente", "kickstarter", "demissoes"],
+      "dataFato": "2026-11-11",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Shacknews", "url": "https://www.shacknews.com/article/151329/hidden-horses-studio-kickstarter-danger-pay-announcement", "dominio": "shacknews.com" },
+      "fontesSecundarias": [
+        { "nome": "PC Gamer", "url": "https://www.pcgamer.com/gaming-industry/former-id-software-developers-form-their-own-employee-owned-shooter-studio-in-the-wake-of-microsofts-mass-layoffs/", "dominio": "pcgamer.com" },
+        { "nome": "VGTimes", "url": "https://vgtimes.com/gaming-news/174305-former-id-software-developers-form-hidden-horses-and-announce-fps-danger-pay.html", "dominio": "vgtimes.com" }
+      ],
+      "nota": 7.2,
+      "justificativa": "História humana de resiliência após demissões em massa na indústria, com anúncio de jogo concreto; ineditismo bom, mas impacto menor que os grandes anúncios de franquias triplo A.",
+      "pesquisador": "radar-empresas-internacionais"
+    },
+    {
+      "posicao": 6,
+      "slug": "pikmin-4-switch-2-edition-dandori-academy",
+      "titulo": "Pikmin 4 – Nintendo Switch 2 Edition com Dandori Academy é lançado",
+      "resumo": "A Nintendo lançou em 12 de novembro de 2026 a Pikmin 4 – Nintendo Switch 2 Edition, trazendo o novo modo Dandori Academy com 72 estágios de exame. A edição conta com gráficos em até 4K no modo TV e comandos de voz para o companheiro Oatchi via microfone do Switch 2; o pacote de upgrade custa US$ 9,99 para quem já possui o jogo original.",
+      "tipo": "lancamento",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["Switch 2"],
+      "tags": ["nintendo", "pikmin", "switch-2"],
+      "dataFato": "2026-11-12",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Gematsu", "url": "https://www.gematsu.com/2026/11/pikmin-4-nintendo-switch-2-edition-dandori-academy-overview-trailer", "dominio": "gematsu.com" },
+      "fontesSecundarias": [
+        { "nome": "MakeTechEasier", "url": "https://maketecheasier.com/pikmin-4-switch-2-edition/", "dominio": "maketecheasier.com" },
+        { "nome": "MikeTendo64", "url": "https://miketendo64.com/2026/11/12/pikmin-4-ns2e-dandori-academy-is-out-now-ns2/", "dominio": "miketendo64.com" }
+      ],
+      "nota": 7.0,
+      "justificativa": "Lançamento concreto e relevante para a base Switch 2, com conteúdo novo (Dandori Academy) e boa cobertura internacional.",
+      "pesquisador": "radar-lancamentos-internacionais"
+    },
+    {
+      "posicao": 7,
+      "slug": "gamescom-latam-2027-playstation-hero-project",
+      "titulo": "gamescom latam 2027 confirma PlayStation Hero Project e abre pré-venda B2B",
+      "resumo": "A gamescom latam 2027 (22 a 25 de abril, no Distrito Anhembi, São Paulo) confirmou a participação do PlayStation Hero Project, trazendo jogos dos programas India Hero Project e MENA Hero Project da Sony. A pré-venda B2B de ingressos começou em 11 de novembro de 2026, com 20% de desconto até 29/11 e ingressos a partir de R$ 726; a venda geral abre em 30 de novembro.",
+      "tipo": "noticia",
+      "escopo": "nacional",
+      "confiabilidade": "confirmado",
+      "plataformas": [],
+      "tags": ["gamescom-latam", "playstation", "evento"],
+      "dataFato": "2026-11-12",
+      "janelaEstendida": false,
+      "fonte": { "nome": "JWave", "url": "https://www.jwave.com.br/2026/11/gamescom-latam-2027-tera-jogos-do-playstation-hero-project-e-abre-pre-venda-de-ingressos-b2b/", "dominio": "jwave.com.br" },
+      "fontesSecundarias": [
+        { "nome": "A Cidade On", "url": "https://www.acidadeon.com/tudoep/epgames/noticias/gamescom-latam-titulos-do-playstation-hero-project-estarao-na-edicao-de-2027/", "dominio": "acidadeon.com" }
+      ],
+      "nota": 6.8,
+      "justificativa": "Notícia relevante para o calendário de eventos gamer no Brasil, reforçando a cota nacional, mas de impacto mediano por tratar de evento futuro (2027).",
+      "pesquisador": "radar-empresas-nacionais"
+    },
+    {
+      "posicao": 8,
+      "slug": "metaphor-refantazio-switch-2-corte-preco",
+      "titulo": "Metaphor: ReFantazio chega ao Switch 2 e tem corte permanente de preço em todas as plataformas",
+      "resumo": "A Atlus lançou Metaphor: ReFantazio no Nintendo Switch 2 em 12 de novembro de 2026, com suporte a três modos de vídeo (Performance, Balanced, Graphics). Simultaneamente, o preço base do jogo foi reduzido permanentemente para US$ 39,99 em todas as plataformas já lançadas (PS5, PS4, Xbox Series X|S, Steam/PC).",
+      "tipo": "lancamento",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["Switch 2", "PS5", "PS4", "Xbox Series", "PC"],
+      "tags": ["atlus", "metaphor-refantazio", "switch-2", "rpg"],
+      "dataFato": "2026-11-12",
+      "janelaEstendida": false,
+      "fonte": { "nome": "RPG Site", "url": "https://www.rpgsite.net/news/21743-metaphor-refantazio-switch-2-full-game-download-and-physical-now-available-soejima-new-art-trailer", "dominio": "rpgsite.net" },
+      "fontesSecundarias": [
+        { "nome": "GoNintendo", "url": "https://gonintendo.com/contents/61676-metaphor-refantazio-launches-on-switch-2-nov-12th-2026-update", "dominio": "gonintendo.com" },
+        { "nome": "Happy Gamer", "url": "https://happygamer.com/metaphor-refantazio-switch-2-release-date-november-12-171581/", "dominio": "happygamer.com" }
+      ],
+      "nota": 6.8,
+      "justificativa": "Bom lançamento multiplataforma com corte de preço que beneficia todos os jogadores, aumentando o alcance da notícia além de quem só joga no Switch 2.",
+      "pesquisador": "radar-lancamentos-internacionais"
+    },
+    {
+      "posicao": 9,
+      "slug": "nuuvem-black-friday-2026-800-mil-cupons",
+      "titulo": "Nuuvem lança campanha de Black Friday 2026 com R$ 800 mil em cupons",
+      "resumo": "A loja digital brasileira Nuuvem anunciou sua campanha de Black Friday 2026, 'A Escolha de Quem Joga', com distribuição de R$ 800 mil em cupons de desconto em jogos de PC via Steam. A campanha é dividida em etapas: Mês Black (até 16/11, descontos de até 92%), Acesso Antecipado (a partir de 17/11, cerca de 40 jogos com até 95% off) e Black Week (a partir de 26/11).",
+      "tipo": "noticia",
+      "escopo": "nacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC"],
+      "tags": ["nuuvem", "black-friday", "promocao"],
+      "dataFato": "2026-11-11",
+      "janelaEstendida": false,
+      "fonte": { "nome": "GamersEGames", "url": "https://www.gamersegames.com.br/2026/11/11/nuuvem-distribuira-r-800-mil-em-cupons-durante-a-black-friday-2026/", "dominio": "gamersegames.com.br" },
+      "fontesSecundarias": [
+        { "nome": "A Cidade On", "url": "https://www.acidadeon.com/tudoep/epgames/noticias/nuuvem-distribuira-r-800-mil-em-cupons-durante-a-black-friday-2026/", "dominio": "acidadeon.com" },
+        { "nome": "MMORPG BR", "url": "https://mmorpgbr.com.br/nuuvem-anuncia-black-friday-2026-com-r-800-mil-em-cupons-e-descontos-de-ate-95/", "dominio": "mmorpgbr.com.br" },
+        { "nome": "JWave", "url": "https://www.jwave.com.br/2026/11/black-friday-2026-da-nuuvem-tera-r-800-mil-em-cupons-e-descontos-de-ate-95-em-jogos/", "dominio": "jwave.com.br" }
+      ],
+      "nota": 6.5,
+      "justificativa": "Notícia de interesse prático direto para o consumidor brasileiro de jogos, reforçando a cota nacional com boa cobertura confirmada em múltiplos veículos.",
+      "pesquisador": "radar-lancamentos-nacionais"
+    },
+    {
+      "posicao": 10,
+      "slug": "gta-6-pre-download-liberado-precos-brasil",
+      "titulo": "GTA 6 libera pré-download e preços no Brasil são confirmados em R$ 449,90 e R$ 549,90",
+      "resumo": "O pré-carregamento de GTA 6 foi liberado em 10/11 para PS5 e Xbox Series X|S, exigindo até 212 GB de espaço, com ampla repercussão no Brasil em 12/11. No mercado brasileiro, a edição Standard custa R$ 449,90 e a Ultimate Edition R$ 549,90; o lançamento mundial ocorre em 19/11/2026.",
+      "tipo": "noticia",
+      "escopo": "nacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PS5", "Xbox Series"],
+      "tags": ["gta-6", "rockstar", "lancamento", "precos"],
+      "dataFato": "2026-11-12",
+      "janelaEstendida": false,
+      "fonte": { "nome": "NC News", "url": "https://ncnews.com.br/2026/11/12/gameplay-gta-6-libera-pre-download-bate-recorde-reservas-ps5/", "dominio": "ncnews.com.br" },
+      "fontesSecundarias": [
+        { "nome": "Jetss", "url": "https://br.jetss.com/2026/11/12/gta-6-brasileiros-procuram-preco-lancamento-e-consoles-compativeis/", "dominio": "jetss.com" }
+      ],
+      "nota": 6.3,
+      "justificativa": "Tema de altíssimo interesse do público gamer (GTA 6), mas o fato central do pré-download é de 10/11; a notícia entra pelo recorte de preços no Brasil, reforçando a cota nacional.",
+      "pesquisador": "radar-lancamentos-nacionais"
+    }
+  ],
+  "tambemNoRadar": [
+    {
+      "slug": "ps-plus-premium-trial-death-stranding-2",
+      "titulo": "PS Plus Premium libera trial de cinco horas de Death Stranding 2: On the Beach",
+      "resumo": "A Sony liberou em 12 de novembro de 2026 um trial de cinco horas de Death Stranding 2: On the Beach para assinantes do PS Plus Premium, antes da entrada completa do jogo no catálogo em 17 de novembro. Todo o progresso do trial, incluindo troféus, é transferido para a versão completa caso o jogador decida comprá-la.",
+      "tipo": "noticia",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PS5"],
+      "tags": ["playstation", "ps-plus", "death-stranding"],
+      "dataFato": "2026-11-12",
+      "janelaEstendida": false,
+      "fonte": { "nome": "PlayStation LifeStyle", "url": "https://www.playstationlifestyle.net/2026/11/12/death-stranding-2-ps-plus-game-trial-november", "dominio": "playstationlifestyle.net" },
+      "fontesSecundarias": [
+        { "nome": "PlayStation Blog", "url": "https://blog.playstation.com/2026/11/10/playstation-plus-game-catalog-for-november-death-stranding-2-on-the-beach-like-a-dragon-pirate-yakuza-in-hawaii-atomfall-dragon-quest-iii-hd-2d-remake-and-more/", "dominio": "blog.playstation.com" }
+      ],
+      "nota": 6.0,
+      "justificativa": "Boa notícia de catálogo de assinatura, porém com impacto limitado por ser um trial antes da entrada completa já programada.",
+      "pesquisador": "radar-lancamentos-internacionais"
+    },
+    {
+      "slug": "major-osaka-r6-playoffs-faze-liquid",
+      "titulo": "Playoffs do Major Osaka de Rainbow Six Siege começam com FaZe Clan e Team Liquid representando o Brasil",
+      "resumo": "A fase eliminatória do BLAST R6 Major Osaka 2026 começou em 12/11, com FaZe Clan e Team Liquid Alienware — representantes da liga sul-americana — avançando aos playoffs, disputando parte de um prize pool de 200 mil dólares. As equipes ficaram em chaves opostas, com possível confronto apenas na grande final de domingo (15/11).",
+      "tipo": "esports",
+      "escopo": "nacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC", "Xbox Series", "PS5"],
+      "tags": ["rainbow-six-siege", "r6", "esports", "major-osaka"],
+      "dataFato": "2026-11-12",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Gamer to Gamer", "url": "https://gamertogamer.com.br/playoffs-do-major-osaka-de-rainbow-six-siege-x-comecam-nesta-quinta-feira-12-com-dois-times-brasileiros-na-disputa/", "dominio": "gamertogamer.com.br" },
+      "fontesSecundarias": [
+        { "nome": "JWave", "url": "https://www.jwave.com.br/2026/11/faze-clan-e-team-liquid-avancam-aos-playoffs-do-major-osaka-de-rainbow-six-siege/", "dominio": "jwave.com.br" },
+        { "nome": "Esporte News Mundo", "url": "https://esportenewsmundo.com.br/rainbow-six-siege-x-dois-brasileiros-avancam-aos-playoffs-do-major-osaka", "dominio": "esportenewsmundo.com.br" }
+      ],
+      "nota": 6.2,
+      "justificativa": "Boa presença brasileira em evento internacional de R6, mas com menor repercussão que os destaques do TOP 10 nesta edição.",
+      "pesquisador": "radar-esports"
+    },
+    {
+      "slug": "sentinels-libera-cortezia-reduxx-vct-2027",
+      "titulo": "Sentinels libera cortezia e Reduxx, reconstrói elenco para VCT 2027",
+      "resumo": "A Sentinels anunciou a saída dos jogadores cortezia e Reduxx, que se tornam agentes livres irrestritos após uma temporada 2026 turbulenta sem presença no estágio internacional. A organização segue reconstruindo o elenco para 2027 em torno de brawk, OXY, canezerra e Johnqt, com Keiko para completar a formação; cortezia já tem acordo verbal para retornar ao Brasil via LOUD.",
+      "tipo": "esports",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC"],
+      "tags": ["valorant", "vct", "sentinels", "esports"],
+      "dataFato": "2026-11-10",
+      "janelaEstendida": true,
+      "fonte": { "nome": "VLR.gg", "url": "https://www.vlr.gg/788401/sentinels-release-cortezia-and-reduxx", "dominio": "vlr.gg" },
+      "fontesSecundarias": [
+        { "nome": "Esports.gg", "url": "https://esports.gg/news/valorant/sentinels-parts-ways-cortezia-reduxx-2027/", "dominio": "esports.gg" },
+        { "nome": "GINX", "url": "https://www.ginx.tv/en/sentinels-release-cortezia-reduxx", "dominio": "ginx.tv" }
+      ],
+      "nota": 6.0,
+      "justificativa": "Movimentação relevante na cena de Valorant com gancho brasileiro (retorno de cortezia via LOUD), mas o fato principal é de 10/11, fora do núcleo da janela.",
+      "pesquisador": "radar-esports"
+    },
+    {
+      "slug": "nc-nexon-krafton-resultados-terceiro-trimestre",
+      "titulo": "NC Soft, Nexon e Krafton divulgam resultados mistos do 3º trimestre de 2026",
+      "resumo": "A NC Soft voltou a ter lucro, com receita de 686,5 bilhões de wons (alta de 91% ano a ano); a Nexon superou expectativas, com receita de 138,4 bilhões de ienes (alta de 17%) e lucro operacional de 418 bilhões de ienes; já a Krafton teve receita de 971,4 bilhões de wons (alta de 11,6%), mas lucro operacional caiu 35,5%, puxado pela queda de receita em PC e aumento de 43% nas despesas operacionais.",
+      "tipo": "noticia",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": [],
+      "tags": ["nc-soft", "nexon", "krafton", "resultados-financeiros"],
+      "dataFato": "2026-11-11",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Korea Times", "url": "https://www.koreatimes.co.kr/business/companies/20261111/nc-swings-to-profit-nexon-beats-expectations-as-krafton-struggles", "dominio": "koreatimes.co.kr" },
+      "fontesSecundarias": [
+        { "nome": "Asiae", "url": "https://www.asiae.co.kr/en/article/2026111109253701835", "dominio": "asiae.co.kr" }
+      ],
+      "nota": 5.8,
+      "justificativa": "Notícia de interesse mais corporativo/financeiro que de público geral, por isso fica fora do TOP 10 nesta edição.",
+      "pesquisador": "radar-empresas-internacionais"
+    },
+    {
+      "slug": "cloud9-entra-deadlock-melee-creeps",
+      "titulo": "Cloud9 entra no Deadlock como primeira organização tier 1, adquirindo roster da Melee Creeps",
+      "resumo": "A Cloud9 se tornou a primeira organização de esports de nível 1 a entrar no Deadlock, adquirindo o roster invicto da Melee Creeps, vencedor de seis eventos consecutivos do Deadlock Night Shift. A formação inclui Saiah, JonJon, AVG, League, Lomein e Zeno, com o técnico POSHYPOP, marcando o retorno da C9 a um título da Valve após o fim do time de CS2 em janeiro de 2025.",
+      "tipo": "esports",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC"],
+      "tags": ["deadlock", "cloud9", "esports"],
+      "dataFato": "2026-11-09",
+      "janelaEstendida": true,
+      "fonte": { "nome": "TalkEsport", "url": "https://www.talkesport.com/news/cloud9-deadlock-roster-melee-creeps/", "dominio": "talkesport.com" },
+      "fontesSecundarias": [
+        { "nome": "Insider Gaming", "url": "https://insider-gaming.com/cloud9-signs-north-american-deadlock-esports-team/", "dominio": "insider-gaming.com" },
+        { "nome": "ShaneTheGamer", "url": "https://www.shanethegamer.com/news/cloud9-deadlock-melee-creeps-roster/", "dominio": "shanethegamer.com" }
+      ],
+      "nota": 5.7,
+      "justificativa": "Relevante para o nicho de Deadlock e consolidação do título no cenário competitivo, mas de interesse mais restrito e fato de 9/11, fora do núcleo da janela.",
+      "pesquisador": "radar-esports"
+    },
+    {
+      "slug": "ball-x-pit-risen-ballbylon-expansao",
+      "titulo": "Expansão Risen Ballbylon de BALL x PIT é lançada em todas as plataformas",
+      "resumo": "A expansão paga Risen Ballbylon de BALL x PIT foi lançada em 12 de novembro de 2026 por US$ 6,99, simultaneamente em PC, PS5, Switch, Xbox, iOS e Android. O conteúdo adiciona 20 novas evoluções de bolas, oito novos caçadores, quatro novos biomas e mais de 40 novos inimigos.",
+      "tipo": "lancamento",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC", "PS5", "Switch", "Xbox Series", "iOS", "Android"],
+      "tags": ["ball-x-pit", "dlc", "lancamento"],
+      "dataFato": "2026-11-12",
+      "janelaEstendida": false,
+      "fonte": { "nome": "MonsterVine", "url": "https://monstervine.com/2026/11/ball-x-pit-risen-ballbylon-expansion-launch/", "dominio": "monstervine.com" },
+      "fontesSecundarias": [
+        { "nome": "PC Gamer", "url": "https://www.pcgamer.com/games/roguelike/ball-x-pit-just-revealed-a-whole-new-expansion-risen-ballbylon/", "dominio": "pcgamer.com" }
+      ],
+      "nota": 5.5,
+      "justificativa": "Lançamento sólido para fãs do gênero, mas de público e impacto mais nichados que os destaques do TOP 10.",
+      "pesquisador": "radar-lancamentos-internacionais"
+    }
+  ],
+  "descartados": [
+    { "titulo": "Hell Let Loose retorna ao PS Plus Extra nos EUA e Reino Unido", "motivo": "Fato restrito a assinantes dos EUA e Reino Unido, sem relevância direta e imediata para o catálogo brasileiro na janela; impacto considerado baixo frente aos demais itens." },
+    { "titulo": "Thronefall chega ao PS5 e Xbox Series com DLC Craaghelm", "motivo": "Lançamento de nicho sem fonte secundária independente e com impacto limitado frente aos demais candidatos da janela." },
+    { "titulo": "Dragon Ball Super: Beerus ganha dublagem em português no Crunchyroll", "motivo": "Fato de interesse muito restrito (dublagem de um episódio de anime), sem relação direta com jogos; baixa relevância para a categoria games." }
+  ]
+}
