@@ -1,0 +1,342 @@
+{
+  "categoria": "games",
+  "data": "2026-11-15",
+  "geradoEm": "2026-11-16T10:00:00-03:00",
+  "janela": { "inicio": "2026-11-14T21:00:00-03:00", "fim": "2026-11-15T21:00:00-03:00" },
+  "observacao": null,
+  "itens": [
+    {
+      "posicao": 1,
+      "slug": "bilibili-gaming-campea-worlds-2026",
+      "titulo": "Bilibili Gaming vence Gen.G e conquista o primeiro título mundial de League of Legends",
+      "resumo": "A Bilibili Gaming (LPL) derrotou a Gen.G (LCK) por 3-1 na grande final do Mundial de League of Legends 2026, disputada em 14 de novembro no Barclays Center, em Brooklyn. É o primeiro título Worlds da organização e encerra uma sequência de quatro títulos seguidos da LCK; Knight foi eleito MVP da final.",
+      "tipo": "esports",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC"],
+      "tags": ["league-of-legends", "worlds", "esports", "riot-games"],
+      "dataFato": "2026-11-14",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Dot Esports", "url": "https://dotesports.com/league-of-legends/news/blg-win-worlds-championship-2026", "dominio": "dotesports.com" },
+      "fontesSecundarias": [
+        { "nome": "KeenGamer", "url": "https://www.keengamer.com/articles/features/reportages/bilibili-gaming-beat-gen-g-3-1-to-win-worlds-2026/", "dominio": "keengamer.com" },
+        { "nome": "Esports.net", "url": "https://www.esports.net/news/gaming/bilibili-gaming-beat-gen-g-3-1-to-win-worlds-2026-after-knocking-out-all-four-lck-teams/", "dominio": "esports.net" },
+        { "nome": "GosuGamers", "url": "https://www.gosugamers.net/lol/news/79501-bilibili-gaming-defeat-gen-g-to-be-crowned-worlds-2026-champions", "dominio": "gosugamers.net" }
+      ],
+      "nota": 9.3,
+      "justificativa": "Maior evento de esports do calendário de League of Legends, com desfecho histórico (fim do reinado da LCK) e ampla cobertura internacional confirmada por múltiplas fontes.",
+      "pesquisador": "radar-esports"
+    },
+    {
+      "posicao": 2,
+      "slug": "furia-bicampea-blast-rivals-hong-kong-2026",
+      "titulo": "FURIA é bicampeã do BLAST Rivals Hong Kong 2026 no CS2",
+      "resumo": "A FURIA venceu a Team Spirit por 3-0 na final do BLAST Rivals Hong Kong 2026, disputada em 15 de novembro na AsiaWorld-Arena, conquistando o bicampeonato consecutivo do torneio e o terceiro título nos últimos quatro eventos.",
+      "tipo": "esports",
+      "escopo": "nacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC"],
+      "tags": ["counter-strike", "furia", "esports", "cs2"],
+      "dataFato": "2026-11-15",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Hotspawn", "url": "https://www.hotspawn.com/counter-strike/news/furia-clean-sweep-spirit-to-win-blast-rivals-hong-kong-2026", "dominio": "hotspawn.com" },
+      "fontesSecundarias": [
+        { "nome": "Manila Times (PR Newswire)", "url": "https://www.manilatimes.net/2026/11/15/tmt-newswire/pr-newswire/furia-crowned-back-to-back-blast-premier-rivals-hong-kong-champions-as-30000-fans-celebrate-world-class-counter-strike/2470347", "dominio": "manilatimes.net" },
+        { "nome": "HardwareZone", "url": "https://www.hardwarezone.com.sg/entertainment/gaming/furia-counter-strike-blast-premier-rivals-champions-2026-esports", "dominio": "hardwarezone.com.sg" }
+      ],
+      "nota": 9.0,
+      "justificativa": "Título relevante de organização brasileira em evento internacional de CS2, com fonte jornalística confirmando o placar e a repetição do título.",
+      "pesquisador": "radar-esports"
+    },
+    {
+      "posicao": 3,
+      "slug": "faze-clan-campea-major-osaka-r6-triple-crown",
+      "titulo": "FaZe Clan vence Major de Osaka de Rainbow Six e completa a \"Triple Crown\"",
+      "resumo": "A FaZe Clan, com elenco brasileiro, venceu a DarkZero por 3-0 na final do BLAST R6 Major Osaka, em 15 de novembro, faturando US$ 200 mil e 1.500 pontos no ranking rumo ao Six Invitational 2027. A equipe se tornou a primeira da história competitiva de Rainbow Six Siege a vencer Six Invitational, Esports World Cup e um Major no mesmo ciclo.",
+      "tipo": "esports",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC"],
+      "tags": ["rainbow-six-siege", "faze-clan", "esports"],
+      "dataFato": "2026-11-15",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Siege.gg", "url": "https://siege.gg/news/faze-clan-become-blast-r6-major-osaka-champions", "dominio": "siege.gg" },
+      "fontesSecundarias": [
+        { "nome": "Mais Esports", "url": "https://maisesports.com.br/rainbow-six-faze-conquista-major-de-osaka-e-fatura-r-1-13-milhao", "dominio": "maisesports.com.br" },
+        { "nome": "Pro Gamer", "url": "https://pro-gamer.gg/faze-clan-wins-blast-r6-major-osaka-2026-grand-final-sweep-darkzero/", "dominio": "pro-gamer.gg" }
+      ],
+      "nota": 8.3,
+      "justificativa": "Feito inédito na cena competitiva de Rainbow Six Siege, com elenco brasileiro relevante e cobertura confirmada por fonte especializada e veículo nacional.",
+      "pesquisador": "radar-esports"
+    },
+    {
+      "posicao": 4,
+      "slug": "rockstar-detalha-desenvolvimento-gta-6-guardian",
+      "titulo": "Rockstar detalha bastidores do desenvolvimento de GTA 6 em entrevista ao The Guardian",
+      "resumo": "Em reportagem publicada no sábado (14/11), a jornalista Keza MacDonald visitou a Rockstar North em Edimburgo e ouviu o líder de desenvolvimento Rob Nelson e a chefe de estúdio Jennifer Kolbe sobre os motivos dos atrasos do jogo. A dupla explicou a decisão de priorizar ambição em vez de um lançamento mais rápido e incremental, cinco dias antes da estreia marcada para 19/11.",
+      "tipo": "noticia",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PS5", "Xbox Series"],
+      "tags": ["gta-6", "rockstar-games", "take-two"],
+      "dataFato": "2026-11-14",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Beebom", "url": "https://beebom.com/rockstar-could-have-avoided-gta-6-delay/", "dominio": "beebom.com" },
+      "fontesSecundarias": [
+        { "nome": "Vice", "url": "https://www.vice.com/en/article/gta-6-gameplay-details-guardian-interview/", "dominio": "vice.com" },
+        { "nome": "NotebookCheck", "url": "https://www.notebookcheck.net/GTA-6-Guardian-preview-offers-a-look-at-the-making-of-Vice-City.1448174.0.html", "dominio": "notebookcheck.net" }
+      ],
+      "nota": 8.0,
+      "justificativa": "Bastidores raros e diretos da Rockstar sobre o jogo mais aguardado do ano, às vésperas do lançamento, com múltiplas fontes reproduzindo a entrevista original do Guardian.",
+      "pesquisador": "radar-lancamentos-internacionais"
+    },
+    {
+      "posicao": 5,
+      "slug": "xbox-25-anos-quinta-geracao-console",
+      "titulo": "Xbox completa 25 anos e CEO confirma quinta geração de console a caminho",
+      "resumo": "Em 15 de novembro, a Xbox completou 25 anos desde o lançamento do console original na América do Norte. A CEO Asha Sharma divulgou memorando e revista comemorativa reconhecendo veteranos da marca e afirmando que já foram construídas quatro gerações de consoles \"com uma quinta a caminho\", referência ao hardware em desenvolvimento conhecido como Project Helix.",
+      "tipo": "noticia",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["Xbox Series"],
+      "tags": ["xbox", "microsoft", "hardware", "project-helix"],
+      "dataFato": "2026-11-15",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Insider Gaming", "url": "https://insider-gaming.com/xbox-ceo-asha-sharmas-full-memo-on-25-years-of-xbox/", "dominio": "insider-gaming.com" },
+      "fontesSecundarias": [
+        { "nome": "Pure Xbox", "url": "https://www.purexbox.com/news/2026/11/the-ultimate-gaming-machine-xbox-reveals-tons-of-new-project-helix-information", "dominio": "purexbox.com" },
+        { "nome": "Full Cleared", "url": "https://fullcleared.com/news/xbox-ceo-says-a-fifth-console-generation-is-on-the-way/", "dominio": "fullcleared.com" }
+      ],
+      "nota": 7.8,
+      "justificativa": "Marco simbólico da marca combinado à primeira confirmação direta da CEO sobre o próximo hardware, relevante para o público de console.",
+      "pesquisador": "radar-empresas-internacionais"
+    },
+    {
+      "posicao": 6,
+      "slug": "riot-anuncia-league-of-legends-new-dawn",
+      "titulo": "Riot Games anuncia \"League of Legends: New Dawn\" na final do Mundial 2026",
+      "resumo": "A Riot Games revelou, em 14 de novembro durante a grande final do Mundial de League of Legends no Barclays Center, um trailer da atualização \"New Dawn\", que vai modernizar o cliente, o visual do Summoner's Rift e as opções de jogabilidade dos campeões. O lançamento está previsto para 2027, com revelação completa marcada para janeiro.",
+      "tipo": "noticia",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC"],
+      "tags": ["league-of-legends", "riot-games", "atualizacao"],
+      "dataFato": "2026-11-14",
+      "janelaEstendida": false,
+      "fonte": { "nome": "PC Gamer", "url": "https://www.pcgamer.com/games/moba/league-of-legends-will-get-an-overhaul-called-new-dawn-with-new-visuals-build-options-and-an-updated-client/", "dominio": "pcgamer.com" },
+      "fontesSecundarias": [
+        { "nome": "Insider Gaming", "url": "https://insider-gaming.com/league-of-legends-new-dawn-update-revealed-worlds/", "dominio": "insider-gaming.com" },
+        { "nome": "Dot Esports", "url": "https://dotesports.com/league-of-legends/news/lol-new-dawn-2027", "dominio": "dotesports.com" }
+      ],
+      "nota": 7.3,
+      "justificativa": "Anúncio relevante para a maior base de jogadores de MOBA do mundo, feito no palco de maior visibilidade da Riot, com fonte de peso editorial alto (PC Gamer).",
+      "pesquisador": "radar-empresas-internacionais"
+    },
+    {
+      "posicao": 7,
+      "slug": "gdv-festival-e-awards-2026-brasilia",
+      "titulo": "GDV Festival e GDV Awards 2026 reúnem indústria de games em Brasília",
+      "resumo": "O GDV Festival 2026, realizado em 14 e 15 de novembro no SebraeLAB (Parque Tecnológico de Brasília), reuniu mais de 1.000 participantes, mais de 20 estúdios/jogos expostos e mais de 20 palestrantes, em coprodução de CSJ Digital, ABRING e Sebrae-DF. O evento encerrou no domingo com a cerimônia do GDV Awards 2026, premiando produções nacionais como melhor jogo brasileiro e melhor jogo brasiliense, além da Mostra BRING com mais de 30 jogos independentes do DF.",
+      "tipo": "noticia",
+      "escopo": "nacional",
+      "confiabilidade": "confirmado",
+      "plataformas": [],
+      "tags": ["evento", "premiacao", "indie", "brasil"],
+      "dataFato": "2026-11-15",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Catraca Livre", "url": "https://catracalivre.com.br/futuro-geek/gdv-festival-2026-reune-industria-brasileira-de-games-em-brasilia-com-entrada-gratuita/", "dominio": "catracalivre.com.br" },
+      "fontesSecundarias": [
+        { "nome": "Agência Cidades", "url": "https://www.agenciacidades.com.br/2026/11/14/gdv-festival-conecta-estudios-investidores-e-profissionais-da-industria-de-games.html", "dominio": "agenciacidades.com.br" },
+        { "nome": "GDV Festival (site oficial)", "url": "https://gdvfestival.com.br/awards", "dominio": "gdvfestival.com.br" },
+        { "nome": "Visite Brasília", "url": "https://visitebrasilia.com.br/noticias/gdv-festival-2026-reune-desenvolvedores-e-apaixonados-por-games-em-brasilia-nos-dias-14-e-15-de-novembro", "dominio": "visitebrasilia.com.br" },
+        { "nome": "Drops de Jogos", "url": "https://dropsdejogos.uai.com.br/noticias/indie/brasilia-recebe-festival-de-jogos-independentes-neste-fim-de-semana/", "dominio": "dropsdejogos.uai.com.br" }
+      ],
+      "nota": 7.0,
+      "justificativa": "Principal evento de games do Centro-Oeste, com premiação a estúdios independentes brasileiros e cobertura confirmada por quatro fontes distintas; garante representatividade nacional no TOP 10.",
+      "pesquisador": "radar-empresas-nacionais"
+    },
+    {
+      "posicao": 8,
+      "slug": "xbox-game-pass-jogos-rare-25-anos",
+      "titulo": "Xbox Game Pass Essential ganha oito clássicos da Rare na semana do 25º aniversário",
+      "resumo": "Em 15 de novembro, o Xbox Game Pass Essential recebeu oito jogos clássicos — entre eles Banjo-Kazooie, Banjo-Tooie, Perfect Dark e Viva Piñata — como parte das comemorações dos 25 anos do Xbox. No mesmo dia, 13 jogos saíram do catálogo, entre eles GoldenEye 007 e Wreckfest.",
+      "tipo": "lancamento",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["Xbox Series", "PC"],
+      "tags": ["xbox-game-pass", "rare", "catalogo"],
+      "dataFato": "2026-11-15",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Xbox Wire", "url": "https://news.xbox.com/en-us/2026/11/03/xbox-game-pass-november-2026-wave-1/", "dominio": "news.xbox.com" },
+      "fontesSecundarias": [
+        { "nome": "ScreenRant", "url": "https://screenrant.com/xbox-game-pass-games-leaving-november-15-2026/", "dominio": "screenrant.com" },
+        { "nome": "Fenix Bazaar", "url": "https://fenixbazaar.com/2026/11/11/games-leaving-xbox-game-pass-november-15-2026/", "dominio": "fenixbazaar.com" }
+      ],
+      "nota": 6.8,
+      "justificativa": "Novidade de catálogo relevante para assinantes, reforçada pela efeméride dos 25 anos da marca, com fonte primária oficial da Xbox.",
+      "pesquisador": "radar-lancamentos-internacionais"
+    },
+    {
+      "posicao": 9,
+      "slug": "ubisoft-rainbow-six-vegas-3-spades",
+      "titulo": "Ubisoft teria dado luz verde a novo Rainbow Six Vegas, codinome \"Spades\"",
+      "resumo": "Segundo reportagem exclusiva de Tom Henderson no Insider Gaming, a Ubisoft Montreal estaria em estágio inicial de desenvolvimento de um novo título de Rainbow Six Vegas, com codinome \"Spades\", funcionando como sequência direta em vez de remake. Seria o primeiro jogo da série desde Rainbow Six Vegas 2, de 2008, mas um anúncio oficial ainda deve demorar anos.",
+      "tipo": "vazamento",
+      "escopo": "internacional",
+      "confiabilidade": "rumor",
+      "plataformas": [],
+      "tags": ["ubisoft", "rainbow-six", "vazamento"],
+      "dataFato": "2026-11-13",
+      "janelaEstendida": true,
+      "fonte": { "nome": "Insider Gaming", "url": "https://insider-gaming.com/rainbow-six-vegas-3/", "dominio": "insider-gaming.com" },
+      "fontesSecundarias": [
+        { "nome": "KeenGamer", "url": "https://www.keengamer.com/articles/news/rainbow-six-vegas-reportedly-returning-after-18-years-with-a-new-game/", "dominio": "keengamer.com" },
+        { "nome": "Yahoo Tech", "url": "https://tech.yahoo.com/gaming/articles/rainbow-six-vegas-reportedly-returning-201404393.html", "dominio": "yahoo.com" }
+      ],
+      "nota": 6.5,
+      "justificativa": "Furo de fonte historicamente assertiva sobre uma franquia adormecida há quase duas décadas; entra como rumor, sem inflar a nota por ser ainda estágio inicial de desenvolvimento.",
+      "pesquisador": "radar-lancamentos-internacionais"
+    },
+    {
+      "posicao": 10,
+      "slug": "riot-revela-sedes-worlds-msi-first-stand-2027",
+      "titulo": "Riot revela sedes de Worlds 2027, MSI 2027 e First Stand 2027/2028",
+      "resumo": "Durante a final do Worlds 2026, a Riot Games anunciou que o Mundial de LoL 2027 será disputado entre Japão (fase de grupos, em Nagoya) e Coreia do Sul (mata-mata e final, em Seul). O MSI 2027 estreará na Espanha, em Valência, e o First Stand 2027 foi transferido para a China, com a edição de 2028 prevista no Sudeste Asiático.",
+      "tipo": "noticia",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": [],
+      "tags": ["league-of-legends", "riot-games", "esports", "calendario"],
+      "dataFato": "2026-11-14",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Fragster", "url": "https://www.fragster.com/worlds-2027-japan-korea-msi-spain/", "dominio": "fragster.com" },
+      "fontesSecundarias": [
+        { "nome": "Tribuna do Sertão", "url": "https://www.tribunadosertao.com.br/esportes/2026/11/14/1021716-riot-games-revela-sedes-das-proximas-edicoes-do-first-stand-msi-e-worlds", "dominio": "tribunadosertao.com.br" },
+        { "nome": "Gaming.net", "url": "https://www.gaming.net/lol-esports-reveals-2027-hosts-in-china-spain-japan-and-south-korea/", "dominio": "gaming.net" }
+      ],
+      "nota": 6.3,
+      "justificativa": "Informação de calendário relevante para a cena competitiva de LoL, com interesse de longo prazo, ainda que sem impacto imediato para o grande público.",
+      "pesquisador": "radar-esports"
+    }
+  ],
+  "tambemNoRadar": [
+    {
+      "slug": "playstation-jogos-gratuitos-sem-ps-plus-14-novembro",
+      "titulo": "PlayStation libera cinco jogos gratuitos sem exigência de assinatura PS Plus",
+      "resumo": "Em 14 de novembro, a PlayStation disponibilizou cinco downloads gratuitos na PS Store sem necessidade de assinatura PS Plus: Clive Barker's Hellraiser: Revival (demo), HELL OF FEAR: Mind Breach, Where the Seeds Fall, Waltz and Jam e RACCOIN: Chaos Max Edition.",
+      "tipo": "lancamento",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PS5"],
+      "tags": ["playstation", "jogos-gratuitos"],
+      "dataFato": "2026-11-14",
+      "janelaEstendida": false,
+      "fonte": { "nome": "ScreenRant", "url": "https://screenrant.com/playstation-new-free-downloads-no-ps-plus-november-14-2026/", "dominio": "screenrant.com" },
+      "fontesSecundarias": [
+        { "nome": "Insider Gaming", "url": "https://insider-gaming.com/hellraiser-revival-demo-out-on-ps5/", "dominio": "insider-gaming.com" },
+        { "nome": "Push Square", "url": "https://www.pushsquare.com/news/2026/11/try-hellraiser-revival-in-this-new-ps5-demo-out-now", "dominio": "pushsquare.com" }
+      ],
+      "nota": 5.8,
+      "justificativa": "Utilidade prática para jogadores de PS5, mas impacto e ineditismo menores que os itens do TOP 10.",
+      "pesquisador": "radar-lancamentos-internacionais"
+    },
+    {
+      "slug": "gta-6-pre-vendas-digitais-10-milhoes",
+      "titulo": "Pré-vendas digitais de GTA 6 ultrapassam 10 milhões de unidades",
+      "resumo": "Em meio à expectativa para o lançamento de Grand Theft Auto VI em 19 de novembro, reportagens de 14 de novembro indicam que as pré-vendas digitais do jogo já superaram 10 milhões de unidades, impulsionando as ações da Take-Two Interactive antes da estreia.",
+      "tipo": "noticia",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PS5", "Xbox Series"],
+      "tags": ["gta-6", "take-two", "vendas"],
+      "dataFato": "2026-11-14",
+      "janelaEstendida": false,
+      "fonte": { "nome": "GuruFocus", "url": "https://www.gurufocus.com/news/9200714/grand-theft-auto-6-launch-boosts-taketwo-interactive-ttwo-spotlight-ahead-of-november-19-release", "dominio": "gurufocus.com" },
+      "fontesSecundarias": [],
+      "nota": 5.5,
+      "justificativa": "Dado relevante de mercado, mas com fonte única de viés financeiro e sem confirmação cruzada por veículo especializado em games.",
+      "pesquisador": "radar-lancamentos-internacionais"
+    },
+    {
+      "slug": "halo-campaign-evolved-firefight-gratuito",
+      "titulo": "Halo Studios anuncia modo Firefight gratuito para Halo: Campaign Evolved",
+      "resumo": "A Halo Studios, estúdio da Xbox Game Studios, anunciou durante a semana do 25º aniversário da Xbox uma atualização gratuita que trará o modo cooperativo Firefight para quatro jogadores a Halo: Campaign Evolved, com novos mapas e armas. Mais detalhes serão revelados no Halo Fest, em 12–13 de dezembro.",
+      "tipo": "noticia",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["Xbox Series", "PC"],
+      "tags": ["halo", "xbox", "atualizacao"],
+      "dataFato": "2026-11-15",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Video Games Chronicle", "url": "https://www.videogameschronicle.com/news/halo-campaign-evolved-is-getting-firefight-in-a-free-update/", "dominio": "videogameschronicle.com" },
+      "fontesSecundarias": [
+        { "nome": "Windows Central", "url": "https://www.windowscentral.com/gaming/halo/firefight-mode-is-coming-to-halo-campaign-evolved", "dominio": "windowscentral.com" },
+        { "nome": "Gematsu", "url": "https://www.gematsu.com/2026/11/halo-campaign-evolved-firefight-update-announced", "dominio": "gematsu.com" }
+      ],
+      "nota": 5.5,
+      "justificativa": "Anúncio de recurso futuro, sem data definida, de interesse mais restrito à base de jogadores de Halo.",
+      "pesquisador": "radar-empresas-internacionais"
+    },
+    {
+      "slug": "vct-2027-rostermania-tenz-sacy",
+      "titulo": "Rostermania do VCT 2027: TenZ fecha com T1 e Sacy vira head coach",
+      "resumo": "No período de rostermania da offseason do VCT 2027, TenZ foi anunciado no elenco principal da T1, enquanto o brasileiro Sacy assumiu o cargo de head coach da mesma organização. A Bilibili Gaming confirmou a contratação de alvinboy como parte da reconstrução para 2027.",
+      "tipo": "noticia",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC"],
+      "tags": ["valorant", "vct", "rostermania"],
+      "dataFato": "2026-11-13",
+      "janelaEstendida": true,
+      "fonte": { "nome": "Liquipedia", "url": "https://liquipedia.net/valorant/Player_Transfers/2026/November", "dominio": "liquipedia.net" },
+      "fontesSecundarias": [
+        { "nome": "The Spike", "url": "https://www.thespike.gg/valorant/news/vct-2027-roster-changes/9236", "dominio": "thespike.gg" },
+        { "nome": "Esports.gg", "url": "https://esports.gg/news/valorant/t1-valorant-roster-2027-tenz/", "dominio": "esports.gg" }
+      ],
+      "nota": 5.3,
+      "justificativa": "Movimentação relevante para fãs de Valorant, mas pontual e fora do pico da janela, com brasileiro em papel de destaque (Sacy).",
+      "pesquisador": "radar-esports"
+    },
+    {
+      "slug": "dead-on-delivery-demo-dudeeki-nuntius",
+      "titulo": "Estúdio brasileiro Dudeeki lança demo de Dead on Delivery pela publisher Nuntius Games",
+      "resumo": "O estúdio independente brasileiro Dudeeki, projeto solo de Gleidson Ferreira, lançou a demo gratuita de Dead on Delivery no Steam, um roguelite de ação com entregas de pizza em apocalipse zumbi. O jogo é publicado pela Nuntius Games, publisher brasileira com foco em dar visibilidade a jogos nacionais no mercado global.",
+      "tipo": "lancamento",
+      "escopo": "nacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC"],
+      "tags": ["indie", "brasil", "steam"],
+      "dataFato": "2026-11-13",
+      "janelaEstendida": true,
+      "fonte": { "nome": "Gamers & Games", "url": "https://www.gamersegames.com.br/2026/11/13/dead-on-delivery-ganha-demo-gratuita-no-steam-com-entregas-de-pizza-em-meio-a-um-apocalipse-zumbi/", "dominio": "gamersegames.com.br" },
+      "fontesSecundarias": [
+        { "nome": "Arkade", "url": "https://arkade.com.br/demo-de-dead-on-delivery-chega-ao-steam-e-mistura-entregas-de-pizza-com-hordas-de-zumbis", "dominio": "arkade.com.br" },
+        { "nome": "Alternativa Nerd", "url": "https://alternativanerd.com.br/games/dead-on-delivery-ganha-demo-gratuita-no-steam/", "dominio": "alternativanerd.com.br" }
+      ],
+      "nota": 5.0,
+      "justificativa": "Lançamento indie brasileiro relevante para a cena local, mas de alcance ainda modesto e fora do pico da janela.",
+      "pesquisador": "radar-empresas-nacionais"
+    },
+    {
+      "slug": "bot-vinnik-chess-demo-deep-green-games",
+      "titulo": "BOT.VINNIK Chess Masters Academy, da carioca Deep Green Games, ganha demo no Steam",
+      "resumo": "A Deep Green Games, estúdio independente do Rio de Janeiro, disponibilizou uma demo pública no Steam de BOT.VINNIK Chess Masters Academy, que combina ensino de xadrez com entretenimento via puzzles curados. O lançamento completo está marcado para 8 de dezembro de 2026, com interface e textos em português.",
+      "tipo": "lancamento",
+      "escopo": "nacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC"],
+      "tags": ["indie", "brasil", "steam", "xadrez"],
+      "dataFato": "2026-11-13",
+      "janelaEstendida": true,
+      "fonte": { "nome": "Drops de Jogos", "url": "https://dropsdejogos.uai.com.br/noticias/indie/novo-jogo-brasileiro-da-deep-green-games-ganha-demo-na-steam/", "dominio": "dropsdejogos.uai.com.br" },
+      "fontesSecundarias": [],
+      "nota": 4.5,
+      "justificativa": "Lançamento de nicho (educacional/xadrez) de estúdio nacional, com fonte única e menor apelo ao público geral.",
+      "pesquisador": "radar-lancamentos-nacionais"
+    }
+  ],
+  "descartados": [
+    { "titulo": "Lugh World (MMORPG brasileiro) recebe maior atualização desde o Acesso Antecipado", "motivo": "fato do dia 2026-11-10, fora da janela e também fora da janela estendida de 48h." },
+    { "titulo": "Relatório GDC 2026 revela que um terço dos profissionais da indústria foi demitido em dois anos", "motivo": "publicado em 2026-11-12, fora da janela e também fora da janela estendida de 48h." }
+  ]
+}
