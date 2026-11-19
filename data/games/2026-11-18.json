@@ -1,0 +1,398 @@
+{
+  "categoria": "games",
+  "data": "2026-11-18",
+  "geradoEm": "2026-11-18T21:30:00-03:00",
+  "janela": { "inicio": "2026-11-17T21:00:00-03:00", "fim": "2026-11-18T21:00:00-03:00" },
+  "observacao": null,
+  "itens": [
+    {
+      "posicao": 1,
+      "slug": "gta-vi-chega-ao-ps5-com-nota-99-no-metacritic",
+      "titulo": "GTA VI é confirmado para 19 de novembro no PS5 e recebe nota 99 no Metacritic",
+      "resumo": "A Rockstar e a PlayStation publicaram post oficial confirmando que Grand Theft Auto VI chega ao PS5 em 19 de novembro, ambientado no estado fictício de Leonida (incluindo Vice City) com os protagonistas Jason Duval e Lucia Caminos. As reviews profissionais, liberadas em 18/11, deram à versão de PS5 nota 99/100 no Metacritic, a mais alta de 2026 no site.",
+      "tipo": "lancamento",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PS5", "Xbox Series"],
+      "tags": ["rockstar", "gta6", "lancamento", "critica"],
+      "dataFato": "2026-11-18",
+      "janelaEstendida": false,
+      "fonte": { "nome": "PlayStation Blog", "url": "https://blog.playstation.com/2026/11/18/grand-theft-auto-vi-launches-tomorrow-november-19/", "dominio": "blog.playstation.com" },
+      "fontesSecundarias": [
+        { "nome": "CNN", "url": "https://www.cnn.com/2026/11/18/media/gta-vi-grand-theft-auto-reviews-critics", "dominio": "cnn.com" },
+        { "nome": "Bloomberg", "url": "https://www.bloomberg.com/news/features/2026-11-18/gta-6-review-rockstar-games-latest-is-a-masterpiece", "dominio": "bloomberg.com" },
+        { "nome": "Deadline", "url": "https://deadline.com/2026/11/grand-theft-auto-6-what-the-critics-reviews-1237227874/", "dominio": "deadline.com" }
+      ],
+      "nota": 9.8,
+      "justificativa": "Maior lançamento do ano no mundo dos games, com fonte primária oficial e aclamação recorde da crítica; evento de impacto máximo para o público gamer.",
+      "pesquisador": "radar-lancamentos-internacionais"
+    },
+    {
+      "posicao": 2,
+      "slug": "gta-6-chega-ao-brasil-com-preco-de-449-90",
+      "titulo": "GTA 6 chega ao Brasil à meia-noite com preço de R$ 449,90 e bate recordes de venda",
+      "resumo": "Grand Theft Auto VI foi liberado para jogar no Brasil à meia-noite da virada de 18 para 19 de novembro, em PS5, Xbox Series X|S e nuvem Xbox, com a edição Standard custando R$ 449,90 e a Ultimate digital R$ 549,90. A loja brasileira Nuuvem registrou recorde histórico de vendas no primeiro dia, vendendo 1,5 vez mais unidades que GTA V no lançamento, com instabilidade causada por cerca de 50 mil usuários simultâneos.",
+      "tipo": "lancamento",
+      "escopo": "nacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PS5", "Xbox Series X", "Xbox Series S", "PC"],
+      "tags": ["gta6", "lancamento", "brasil", "varejo"],
+      "dataFato": "2026-11-18",
+      "janelaEstendida": false,
+      "fonte": { "nome": "TechTudo", "url": "https://www.techtudo.com.br/guia/2026/11/gta-6-veja-quando-e-o-lancamento-horario-no-brasil-e-o-que-voce-precisa-saber-edjogos.ghtml", "dominio": "techtudo.com.br" },
+      "fontesSecundarias": [
+        { "nome": "Critical Hits", "url": "https://criticalhits.com.br/games/gta-6-sera-liberado-a-meia-noite-de-19-de-novembro-no-brasil/", "dominio": "criticalhits.com.br" },
+        { "nome": "Estado de Minas", "url": "https://www.em.com.br/cultura/2026/11/7540847-gta-6-impulsiona-mercado-de-games-e-vendas-no-brasil-disparam-diz-nuuvem.html", "dominio": "em.com.br" }
+      ],
+      "nota": 9.0,
+      "justificativa": "Desdobramento direto de maior impacto para o público brasileiro, com dados concretos de recorde de vendas no país.",
+      "pesquisador": "radar-lancamentos-nacionais"
+    },
+    {
+      "posicao": 3,
+      "slug": "firaxis-games-demite-60-funcionarios-e-diretora-sai",
+      "titulo": "Firaxis Games demite cerca de 60 funcionários e diretora do estúdio deixa o cargo",
+      "resumo": "A Firaxis Games (2K/Take-Two), estúdio de Civilization e XCOM, demitiu cerca de 60 pessoas em 17 de novembro, um terço da equipe em Maryland, enquanto a diretora Heather Hazen deixou o cargo. A empresa afirmou que vai focar em jogos de estratégia, após um projeto não anunciado de XCOM ter perdido um marco importante.",
+      "tipo": "noticia",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": [],
+      "tags": ["take-two", "firaxis", "demissoes", "xcom"],
+      "dataFato": "2026-11-17",
+      "janelaEstendida": false,
+      "fonte": { "nome": "PC Gamer", "url": "https://www.pcgamer.com/gaming-industry/tomb-raider-developer-makes-fifth-round-of-layoffs-in-less-than-2-years/", "dominio": "pcgamer.com" },
+      "fontesSecundarias": [
+        { "nome": "The Escapist", "url": "https://www.escapistmagazine.com/firaxis-lays-off-about-60-staff-and-loses-its-studio-head-as-new-xcom-reportedly-slips/", "dominio": "escapistmagazine.com" },
+        { "nome": "GamesRadar+", "url": "https://www.gamesradar.com/games/strategy/in-the-midst-of-trying-to-make-a-new-xcom-game-thats-reportedly-struggling-studio-firaxis-lays-off-30-percent-of-staff-in-restructuring-by-owner-take-two/", "dominio": "gamesradar.com" },
+        { "nome": "PSU", "url": "https://www.psu.com/news/xcom-studio-firaxis-games-suffers-layoffs/", "dominio": "psu.com" }
+      ],
+      "nota": 8.3,
+      "justificativa": "Corte expressivo (um terço da equipe) em estúdio histórico da Take-Two, com saída da diretoria; impacto relevante para franquias consagradas.",
+      "pesquisador": "radar-empresas-internacionais"
+    },
+    {
+      "posicao": 4,
+      "slug": "crystal-dynamics-confirma-quinta-rodada-de-demissoes",
+      "titulo": "Crystal Dynamics confirma quinta rodada de demissões em menos de dois anos sob a Embracer",
+      "resumo": "O estúdio de Tomb Raider confirmou o corte de oito funcionários, marcando a quinta rodada de demissões desde a aquisição pela Embracer Group em 2022. A empresa afirma que os projetos em andamento, Tomb Raider: Legacy of Atlantis e Tomb Raider: Catalyst, não serão afetados.",
+      "tipo": "noticia",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": [],
+      "tags": ["embracer", "crystal-dynamics", "demissoes", "tomb-raider"],
+      "dataFato": "2026-11-17",
+      "janelaEstendida": false,
+      "fonte": { "nome": "PC Gamer", "url": "https://www.pcgamer.com/gaming-industry/tomb-raider-developer-makes-fifth-round-of-layoffs-in-less-than-2-years/", "dominio": "pcgamer.com" },
+      "fontesSecundarias": [
+        { "nome": "Gamereactor", "url": "https://www.gamereactor.eu/crystal-dynamics-layoffs-embracer-tomb-raider/", "dominio": "gamereactor.eu" },
+        { "nome": "Kotaku", "url": "https://kotaku.com/crystal-dynamics-cuts-even-more-developers-as-it-prepares-to-ship-two-massive-tomb-raider-games-my-first-layoff-in-14-years-2000757917", "dominio": "kotaku.com" }
+      ],
+      "nota": 7.6,
+      "justificativa": "Padrão recorrente de cortes evidencia instabilidade crônica sob a Embracer, com relevância para fãs de Tomb Raider.",
+      "pesquisador": "radar-lancamentos-internacionais"
+    },
+    {
+      "posicao": 5,
+      "slug": "netflix-confirma-mais-demissoes-na-divisao-de-games",
+      "titulo": "Netflix confirma mais uma rodada de demissões na divisão de games",
+      "resumo": "A Netflix confirmou em 18 de novembro novas demissões em sua divisão de jogos, pouco depois de reestruturar a equipe e semanas após anunciar corte de 1.000 vagas globais na empresa. A Next Games permanece como único estúdio first-party da Netflix após o fechamento de Night School Studios, Boss Fight Entertainment e Moonloot Games.",
+      "tipo": "noticia",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": [],
+      "tags": ["netflix", "demissoes", "games"],
+      "dataFato": "2026-11-18",
+      "janelaEstendida": false,
+      "fonte": { "nome": "PocketGamer.biz", "url": "https://www.pocketgamer.biz/netflix-confirms-games-division-layoffs/", "dominio": "pocketgamer.biz" },
+      "fontesSecundarias": [
+        { "nome": "Aftermath", "url": "https://aftermath.site/netflix-game-studios-layoffs/", "dominio": "aftermath.site" },
+        { "nome": "Mobile Gamer Biz", "url": "https://mobilegamer.biz/netflix-games-lays-off-staff-as-team-shifts-how-it-approaches-making-games/", "dominio": "mobilegamer.biz" }
+      ],
+      "nota": 7.2,
+      "justificativa": "Mais um capítulo do recuo da Netflix nos games, sinalizando possível encolhimento ainda maior da divisão.",
+      "pesquisador": "radar-empresas-internacionais"
+    },
+    {
+      "posicao": 6,
+      "slug": "tencent-resultados-3t26-receita-de-games-sobe",
+      "titulo": "Tencent reporta resultados do 3T26: receita de games sobe, mas lucro cai com gastos em IA",
+      "resumo": "A Tencent divulgou em 18 de novembro seus resultados do terceiro trimestre, com receita total de RMB 207,3 bilhões (+8% ano a ano). A receita de games domésticos cresceu 11%, impulsionada por Delta Force, Valorant Mobile e Honor of Kings, enquanto a receita internacional de games caiu 9%.",
+      "tipo": "noticia",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": [],
+      "tags": ["tencent", "resultados-financeiros", "mobile"],
+      "dataFato": "2026-11-18",
+      "janelaEstendida": false,
+      "fonte": { "nome": "PR Newswire (Manila Times)", "url": "https://www.manilatimes.net/2026/11/18/tmt-newswire/pr-newswire/tencent-announces-2026-third-quarter-results/2473131", "dominio": "manilatimes.net" },
+      "fontesSecundarias": [
+        { "nome": "BIGGO Finance", "url": "https://finance.biggo.com/news/72deef99-5323-42f8-9f6d-4b570f5341d3", "dominio": "finance.biggo.com" },
+        { "nome": "BIGGO Finance", "url": "https://finance.biggo.com/news/US_TCEHY_2026-11-18", "dominio": "finance.biggo.com" }
+      ],
+      "nota": 7.0,
+      "justificativa": "Dado financeiro relevante sobre a maior empresa de games do mundo, mostrando tendências de mercado em jogos mobile e internacionais.",
+      "pesquisador": "radar-empresas-internacionais"
+    },
+    {
+      "posicao": 7,
+      "slug": "furia-perde-guigo-que-se-torna-agente-livre-no-cblol",
+      "titulo": "FURIA perde Guigo, peça-chave do CBLOL, que se torna agente livre para 2027",
+      "resumo": "A FURIA anunciou em 17 de novembro a saída do top laner Guilherme \"Guigo\" Ruiz da equipe de League of Legends, encerrando quase dois anos de parceria que resultaram em três finais e dois títulos. Guigo recebeu proposta da Fluxo, mas as conversas não avançaram, e ele segue como agente livre para o CBLOL 2027.",
+      "tipo": "esports",
+      "escopo": "nacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC"],
+      "tags": ["furia", "lol", "cblol", "transferencia"],
+      "dataFato": "2026-11-17",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Mais Esports", "url": "https://maisesports.com.br/cblol-2026-apos-3-finais-e-2-titulos-furia-anuncia-a-saida-de-guigo", "dominio": "maisesports.com.br" },
+      "fontesSecundarias": [
+        { "nome": "Pichau Arena", "url": "https://www.pichauarena.com.br/lol/furia-se-despede-guigo/", "dominio": "pichauarena.com.br" }
+      ],
+      "nota": 6.8,
+      "justificativa": "Movimentação relevante no mercado de transferências do CBLOL, envolvendo uma das organizações mais populares do país.",
+      "pesquisador": "radar-empresas-nacionais"
+    },
+    {
+      "posicao": 8,
+      "slug": "loud-fecha-acordo-verbal-com-ceo-para-cblol-2027",
+      "titulo": "LOUD fecha acordo verbal com ceo para CBLOL 2027, vencendo disputa com paiN e Fluxo W7M",
+      "resumo": "Em 18 de novembro, a LOUD chegou a um acordo verbal com o ADC argentino Mauro \"ceo\" Tévez para a temporada 2027 do CBLOL. O jogador, agente livre após o fim de contrato com a Vivo Keyd Stars em 16 de novembro, também recebeu propostas de Fluxo W7M e paiN Gaming, mas optou pela LOUD.",
+      "tipo": "esports",
+      "escopo": "nacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC"],
+      "tags": ["loud", "cblol", "lol", "transferencia"],
+      "dataFato": "2026-11-18",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Quenty", "url": "https://quenty.com.br/resumo/18-novembro-2026/loud-fecha-com-ceo-para-o-cblol-2027-e-leva-o-adc-que-tinha-propostas-de-pain-e-fluxo-w7m", "dominio": "quenty.com.br" },
+      "fontesSecundarias": [],
+      "nota": 6.5,
+      "justificativa": "Disputa de mercado entre três grandes organizações brasileiras por um jogador cobiçado, reforçando a cota de conteúdo nacional.",
+      "pesquisador": "radar-esports"
+    },
+    {
+      "posicao": 9,
+      "slug": "unity-adquire-synty-studios-para-unity-spark",
+      "titulo": "Unity adquire Synty Studios para alimentar plataforma de criação com IA Unity Spark",
+      "resumo": "A Unity anunciou em 17 de novembro a aquisição da Synty Studios, estúdio neozelandês conhecido pela linha de assets 3D low-poly POLYGON, com mais de 70 mil ativos que serão integrados ao Unity Spark, nova plataforma de criação de jogos nativa em IA.",
+      "tipo": "noticia",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": [],
+      "tags": ["unity", "aquisicao", "ia"],
+      "dataFato": "2026-11-17",
+      "janelaEstendida": false,
+      "fonte": { "nome": "GameWorld Observer", "url": "https://gameworldobserver.com/2026/11/17/unity-has-acquired-synty-studios-the-creators-of-the-polygon-asset-line", "dominio": "gameworldobserver.com" },
+      "fontesSecundarias": [
+        { "nome": "Game From Scratch", "url": "https://gamefromscratch.com/unity-announce-fellowship-acquire-synty-studios/", "dominio": "gamefromscratch.com" },
+        { "nome": "GamingOnLinux", "url": "https://www.gamingonlinux.com/2026/11/unity-acquired-synty-studios-to-power-unity-spark-their-ai-game-creation-platform/", "dominio": "gamingonlinux.com" }
+      ],
+      "nota": 6.3,
+      "justificativa": "Aquisição relevante para a comunidade de desenvolvedores, ligada à expansão da Unity em ferramentas de IA.",
+      "pesquisador": "radar-empresas-internacionais"
+    },
+    {
+      "posicao": 10,
+      "slug": "cs2-traz-de-volta-cobblestone-com-tema-de-inverno",
+      "titulo": "CS2 traz de volta o mapa Cobblestone com tema de inverno em grande atualização",
+      "resumo": "A Valve lançou na noite de 17 de novembro uma grande atualização do CS2 trazendo de volta o mapa Cobblestone, agora com tema de inverno e neve, disponível em Competitivo, Wingman, Casual, Deathmatch e Retakes. A atualização também trouxe o hub do PGL Major Singapore 2026, com stickers, moeda de torneio e oito novos music kits.",
+      "tipo": "noticia",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC", "Steam"],
+      "tags": ["cs2", "valve", "atualizacao", "major"],
+      "dataFato": "2026-11-17",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Dust2", "url": "https://www.dust2.com.br/noticias/80030/com-neve-nova-cobblestone-e-lancada-no-counter-strike-2", "dominio": "dust2.com.br" },
+      "fontesSecundarias": [
+        { "nome": "Dot Esports", "url": "https://dotesports.com/counter-strike/news/cs2-cobblestone-november-2026-update", "dominio": "dotesports.com" },
+        { "nome": "Dust2", "url": "https://www.dust2.com.br/noticias/80015/oficial-valve-anuncia-retorno-da-cobblestone", "dominio": "dust2.com.br" }
+      ],
+      "nota": 7.3,
+      "justificativa": "Atualização de peso para a base de jogadores de CS2, com retorno de mapa clássico e conteúdo ligado ao Major de Singapura.",
+      "pesquisador": "radar-esports"
+    }
+  ],
+  "tambemNoRadar": [
+    {
+      "slug": "2026-esports-awards-premia-ishowspeed-cs2-e-vitality",
+      "titulo": "2026 Esports Awards premia iShowSpeed, Counter-Strike 2 e Team Vitality em Miami",
+      "resumo": "A cerimônia do 2026 Esports Awards, apresentada pela Thunderpick, ocorreu em 17 de novembro em Miami, cobrindo 23 categorias. iShowSpeed venceu Streamer do Ano, Counter-Strike 2 foi eleito Jogo de Esports do Ano, Team Vitality levou Organização do Ano e OpTic Texas foi Time do Ano.",
+      "tipo": "esports",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": [],
+      "tags": ["premiacao", "esports", "cs2"],
+      "dataFato": "2026-11-17",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Inven Global", "url": "https://www.invenglobal.com/articles/28783/ishowspeed-counter-strike-2-and-team-vitality-among-winners-at-2026-esports-awards", "dominio": "invenglobal.com" },
+      "fontesSecundarias": [
+        { "nome": "Esports Awards", "url": "https://esportsawards.com/2026-esports-awards-presented-by-thunderpick-winners/", "dominio": "esportsawards.com" },
+        { "nome": "GamesBeat", "url": "https://gamesbeat.com/the-2026-esports-awards-winners-revealed/", "dominio": "gamesbeat.com" }
+      ],
+      "nota": 6.4,
+      "justificativa": "Premiação relevante para a cena de esports, mas de impacto menor que as transferências e lançamentos do dia.",
+      "pesquisador": "radar-empresas-internacionais"
+    },
+    {
+      "slug": "esports-nations-cup-2026-e-adiada-para-2027",
+      "titulo": "Esports Nations Cup 2026 é adiada para 2027 em meio a conflito no Oriente Médio",
+      "resumo": "A Esports Foundation anunciou em 18 de novembro o adiamento da Esports Nations Cup 2026, que seria disputada em Riade, Arábia Saudita, com premiação de US$ 45 milhões entre seleções nacionais, citando o conflito em curso na região. As nações já qualificadas mantêm vaga garantida para a edição de 2027.",
+      "tipo": "noticia",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": [],
+      "tags": ["esports", "selecoes-nacionais", "arabia-saudita"],
+      "dataFato": "2026-11-18",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Insider Gaming", "url": "https://insider-gaming.com/esports-nations-cup-qualified-teams-keep-place-for-next-year/", "dominio": "insider-gaming.com" },
+      "fontesSecundarias": [],
+      "nota": 6.6,
+      "justificativa": "Adiamento de torneio de grande premiação por motivo geopolítico, mas efeito direto limitado para o público brasileiro neste momento.",
+      "pesquisador": "radar-esports"
+    },
+    {
+      "slug": "pain-gaming-disputa-frosty-com-a-furia-no-cblol-2027",
+      "titulo": "paiN Gaming formaliza proposta por Frosty e disputa com a FURIA na janela do CBLOL 2027",
+      "resumo": "Em 18 de novembro, a paiN Gaming oficializou uma proposta à RED Canids pela contratação de José \"Frosty\" Leal para o CBLOL 2027, entrando em disputa direta com a FURIA, que também fez oferta pelo jogador.",
+      "tipo": "esports",
+      "escopo": "nacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC"],
+      "tags": ["pain-gaming", "furia", "cblol", "transferencia"],
+      "dataFato": "2026-11-18",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Hub Insider", "url": "https://hubinsider.substack.com/p/pain-gaming-oficializa-proposta-por", "dominio": "hubinsider.substack.com" },
+      "fontesSecundarias": [],
+      "nota": 5.8,
+      "justificativa": "Movimentação de mercado ainda em andamento, sem desfecho confirmado até o fim da janela.",
+      "pesquisador": "radar-esports"
+    },
+    {
+      "slug": "banco-do-brasil-e-fluxo-w7m-lancam-dia-zero",
+      "titulo": "Banco do Brasil e Fluxo W7M lançam \"Dia Zero\", ação de live commerce ligada ao lançamento de GTA 6",
+      "resumo": "O Banco do Brasil, via Shopping BB, fechou parceria com a organização de esports Fluxo W7M para uma maratona de live commerce chamada \"Dia Zero\", com transmissões na véspera do lançamento de GTA 6 contando com os criadores de conteúdo Manomax, Wallace e Guras. A ação oferece ofertas, cashback e gift cards de PlayStation e Xbox, estendendo-se até a Black Friday.",
+      "tipo": "noticia",
+      "escopo": "nacional",
+      "confiabilidade": "confirmado",
+      "plataformas": [],
+      "tags": ["gta6", "live-commerce", "marketing"],
+      "dataFato": "2026-11-18",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Gamer Point", "url": "https://www.gamerpoint.com.br/noticias/banco-do-brasil-e-fluxo-w7m-anunciam-dia-zero-live-commerce-especial-para-o-lancamento-de-gta-6/", "dominio": "gamerpoint.com.br" },
+      "fontesSecundarias": [
+        { "nome": "Gamers & Games", "url": "https://www.gamersegames.com.br/2026/11/18/banco-do-brasil-e-fluxo-w7m-promovem-acao-especial-durante-lancamento-de-gta-6/", "dominio": "gamersegames.com.br" }
+      ],
+      "nota": 5.5,
+      "justificativa": "Ação comercial relevante para o público brasileiro, mas de caráter promocional e impacto menor frente às demais notícias do dia.",
+      "pesquisador": "radar-empresas-nacionais"
+    },
+    {
+      "slug": "disney-dreamlight-valley-lanca-the-keepsake-sea",
+      "titulo": "Disney Dreamlight Valley lança expansão paga \"The Keepsake Sea\"",
+      "resumo": "A quarta expansão paga do life sim Disney Dreamlight Valley, \"The Keepsake Sea\", foi lançada em 18 de novembro, trazendo um mundo subaquático com transformação em sereia/merfolk e novos personagens como Jack Sparrow, Megara, Milo Thatch, Capitão Gancho e Wendy Darling.",
+      "tipo": "lancamento",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC", "PS5", "Xbox Series", "Switch"],
+      "tags": ["disney", "life-sim", "dlc"],
+      "dataFato": "2026-11-18",
+      "janelaEstendida": false,
+      "fonte": { "nome": "GoNintendo", "url": "https://gonintendo.com/contents/66339-disney-dreamlight-valley-the-keepsake-sea-expansion-launches-nov-18th-2026-seafaring", "dominio": "gonintendo.com" },
+      "fontesSecundarias": [
+        { "nome": "WDW News Today", "url": "https://wdwnt.com/2026/11/disney-dreamlight-valley-the-keepsake-sea-available-now-adding-new-characters-underwater-biomes-and-pirate-ships/", "dominio": "wdwnt.com" },
+        { "nome": "Nintendo Reporters", "url": "https://www.nintendoreporters.com/en/news/nintendo-switch-2/disney-dreamlight-valley-the-keepsake-sea-launches-november-18-new-features-editions-and-discounts/", "dominio": "nintendoreporters.com" }
+      ],
+      "nota": 6.0,
+      "justificativa": "Lançamento relevante para a base de fãs do jogo, mas de nicho frente às notícias de maior alcance do dia.",
+      "pesquisador": "radar-lancamentos-internacionais"
+    },
+    {
+      "slug": "xbox-game-pass-recebe-nove-jogos-incluindo-high-on-life-2",
+      "titulo": "Xbox Game Pass recebe nove jogos entre 18 de novembro e 1º de dezembro, incluindo High on Life 2",
+      "resumo": "A Microsoft anunciou nove jogos chegando ao Xbox Game Pass no período, com Call of the Elder Gods, High on Life 2 (chegando ao tier Premium) e Roadside Research disponíveis já em 18 de novembro para Series X|S, PC e Cloud. O jogo brasileiro Motorslice também passa a integrar o Game Pass Premium a partir de 24 de novembro.",
+      "tipo": "noticia",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["Xbox Series", "PC"],
+      "tags": ["xbox-game-pass", "microsoft"],
+      "dataFato": "2026-11-18",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Pure Xbox", "url": "https://www.purexbox.com/news/2026/11/microsoft-announces-nine-games-coming-to-xbox-game-pass-november-18-december-1", "dominio": "purexbox.com" },
+      "fontesSecundarias": [
+        { "nome": "Player.One", "url": "https://www.player.one/high-life-2-joins-game-pass-premium-ultimate-subscribers-have-been-playing-it-since-february-164527", "dominio": "player.one" },
+        { "nome": "aigis", "url": "https://aigis.com.br/xbox-game-pass-recebe-hela-of-mice-magic-the-outlast-trials-e-mais-jogos-no-fim-de-novembro/", "dominio": "aigis.com.br" }
+      ],
+      "nota": 6.7,
+      "justificativa": "Boa notícia de catálogo para assinantes, com destaque extra por incluir um jogo brasileiro no tier Premium.",
+      "pesquisador": "radar-lancamentos-internacionais"
+    },
+    {
+      "slug": "astralis-anuncia-saida-de-jabbi",
+      "titulo": "Astralis anuncia saída de jabbi após expiração de contrato",
+      "resumo": "Em 17 de novembro, a Astralis anunciou a saída de Jakob \"jabbi\" Nygaard do time de CS2, após o fim de seu contrato. O jogador estava no banco desde outubro e deixa a organização após três anos de serviço, poucas semanas depois de ajudar a Astralis a conquistar um título.",
+      "tipo": "noticia",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC", "Steam"],
+      "tags": ["astralis", "cs2", "transferencia"],
+      "dataFato": "2026-11-17",
+      "janelaEstendida": false,
+      "fonte": { "nome": "HLTV", "url": "https://www.hltv.org/news/46003/astralis-announce-jabbi-departure", "dominio": "hltv.org" },
+      "fontesSecundarias": [
+        { "nome": "Esportbet", "url": "https://esportbet.com/astralis-part-ways-with-jabbi/", "dominio": "esportbet.com" },
+        { "nome": "Skin Club", "url": "https://community.skin.club/en/news/astralis-part-ways-with-jabbi-after-three-years-in-cs2", "dominio": "skin.club" }
+      ],
+      "nota": 5.7,
+      "justificativa": "Movimentação pontual no cenário de CS2, de interesse mais restrito ao público de esports.",
+      "pesquisador": "radar-esports"
+    },
+    {
+      "slug": "riot-games-leva-trofeu-do-tft-vegas-open-ao-brasil",
+      "titulo": "Riot Games anuncia passagem do troféu do TFT Vegas Open 2026 pelo Brasil",
+      "resumo": "A Riot Games anunciou em 18 de novembro que o troféu do TFT Vegas Open 2026 fará um tour pelo México (21-27/11) e pelo Brasil (30/11 a 5/12) antes da final em Las Vegas (11-13/12), incluindo media tour, photocall e visitas aos escritórios da Riot Games no Brasil.",
+      "tipo": "esports",
+      "escopo": "nacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC", "Mobile"],
+      "tags": ["riot-games", "tft", "brasil"],
+      "dataFato": "2026-11-18",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Gamers & Games", "url": "https://www.gamersegames.com.br/2026/11/18/trofeu-do-tft-vegas-open-2026-passara-pelo-brasil-antes-da-competicao-em-las-vegas/", "dominio": "gamersegames.com.br" },
+      "fontesSecundarias": [
+        { "nome": "Tierra Gamer", "url": "https://tierragamer.com/noticias/videojuegos/tft-vegas-open-trofeo-mexico-brasil-2026", "dominio": "tierragamer.com" },
+        { "nome": "Arata", "url": "https://arata.lat/el-camino-al-tft-vegas-open-2026-pasara-por-mexico-y-brasil", "dominio": "arata.lat" }
+      ],
+      "nota": 4.8,
+      "justificativa": "Ação promocional de menor impacto editorial, relevante apenas para a comunidade de TFT no Brasil.",
+      "pesquisador": "radar-empresas-nacionais"
+    },
+    {
+      "slug": "studio-bravarda-encerra-atividades",
+      "titulo": "Studio Bravarda, com fundadores brasileiros, anuncia encerramento das atividades",
+      "resumo": "O Studio Bravarda, fundado em 2020 por desenvolvedores brasileiros e com operação também no Rio de Janeiro além de Lisboa, anunciou o fim de suas atividades após seu jogo \"Extremely Powerful Capybaras\" não recuperar os custos de desenvolvimento em três anos. O estúdio citou problemas de estabilidade online, avaliações mistas no Steam e dificuldade de captar financiamento; os jogos já lançados continuam disponíveis nas plataformas.",
+      "tipo": "noticia",
+      "escopo": "nacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC", "Steam"],
+      "tags": ["estudio-indie", "fechamento"],
+      "dataFato": "2026-11-16",
+      "janelaEstendida": true,
+      "fonte": { "nome": "Drops de Jogos", "url": "https://dropsdejogos.uai.com.br/noticias/indie/studio-bravarda-fecha-as-portas-ao-nao-sobreviver-ao-lancamento-com-reviews-mistos-de-seu-game-indie/", "dominio": "dropsdejogos.uai.com.br" },
+      "fontesSecundarias": [
+        { "nome": "Gameplay Cassi", "url": "https://gameplayscassi.com.br/noticias/estudio-brasileiro-studio-bravarda-anuncia-encerramento-das-atividades/135994/", "dominio": "gameplayscassi.com.br" },
+        { "nome": "GameDev.net", "url": "https://gamedev.net/news/lisbon-based-studio-bravarda-closes-down-after-failing-to-recoup-dev-costs-on-its-most-recent-title-extremely-powerful-capybaras-r7167/", "dominio": "gamedev.net" }
+      ],
+      "nota": 5.4,
+      "justificativa": "Fato de janela estendida (dois dias antes do início do período), com impacto limitado por envolver estúdio pequeno.",
+      "pesquisador": "radar-empresas-nacionais"
+    }
+  ],
+  "descartados": [
+    {
+      "titulo": "Jogos indie brasileiros (Ashikai e The Fourleaf Fields) disputam DevGAMM Awards 2026 em Lisboa",
+      "motivo": "Verificação mostrou que nenhum dos dois jogos venceu categoria nem chegou à final de premiação; Ashikai apenas integrou a área de exibição, e The Fourleaf Fields foi eliminado antes da final. Fato de baixo impacto editorial frente às demais notícias nacionais da janela."
+    }
+  ]
+}
