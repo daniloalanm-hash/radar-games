@@ -1,0 +1,376 @@
+{
+  "categoria": "games",
+  "data": "2026-11-20",
+  "geradoEm": "2026-11-20T21:00:00-03:00",
+  "janela": { "inicio": "2026-11-19T21:00:00-03:00", "fim": "2026-11-20T21:00:00-03:00" },
+  "observacao": null,
+  "itens": [
+    {
+      "posicao": 1,
+      "slug": "gta-vi-bate-recorde-historico-de-vendas-no-lancamento",
+      "titulo": "GTA VI bate recorde histórico de vendas com US$ 3,79 bi no primeiro dia",
+      "resumo": "A Take-Two anunciou que Grand Theft Auto VI, lançado em 19 de novembro de 2026 para PS5 e Xbox Series X|S, faturou US$ 3,79 bilhões em vendas de varejo no primeiro dia, o maior lançamento de entretenimento da história, com 32,5 milhões de unidades vendidas em pré-lançamento. Apesar da nota 99 no Metacritic e do recorde de audiência (mais de 132 milhões de horas assistidas em streaming), a cobertura do lançamento aponta recepção crítica dividida entre fãs, com elogios ao visual e críticas à narrativa e aos controles.",
+      "tipo": "lancamento",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PS5", "Xbox Series"],
+      "tags": ["gta-vi", "rockstar", "take-two", "vendas", "lancamento"],
+      "dataFato": "2026-11-20",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Take-Two Interactive (comunicado oficial)", "url": "https://www.take2games.com/ir/news/grand-theft-auto-vi-shatters-entertainment-box-office-records", "dominio": "take2games.com" },
+      "fontesSecundarias": [
+        { "nome": "Forbes", "url": "https://www.forbes.com/sites/antoniopequenoiv/2026/11/20/gta-6-raked-in-38-billion-sales-on-first-day-the-largest-entertainment-launch-ever/", "dominio": "forbes.com" },
+        { "nome": "CNN", "url": "https://www.cnn.com/2026/11/20/media/gta-vi-launch-sales-numbers", "dominio": "cnn.com" },
+        { "nome": "Deadline", "url": "https://deadline.com/2026/11/gta-6-sales-launch-day-surge-videogame-1237229514/", "dominio": "deadline.com" },
+        { "nome": "gvwire", "url": "https://gvwire.com/2026/11/20/take-two-shatters-sales-record-as-gta-vi-launches-to-massive-fanfare/", "dominio": "gvwire.com" }
+      ],
+      "nota": 9.8,
+      "justificativa": "Maior lançamento de entretenimento da história, com fonte primária (comunicado oficial da Take-Two) e repercussão mundial unânime; item de maior impacto do dia.",
+      "pesquisador": "radar-lancamentos-internacionais"
+    },
+    {
+      "posicao": 2,
+      "slug": "gta-vi-impulsiona-varejo-e-pre-vendas-no-brasil",
+      "titulo": "GTA VI dispara vendas no varejo e bate recorde de pré-vendas no Brasil",
+      "resumo": "O lançamento de GTA VI provocou alta de 567% nas vendas da loja física do KaBuM na Avenida Paulista e tornou-se o título mais vendido da história da empresa, com salto de 174,4% na categoria de jogos. A Nuuvem também registrou recorde histórico de pré-vendas, superando em 1,5 vez as vendas do antecessor GTA V, com cerca de 50 mil usuários simultâneos exigindo um novo sistema de fila.",
+      "tipo": "noticia",
+      "escopo": "nacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PS5", "Xbox Series"],
+      "tags": ["gta-vi", "varejo", "brasil", "vendas"],
+      "dataFato": "2026-11-20",
+      "janelaEstendida": false,
+      "fonte": { "nome": "GamersE Games", "url": "https://www.gamersegames.com.br/2026/11/20/vendas-da-loja-do-kabum-disparam-567-com-evento-de-lancamento-de-gta-vi/", "dominio": "gamersegames.com.br" },
+      "fontesSecundarias": [
+        { "nome": "O Tempo", "url": "https://www.otempo.com.br/economia/2026/11/20/gta-6-bate-recorde-historico-e-arrecada-r-22-3-bilhoes-em-vendas-em-um-dia", "dominio": "otempo.com.br" },
+        { "nome": "Estado de Minas", "url": "https://www.em.com.br/cultura/2026/11/7540847-gta-6-impulsiona-mercado-de-games-e-vendas-no-brasil-disparam-diz-nuuvem.html", "dominio": "em.com.br" },
+        { "nome": "Correio Braziliense", "url": "https://www.correiobraziliense.com.br/diversao-e-arte/2026/11/7540581-gta-6-impulsiona-mercado-de-games-no-brasil-e-vendas-no-df-disparam.html", "dominio": "correiobraziliense.com.br" }
+      ],
+      "nota": 8.3,
+      "justificativa": "Reflexo direto do maior lançamento do ano no mercado brasileiro, com números concretos de varejo físico e da maior loja digital do país; cota nacional.",
+      "pesquisador": "radar-lancamentos-nacionais"
+    },
+    {
+      "posicao": 3,
+      "slug": "ubisoft-demite-166-funcionarios-montreal-quebec",
+      "titulo": "Ubisoft demite 166 funcionários em estúdios de Montreal e Quebec",
+      "resumo": "A Ubisoft confirmou em 19 de novembro de 2026 o corte de 166 posições entre os estúdios de Montreal (128 vagas) e Quebec City (38 vagas), afetando times ligados a projetos cancelados ou redirecionados, entre eles equipes de Assassin's Creed e Far Cry. A empresa oferecerá indenização, benefícios de saúde estendidos e serviços de recolocação profissional aos afetados.",
+      "tipo": "noticia",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": [],
+      "tags": ["ubisoft", "demissoes", "montreal", "quebec"],
+      "dataFato": "2026-11-19",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Gematsu", "url": "https://www.gematsu.com/2026/11/ubisoft-lays-off-166-staff-at-montreal-and-quebec-studios", "dominio": "gematsu.com" },
+      "fontesSecundarias": [
+        { "nome": "CBC News", "url": "https://www.cbc.ca/news/business/ubisoft-layoffs-166-montreal-quebec-city-9.7428473", "dominio": "cbc.ca" },
+        { "nome": "PocketGamer.biz", "url": "https://www.pocketgamer.biz/ubisoft-lays-off-166-staff-across-montreal-and-quebec-city-studios/", "dominio": "pocketgamer.biz" }
+      ],
+      "nota": 7.8,
+      "justificativa": "Mais um capítulo da crise de demissões na indústria, com impacto direto em franquias relevantes (Assassin's Creed, Far Cry) e confirmação oficial da empresa.",
+      "pesquisador": "radar-empresas-internacionais"
+    },
+    {
+      "posicao": 4,
+      "slug": "pain-gaming-oficializa-saida-de-cariok-hena-marvin-von",
+      "titulo": "paiN Gaming confirma saída de CarioK, Hena, Marvin e Von após CBLOL 2026",
+      "resumo": "A paiN Gaming oficializou, entre 19 e 20 de novembro, a saída do jungler CarioK após mais de seis anos, 422 jogos e dois títulos de CBLOL, além dos desligamentos do atirador Hena (que deve retornar à Coreia do Sul para o serviço militar), do atirador Marvin e do head coach Von. A organização promoveu Felipe \"brTT\" Gonçalves a Diretor de Cultura e Desenvolvimento Competitivo e Luiz \"Maestro\" Alves a Head de League of Legends; CarioK está no mercado, com interesse da Fluxo W7M mas sem acordo fechado.",
+      "tipo": "esports",
+      "escopo": "nacional",
+      "confiabilidade": "confirmado",
+      "plataformas": [],
+      "tags": ["cblol", "lol", "pain-gaming", "esports"],
+      "dataFato": "2026-11-20",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Diário do RN", "url": "https://diariodorn.com.br/pain-gaming-anuncia-saida-de-tres-integrantes-apos-cblol-2026-veja-quem-deixa-a-equipe/", "dominio": "diariodorn.com.br" },
+      "fontesSecundarias": [
+        { "nome": "Mais Esports", "url": "https://maisesports.com.br/cblol-2026-pain-gaming-anuncia-saida-de-cariok-apos-mais-de-seis-anos", "dominio": "maisesports.com.br" },
+        { "nome": "Mais Esports", "url": "https://maisesports.com.br/cblol-2026-pain-gaming-oficializa-saida-de-tres-integrantes", "dominio": "maisesports.com.br" },
+        { "nome": "ExitLag News", "url": "https://www.exitlag.com/news/pt/mudancas-na-pain-gaming-samkz-cariok-e-o-novo-elenco-para-2026/", "dominio": "exitlag.com" }
+      ],
+      "nota": 7.5,
+      "justificativa": "Reestruturação completa de uma das maiores organizações do CBLOL, consolidando quatro saídas e duas promoções em uma só movimentação; cota nacional.",
+      "pesquisador": "radar-esports"
+    },
+    {
+      "posicao": 5,
+      "slug": "psn-sofre-instabilidade-no-lancamento-de-gta-vi",
+      "titulo": "PlayStation Network sofre quedas de serviço no lançamento de GTA VI",
+      "resumo": "A PSN apresentou duas instabilidades, em 18 e 19 de novembro de 2026, com picos de mais de 8.400 reclamações nos EUA e 5.643 no Reino Unido no Downdetector, coincidindo com o download de 212GB e a atualização obrigatória de firmware do PS5 para GTA VI. A Sony reconheceu as falhas, mas não confirmou relação direta com o lançamento do jogo.",
+      "tipo": "noticia",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PS5"],
+      "tags": ["playstation", "psn", "gta-vi", "instabilidade"],
+      "dataFato": "2026-11-19",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Cryptonomist", "url": "https://en.cryptonomist.ch/2026/11/19/playstation-network-outage-launch/", "dominio": "cryptonomist.ch" },
+      "fontesSecundarias": [
+        { "nome": "TMZ", "url": "https://www.tmz.com/2026/11/18/playstation-experiencing-outages/", "dominio": "tmz.com" },
+        { "nome": "TalkEsport", "url": "https://www.talkesport.com/news/psn-down-gta-6-us-launch-playstation-store-outage/", "dominio": "talkesport.com" }
+      ],
+      "nota": 6.5,
+      "justificativa": "Problema de infraestrutura que afetou diretamente a experiência de lançamento do maior jogo do ano, repercutindo globalmente.",
+      "pesquisador": "radar-empresas-internacionais"
+    },
+    {
+      "posicao": 6,
+      "slug": "nuuvem-presenteia-funcionarios-com-copias-de-gta-vi",
+      "titulo": "Nuuvem presenteia os 86 funcionários com cópias de GTA VI",
+      "resumo": "A distribuidora digital brasileira Nuuvem anunciou que forneceu crédito adicional para que todos os seus 86 funcionários pudessem adquirir sua própria cópia de GTA VI no dia do lançamento do jogo, como forma de reconhecimento pelo trabalho da equipe no período de recorde de pré-vendas.",
+      "tipo": "noticia",
+      "escopo": "nacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PS5", "Xbox Series"],
+      "tags": ["nuuvem", "gta-vi", "brasil"],
+      "dataFato": "2026-11-19",
+      "janelaEstendida": false,
+      "fonte": { "nome": "On Pop Life", "url": "https://onpoplife.com.br/nuuvem-transforma-estreia-de-gta-vi-em-celebracao-e-presenteia-seus-funcionarios/", "dominio": "onpoplife.com.br" },
+      "fontesSecundarias": [
+        { "nome": "Terra", "url": "https://www.terra.com.br/gameon/plataformas-e-consoles/nuuvem-presenteia-funcionarios-com-gta-6-apos-jogo-bater-recorde-global-de-pre-vendas,9b90e7c0308d45b551139095b3a0674ab0h9xq1b.html", "dominio": "terra.com.br" }
+      ],
+      "nota": 6.2,
+      "justificativa": "Gesto corporativo de boa repercussão, ligado ao maior lançamento do ano, mas de impacto menor que os itens de vendas e demissões; cota nacional.",
+      "pesquisador": "radar-empresas-nacionais"
+    },
+    {
+      "posicao": 7,
+      "slug": "epic-games-store-libera-mark-of-the-deep-gratis",
+      "titulo": "Epic Games Store libera de graça o jogo brasileiro Mark of the Deep",
+      "resumo": "A Epic Games Store começou a distribuir gratuitamente, a partir de 19 de novembro de 2026, o jogo Mark of the Deep, desenvolvido pelo estúdio brasileiro Mad Mimic (São Paulo). O título, um metroidvania de piratas com combate inspirado em souls-like, pode ser resgatado permanentemente até 26 de novembro de 2026.",
+      "tipo": "noticia",
+      "escopo": "nacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC"],
+      "tags": ["epic-games-store", "mad-mimic", "jogo-gratis", "indie-brasileiro"],
+      "dataFato": "2026-11-19",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Drops de Jogos", "url": "https://dropsdejogos.uai.com.br/noticias/industria/epic-games-store-solta-o-jogo-indie-brasileiro-mark-of-the-deep-de-graca/", "dominio": "dropsdejogos.uai.com.br" },
+      "fontesSecundarias": [
+        { "nome": "Tudo Celular", "url": "https://www.tudocelular.com/jogos/noticias/n267564/epic-games-store-jogos-gratis-19112026.html", "dominio": "tudocelular.com" },
+        { "nome": "Neowin", "url": "https://www.neowin.net/news/epic-games-store-is-giving-away-pirate-souls-like-mark-of-the-deep/", "dominio": "neowin.net" }
+      ],
+      "nota": 6.8,
+      "justificativa": "Boa visibilidade internacional para um estúdio brasileiro, relevante para o público gamer nacional que acompanha jogos gratuitos; cota nacional.",
+      "pesquisador": "radar-empresas-nacionais"
+    },
+    {
+      "posicao": 8,
+      "slug": "playstation-brasil-anuncia-black-friday-2026",
+      "titulo": "PlayStation Brasil anuncia campanha de Black Friday e fim de ano",
+      "resumo": "A PlayStation Brasil anunciou em 20 de novembro de 2026 sua campanha de Black Friday, válida de 20 de novembro a 24 de dezembro, com descontos de até 75% em jogos de PS5 e PS4, redução de R$ 700 no PS VR2 e 20% em controles DualSense, entre outras promoções em varejistas autorizados.",
+      "tipo": "noticia",
+      "escopo": "nacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PS5", "PS4", "PS VR2"],
+      "tags": ["playstation", "black-friday", "promocao", "brasil"],
+      "dataFato": "2026-11-20",
+      "janelaEstendida": false,
+      "fonte": { "nome": "GamersE Games", "url": "https://www.gamersegames.com.br/2026/11/20/playstation-anuncia-ofertas-de-black-friday-e-fim-de-ano-no-brasil/", "dominio": "gamersegames.com.br" },
+      "fontesSecundarias": [
+        { "nome": "PSX Brasil", "url": "https://psxbrasil.com.br/playstation-brasil-ofertas-black-friday-fim-ano/", "dominio": "psxbrasil.com.br" },
+        { "nome": "J-WAVE", "url": "https://www.jwave.com.br/2026/11/black-friday-playstation-2026-ps-vr2-tem-desconto-de-r-700-e-jogos-de-ps5-e-ps4-partem-de-r-5990/", "dominio": "jwave.com.br" }
+      ],
+      "nota": 6.5,
+      "justificativa": "Informação de utilidade prática direta para o consumidor brasileiro em período de Black Friday; cota nacional.",
+      "pesquisador": "radar-lancamentos-nacionais"
+    },
+    {
+      "posicao": 9,
+      "slug": "crystal-dynamics-quinta-rodada-de-demissoes",
+      "titulo": "Crystal Dynamics (Tomb Raider) tem quinta rodada de demissões em dois anos",
+      "resumo": "A Crystal Dynamics, estúdio da Embracer Group responsável por Tomb Raider, confirmou nova rodada de demissões em 17 de novembro de 2026, a quinta desde a aquisição pela Embracer em 2022, mesmo com dois jogos da franquia ainda em produção.",
+      "tipo": "noticia",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": [],
+      "tags": ["embracer", "crystal-dynamics", "tomb-raider", "demissoes"],
+      "dataFato": "2026-11-17",
+      "janelaEstendida": true,
+      "fonte": { "nome": "Vertical Slice", "url": "https://www.verticalslice.news/report-embracer-studio-crystal-dynamics-has-seemingly-begun-its-fifth-layoff-round-in-two-years/", "dominio": "verticalslice.news" },
+      "fontesSecundarias": [
+        { "nome": "GameReactor", "url": "https://gamereactor.de/embracer-startet-fuenfte-entlassungsrunde-beim-tomb-raider-studio-crystal", "dominio": "gamereactor.de" },
+        { "nome": "GameLuster", "url": "https://gameluster.com/crystal-dynamics-layoffs-embracer-tomb-raider/", "dominio": "gameluster.com" }
+      ],
+      "nota": 6.0,
+      "justificativa": "Mais um sinal da crise persistente na Embracer, embora fora da janela estrita e com menor novidade que os demais itens de demissões do dia.",
+      "pesquisador": "radar-empresas-internacionais"
+    },
+    {
+      "posicao": 10,
+      "slug": "zmjjkk-deixa-edward-gaming-apos-titulo-mundial",
+      "titulo": "ZmjjKK deixa EDward Gaming após cinco anos e título mundial de 2024",
+      "resumo": "A EDward Gaming anunciou a saída do coreano ZmjjKK, MVP do VCT 2024 Champions, encerrando um ciclo de cinco anos na organização chinesa. Ele é o quarto jogador a deixar a EDG após a campanha decepcionante no VCT Champions 2026, quando todas as equipes chinesas ficaram no fundo dos grupos; há rumores não confirmados de ida para a Xi Lai Gaming.",
+      "tipo": "esports",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC"],
+      "tags": ["valorant", "edward-gaming", "vct", "esports"],
+      "dataFato": "2026-11-18",
+      "janelaEstendida": true,
+      "fonte": { "nome": "The Spike", "url": "https://www.thespike.gg/valorant/news/zmjjkk-leaves-edg/9261", "dominio": "thespike.gg" },
+      "fontesSecundarias": [
+        { "nome": "Strafe Esports", "url": "https://www.strafe.com/news/read/valorant-world-champion-zmjjkk-leaves-edward-gaming-after-five-years/", "dominio": "strafe.com" },
+        { "nome": "Dot Esports", "url": "https://dotesports.com/general/news/edward-gaming-release-chichoo-nobody", "dominio": "dotesports.com" }
+      ],
+      "nota": 6.8,
+      "justificativa": "Movimentação relevante na cena de Valorant envolvendo um campeão mundial, de interesse para o público de esports.",
+      "pesquisador": "radar-esports"
+    }
+  ],
+  "tambemNoRadar": [
+    {
+      "slug": "fiesta-fecha-com-los-para-cblol-2027",
+      "titulo": "FIESTA fecha acordo verbal com LØS para o CBLOL 2027",
+      "resumo": "Segundo fontes do Sheep Esports, o meio coreano FIESTA (ex-Team Vitality na LEC, contrato encerrado em 16/11) chegou a um acordo verbal com a LØS para a vaga de Feisty no CBLOL 2027. A LØS vem de temporada histórica em 2026, com vice no Split 1 e título no Split 2 sobre a FURIA.",
+      "tipo": "vazamento",
+      "escopo": "nacional",
+      "confiabilidade": "rumor",
+      "plataformas": [],
+      "tags": ["cblol", "lol", "los", "mercado-da-bola"],
+      "dataFato": "2026-11-19",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Sheep Esports", "url": "https://www.sheepesports.com/en/articles/sources-fiesta-set-to-join-los-for-cblol-2027-season/en", "dominio": "sheepesports.com" },
+      "fontesSecundarias": [
+        { "nome": "eGamersWorld", "url": "https://egamersworld.com/lol/news/38593/former-team-vitality-midlaner-fiesta-reaches-verba-fD46OluUR", "dominio": "egamersworld.com" }
+      ],
+      "nota": 5.8,
+      "justificativa": "Rumor de mercado relevante para a cena de LoL nacional, mas sem confirmação oficial das organizações envolvidas.",
+      "pesquisador": "radar-esports"
+    },
+    {
+      "slug": "makes-fecha-com-fluxo-w7m-para-cblol-2027",
+      "titulo": "Makes fecha acordo verbal com Fluxo W7M para retorno ao CBLOL 2027",
+      "resumo": "De acordo com o Sheep Esports, o top laner Makes chegou a um acordo verbal com o Fluxo W7M para o CBLOL 2027, retornando ao Tier 1 após duas temporadas no Circuito Desafiante defendendo o Ei Nerd!. Ele seria o terceiro reforço do Fluxo para 2027, junto de Brance e Telas, além do técnico Sephis (ex-LOUD).",
+      "tipo": "vazamento",
+      "escopo": "nacional",
+      "confiabilidade": "rumor",
+      "plataformas": [],
+      "tags": ["cblol", "lol", "fluxo-w7m", "mercado-da-bola"],
+      "dataFato": "2026-11-19",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Sheep Esports", "url": "https://www.sheepesports.com/en/articles/fontes-makes-fecha-com-o-fluxo-w7m-para-o-cblol-2027/en", "dominio": "sheepesports.com" },
+      "fontesSecundarias": [
+        { "nome": "Mais Esports", "url": "https://maisesports.com.br/cblol-2026-makes-chega-a-acordo-para-voltar-ao-tier-1-diz-site", "dominio": "maisesports.com.br" }
+      ],
+      "nota": 5.6,
+      "justificativa": "Rumor de mercado da bola do CBLOL, relevante mas sem confirmação oficial.",
+      "pesquisador": "radar-esports"
+    },
+    {
+      "slug": "estudios-brasileiros-levam-jogos-a-devgamm-lisboa",
+      "titulo": "Estúdios brasileiros levam jogos à DevGAMM Lisboa",
+      "resumo": "Reportagem detalha a presença de estúdios brasileiros no evento internacional DevGAMM Lisboa: a Gameplan (Fortaleza) apresentou o RPG isométrico Ashikai, com lançamento previsto para o 1º trimestre de 2027 em Mac e iPhone, e a Octopus Embrace, de Calebe Motta, revelou o jogo de terror em primeira pessoa All Light Is Gone, previsto para 2027 em PC.",
+      "tipo": "noticia",
+      "escopo": "nacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC", "Mac", "iPhone"],
+      "tags": ["devgamm", "indie-brasileiro", "desenvolvimento"],
+      "dataFato": "2026-11-20",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Público", "url": "https://www.publico.pt/2026/11/20/publico-brasil/noticia/samurais-onis-terror-vhs-brasileiros-trazem-lisboa-games-mundo-2195641", "dominio": "publico.pt" },
+      "fontesSecundarias": [],
+      "nota": 5.5,
+      "justificativa": "Boa vitrine para o desenvolvimento de jogos brasileiro, mas de alcance e impacto imediato menores que os demais itens nacionais do dia.",
+      "pesquisador": "radar-lancamentos-nacionais"
+    },
+    {
+      "slug": "krafton-expande-estagios-enquanto-nexon-reduz",
+      "titulo": "Krafton lança maior programa de estágios de sua história enquanto Nexon reduz contratações",
+      "resumo": "A Krafton (PUBG) mantém em andamento seu maior programa de recrutamento de estagiários \"AI native\", com mais de 100 vagas, em contraste com a Nexon, que vem reduzindo seu programa anual \"Nexteer\" para apenas dois dígitos de vagas em meio a reestruturação interna.",
+      "tipo": "noticia",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": [],
+      "tags": ["krafton", "nexon", "contratacao", "industria"],
+      "dataFato": "2026-11-13",
+      "janelaEstendida": true,
+      "fonte": { "nome": "eGov Elets Online", "url": "https://egov.eletsonline.com/2026/11/krafton-launches-record-internship-drive-as-nexon-and-nc-cut-jobs/", "dominio": "egov.eletsonline.com" },
+      "fontesSecundarias": [
+        { "nome": "Asia Economy", "url": "https://www.asiae.co.kr/en/article/2026111310223463093", "dominio": "asiae.co.kr" },
+        { "nome": "Seoul Economic Daily", "url": "https://en.sedaily.com/finance/2026/10/14/krafton-launches-largest-ever-hiring-drive-for-ai-natives", "dominio": "sedaily.com" }
+      ],
+      "nota": 4.8,
+      "justificativa": "Tema de bastidores da indústria coreana, fora da janela estrita e de menor apelo direto ao público gamer final.",
+      "pesquisador": "radar-empresas-internacionais"
+    },
+    {
+      "slug": "motorslice-chega-ao-game-pass-premium",
+      "titulo": "Motorslice, jogo brasileiro, chega ao Xbox Game Pass Premium",
+      "resumo": "Motorslice, jogo de ação e plataforma desenvolvido por dois irmãos brasileiros e publicado pela Top Hat Studios, passa a integrar o Xbox Game Pass Premium a partir de 24 de novembro de 2026, ampliando sua disponibilidade além do Game Pass Ultimate e PC Game Pass, onde já estava desde maio de 2026.",
+      "tipo": "lancamento",
+      "escopo": "nacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["Xbox Series", "PC"],
+      "tags": ["game-pass", "motorslice", "indie-brasileiro"],
+      "dataFato": "2026-11-17",
+      "janelaEstendida": true,
+      "fonte": { "nome": "GamersE Games", "url": "https://www.gamersegames.com.br/2026/11/17/jogo-brasileiro-motorslice-chega-ao-game-pass-premium-veja-novidades-de-novembro/", "dominio": "gamersegames.com.br" },
+      "fontesSecundarias": [
+        { "nome": "Tudo Celular", "url": "https://www.tudocelular.com/jogos/noticias/n267365/xbox-game-pass-brasileiro-novembro-de-2026.html", "dominio": "tudocelular.com" },
+        { "nome": "Última Ficha", "url": "https://ultimaficha.com.br/2026/11/17/motorslice-game-pass-premium/", "dominio": "ultimaficha.com.br" }
+      ],
+      "nota": 4.5,
+      "justificativa": "Notícia positiva para o desenvolvimento brasileiro, mas de baixo impacto imediato e fora da janela estrita.",
+      "pesquisador": "radar-lancamentos-nacionais"
+    },
+    {
+      "slug": "activision-mostra-spyro-a-realm-beyond-no-tga-2026",
+      "titulo": "Activision confirma gameplay de Spyro: A Realm Beyond no The Game Awards 2026",
+      "resumo": "A Activision e a Toys for Bob anunciaram que mostrarão gameplay de Spyro: A Realm Beyond durante o The Game Awards 2026, em 10 de dezembro, revelando as primeiras capturas de tela in-game da área \"Painted Plains\".",
+      "tipo": "noticia",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": [],
+      "tags": ["spyro", "activision", "the-game-awards"],
+      "dataFato": "2026-11-20",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Archyde", "url": "https://www.archyde.com/activision-toys-for-bob-tease-spyro-a-realm-beyond-at-the-game-awards-2026/", "dominio": "archyde.com" },
+      "fontesSecundarias": [],
+      "nota": 4.5,
+      "justificativa": "Anúncio de teaser para evento futuro, sem conteúdo concreto divulgado ainda além da confirmação da apresentação.",
+      "pesquisador": "radar-empresas-internacionais"
+    },
+    {
+      "slug": "black-jacket-chega-ao-xbox-game-pass-premium",
+      "titulo": "Black Jacket chega ao Xbox Game Pass Premium",
+      "resumo": "O roguelite de blackjack Black Jacket, da Mi'pu'mi Games, passou a integrar o catálogo do Xbox Game Pass Premium em 19 de novembro de 2026, seis meses após seu lançamento no Game Pass Ultimate e PC. O título está disponível em Xbox Series X|S, PC e handhelds.",
+      "tipo": "noticia",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["Xbox Series", "PC"],
+      "tags": ["game-pass", "black-jacket"],
+      "dataFato": "2026-11-19",
+      "janelaEstendida": false,
+      "fonte": { "nome": "TrueAchievements", "url": "https://www.trueachievements.com/news/xbox-game-pass-black-jacket", "dominio": "trueachievements.com" },
+      "fontesSecundarias": [
+        { "nome": "Player.One", "url": "https://www.player.one/black-jacket-joins-game-pass-premium-november-19-its-blackjack-rules-let-you-cheat-your-way-out-164533", "dominio": "player.one" }
+      ],
+      "nota": 4.2,
+      "justificativa": "Notícia de catálogo de baixo impacto, sem repercussão expressiva no dia.",
+      "pesquisador": "radar-lancamentos-internacionais"
+    },
+    {
+      "slug": "horror-game-awards-2026-revela-trailers",
+      "titulo": "Horror Game Awards 2026 revela trailers de ILL, Sally Face 2 e Sker: The Bleeding Veil",
+      "resumo": "O Horror Game Awards 2026 ocorreu em Londres em 20 de novembro, com mais de 100 jogos indicados em 21 categorias e mais de 20 trailers exibidos, incluindo revelações de ILL, Sally Face 2 e Sker: The Bleeding Veil. REANIMAL, da Tarsier Studios, liderou as indicações com dez nomeações, seguido por Resident Evil Requiem com nove.",
+      "tipo": "noticia",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": [],
+      "tags": ["horror-game-awards", "premiacao", "trailers"],
+      "dataFato": "2026-11-20",
+      "janelaEstendida": false,
+      "fonte": { "nome": "HorrorFuel", "url": "https://horrorfuel.com/2026/11/20/stream-the-2026-horror-game-awards-tonight-for-winners-trailers-and-more/", "dominio": "horrorfuel.com" },
+      "fontesSecundarias": [
+        { "nome": "GameLevate", "url": "https://gamelevate.com/horror-game-awards-2026-date-nominees-trailers/", "dominio": "gamelevate.com" },
+        { "nome": "Final Weapon", "url": "https://finalweapon.net/2026/11/20/serafini-productions-reveals-new-looks-at-six-games-at-the-horror-game-awards-2026/", "dominio": "finalweapon.net" }
+      ],
+      "nota": 5.2,
+      "justificativa": "Evento de nicho dentro do gênero de horror, com boa quantidade de revelações mas público mais restrito.",
+      "pesquisador": "radar-lancamentos-internacionais"
+    }
+  ],
+  "descartados": []
+}
