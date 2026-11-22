@@ -1,0 +1,356 @@
+{
+  "categoria": "games",
+  "data": "2026-11-21",
+  "geradoEm": "2026-11-21T21:30:00-03:00",
+  "janela": { "inicio": "2026-11-20T21:00:00-03:00", "fim": "2026-11-21T21:00:00-03:00" },
+  "observacao": null,
+  "itens": [
+    {
+      "posicao": 1,
+      "slug": "gta-6-bate-recorde-historico-de-vendas-no-lancamento",
+      "titulo": "GTA 6 bate recorde histórico de vendas no lançamento mundial",
+      "resumo": "Grand Theft Auto VI foi lançado mundialmente em 19 de novembro de 2026 para PS5 e Xbox Series X|S e arrecadou US$ 3,79 bilhões em vendas de varejo no primeiro dia, segundo a Take-Two e a Rockstar Games, tornando-se o maior lançamento de entretenimento da história em qualquer mídia. O jogo também vendeu 32,5 milhões de unidades em pré-venda, novo recorde da indústria, e recebeu nota 99 no Metacritic.",
+      "tipo": "lancamento",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PS5", "Xbox Series"],
+      "tags": ["gta-6", "rockstar", "take-two", "lancamento", "vendas-recorde"],
+      "dataFato": "2026-11-20",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Take-Two Interactive (comunicado oficial)", "url": "https://www.take2games.com/ir/news/grand-theft-auto-vi-shatters-entertainment-box-office-records", "dominio": "take2games.com" },
+      "fontesSecundarias": [
+        { "nome": "CNBC", "url": "https://www.cnbc.com/2026/11/20/take-two-sales-as-gta-vi-launches-to-massive-fanfare.html", "dominio": "cnbc.com" },
+        { "nome": "VideoCardz", "url": "https://videocardz.com/newz/gta-6-generates-3-79-billion-in-first-day-sales-with-32-5-million-copies-sold-before-launch", "dominio": "videocardz.com" },
+        { "nome": "Tech Insider", "url": "https://tech-insider.org/gta-6-release-date-november-19-2026-confirmed/", "dominio": "tech-insider.org" },
+        { "nome": "Yahoo Tech", "url": "https://tech.yahoo.com/gaming/breaking-news/article/gta-6-is-out-now-and-officially-ready-to-play-everything-you-need-to-know-about-the-rockstar-game-launch-including-reviews-pricing-story-mode-and-more-050048410.html", "dominio": "tech.yahoo.com" }
+      ],
+      "nota": 9.8,
+      "justificativa": "Maior lançamento de entretenimento da história, com fonte primária oficial e impacto direto no público gamer; combina o lançamento mundial e o recorde de vendas, que são a mesma história.",
+      "pesquisador": "radar-empresas-internacionais"
+    },
+    {
+      "posicao": 2,
+      "slug": "bioware-encerra-operacoes-apos-31-anos",
+      "titulo": "BioWare encerra operações após 31 anos de história",
+      "resumo": "A BioWare (Mass Effect, Dragon Age), estúdio da EA cujo fechamento foi anunciado em 21 de outubro, teve seu último dia oficial de operação em 20 de novembro de 2026, conforme confirmaram ex-funcionários como Devon Gardner nas redes sociais. O encerramento ocorre após anos de lançamentos problemáticos e cortes de pessoal sucessivos; a franquia Mass Effect permanece com a EA, mas sem estúdio definido, o que gerou a campanha de fãs #SaveMassEffect.",
+      "tipo": "noticia",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": [],
+      "tags": ["bioware", "ea", "fechamento-de-estudio", "mass-effect"],
+      "dataFato": "2026-11-20",
+      "janelaEstendida": false,
+      "fonte": { "nome": "FandomWire", "url": "https://fandomwire.com/bioware-officially-closes-operations-after-31-years/", "dominio": "fandomwire.com" },
+      "fontesSecundarias": [
+        { "nome": "VGTimes", "url": "https://vgtimes.com/gaming-news/175328-bioware-has-closed-after-31-years-with-november-20-as-its-final-working-day.html", "dominio": "vgtimes.com" },
+        { "nome": "iXBT Games", "url": "https://ixbt.games/en/news/2026/11/21/segodnia-poslednii-den-bioware-studiiu-razrabotcikov-mass-effect-i-dragon-age-okoncatelno-zakryli.html", "dominio": "ixbt.games" }
+      ],
+      "nota": 8.8,
+      "justificativa": "Fim simbólico de um dos estúdios mais influentes da indústria, com forte repercussão emocional entre fãs e múltiplas fontes confirmando a data.",
+      "pesquisador": "radar-empresas-internacionais"
+    },
+    {
+      "posicao": 3,
+      "slug": "vendas-de-consoles-no-brasil-disparam-69-com-gta-6",
+      "titulo": "Vendas de consoles no Brasil disparam 69% com lançamento de GTA VI",
+      "resumo": "Levantamento da Confi/Neotrust mostra que o e-commerce brasileiro de videogames faturou R$ 563,1 milhões entre 18 de outubro e 16 de novembro de 2026, alta de 69% em relação ao mesmo período do ano anterior, impulsionado pelo lançamento de GTA VI. Consoles compatíveis com o jogo (PS5 e Xbox Series X|S) passaram a representar 84% das unidades vendidas no período, com preço médio de R$ 4.819. Um rumor viral de que o jogo teria vendido apenas 12 mil cópias no Brasil foi desmentido por fact-checkers em 21/11: o número referia-se só a pré-vendas físicas de PS5 monitoradas pela Neotrust, não ao total nacional, que a Take-Two não divulgou.",
+      "tipo": "noticia",
+      "escopo": "nacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PS5", "Xbox Series X|S"],
+      "tags": ["gta-6", "mercado-brasileiro", "consoles", "e-commerce"],
+      "dataFato": "2026-11-19",
+      "janelaEstendida": true,
+      "fonte": { "nome": "Times Brasil", "url": "https://timesbrasil.com.br/entretenimento/lancamento-de-gta-vi-impulsiona-vendas-de-consoles-no-brasil-em-69/", "dominio": "timesbrasil.com.br" },
+      "fontesSecundarias": [
+        { "nome": "CNN Brasil", "url": "https://www.cnnbrasil.com.br/economia/money/negocios/gta-vi-dispara-em-redes-de-e-commerce-no-brasil-e-puxa-vendas-de-consoles/", "dominio": "cnnbrasil.com.br" },
+        { "nome": "Opinião CE", "url": "https://www.opiniaoce.com.br/economia/2026/11/19/gta-vi-impulsiona-vendas-de-videogames-no-brasil-que-chegam-a-r-563-milhoes-em-um-mes/", "dominio": "opiniaoce.com.br" },
+        { "nome": "Quenty (fact-check)", "url": "https://quenty.com.br/resumo/21-novembro-2026/gta-6-vendeu-so-12-mil-copias-no-brasil-o-que-se-sabe-sobre-o-rumor", "dominio": "quenty.com.br" }
+      ],
+      "nota": 7.8,
+      "justificativa": "Dado de mercado nacional relevante para o público gamer brasileiro, reforçado pelo desmentido de um rumor que circulava nas redes.",
+      "pesquisador": "radar-empresas-nacionais"
+    },
+    {
+      "posicao": 4,
+      "slug": "ubisoft-cria-subsidiaria-motherbrain-e-demite-166-no-canada",
+      "titulo": "Ubisoft cria subsidiária de IA \"Motherbrain\" e demite 166 pessoas no Canadá",
+      "resumo": "A Ubisoft anunciou, junto aos resultados do segundo trimestre fiscal (bookings líquidos de €388,9 milhões, queda de 20,8% ano a ano), a criação da subsidiária Motherbrain, dedicada a IA generativa para jogabilidade, derivada da equipe do protótipo \"Teammates\". No mesmo pacote de anúncios, a empresa confirmou 166 demissões nos estúdios de Montreal e Quebec, cerca de 4% da força de trabalho canadense.",
+      "tipo": "noticia",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": [],
+      "tags": ["ubisoft", "inteligencia-artificial", "demissoes", "resultados-financeiros"],
+      "dataFato": "2026-11-19",
+      "janelaEstendida": true,
+      "fonte": { "nome": "BigGo Finance", "url": "https://finance.biggo.com/news/e390d4a6-5989-49dc-b977-41605ce13ac8", "dominio": "finance.biggo.com" },
+      "fontesSecundarias": [
+        { "nome": "MobileSyrup", "url": "https://mobilesyrup.com/2026/11/19/ubisoft-canada-quebec-layoffs-166-people/", "dominio": "mobilesyrup.com" },
+        { "nome": "Gematsu", "url": "https://www.gematsu.com/2026/11/ubisoft-lays-off-166-staff-at-montreal-and-quebec-studios", "dominio": "gematsu.com" }
+      ],
+      "nota": 7.2,
+      "justificativa": "Combina decisão estratégica de peso (aposta em IA generativa) com novo ciclo de demissões em estúdios históricos, relevante para o mercado de trabalho da indústria.",
+      "pesquisador": "radar-empresas-internacionais"
+    },
+    {
+      "posicao": 5,
+      "slug": "gta-6-leaker-cyberleek-mantem-prazo-de-23-de-novembro",
+      "titulo": "Vazador de GTA 6 mantém prazo de 23 de novembro para liberar build de PC",
+      "resumo": "O leaker Cyberleek, que divulgou um build Xbox de 209 GB de GTA 6 em novembro, reafirmou que vai liberar o executável faltante em 23 de novembro de 2026 independentemente de sua criptomoeda CYBERLEEK atingir a meta de US$ 15 milhões de valor de mercado. Até 21/11 o token negociava perto de US$ 1,3 milhão, bem abaixo do objetivo, e nenhum arquivo foi confirmado como autêntico de forma independente.",
+      "tipo": "vazamento",
+      "escopo": "internacional",
+      "confiabilidade": "rumor",
+      "plataformas": ["Xbox Series X|S", "PC"],
+      "tags": ["gta-6", "vazamento", "criptomoeda"],
+      "dataFato": "2026-11-21",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Decrypt", "url": "https://decrypt.co/383756/gta-6-leaker-dangles-pc-port-15-million-crypto-pump", "dominio": "decrypt.co" },
+      "fontesSecundarias": [
+        { "nome": "VideoCardz", "url": "https://videocardz.com/newz/gta-vi-xbox-build-allegedly-leaked-by-cyberleek", "dominio": "videocardz.com" },
+        { "nome": "NotebookCheck", "url": "https://www.notebookcheck.net/Cyberleek-releases-GTA-6-Xbox-build-making-playable-PC-port-more-realistic.1454770.0.html", "dominio": "notebookcheck.net" }
+      ],
+      "nota": 6.5,
+      "justificativa": "Capítulo mais recente de um vazamento acompanhado de perto pela comunidade, mas segue sem confirmação independente e envolve esquema especulativo de criptomoeda.",
+      "pesquisador": "radar-lancamentos-internacionais"
+    },
+    {
+      "posicao": 6,
+      "slug": "pain-gaming-oficializa-saida-de-cariok-do-cblol",
+      "titulo": "paiN Gaming oficializa saída de CarioK após mais de seis anos no CBLOL",
+      "resumo": "A paiN Gaming anunciou oficialmente, em 20 de novembro, a saída do jungler Marcos \"CarioK\" Oliveira, encerrando um vínculo de mais de seis anos (desde maio de 2020) e 2.368 dias na organização. A reestruturação também incluiu a saída do suporte Hena e do head coach Von.",
+      "tipo": "esports",
+      "escopo": "nacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC"],
+      "tags": ["cblol", "league-of-legends", "pain-gaming", "transferencia"],
+      "dataFato": "2026-11-20",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Mais Esports", "url": "https://maisesports.com.br/cblol-2026-pain-gaming-anuncia-saida-de-cariok-apos-mais-de-seis-anos", "dominio": "maisesports.com.br" },
+      "fontesSecundarias": [
+        { "nome": "ExitLag", "url": "https://www.exitlag.com/news/pt/mudancas-na-pain-gaming-samkz-cariok-e-o-novo-elenco-para-2026/", "dominio": "exitlag.com" }
+      ],
+      "nota": 6.8,
+      "justificativa": "Movimentação relevante da cena competitiva nacional de League of Legends, encerrando um ciclo longo e simbólico de um jogador na paiN.",
+      "pesquisador": "radar-esports"
+    },
+    {
+      "posicao": 7,
+      "slug": "luminosity-conquista-primeiro-titulo-lan-no-stake-ranked",
+      "titulo": "Luminosity conquista primeiro título LAN desde relançamento no CS2",
+      "resumo": "A Luminosity venceu a Sangal por 3-1 (Nuke, Mirage, Cache, Dust2) na final do Stake Ranked Episode 6, em Barcelona, conquistando seu primeiro troféu de LAN desde o relançamento da organização em CS2. O título rendeu 116 pontos Valve à equipe, elevando-a ao top 30 do ranking global.",
+      "tipo": "esports",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC", "Steam"],
+      "tags": ["cs2", "luminosity", "stake-ranked", "campeonato"],
+      "dataFato": "2026-11-20",
+      "janelaEstendida": false,
+      "fonte": { "nome": "HLTV", "url": "https://www.hltv.org/news/46023/luminosity-win-stake-ranked-episode-6-to-lift-first-lan-trophy-since-relaunch", "dominio": "hltv.org" },
+      "fontesSecundarias": [
+        { "nome": "Dust2.us", "url": "https://www.dust2.us/news/80104/luminosity-win-stake-ranked-episode-6", "dominio": "dust2.us" },
+        { "nome": "Fragster", "url": "https://www.fragster.com/luminosity-win-stake-ranked-episode-6-cs2/", "dominio": "fragster.com" }
+      ],
+      "nota": 6.5,
+      "justificativa": "Título relevante para a cena de CS2 internacional, com fonte de maior peso editorial do setor (HLTV).",
+      "pesquisador": "radar-esports"
+    },
+    {
+      "posicao": 8,
+      "slug": "hellraiser-revival-vence-jogo-do-ano-no-horror-game-awards-2026",
+      "titulo": "Hellraiser: Revival vence Jogo do Ano no The Horror Game Awards 2026",
+      "resumo": "A quinta edição do The Horror Game Awards foi realizada em Londres, com mais de 100 jogos nomeados em 21 categorias. Clive Barker's Hellraiser: Revival venceu Jogo do Ano, superando Resident Evil Requiem, que levou o maior número de prêmios individuais da noite, incluindo Melhor Narrativa e Escolha dos Jogadores; o evento também trouxe trailers novos, incluindo o do jogo de terror ILL.",
+      "tipo": "esports",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PS5", "Xbox Series", "PC"],
+      "tags": ["premiacao", "horror-game-awards", "hellraiser", "resident-evil"],
+      "dataFato": "2026-11-20",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Bloody Disgusting", "url": "https://bloody-disgusting.com/video-games/3976498/hellraiser-revival-wins-game-of-the-year-at-the-horror-game-awards-2026/", "dominio": "bloody-disgusting.com" },
+      "fontesSecundarias": [
+        { "nome": "Insider Gaming", "url": "https://insider-gaming.com/hellraiser-revival-horror-game-awards-2026-goty/", "dominio": "insider-gaming.com" },
+        { "nome": "DSOGaming", "url": "https://www.dsogaming.com/videotrailer-news/first-person-action-horror-ill-gets-official-game-awards-fall-2026-trailer/", "dominio": "dsogaming.com" }
+      ],
+      "nota": 6.0,
+      "justificativa": "Premiação de nicho (terror), mas com boa repercussão entre fãs do gênero e trailers inéditos revelados na cerimônia.",
+      "pesquisador": "radar-lancamentos-internacionais"
+    },
+    {
+      "posicao": 9,
+      "slug": "jam-city-demite-10-da-equipe-global",
+      "titulo": "Jam City demite 10% da equipe em nova rodada de cortes",
+      "resumo": "A publisher mobile Jam City (Harry Potter: Hogwarts Mystery, Cookie Jam, Disney Emoji Blitz) demitiu aproximadamente 10% de seu quadro global, cerca de 60 funcionários, em 20 de novembro de 2026. A empresa afirmou que nenhum estúdio ou jogo será fechado em decorrência do corte, citando necessidade de construir um futuro \"mais sustentável\".",
+      "tipo": "noticia",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["Mobile"],
+      "tags": ["jam-city", "demissoes", "mobile"],
+      "dataFato": "2026-11-20",
+      "janelaEstendida": false,
+      "fonte": { "nome": "PocketGamer.biz", "url": "https://www.pocketgamer.biz/jam-city-lays-off-10-of-staff/", "dominio": "pocketgamer.biz" },
+      "fontesSecundarias": [
+        { "nome": "Video Games Chronicle", "url": "https://www.videogameschronicle.com/news/jam-city-is-laying-off-10-of-its-employees/", "dominio": "videogameschronicle.com" },
+        { "nome": "MobileGamer.biz", "url": "https://mobilegamer.biz/jam-city-to-cut-around-60-staff/", "dominio": "mobilegamer.biz" }
+      ],
+      "nota": 5.8,
+      "justificativa": "Mais um episódio do ciclo de demissões na indústria, de impacto menor por se tratar de publisher mobile de nicho.",
+      "pesquisador": "radar-empresas-internacionais"
+    },
+    {
+      "posicao": 10,
+      "slug": "stun-game-festival-2026-reune-estudios-indie-em-florianopolis",
+      "titulo": "STUN Game Festival 2026 reúne estúdios indie brasileiros em Florianópolis",
+      "resumo": "O STUN Game Festival, maior evento de games do Sul do Brasil, realizou sua 7ª edição em 21 de novembro de 2026 no SENAI Florianópolis, reunindo estúdios indie com demos jogáveis e feedback direto com desenvolvedores. O evento também lançou o documentário \"STUN Game Movie\", sobre a trajetória do festival desde 2018.",
+      "tipo": "noticia",
+      "escopo": "nacional",
+      "confiabilidade": "confirmado",
+      "plataformas": [],
+      "tags": ["evento", "games-indie", "stun-festival", "florianopolis"],
+      "dataFato": "2026-11-21",
+      "janelaEstendida": false,
+      "fonte": { "nome": "ASC Jogos (STUN Game Festival)", "url": "https://www.ascjogos.org.br/stun", "dominio": "ascjogos.org.br" },
+      "fontesSecundarias": [],
+      "nota": 5.0,
+      "justificativa": "Evento relevante para a cena indie nacional; entra para cumprir a cota de conteúdo nacional, com impacto regional mas de interesse para o público brasileiro.",
+      "pesquisador": "radar-empresas-nacionais"
+    }
+  ],
+  "tambemNoRadar": [
+    {
+      "slug": "desenvolvedores-da-rockstar-temem-demissoes-apos-gta-6",
+      "titulo": "Desenvolvedores da Rockstar temem onda de demissões mesmo após sucesso de GTA 6",
+      "resumo": "Apesar do lançamento recorde de GTA VI, funcionários e ex-funcionários da Rockstar/Take-Two, como Jennifer Svedberg-Yen e o animador Nestor Uriarte, manifestaram publicamente temor de demissões, citando que 34% dos desenvolvedores já foram demitidos desde 2024 (pesquisa GDC) e que a Firaxis, também da Take-Two, cortou cerca de um terço de sua equipe dias antes. Há ainda uma votação sindical em andamento na Rockstar que pode criar o maior sindicato do setor no Reino Unido.",
+      "tipo": "noticia",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": [],
+      "tags": ["rockstar", "demissoes", "sindicato", "gta-6"],
+      "dataFato": "2026-11-21",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Wisevoter", "url": "https://wisevoter.com/world/2026/11/21/rockstar-developers-layoff-fears-gta-6-launch", "dominio": "wisevoter.com" },
+      "fontesSecundarias": [],
+      "nota": 5.5,
+      "justificativa": "Tema relevante, mas a fonte principal é um agregador genérico de notícias sem foco em games, o que reduz a credibilidade editorial frente aos demais itens do TOP 10.",
+      "pesquisador": "radar-empresas-internacionais"
+    },
+    {
+      "slug": "betclic-anuncia-saida-de-ultimate-do-elenco-de-cs2",
+      "titulo": "Betclic anuncia saída de ultimate do elenco de CS2",
+      "resumo": "A Betclic encerrou sua parceria com o AWPer polonês Roland \"ultimate\" Tomkowiak após três meses, de comum acordo. O jogador será substituído por Oliwier \"Brain47\" Dychus, emprestado pela Phantom Academy até o fim da temporada; ultimate agora está como agente livre.",
+      "tipo": "noticia",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC", "Steam"],
+      "tags": ["cs2", "betclic", "transferencia"],
+      "dataFato": "2026-11-21",
+      "janelaEstendida": false,
+      "fonte": { "nome": "HLTV", "url": "https://www.hltv.org/news/46019/betclic-part-ways-with-ultimate", "dominio": "hltv.org" },
+      "fontesSecundarias": [
+        { "nome": "CS2News", "url": "https://cs2news.com/news/betclic-sign-ultimate-cs2-roster", "dominio": "cs2news.com" }
+      ],
+      "nota": 5.0,
+      "justificativa": "Movimentação pontual de elenco em organização de médio porte, sem grande repercussão fora da cena de CS2.",
+      "pesquisador": "radar-esports"
+    },
+    {
+      "slug": "telas-tem-acordo-verbal-com-fluxo-w7m-para-cblol-2027",
+      "titulo": "Telas tem acordo verbal com Fluxo W7M para CBLOL 2027",
+      "resumo": "Segundo apuração do site Sheep Esports, o suporte Luis \"Telas\" Drumond fechou acordo verbal com o Fluxo W7M para a temporada de 2027, formando dupla de bot lane com Diego \"Brance\" Amaral. Seria a estreia de Telas no CBLOL, ocupando a vaga de Gabriel \"Momochi\" Sousa.",
+      "tipo": "rumor",
+      "escopo": "nacional",
+      "confiabilidade": "rumor",
+      "plataformas": ["PC"],
+      "tags": ["cblol", "league-of-legends", "fluxo-w7m", "mercado-da-bola"],
+      "dataFato": "2026-11-20",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Mais Esports", "url": "https://maisesports.com.br/cblol-2026-telas-tem-acordo-verbal-com-o-fluxo-w7m-diz-site", "dominio": "maisesports.com.br" },
+      "fontesSecundarias": [
+        { "nome": "Sheep Esports", "url": "https://www.sheepesports.com/en/articles/sources-telas-set-to-join-fluxo-w7m-for-the-2027-cblol-season/en", "dominio": "sheepesports.com" }
+      ],
+      "nota": 5.2,
+      "justificativa": "Rumor de mercado da bola do CBLOL com boa apuração, mas ainda não oficializado, o que limita sua posição no ranking.",
+      "pesquisador": "radar-esports"
+    },
+    {
+      "slug": "lyon-e-campea-do-free-fire-world-series-2026-america-latina",
+      "titulo": "LYON é campeã do Free Fire World Series 2026 América Latina",
+      "resumo": "A equipe LYON conquistou o título do Free Fire World Series 2026 América Latina, somando 159 pontos em nove partidas na Grande Final. O resultado garante vaga da organização na fase global do torneio.",
+      "tipo": "esports",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["Mobile"],
+      "tags": ["free-fire", "esports", "campeonato"],
+      "dataFato": "2026-11-20",
+      "janelaEstendida": true,
+      "fonte": { "nome": "Sportskeeda", "url": "https://www.sportskeeda.com/free-fire/news-ffws-2026-latin-america-2026-winner-prize-pool-qualified-teams-global-finals", "dominio": "sportskeeda.com" },
+      "fontesSecundarias": [
+        { "nome": "Liquipedia", "url": "https://liquipedia.net/freefire/Free_Fire_World_Series/Latin_America/2026/Split_1", "dominio": "liquipedia.net" }
+      ],
+      "nota": 4.8,
+      "justificativa": "Título relevante para a cena latino-americana de Free Fire, mas de menor alcance editorial frente aos demais destaques do dia.",
+      "pesquisador": "radar-esports"
+    },
+    {
+      "slug": "persona-6-atualizacao-de-dominio-alimenta-especulacao-de-trailer",
+      "titulo": "Persona 6: atualização de domínio da Atlus alimenta especulação de trailer no TGA 2026",
+      "resumo": "A Sega/Atlus atualizou recentemente o domínio do site de Persona 6, movimento identificado por fãs em 21 de novembro de 2026 como possível indício de um trailer novo a ser revelado no The Game Awards 2026, em 10 de dezembro.",
+      "tipo": "rumor",
+      "escopo": "internacional",
+      "confiabilidade": "rumor",
+      "plataformas": [],
+      "tags": ["persona-6", "atlus", "the-game-awards"],
+      "dataFato": "2026-11-21",
+      "janelaEstendida": false,
+      "fonte": { "nome": "My Nintendo News", "url": "https://mynintendonews.com/2026/11/21/persona-6-domain-recently-updated-leading-to-new-trailer-speculation-at-the-game-awards-2026/", "dominio": "mynintendonews.com" },
+      "fontesSecundarias": [],
+      "nota": 4.0,
+      "justificativa": "Especulação de fãs sem confirmação oficial, de baixo impacto imediato.",
+      "pesquisador": "radar-lancamentos-internacionais"
+    },
+    {
+      "slug": "ps-plus-premium-ratchet-and-clank-2002-chega-em-dezembro",
+      "titulo": "PS Plus Premium: Ratchet & Clank (2002) deve chegar ao catálogo Classics em dezembro",
+      "resumo": "Múltiplas fontes reportam que o Ratchet & Clank original de PS2 (2002) deve ser adicionado ao catálogo PS Plus Premium Classics em 15 de dezembro de 2026, seguindo o padrão de atualizações na terceira terça-feira do mês; a Sony ainda não confirmou oficialmente a data.",
+      "tipo": "noticia",
+      "escopo": "internacional",
+      "confiabilidade": "rumor",
+      "plataformas": ["PS5", "PS4"],
+      "tags": ["ps-plus", "ratchet-and-clank", "catalogo"],
+      "dataFato": "2026-11-18",
+      "janelaEstendida": true,
+      "fonte": { "nome": "PlayStation LifeStyle", "url": "https://www.playstationlifestyle.net/2026/11/18/ps-plus-premium-december-2026-game-confirmed", "dominio": "playstationlifestyle.net" },
+      "fontesSecundarias": [
+        { "nome": "ScreenRant", "url": "https://screenrant.com/playstation-plus-december-2026-free-ps2-game-confirmed/", "dominio": "screenrant.com" }
+      ],
+      "nota": 4.5,
+      "justificativa": "Notícia de catálogo de assinatura, de interesse moderado e ainda sem confirmação oficial da Sony.",
+      "pesquisador": "radar-lancamentos-internacionais"
+    },
+    {
+      "slug": "xbox-game-pass-confirma-lista-final-de-dezembro-2026",
+      "titulo": "Xbox Game Pass confirma leva final de jogos de dezembro de 2026",
+      "resumo": "A Microsoft confirmou cinco jogos para o Xbox/PC Game Pass em dezembro de 2026, com destaque para Hela: Of Mice & Magic chegando no dia do lançamento (1º de dezembro) e A Game About Digging a Hole Together em 4 de dezembro. A lista também inclui The Outlast Trials, Dumpster Gang e Freestyle Football 2.",
+      "tipo": "noticia",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["Xbox Series", "PC"],
+      "tags": ["xbox-game-pass", "catalogo", "microsoft"],
+      "dataFato": "2026-11-19",
+      "janelaEstendida": true,
+      "fonte": { "nome": "TrueAchievements", "url": "https://www.trueachievements.com/news/xbox-game-pass-five-games-confirmed-december-2026", "dominio": "trueachievements.com" },
+      "fontesSecundarias": [
+        { "nome": "Techloy", "url": "https://www.techloy.com/xbox-game-pass-december-2026-lineup/", "dominio": "techloy.com" },
+        { "nome": "ScreenRant", "url": "https://screenrant.com/xbox-game-pass-december-2026-first-free-games/", "dominio": "screenrant.com" }
+      ],
+      "nota": 4.3,
+      "justificativa": "Notícia de catálogo de assinatura, útil para o público mas de menor peso frente aos destaques do dia.",
+      "pesquisador": "radar-lancamentos-internacionais"
+    }
+  ],
+  "descartados": [
+    {
+      "titulo": "Ubisoft é citada entre as empresas interessadas em comprar o estúdio Arkane Lyon da Xbox",
+      "motivo": "Fato original de 2026-11-03, fora da janela mesmo considerando a janela estendida de 48h; incluído pelo pesquisador apenas como contexto."
+    }
+  ]
+}
