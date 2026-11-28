@@ -1,0 +1,412 @@
+{
+  "categoria": "games",
+  "data": "2026-11-27",
+  "geradoEm": "2026-11-27T21:30:00-03:00",
+  "janela": { "inicio": "2026-11-26T21:00:00-03:00", "fim": "2026-11-27T21:00:00-03:00" },
+  "observacao": null,
+  "itens": [
+    {
+      "posicao": 1,
+      "slug": "xlgames-crise-archeage-chronicles",
+      "titulo": "XLGames ameaça fechar as portas após vendas fracas de ArcheAge Chronicles",
+      "resumo": "O CEO da XLGames, Choi Kwan-ho, enviou carta aos funcionários em 26/11 afirmando que a empresa está em 'encruzilhada crítica' e pode encerrar operações, após ArcheAge Chronicles vender apenas cerca de 100 mil cópias em acesso antecipado (~US$ 3 milhões) frente a um orçamento de desenvolvimento estimado em US$ 75 milhões. O plano prevê aposentadorias voluntárias seguidas de possíveis demissões em massa, com decisão final condicionada ao desempenho da atualização de dezembro.",
+      "tipo": "noticia",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC"],
+      "tags": ["mmo", "demissoes", "estudio", "crise"],
+      "dataFato": "2026-11-27",
+      "janelaEstendida": false,
+      "fonte": { "nome": "MassivelyOP", "url": "https://massivelyop.com/2026/11/27/xlgames-faces-extensive-restructuring-and-possible-closure-as-archeage-chronicles-sales-fall-short/", "dominio": "massivelyop.com" },
+      "fontesSecundarias": [
+        { "nome": "MMORPG.com", "url": "https://www.mmorpg.com/news/after-disappointing-archeage-chronicles-sales-xl-games-begins-major-restructuring-with-its-future-in-question-2000139378", "dominio": "mmorpg.com" },
+        { "nome": "MMOHuts", "url": "https://mmohuts.com/news/xlgames-plans-major-restructuring-as-archeage-chronicles-underperforms", "dominio": "mmohuts.com" }
+      ],
+      "nota": 8.3,
+      "justificativa": "Fracasso retumbante de um lançamento de peso (US$ 75 milhões de orçamento vs. US$ 3 milhões em vendas) com risco real de fechamento de estúdio histórico do gênero MMO; impacto alto e fonte bem apurada.",
+      "pesquisador": "radar-empresas-internacionais"
+    },
+    {
+      "posicao": 2,
+      "slug": "abragames-pesquisa-industria-brasileira-games-2026",
+      "titulo": "Indústria brasileira de games soma 1.680 operações e R$ 495 milhões em faturamento, segundo Abragames",
+      "resumo": "A Abragames, em parceria com a Go Gamers, apresentou em 26/11 na ESPM-Panamericana (São Paulo) a prévia da Pesquisa da Indústria Brasileira de Games 2026, apontando cerca de 1.680 operações (estúdios, coletivos e desenvolvedores autônomos) e faturamento estimado em R$ 495 milhões, crescimento de 61% frente aos 1.042 estúdios mapeados em 2024. O levantamento mostra que 66% das operações têm até cinco pessoas e 53% faturaram até R$ 81 mil ou nada em 2025.",
+      "tipo": "noticia",
+      "escopo": "nacional",
+      "confiabilidade": "confirmado",
+      "plataformas": [],
+      "tags": ["mercado", "industria", "pesquisa", "estudios-brasileiros"],
+      "dataFato": "2026-11-26",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Arkade", "url": "https://arkade.com.br/pesquisa-abragames-2026-industria-brasileira-de-games-tem-cerca-de-1-680-operacoes-e-faturamento-estimado-de-r-495-milhoes", "dominio": "arkade.com.br" },
+      "fontesSecundarias": [
+        { "nome": "Gamers & Games", "url": "https://www.gamersegames.com.br/2026/11/27/industria-brasileira-de-games-reune-cerca-de-17-mil-operacoes-e-fatura-r-495-milhoes/", "dominio": "gamersegames.com.br" },
+        { "nome": "Meio & Mensagem", "url": "https://meioemensagem.com.br/marketing/desenvolvimento-de-games-no-brasil-cresce-61", "dominio": "meioemensagem.com.br" }
+      ],
+      "nota": 8.0,
+      "justificativa": "Retrato oficial e atualizado do tamanho real da indústria brasileira de games, com dados relevantes para todo o ecossistema nacional; cota Brasil e ineditismo do levantamento anual.",
+      "pesquisador": "radar-empresas-nacionais"
+    },
+    {
+      "posicao": 3,
+      "slug": "furia-novorizontino-futebol-2027",
+      "titulo": "FURIA entra no futebol profissional em parceria com o Novorizontino",
+      "resumo": "A organização de esports brasileira FURIA anunciou em 26/11 parceria estratégica com o Grêmio Novorizontino, campeão da Série B 2026, que passará a se chamar FURIA Novorizontino a partir de janeiro de 2027, estreando no Campeonato Paulista e disputando também o Brasileirão. A FURIA assume marketing, patrocínios, comunicação, conteúdo e desenvolvimento comercial do clube, com acordo contando com assessoria financeira do Itaú BBA, enquanto a gestão esportiva permanece com os dirigentes atuais.",
+      "tipo": "esports",
+      "escopo": "nacional",
+      "confiabilidade": "confirmado",
+      "plataformas": [],
+      "tags": ["furia", "futebol", "patrocinio", "expansao"],
+      "dataFato": "2026-11-26",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Dust2", "url": "https://www.dust2.com.br/noticias/80327/furia-faz-parceria-com-novorizontino-e-jogara-brasileirao-em-2027", "dominio": "dust2.com.br" },
+      "fontesSecundarias": [
+        { "nome": "Gazeta Esportiva", "url": "https://www.gazetaesportiva.com/times/gremio-novorizontino/novorizontino-parceria-furia-nome-2027/", "dominio": "gazetaesportiva.com" },
+        { "nome": "Metrópoles", "url": "https://www.metropoles.com/esportes/novorizontino-anuncia-parceria-com-a-furia-e-mudara-de-nome", "dominio": "metropoles.com" },
+        { "nome": "iGaming Brazil", "url": "https://igamingbrazil.com/esports/2026/11/27/dos-esports-aos-gramados-novorizontino-e-furia-se-unem-em-parceria-inedita-no-futebol/", "dominio": "igamingbrazil.com" },
+        { "nome": "Vavel Brasil", "url": "https://www.vavel.com/br/futebol/2026/11/26/1280901-novorizontino-fecha-parceria-com-a-furia-e-muda-de-nome.html", "dominio": "vavel.com" }
+      ],
+      "nota": 7.8,
+      "justificativa": "Movimento inédito de uma organização de esports brasileira expandindo para o futebol profissional, com forte repercussão e relevância para o ecossistema competitivo nacional.",
+      "pesquisador": "radar-empresas-nacionais"
+    },
+    {
+      "posicao": 4,
+      "slug": "silksong-dlc-sea-of-sorrow-11-dezembro",
+      "titulo": "Hollow Knight: Silksong anuncia DLC gratuito Sea of Sorrow para 11 de dezembro",
+      "resumo": "A Team Cherry realizou a apresentação 'Cherry Time!' em 27/11 e revelou que a expansão gratuita Sea of Sorrow, de Hollow Knight: Silksong, chega em 11 de dezembro. O DLC trará novas áreas subaquáticas, chefes, personagens e trilha sonora original de Christopher Larkin.",
+      "tipo": "noticia",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["Switch", "Switch 2", "PC", "PS5", "Xbox Series"],
+      "tags": ["dlc", "team-cherry", "metroidvania"],
+      "dataFato": "2026-11-27",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Insider Gaming", "url": "https://insider-gaming.com/hollow-knights-free-sea-of-sorrow-dlc-releases-in-december/", "dominio": "insider-gaming.com" },
+      "fontesSecundarias": [
+        { "nome": "Nintendo Life", "url": "https://www.nintendolife.com/news/2026/11/hollow-knight-silksong-dlc-news-is-coming-this-week-in-a-team-cherry-special-presentation", "dominio": "nintendolife.com" },
+        { "nome": "Beebom", "url": "https://beebom.com/hollow-knight-silksong-dlc-sea-of-sorrow-release-date-announced/", "dominio": "beebom.com" }
+      ],
+      "nota": 7.7,
+      "justificativa": "Um dos jogos mais aguardados dos últimos anos recebe conteúdo gratuito com data confirmada, gerando grande expectativa entre os fãs do gênero.",
+      "pesquisador": "radar-lancamentos-internacionais"
+    },
+    {
+      "posicao": 5,
+      "slug": "gta6-vendas-fisicas-brasil-9-5",
+      "titulo": "GTA 6 impulsiona vendas físicas de games no Brasil em 9,5%",
+      "resumo": "Dados do Índice Cielo do Varejo Ampliado (ICVA) mostram que o faturamento de lojas especializadas em games cresceu 9,5% no primeiro fim de semana de GTA 6 (19 a 22/11) frente ao mesmo período de 2025, superando o crescimento geral do varejo físico (5,6%). Entre 25/06 e 15/11, lojas virtuais monitoradas venderam 11,9 mil unidades da versão PS5, totalizando R$ 4,81 milhões, com o Sudeste concentrando 77% do faturamento.",
+      "tipo": "noticia",
+      "escopo": "nacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PS5", "Xbox Series"],
+      "tags": ["gta6", "varejo", "vendas", "mercado-brasileiro"],
+      "dataFato": "2026-11-26",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Critical Hits", "url": "https://criticalhits.com.br/games/gta-6-impulsiona-vendas-fisicas-de-games-no-brasil-em-95/", "dominio": "criticalhits.com.br" },
+      "fontesSecundarias": [],
+      "nota": 7.2,
+      "justificativa": "Mostra o impacto concreto e mensurável de GTA 6 no varejo brasileiro, dado de interesse direto para o público gamer nacional; reforça a cota Brasil.",
+      "pesquisador": "radar-lancamentos-nacionais"
+    },
+    {
+      "posicao": 6,
+      "slug": "take-two-acoes-sobem-gta6-recorde",
+      "titulo": "Ações da Take-Two sobem 3,14% após recorde de vendas do dia um de GTA VI",
+      "resumo": "As ações da Take-Two Interactive subiram 3,14%, fechando a US$ 227,34 em 27/11, impulsionadas pela repercussão do recorde de US$ 3,79 bilhões em vendas de varejo no primeiro dia de Grand Theft Auto VI (lançado em 19/11), com 32,5 milhões de unidades vendidas em pré-venda. Analistas destacaram que o resultado supera em cerca de 4,7 vezes a estreia de GTA V em 2013.",
+      "tipo": "noticia",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PS5", "Xbox Series"],
+      "tags": ["gta6", "mercado-financeiro", "take-two", "vendas"],
+      "dataFato": "2026-11-27",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Journal Arta", "url": "https://journalarta.com/en/2026/11/27/take-two-shares-jump-after-gta-vi-posts-3-79-billion-debut/", "dominio": "journalarta.com" },
+      "fontesSecundarias": [
+        { "nome": "Stockhouse", "url": "https://stockhouse.com/news/the-market-online-news/2026/11/27/was-gta-vi-s-biggest-entertainment-launch-all-time-good-news-for-take-two-stock", "dominio": "stockhouse.com" }
+      ],
+      "nota": 7.0,
+      "justificativa": "Confirma o tamanho histórico do lançamento de GTA VI com reflexo direto no mercado financeiro da Take-Two; dado complementar ao desempenho de vendas no Brasil.",
+      "pesquisador": "radar-empresas-internacionais"
+    },
+    {
+      "posicao": 7,
+      "slug": "gta6-vendas-consoles-brasil-16-4",
+      "titulo": "GTA 6 eleva vendas de consoles no Brasil em 16,4%",
+      "resumo": "Entre 18/10 e 16/11, o e-commerce brasileiro faturou R$ 563,1 milhões com videogames (alta de 69% vs. 2025), segundo Confi/Neotrust, com consoles compatíveis (PS5 e Xbox Series X|S) subindo 16,4% em vendas e passando a representar 84% do total (ante 77% no ano anterior). Outros videogames recuaram 25,1% no período.",
+      "tipo": "noticia",
+      "escopo": "nacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PS5", "Xbox Series"],
+      "tags": ["gta6", "e-commerce", "consoles", "mercado-brasileiro"],
+      "dataFato": "2026-11-26",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Critical Hits", "url": "https://criticalhits.com.br/games/gta-6-eleva-vendas-de-consoles-no-brasil-em-164/", "dominio": "criticalhits.com.br" },
+      "fontesSecundarias": [],
+      "nota": 6.8,
+      "justificativa": "Complementa o quadro do impacto de GTA 6 no mercado brasileiro, com números de e-commerce que reforçam a tendência observada no varejo físico.",
+      "pesquisador": "radar-lancamentos-nacionais"
+    },
+    {
+      "posicao": 8,
+      "slug": "red-canids-mercado-cblol-2027-ceos-poby-wayne",
+      "titulo": "RED Canids negocia com Poby, Wayne e Ceos para o CBLOL 2027",
+      "resumo": "A RED Canids está em negociações avançadas com o meio Yoon 'Poby' Sung-won (ex-T1, Fnatic e Natus Vincere), o atirador Wayne, da Dplus KIA Challengers, e o suporte Ceos, que teria acordo verbal mais próximo com a paiN Gaming para o polonês Trymbi. Nenhuma das partes confirmou oficialmente os acordos até a publicação, e torcedores já questionam o futuro do jovem suporte Manel na RED Canids.",
+      "tipo": "noticia",
+      "escopo": "nacional",
+      "confiabilidade": "rumor",
+      "plataformas": [],
+      "tags": ["cblol", "league-of-legends", "mercado-da-bola", "transferencias"],
+      "dataFato": "2026-11-27",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Sheep Esports", "url": "https://www.sheepesports.com/en/articles/sources-ceos-in-talks-with-red-canids-for-cblol-2027/en", "dominio": "sheepesports.com" },
+      "fontesSecundarias": [
+        { "nome": "Strafe Esports", "url": "https://www.strafe.com/news/read/former-t1-and-fnatic-mid-laner-poby-reportedly-in-talks-with-red-canids-for-2027/", "dominio": "strafe.com" },
+        { "nome": "Sheep Esports", "url": "https://www.sheepesports.com/en/articles/sources-trymbi-set-to-join-pain-gaming-for-cblol-2027/en", "dominio": "sheepesports.com" },
+        { "nome": "Quenty", "url": "https://quenty.com.br/resumo/27-novembro-2026/red-canids-negocia-ceos-para-o-cblol-2027-e-a-torcida-questiona-a-saida-de-manel", "dominio": "quenty.com.br" },
+        { "nome": "Mais Esports", "url": "https://maisesports.com.br/en/cblol-2026-red-canids-in-talks-with-pain-gaming-support-ceos-report-says", "dominio": "maisesports.com.br" }
+      ],
+      "nota": 6.9,
+      "justificativa": "Movimentação relevante na offseason do CBLOL, mas ainda não oficial; penalizado por ser rumor apesar do forte interesse do público competitivo brasileiro.",
+      "pesquisador": "radar-esports"
+    },
+    {
+      "posicao": 9,
+      "slug": "pgl-major-singapore-2026-faze-heroic-eliminados",
+      "titulo": "PGL Major Singapore 2026: FaZe e HEROIC eliminados, oito times avançam ao Stage 2",
+      "resumo": "No dia decisivo do Stage 1 do PGL Major Singapore 2026, Lynn Vision venceu a HEROIC por 2-0, 100 Thieves bateu a M80 por 2-1 e Imperial superou a Wildcard por 2-1. Com isso, FlyQuest, Ninjas in Pyjamas, Eternal Fire, Team Liquid, PVISION, 100 Thieves, Imperial e Lynn Vision avançaram ao Stage 2, enquanto FaZe Clan (com s1mple) e HEROIC foram eliminados do Major.",
+      "tipo": "esports",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC"],
+      "tags": ["cs2", "major", "pgl", "counter-strike"],
+      "dataFato": "2026-11-27",
+      "janelaEstendida": false,
+      "fonte": { "nome": "HLTV", "url": "https://www.hltv.org/events/9303/pgl-major-singapore-2026-stage-1", "dominio": "hltv.org" },
+      "fontesSecundarias": [
+        { "nome": "Liquipedia", "url": "https://liquipedia.net/counterstrike/PGL/2026/Singapore/Stage_1", "dominio": "liquipedia.net" },
+        { "nome": "Esports.net", "url": "https://www.esports.net/news/gaming/faze-exit-pgl-major-singapore-in-stage-1-after-heroic-win-elimination-series-2-1/", "dominio": "esports.net" }
+      ],
+      "nota": 7.3,
+      "justificativa": "Resultado relevante de um Major de CS2, com eliminação de equipe de peso (FaZe, com s1mple); fonte primária do cenário competitivo (HLTV).",
+      "pesquisador": "radar-esports"
+    },
+    {
+      "posicao": 10,
+      "slug": "capote-atualizacao-2-0-matchmaking",
+      "titulo": "Capote recebe atualização 2.0 com matchmaking e servidores dedicados",
+      "resumo": "O estúdio brasileiro Luski lançou em 27/11 a atualização 2.0 de Capote (jogo de truco e sinuca), trazendo matchmaking automático, servidores dedicados em São Paulo, suporte a Mac, melhorias no Linux e um modo completo de sinuca (1x1 e 2x2). A novidade reduziu o tempo médio de espera por partida de 26 para 6 segundos, segundo testes internos do estúdio.",
+      "tipo": "lancamento",
+      "escopo": "nacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC"],
+      "tags": ["indie-brasileiro", "multiplayer", "atualizacao"],
+      "dataFato": "2026-11-27",
+      "janelaEstendida": false,
+      "fonte": { "nome": "GameBlast", "url": "https://www.gameblast.com.br/2026/11/capote-ganha-atualizacao-20-com-matchmaking-servidores-dedicados-e-sinuca-completa.html", "dominio": "gameblast.com.br" },
+      "fontesSecundarias": [
+        { "nome": "Gamers & Games", "url": "https://www.gamersegames.com.br/2026/11/27/capote-2-0-chega-com-matchmaking-servidores-dedicados-e-melhorias-na-experiencia-multiplayer/", "dominio": "gamersegames.com.br" },
+        { "nome": "Última Ficha", "url": "https://ultimaficha.com.br/2026/11/27/capote-atualizacao-2-0/", "dominio": "ultimaficha.com.br" }
+      ],
+      "nota": 6.5,
+      "justificativa": "Boa notícia do cenário indie nacional, com melhoria técnica mensurável, mas de impacto limitado ao público mais nichado; completa a cota Brasil no TOP 10.",
+      "pesquisador": "radar-lancamentos-nacionais"
+    }
+  ],
+  "tambemNoRadar": [
+    {
+      "slug": "los-contrata-jojo-cblol-2027",
+      "titulo": "LOS fecha contratação da suporte Jojo para o CBLOL 2027",
+      "resumo": "A organização LOS acertou a contratação da suporte Jojo, que deixou a FURIA, para a temporada 2027 do CBLOL, substituindo Ackerman (negociado com a Team Liquid). A RED Canids também disputava a jogadora, mas a proposta da LOS prevaleceu, segundo apuração do jornalista Luis Showtana para a Sheep Esports.",
+      "tipo": "noticia",
+      "escopo": "nacional",
+      "confiabilidade": "rumor",
+      "plataformas": [],
+      "tags": ["cblol", "league-of-legends", "transferencias"],
+      "dataFato": "2026-11-27",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Sheep Esports", "url": "https://www.sheepesports.com/en/articles/sources-jojo-set-to-join-los-for-cblol-2027/en", "dominio": "sheepesports.com" },
+      "fontesSecundarias": [
+        { "nome": "Terra", "url": "https://www.terra.com.br/esportes/cblol-2026-los-encaminha-a-contratacao-do-suporte-jojo,86e4ce3eea144e87b445374326b3d7ba1uo75x0c.html", "dominio": "terra.com.br" },
+        { "nome": "Mais Esports", "url": "https://maisesports.com.br/cblol-2026-los-encaminha-contratacao-do-jojom-diz-site", "dominio": "maisesports.com.br" }
+      ],
+      "nota": 6.2,
+      "justificativa": "Outra movimentação da offseason do CBLOL, mas ainda não oficializada e com menor repercussão que a disputa envolvendo RED Canids e paiN.",
+      "pesquisador": "radar-esports"
+    },
+    {
+      "slug": "ubisoft-resultados-q2-fiscal-assassins-creed",
+      "titulo": "Ubisoft reporta alta de 16,8% na receita do segundo trimestre fiscal, impulsionada por Assassin's Creed",
+      "resumo": "A Ubisoft divulgou resultados do segundo trimestre fiscal 2026-27 em apresentação de 27/11, reportando vendas IFRS 15 de € 405,5 milhões (+16,8% ano a ano) e bookings líquidos de € 389 milhões, acima da projeção de ~€ 370 milhões. O desempenho foi puxado por Assassin's Creed Black Flag Resynced, enquanto o primeiro semestre fiscal acumulou queda de 16,5% em bookings líquidos frente ao ano anterior.",
+      "tipo": "noticia",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PS5", "Xbox Series", "PC"],
+      "tags": ["ubisoft", "resultados-financeiros", "assassins-creed"],
+      "dataFato": "2026-11-27",
+      "janelaEstendida": true,
+      "fonte": { "nome": "Seeking Alpha", "url": "https://seekingalpha.com/article/4972550-ubisoft-entertainment-sa-2027-q2-results-earnings-call-presentation", "dominio": "seekingalpha.com" },
+      "fontesSecundarias": [
+        { "nome": "Capsule Computers", "url": "https://www.capsulecomputers.com.au/2026/11/ubisoft-reports-first-half-2026-27-earnings-figures/", "dominio": "capsulecomputers.com.au" }
+      ],
+      "nota": 6.3,
+      "justificativa": "Dado financeiro relevante para acompanhar a recuperação da Ubisoft, mas de interesse mais corporativo que voltado ao jogador final.",
+      "pesquisador": "radar-empresas-internacionais"
+    },
+    {
+      "slug": "ubisoft-puffery-skull-and-bones-processo-kansas",
+      "titulo": "Ubisoft alega 'puffery' para defender descrição de Skull and Bones como 'quadruple-A' em processo no Kansas",
+      "resumo": "Em atualização judicial de 27/11, a Ubisoft argumentou que a declaração de 2024 do CEO Yves Guillemot classificando Skull and Bones como jogo 'quadruple-A' é mero exagero promocional, não uma afirmação factual verificável. O processo foi movido em 2025 pelo consumidor Jacob Himberger, do Kansas, que cita o encerramento de The Crew como evidência de que compradores adquirem apenas licenças revogáveis.",
+      "tipo": "noticia",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PS5", "Xbox Series", "PC"],
+      "tags": ["ubisoft", "processo-judicial", "consumidor"],
+      "dataFato": "2026-11-27",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Happy Gamer", "url": "https://happygamer.com/ubisoft-skull-and-bones-quadruple-a-puffery-lawsuit-184971/", "dominio": "happygamer.com" },
+      "fontesSecundarias": [
+        { "nome": "Wise Voter", "url": "https://wisevoter.com/world/us/ks/2026/11/27/ubisoft-skull-and-bones-kansas-lawsuit-puffery", "dominio": "wisevoter.com" }
+      ],
+      "nota": 5.8,
+      "justificativa": "Desdobramento judicial curioso, mas de impacto limitado no curto prazo para o público gamer; fontes secundárias de menor peso editorial.",
+      "pesquisador": "radar-empresas-internacionais"
+    },
+    {
+      "slug": "krafton-recompra-acoes-recorde-2026",
+      "titulo": "Krafton eleva recompra de ações para KRW 300 bi no Q4, retorno anual recorde",
+      "resumo": "A Krafton aprovou recompra adicional de KRW 300 bilhões em ações para o quarto trimestre, elevando o retorno total a acionistas em 2026 para KRW 917,2 bilhões, o maior valor anual desde o início do programa em 2023. A empresa havia reportado no Q3 receita de KRW 971,4 bilhões e lucro operacional de KRW 225 bilhões, impulsionada por PUBG e Subnautica 2.",
+      "tipo": "noticia",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC", "PS5", "Xbox Series"],
+      "tags": ["krafton", "resultados-financeiros", "pubg"],
+      "dataFato": "2026-11-27",
+      "janelaEstendida": true,
+      "fonte": { "nome": "Krafton Press", "url": "https://press.krafton.com/KRAFTON-ANNOUNCES-THIRD-QUARTER-2026-RESULTS", "dominio": "press.krafton.com" },
+      "fontesSecundarias": [
+        { "nome": "Investing.com", "url": "https://www.investing.com/equities/krafton", "dominio": "investing.com" }
+      ],
+      "nota": 5.5,
+      "justificativa": "Notícia corporativa de interesse mais restrito a investidores, com menor apelo direto para o público gamer geral.",
+      "pesquisador": "radar-empresas-internacionais"
+    },
+    {
+      "slug": "grime-ii-switch-switch-2-final-coda",
+      "titulo": "Grime II chega ao Switch e Switch 2 com atualização final da história",
+      "resumo": "O Metroidvania Grime II foi lançado em 27/11 para Nintendo Switch e Switch 2, após ter debutado em PS5, Xbox Series e PC em março. O lançamento veio acompanhado da atualização gratuita 'A Final Coda', que conclui um arco narrativo pendente do primeiro jogo e adiciona uma nova área de plataforma e um sistema de revanche contra chefes.",
+      "tipo": "lancamento",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["Switch", "Switch 2"],
+      "tags": ["metroidvania", "porte", "atualizacao"],
+      "dataFato": "2026-11-27",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Gematsu", "url": "https://www.gematsu.com/2026/11/grime-ii-coming-to-switch-2-switch-on-november-27-alongside-a-final-coda-update", "dominio": "gematsu.com" },
+      "fontesSecundarias": [
+        { "nome": "Keengamer", "url": "https://www.keengamer.com/articles/news/grime-ii-launches-on-switch-switch-2-nov-26/", "dominio": "keengamer.com" },
+        { "nome": "Niche Gamer", "url": "https://nichegamer.com/grime-ii-reveals-switch-switch-2-ports-and-new-update-that-concludes-its-story/", "dominio": "nichegamer.com" }
+      ],
+      "nota": 5.6,
+      "justificativa": "Porte relevante para a base Nintendo, mas de alcance mais nichado dentro do gênero Metroidvania.",
+      "pesquisador": "radar-lancamentos-internacionais"
+    },
+    {
+      "slug": "witcher-3-remastered-patch-5-02",
+      "titulo": "The Witcher 3: Wild Hunt Remastered recebe patch 5.02 com 97 correções",
+      "resumo": "A CD Projekt Red lançou em 26/11 o patch 5.02 para The Witcher 3: Wild Hunt Remastered em PC, PS5, Xbox Series X|S e Nintendo Switch 2, com changelog de 97 itens. A atualização corrige bugs de longa data (incluindo um problema na missão 'Hard Times' relatado desde 2015), adiciona suporte nativo a 32:9 e nerfa builds focadas em Sinais.",
+      "tipo": "noticia",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC", "PS5", "Xbox Series", "Switch 2"],
+      "tags": ["cdpr", "patch", "the-witcher-3"],
+      "dataFato": "2026-11-26",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Keengamer", "url": "https://www.keengamer.com/articles/news/the-witcher-3-remastered-patch-5-02-is-now-live-full-patch-notes-revealed/", "dominio": "keengamer.com" },
+      "fontesSecundarias": [
+        { "nome": "MP1st", "url": "https://mp1st.com/title-updates-and-patches/the-witcher-3-update-5-000-600-drops-on-november-26-for-version-5-02", "dominio": "mp1st.com" },
+        { "nome": "GameLuster", "url": "https://gameluster.com/witcher-3-remastered-patch-5-02-update-november-2026/", "dominio": "gameluster.com" }
+      ],
+      "nota": 5.4,
+      "justificativa": "Atualização técnica relevante para fãs do jogo, mas sem apelo de grande público ou ineditismo editorial.",
+      "pesquisador": "radar-lancamentos-internacionais"
+    },
+    {
+      "slug": "infinity-nikki-3-0-of-yesterday-and-tomorrow",
+      "titulo": "Infinity Nikki lança versão 3.0 com combate de armas e magia",
+      "resumo": "A atualização 3.0 de Infinity Nikki, 'Of Yesterday and Tomorrow', foi ao ar em 26/11, trazendo cerca de 10 horas de história cinemática, duas novas cidades (Cicia e Ceremius), novas habilidades de combate com armas de fogo e magia, e um novo traje 5 estrelas.",
+      "tipo": "lancamento",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PS5", "PC", "Mobile"],
+      "tags": ["gacha", "atualizacao", "infinity-nikki"],
+      "dataFato": "2026-11-26",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Gaming Route", "url": "https://gamingroute.com/infinity-nikki-3-0-update/", "dominio": "gamingroute.com" },
+      "fontesSecundarias": [
+        { "nome": "Pro Gamer", "url": "https://pro-gamer.gg/infinity-nikki-version-3-0-of-yesterday-and-tomorrow-ps5-160-free-draws-cicia-ceremius/", "dominio": "pro-gamer.gg" },
+        { "nome": "Pixels in Orbit", "url": "https://pixelsinorbit.com/news/infinity-nikki-version-3-0-of-yesterday-and-tomorrow-out-now", "dominio": "pixelsinorbit.com" }
+      ],
+      "nota": 5.3,
+      "justificativa": "Atualização de peso para a base de jogadores do título, mas de interesse mais restrito ao nicho gacha/mobile.",
+      "pesquisador": "radar-lancamentos-internacionais"
+    },
+    {
+      "slug": "xenoblade-chronicles-3-switch-2-trailer",
+      "titulo": "Xenoblade Chronicles 3 - Switch 2 Edition ganha trailer overview antes do lançamento",
+      "resumo": "A Nintendo divulgou um trailer overview de três minutos de Xenoblade Chronicles 3 – Nintendo Switch 2 Edition, destacando dublagem inédita, resolução 4K na TV, 60fps, o novo modo 'Heroes' Vault' e a heroína Shimmer. O jogo chega em 3 de dezembro de 2026, com versões física e digital no mesmo dia.",
+      "tipo": "noticia",
+      "escopo": "internacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["Switch 2"],
+      "tags": ["nintendo", "trailer", "rpg"],
+      "dataFato": "2026-11-25",
+      "janelaEstendida": true,
+      "fonte": { "nome": "Gematsu", "url": "https://www.gematsu.com/2026/11/xenoblade-chronicles-3-nintendo-switch-2-edition-overview-trailer", "dominio": "gematsu.com" },
+      "fontesSecundarias": [
+        { "nome": "Nintendo Everything", "url": "https://nintendoeverything.com/xenoblade-chronicles-3-nintendo-switch-2-edition-overview-trailer-just-released/", "dominio": "nintendoeverything.com" },
+        { "nome": "Fullcleared", "url": "https://fullcleared.com/news/xenoblade-chronicles-3s-switch-2-trailer-shows-whats-new/", "dominio": "fullcleared.com" }
+      ],
+      "nota": 5.7,
+      "justificativa": "Material promocional de um relançamento aguardado, mas sem novidade factual de peso fora da janela estrita.",
+      "pesquisador": "radar-lancamentos-internacionais"
+    },
+    {
+      "slug": "restaurant-rush-together-pastelaria-brasileira",
+      "titulo": "Restaurant Rush Together leva pastelaria brasileira à Steam",
+      "resumo": "O jogo Restaurant Rush Together, desenvolvido pelo brasileiro Lucas Candido da Silva, foi lançado na Steam em 27/11, exclusivo para PC Windows. O título é um simulador de gerenciamento com temática de pastelaria de feira brasileira, com cooperativo para até 10 jogadores e suporte a português e inglês.",
+      "tipo": "lancamento",
+      "escopo": "nacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC"],
+      "tags": ["indie-brasileiro", "simulador", "cooperativo"],
+      "dataFato": "2026-11-27",
+      "janelaEstendida": false,
+      "fonte": { "nome": "Folha do Leste", "url": "https://folhadoleste.com.br/restaurant-rush-together-pastelaria-brasileira-steam/", "dominio": "folhadoleste.com.br" },
+      "fontesSecundarias": [],
+      "nota": 5.0,
+      "justificativa": "Lançamento indie nacional simpático, mas de alcance e repercussão limitados.",
+      "pesquisador": "radar-lancamentos-nacionais"
+    },
+    {
+      "slug": "clt-sandbox-uniday-acesso-antecipado",
+      "titulo": "C.L.T., sandbox satírico da Uniday Studio, entra em Acesso Antecipado na Steam",
+      "resumo": "O estúdio brasileiro Uniday Studio lançou em 24/11 o jogo C.L.T. em Acesso Antecipado na Steam, por US$ 6,99, um sandbox top-down inspirado em GTA 1, GTA 2 e Chinatown Wars, ambientado em mapa fictício inspirado em Santa Catarina. O jogo satiriza a rotina do trabalhador brasileiro sob a CLT e deve permanecer em Acesso Antecipado por cerca de 3 a 4 meses.",
+      "tipo": "lancamento",
+      "escopo": "nacional",
+      "confiabilidade": "confirmado",
+      "plataformas": ["PC"],
+      "tags": ["indie-brasileiro", "sandbox", "acesso-antecipado"],
+      "dataFato": "2026-11-24",
+      "janelaEstendida": true,
+      "fonte": { "nome": "Steam", "url": "https://store.steampowered.com/app/5513420/CLT/", "dominio": "store.steampowered.com" },
+      "fontesSecundarias": [
+        { "nome": "Indie Game Brazil", "url": "https://indiegamebrazil.com/cinco-indies-brasileiros-lancam-novembro-2026/", "dominio": "indiegamebrazil.com" }
+      ],
+      "nota": 4.8,
+      "justificativa": "Lançamento indie curioso, mas fora do pico da janela de 48h e com repercussão ainda limitada.",
+      "pesquisador": "radar-empresas-nacionais"
+    }
+  ],
+  "descartados": []
+}
